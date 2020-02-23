@@ -1,0 +1,21 @@
+North Korea 'prodding for US WEAKNESSES' as diplomatic talks with Seoul resume
+https://www.express.co.uk//news/world/902763/North-Korea-news-World-War-3-US-Donald-Trump-Kim-Jong-un-South-Korea-Olympics-video
+ 14:36, Wed, Jan 10, 2018 
+   North Korea has recently reopened communications with its neighbour is Seoul after years of diplomatic silence.Former Barack Obama aide Michael Fuchs warned Kim Jong-un could be using the talks to find "weaknesses" in the long-established partnership between South Korea and the United States.He said: "I think what we are seeing of Kim Jong-un reaching out to the South now is actually trying to poke and prod for weakness in the alliance between South Korea and the United States."  GETTYNorth Korea: Experts have warned Kim Jong-un could exploit talks with Seoul to undermine TrumpNorth Korea has been fueling fears on World War 3 within the international community by refusing to shut down nuclear and missile development programmes.But officials from South Korea were allowed to meet counterparts from Pyongyang to discuss a possible truce ahead of the 2018 Winter Olympics.Speaking to Fox News, Mr Fuchs said: "It’s clearly a good development, the North and the South talking, that is good. "Diplomacy is the only way to solve this threat in North Korea. I think President Trump’s comments to date have unfortunately exacerbated the problem.    Astonishing view of snow in North Korea, as seen from China's border Wed, January 10, 2018 Play slideshow  AFP/Getty Images1 of 10A Chinese flag flies by the Yalu river while North Korea's Sakchu county in North Pyongan province is seen from the Chinese border city of Dandong  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     I think what we are seeing of Kim Jong-un reaching out to the South now is actually trying to poke and prod for weaknessMichael FuchsUS President Donald Trump and Kim have been engaged in an escalating battle of words, culminating with Mr Trump's claiming the US has a "more powerful and much bigger" nuclear button.Experts have warned Kim’s decision to send a delegation to talk with Seoul could be an attempt to ease the UN sanctions that have been crippling the rogue nation economically.But despite the warnings, US Vice President Mike Pence said the US will continue to rally the support of the international community to pressure Kim into toning down his aggressive rhetoric.Mr Pence said: “We’re not going to relent until North Korea abandons its nuclear and missile programmes."All the progress we are making in the region, I believe, is a reflection of the strong and resolute leadership the President has been providing and marshalling among our allies. And even marshalling from President Xi Jinping in China."

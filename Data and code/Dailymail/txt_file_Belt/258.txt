@@ -1,0 +1,271 @@
+And the Oscar for the best no-show goes to... Meryl Streep and Greta Gerwig in hysterics as French filmmaker Agnes Varda, 89, sends cardboard cutout to take her place at annual nominees luncheon
+https://www.dailymail.co.uk/tvshowbiz/article-5355873/Meryl-Streep-amused-Agnes-Varda-cutout-Oscars-lunch.html
+ 00:37 BST, 6 February 2018 
+With 21 Oscar nominations under her belt, Meryl Streep has seen it all. But this, it seems, was a first. Not able to make it to the annual all-star Oscars nominees luncheon, French filmmaker Agnes Varda, 89, sent along a collection of cardboard cutouts in her place.And Meryl, 68, was left in a fit of giggles by the cheeky poses of the absent Agnes, who variously hugged a cat, scowled slightly, and made a joke of her petite frame by reaching up to grab her collaborator JR's hat.         And the Oscar for the best no-show goes to! Tickled Meryl Streep in fit of giggles after French filmmaker Agnes Varda, 89, sends cardboard cutout to take her place at annual nominees luncheon in Los Angeles on Monday         I'd rather be home with my cat: Agnes, 89, and JR, 34, are nominated for Best Documentary Feature for the crowd-funded Faces Places, which won the prestigious l'œil d'or at the Cannes Film Festival         Too funny: With 21 Oscar nominations under her belt, Meryl Streep has seen it all. But this, it seems, was a firstAgnes and JR, 34, are nominated for Best Documentary Feature for the crowd-funded Faces Places, which won the prestigious l'œil d'or at the Cannes Film Festival. The film chronicles a road trip in which the two traveled around France in JR's van, meeting ordinary people and telling their stories of small town life. Agnes's cut outs, ably posed by street-artist JR, were the talk of the day as the nominees gathered to congratulate each other during a glamorous lunch at the Beverly Hilton hotel in Beverly Hills.While Belgian-born Agnes was busy elsewhere - attending an event in France - there was no absence of A-list stars on the red carpet.          more videos           1   2   3                   Watch video  Jeremy Meeks and Andreea Sasu stuns on the red carpet at Cannes       Watch video  Stormi interrupts Kylie Jenner promoting her skin care line       Watch video  Blac Chyna opens up and tells all on her plastic surgeries       Watch video  Susanna Reid's mum angrily lambasts Piers Morgan over text on GMB           Watch video  MAFS' Ines Basic shows off her new porcelain veneers       Watch video  Mick Jagger's still got the moves after major heart operation       Watch video  Matilda Brown welcomes baby boy with MKR's Scott Gooding       Watch video  Alessandra Ambrosio wears breathtaking red ensemble at Cannes           Watch video  Isaac Kappy accuses Seth Green and James Gunn being pedophiles       Watch video  'I wanna be as famous as Marilyn Monroe': Gemma Collins in LA       Watch video  Katie Price shows off dazzling teeth during trip to Turkish dentist       Watch video  Elton John and Taron Egerton perform emotional duet at premiere          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-25', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+              She had better things to do: Agnes was attending an awards bash in France, but her collaborator, street-artist JR, made sure she was represented at the all-star Oscars luncheon         Talk of the day: Agnes posed as if she was tweaking JR's hat for one of her many cutouts         She;s a bit wooden: Greta Gerwig stood next to the cardboard Agnes
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Saoirse_Ronan,Meryl_Streep,Margot_Robbie'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ruffle up in Valentino like Meryl Streep
+
+
+
+
+Valentino tiered ruffled dress
+Shop it here at NET-A-PORTER
+
+
+
+Visit site
+
+
+
+Meryl Streep took her place at the Pre-Oscars luncheon in Beverley Hills this week. Naturally it was a star-studded event with everyone from Allison Janney to Margot Robbie in attendance - all up for Oscar nods.
+Meryl looked her usual fabulous self at the event, looking far younger than her years in a ruffled shift dress by Valentino. Its tiered design is pretty glam, while the long sleeves are sophisticated, balancing out the shorter hemline.
+Keen to snap it up? Click right to head to NET-A-PORTER now.
+Alternatively, you can look fancy in a frilled dress by Fashion Union, Ellery, Moon River and more in the carousel below. All will nail the ruffled look Meryl's rocking.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Moon River lace ruffle midi dress at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Fashion Union Tall ruffle high neck dress at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Ellery ruffled shirt dress at Farfetch
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Calvin Klein 205W39NYC dress at MATCHESFASHION.COM
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Edit peplum tiered dress at SSENSE
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (true) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Saoirse_Ronan,Meryl_Streep,Margot_Robbie', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Friends in high places: The back row was the place to be at the Oscars luncheon         Now that's a selfie: JR posed up his stand-in Agnes with a golden Oscar         Red carpet moments: If Agnes couldn't be there, JR made sure she wasn't forgotten WHO IS AGNES VARDA?            Agnes Varda attends the 23rd Lumieres Award Ceremony at Institut du Monde Arabe on February 5, 2018 in Paris, FranceThe talk of the Oscars luncheon on Monday, Agnes Varda was the only female director of the French New Wave.The Belgian-born filmmaker spent much of her working life in the country, and her work was central to the movement.Varda made her feature-length debut in 1955 with La Pointe Courte, a portrait of a small fishing village.She never strayed from her goal of telling humanitarian stories about the French working class, with her Oscar-nominated documentary Faces Places a perfect example of this.Collaborating with the decades-younger JR, better known as a graffiti artist, the veteran director shared the 34-year-old's van as the two made a nostalgia-infused road trip around France's small towns. On Monday, as the mother-of-two's cut-out delighted the Oscars crowd, the real Varda was attending an awards show in France.  Margot Robbie and Allison Janney, both nominated for the film I, Tonya, arrived within minutes of each other. Margot wore a white and black mini dress with strappy black heels and a black Chanel purse while Allison showed off her lovely figure in a fitted black dress and pointy black pumps.Mary J Blige was one of the first on the carpet as she stunned in a white suit. The singer turned actress added a wide belt and knee-high boots. The 47-year-old star has been nominated twice for the film Mudbound: for Best Supporting Actress and Best Original Song.           more videos           1   2   3                   Watch video  Jeremy Meeks and Andreea Sasu stuns on the red carpet at Cannes       Watch video  Stormi interrupts Kylie Jenner promoting her skin care line       Watch video  Blac Chyna opens up and tells all on her plastic surgeries       Watch video  Susanna Reid's mum angrily lambasts Piers Morgan over text on GMB           Watch video  MAFS' Ines Basic shows off her new porcelain veneers       Watch video  Mick Jagger's still got the moves after major heart operation       Watch video  Matilda Brown welcomes baby boy with MKR's Scott Gooding       Watch video  Alessandra Ambrosio wears breathtaking red ensemble at Cannes           Watch video  Isaac Kappy accuses Seth Green and James Gunn being pedophiles       Watch video  'I wanna be as famous as Marilyn Monroe': Gemma Collins in LA       Watch video  Katie Price shows off dazzling teeth during trip to Turkish dentist       Watch video  Elton John and Taron Egerton perform emotional duet at premiere          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-42', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+            The all stars: The celebrities always line up for an annual 'class photo', but Agnes couldn't make it 90TH ACADEMY AWARDS CLASS PHOTO: WHO'S WHO Front Row Left to Right: Mike Meinardus, Evelyn O’Neill, Glen Gauthier, Ziad Doueiri, Katja Benrath, Lou Sheppard, Marco Morabito, Brad Zoern, Scott Neustadter, Laura Checkoway, Kobe Bryant, Ildikó Enyedi, Raphael Saadiq, Paul Denham Austerberry, Josh Lawson, Michael Green, Vanessa Taylor, James Mangold, Richard King and Reed Van Dyk Second Row: Thomas Lennon, Peter Spears, Sidney Wolinsky, Jacob Schuh, Scott Frank, Jan Lachauer, Scott Benza , Darla K. Anderson, Alex Gibson, Gary Rizzo, Daniel Phillips, Laurie Metcalf, Nora Twomey, David Malinowski, Luis Sequiera, Christopher Townsend, Daniel Barrett, Stephen Rosenbaum, Jeff White, Mark Bridges, Tobias Rosen, Ron Bartlett, Emily V. Gordon and Kumail Nanjiani. Third Row: Ru Kuwahata, Jonathan Amos, Douglas Urbanski, Dana Murray, Justin Paul, Richard R. Hoover, Carter Burwell, Matthew Wood, David Heilbroner, Feras Fayyad, Kate Davis, Eli Bush, Paul Machliss, Eric Fellner, Megan Ellison, Richard Jenkins, Ren Klyce, Timothée Chalamet, Ruben Östlund, Shane Vieau, Dan Lausten, Elaine McMillion Sheldon, Kerrin Sheldon, Dave Mullins, Rachel Shenton, Mark Mangini, Anthony Leo and Mark Weingarten. Fourth Row: Michael Semanick, Mike Mulholland, Gabriel Grapperon, Lisa Bruce, Kazahiro Tsuji, Julie Goldman, Nathan Robitaille, Bruno Delbonnel, Victor Caire, Sally Hawkins, Diane Warren, Bryan Fogel, Lee Smith, Kevin Wilson Jr., Arjen Tuiten, Daniel Lupi, Saoirse Ronan, JoAnne Sellar, Nelson Ferreira, Ivan Mactaggart, Emilie Georges, Doug Hemphill, Katie Spencer, Daniel Kaluuya, Dennis Gassner, Lucy Sibbick, Gregg Landaker, Christian Cooke, Graham Broadbent, Max Porter, and Stuart Wilson. Fifth Row: Virgil Williams, Mark Mitten, Frank Stiefel, Lori Forte, Chris Overton, Tom McGrath, Glen Keane, Chris Corbould, John Nelson, Dee Rees, Lee Unkrich, Margot Robbie, Dan Cogan, Paul Thomas Anderson, Hugh Welchman, Gary Oldman, Dan Lemmon, J. Miles Dale, Taura Stinson, Jacqueline Durran, Yance Ford, Willem Dafoe, Allison Janney, Sebastián Lelio, Rachel Morrison, Jordan Peele, Kristen Anderson Lopez, Robert Lopez, Michael H. Weber, Joslyn Barnes, Sean McKittrick, Thomas Lee Wright, Benj Pasek, Dan Sudick and David Parker Sixth Row: Alexandre Desplat, Mary J Blige, Amy Pascal, Gary Fettis, Octavia Spencer, Guillermo del Toro, Ben Morris, Aaron Sorkin, Kristie Macosko Krieger, Jeff Melvin, Hoyt van Hoytema, Andrey Zvyagintsev, Sarah Greenwood, Jason Blum, Chris Nolan, Sam Rockwell, Emma Thomas, Steve James, Joe Letteri, Carlos Saldanha, Meryl Streep, Greta Gerwig, Agnès Varda (cutout), JR, Tatiana S.Riegel, Steven Spielberg, Luca Guadagnino, Ramsey Naito, Julian Slater, Lonnie Lynn, Ron Bartlett, Pete Czernin, and Theo Green.           Class photo: The nominees gathered at the luncheon ahead of the upcoming 90th Academy Awards         Annual event: The annual luncheon was held at The Beverly Hilton Hotel              They made it! Margot Robbie and Allison Janney arrived within minutes of each other at the annual Oscar lunch held at the Beverly Hilton Hotel in Beverly Hills on Monday          more videos           1   2   3                   Watch video  Jeremy Meeks and Andreea Sasu stuns on the red carpet at Cannes       Watch video  Stormi interrupts Kylie Jenner promoting her skin care line       Watch video  Blac Chyna opens up and tells all on her plastic surgeries       Watch video  Susanna Reid's mum angrily lambasts Piers Morgan over text on GMB           Watch video  MAFS' Ines Basic shows off her new porcelain veneers       Watch video  Mick Jagger's still got the moves after major heart operation       Watch video  Matilda Brown welcomes baby boy with MKR's Scott Gooding       Watch video  Alessandra Ambrosio wears breathtaking red ensemble at Cannes           Watch video  Isaac Kappy accuses Seth Green and James Gunn being pedophiles       Watch video  'I wanna be as famous as Marilyn Monroe': Gemma Collins in LA       Watch video  Katie Price shows off dazzling teeth during trip to Turkish dentist       Watch video  Elton John and Taron Egerton perform emotional duet at premiere          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-55', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+              Pretty lady: Mark J Blige looked lovely in white as she posed away              Double the rewards: She has been nominated twice for Mudbound: for Best Supporting Actress and Best Original Song.Also there was Best Actor nominee Gary Oldman, who was dapper in a dark suit.The 59-year-old actor has been nominated for his performance in the drama Darkest Hour, in which he plays Winston Churchill (Oldman).In the film, Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany.Best Director nominee Greta Gerwig looked lovely in a pencil dress with checked pattern while star of her movie Ladybird, Saoirse Ronan, looked stylish in an orange spaghetti-strap dress with high heels.          more videos           1   2   3                   Watch video  Jeremy Meeks and Andreea Sasu stuns on the red carpet at Cannes       Watch video  Stormi interrupts Kylie Jenner promoting her skin care line       Watch video  Blac Chyna opens up and tells all on her plastic surgeries       Watch video  Susanna Reid's mum angrily lambasts Piers Morgan over text on GMB           Watch video  MAFS' Ines Basic shows off her new porcelain veneers       Watch video  Mick Jagger's still got the moves after major heart operation       Watch video  Matilda Brown welcomes baby boy with MKR's Scott Gooding       Watch video  Alessandra Ambrosio wears breathtaking red ensemble at Cannes           Watch video  Isaac Kappy accuses Seth Green and James Gunn being pedophiles       Watch video  'I wanna be as famous as Marilyn Monroe': Gemma Collins in LA       Watch video  Katie Price shows off dazzling teeth during trip to Turkish dentist       Watch video  Elton John and Taron Egerton perform emotional duet at premiere          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-62', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+                   Looking elegant: Greta Gerwig, left, was there for her Best Director nod for her work in Lady Bird. She was joined by her star, Saoirse Ronan, right         Understated chic: Lead Actress nominee Sally Hawkins opted for a polka-dot two-piece outfit              Celebration: Also there was Best Actor nominee Gary Oldman, who was dapper in a dark suit, and Molly's Game director Aaron SorkinThe nominations were announced in January.The Shape Of Water led the nominations with 13 nods as this year's contenders were announced in Los Angeles.They are closely followed by Dunkirk and Three Billboards Outside Ebbing, Missouri.There were several surprise nominations and snubs.Christopher Plummer, 88, the actor who replaced disgraced Kevin Spacey at the very last minute, received a Best Supporting Actor nomination for his part in All The Money In The World.               Happy to be there: Richards Jenkins also made the event; he is nominated for his work in The Shape Of Water as is the movie's director Guillermo del Toro (right)         So chic for her lunch: Octavia Spencer wore a pretty black dress and sparkling jacket; she has been nominated for her work in The Shape Of Water               Good suits: Kimberly Peirce wore lather slacks and a blazer while Daniel Kaluuya had on a brown suit with matching shoes         In the running: Laurie Metcalf looked lovely in a black and gold gown. She is nominated for Best Supporting Actress in Ladybird         So close: Actors Patton Oswalt (L) and Meredith Salenger attend the luncheon side by sideOther shock names included, Blige who received her first Oscar nomination in the Best Supporting Actress category, and Octavia Spencer who became the first black actress to receive multiple nods ahead of the 90th annual awards. Tiffany Haddish and Andy Serkis revealed the full list live from the Academy’s Samuel Goldwyn Theater.The 90th annual Academy Awards will be held live from Los Angeles' Dolby Theater on March 4, 2018 and hosted by talk show host Jimmy Kimmel.Snubs included Angelina Jolie's Cambodian drama First They Killed My Father in the Best Foreign Language Film category and directors Steven Spielberg and Ridley Scott were also missed when the 2018 nominations were announced.         Sophisticated chic! Laura Dern rocked a leather pencil skirt and cream blouse for the event         Catching up: Dern posed alongside Call Me By Your Name star Timothee Chalamet inside the Beverly Hilton Hotel              Hugs! Janney was super excited to meet basketball superstar Kobe Bryant                     What a line-up: Steven Spielberg (left) came along despite The Post being snubbed. Best Supporting Actor nominee Sam Rockwell arrived in a grey suit while Get Out director Jordan Peele looked sharp in navy. Get Out is nominated for multiple awardsTying the record set by Titanic in 1998, 13 nominations for The Shape of Water means the fantasy drama has surpassed awards season buzz.The film was recognised in categories including Original Screenplay, Original Score, Cinematography, Best Supporting Actress and Best Actress, among others.Set in the 1950s, the film follows a strange and beautiful relationship between an amphibious creature and a local janitor.              Talent: Songwriter Diane Warren (left) is nominated for Best Original Song for Stand Up For Something from the movie Marshall performed by Common (right)         Supporting actor: Willem Dafoe was nominated for Best Supporting Actor for his work in The Florida Project 2018 OSCAR NOMINATIONS    Best Picture:“Call Me by Your Name”“Darkest Hour”“Dunkirk”“Get Out”“Lady Bird”“Phantom Thread”“The Post”“The Shape of Water”“Three Billboards Outside Ebbing, Missouri” Lead Actor:Timothée Chalamet, “Call Me by Your Name”Daniel Day-Lewis, “Phantom Thread”Daniel Kaluuya, “Get Out”Gary Oldman, “Darkest Hour”Denzel Washington, “Roman J. Israel, Esq.” Lead Actress:Sally Hawkins, “The Shape of Water”Frances McDormand, “Three Billboards Outside Ebbing, Missouri”Margot Robbie, “I, Tonya”Saoirse Ronan, “Lady Bird”Meryl Streep, “The Post” Supporting Actor:Willem Dafoe, “The Florida Project”Woody Harrelson, “Three Billboards Outside Ebbing, Missouri”Richard Jenkins, “The Shape of Water”Christopher Plummer, “All the Money in the World”Sam Rockwell, “Three Billboards Outside Ebbing, Missouri” Supporting Actress:Mary J. Blige, “Mudbound”Allison Janney, “I, Tonya”Lesley Manville, “Phantom Thread”Laurie Metcalf, “Lady Bird”Octavia Spencer, “The Shape of Water” Director:“Dunkirk,” Christopher Nolan“Get Out,” Jordan Peele“Lady Bird,” Greta Gerwig“Phantom Thread,” Paul Thomas Anderson“The Shape of Water,” Guillermo del Toro Animated Feature:“The Boss Baby”“The Breadwinner”“Coco”“Ferdinand”“Loving Vincent”Animated Short:“DeKalb Elementary”“The Eleven O’Clock”“My Nephew Emmett”“The Silent Child”“Watu Wote/All of Us” Adapted Screenplay:“Call Me by Your Name,” James Ivory“The Disaster Artist,” Scott Neustadter & Michael H. Weber“Logan,” Scott Frank & James Mangold and Michael Green“Molly’s Game,” Aaron Sorkin“Mudbound,” Virgil Williams and Dee Rees Original Screenplay:“The Big Sick,” Emily V. Gordon & Kumail Nanjiani“Get Out,” Jordan Peele“Lady Bird,” Greta Gerwig“The Shape of Water,” Guillermo del Toro, Vanessa Taylor“Three Billboards Outside Ebbing, Missouri,” Martin McDonagh Cinematography:“Blade Runner 2049,” Roger Deakins“Darkest Hour,” Bruno Delbonnel“Dunkirk,” Hoyte van Hoytema“Mudbound,” Rachel Morrison“The Shape of Water,” Dan Laustsen Best Documentary Feature:“Abacus: Small Enough to Jail”“Faces Places”“Icarus”“Last Men in Aleppo”“Strong Island” Best Documentary Short Subject:“Edith+Eddie”“Heaven is a Traffic Jam on the 405”“Heroin(e)”“Knife Skills”“Traffic Stop” Best Live Action Short Film:“Dear Basketball”“Garden Party”“Lou”“Negative Space”“Revolting Rhymes”Best Foreign Language Film:“A Fantastic Woman” (Chile)“The Insult” (Lebanon)“Loveless” (Russia)“On Body and Soul (Hungary)“The Square” (Sweden) Film Editing:“Baby Driver,” Jonathan Amos, Paul Machliss“Dunkirk,” Lee Smith“I, Tonya,” Tatiana S. Riegel“The Shape of Water,” Sidney Wolinsky“Three Billboards Outside Ebbing, Missouri,” Jon Gregory Sound Editing:“Baby Driver,” Julian Slater“Blade Runner 2049,” Mark Mangini, Theo Green“Dunkirk,” Alex Gibson, Richard King“The Shape of Water,” Nathan Robitaille“Star Wars: The Last Jedi,” Ren Klyce, Matthew Wood Sound Mixing:“Baby Driver,” Mary H. Ellis, Julian Slater, Tim Cavagin“Blade Runner 2049,” Mac Ruth, Ron Bartlett, Doug Hephill“Dunkirk,” Mark Weingarten, Gregg Landaker, Gary A. Rizzo“The Shape of Water,” Glen Gauthier, Christian Cooke, Brad Zoern“Star Wars: The Last Jedi,” Stuart Wilson, Ren Klyce, David Parker, Michael Semanick Production Design:“Beauty and the Beast”“Blade Runner 2049″“Darkest Hour”“Dunkirk”“The Shape of Water” Original Score:“Dunkirk,” Hans Zimmer“Phantom Thread,” Jonny Greenwood“The Shape of Water,” Alexandre Desplat“Star Wars: The Last Jedi,” John Williams“Three Billboards Outside Ebbing, Missouri,” Carter Burwell Original Song:“Mighty River” from “Mudbound,” Mary J. Blige“Mystery of Love” from “Call Me by Your Name,” Sufjan Stevens“Remember Me” from “Coco,” Kristen Anderson-Lopez, Robert Lopez“Stand Up for Something” from “Marshall,” Diane Warren, Common“This Is Me” from “The Greatest Showman,” Benj Pasek, Justin Paul Makeup and Hair:“Darkest Hour”“Victoria and Abdul”“Wonder” Costume Design:“Beauty and the Beast”“Darkest Hour“Phantom Thread”“The Shape of Water”“Victoria and Abdul” Visual Effects:“Blade Runner 2049”“Guardians of the Galaxy Vol. 2“Kong: Skull Island”“Star Wars: The Last Jedi”“War for the Planet of the Apes”   

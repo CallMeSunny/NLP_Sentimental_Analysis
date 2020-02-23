@@ -1,0 +1,225 @@
+Miley Cyrus dons plunging tuxedo jacket as she cosies up to supportive beau Liam Hemsworth after SNL performance
+https://www.dailymail.co.uk/tvshowbiz/article-6500841/Miley-Cyrus-cosies-supportive-beau-Liam-Hemsworth-SNL.html
+ 09:56 BST, 16 December 2018 
+They rekindled their romance in 2016 after three years apart.And Miley Cyrus and Liam Hemsworth look as loved up as ever as they arrived at the Saturday Night Live afterparty in New York on Sunday after the starlet performed on the show.Miley, real name Destiny Hope, 26, covered up in a black blazer and trousers and was spotted braless again after her risque performance on the show.         Happiness: Miley Cyrus and Liam Hemsworth look as loved up as ever as they arrived at the Saturday Night Live afterparty in New York on Sunday after the starlet performed on the showShe wore her long tresses in a side parting and accentuated her features with plenty of bronzer as she held on tight to her partner's hand.   RELATED ARTICLES  Previous 1 2 Next       Miley Cyrus rocks trench with comically large belt as she...    Miley Cyrus nearly fails to recognize her own song Party In...    Miley Cyrus indirectly confirms she will appear in Black...    Miley Cyrus' older sister Brandi says Wrecking Ball singer...      Miley Cyrus narrowly avoids nip slip while going braless in...    
+
+Share this article
+Share
+1.5k shares
+
+ Liam, 28, went for a casual look in a blue corduroy jacket over a white t-shirt with black jeans. He hid his locks under a black cap but showed off his perfectly groomed beard.         Brave: Miley, real name Destiny Hope, 26, covered up in a black blazer and trousers and was spotted braless again after her risque performance on the show              Stunning: She wore her long tresses in a side parting and accentuated her features with plenty of bronzer as she held on tight to her partner's hand         Under the radar: Liam, 28, went for a casual look in a blue corduroy jacket over a white t-shirt with black jeans                Happier than ever: The pair are back on track after a three-year split which saw them rekindle their romance in 2016         Smitten: Miley and Liam looked closer than ever as they headed to the SNL after partyEarlier in the night Miley narrowly avoided a nip slip during her appearance on Saturday Night Live. The singer, who went braless, left little to the imagination in her shimmery, silver tracksuit while on stage with Mark Ronson.   To Twitter's surprise, the starlet was able to perform her new single, Nothing Breaks Like A Heart, without baring all.          Friendly: Matt Damon was also seen after filming SNL and he signed memorabilia for fans              In high spirits: The actor beamed as he met with fans to sign things for them         Inundated: Matt was swarmed by fans who were desperate for an autograph         Great job! Mark Ronson was also seen leaving the studio after performing with Miley         Striking: Leslie Jones was sure to stand out in her bright red co-ordinated tracksuit and hat         Peace! Mikey Day was seen heading to the party with a female friend         Baring it all: Miley narrowly avoided a nip slip during her appearance on Saturday Night Live this week
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Miley_Cyrus'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make like Miley in a metallic Gucci jacket
+
+
+
+
+Gucci laminated jersey jacket
+Shop the look!
+
+
+
+Visit site
+
+
+
+We can always rely on Miley Cyrus to try something different when it comes to style. Just check out her recent look for a performance on Saturday Night Live!
+The pop star looked sensational as she sparkled under the spotlight in this one-of-a-kind Gucci tracksuit. Featuring the fashion house's iconic GG motif, and a sporty side stripe, there's no denying that this is a luxe buy. 
+It's from Gucci's menswear line, so falls in a coveted, boyfriend-style silhouette - so on trend! Click right to bag yours now, then find the matching joggers in the carousel below. 
+Or, grab Miley's metallic look for less with a pick from our edit below. These iridescent beauties really bring a new meaning to the idea of sports luxe!
+Try Dr Denim for our most affordable buy, or Ralph Lauren for a matching two-piece! You'll be turning heads for all the right reasons in these beauties.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Gucci laminated track pant
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Paco Rabanne bomber at Yoox
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Ralph Lauren metallic jacket
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Dr Denim silver jacket at Asos (now reduced to £40)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Miley_Cyrus', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Busty: The 26-year-old singer, who went braless, left little to the imagination in her shimmery, silver tracksuit while on stage with Mark Ronson'Oops...someone failed to tell Miley Cyrus she forgot her shirt,' one Twitter user wrote. Another said: 'I have never trusted anything in my life as much as Miley Cyrus is trusting that double-sided tape.'  But her busty ensemble kept the audience captivated, at least according to one viewer. 'Never paid such close attention to a Miley Cyrus performance in my life,' they tweeted.            Close call: To Twitter's surprise, Cyrus was able to perform her new single Nothing Breaks Like A Heart without a wardrobe malfunction         'I have never trusted anything in my life as much as Miley Cyrus is trusting that double-sided tape,' one Twitter user said Miley and Mark dropped Nothing Breaks Like A Heart just weeks ago, and it is currently sitting at #67 on Billboard's Hot 100 chart.  The duo's music video, which features Miley in a high-speed car chase, has more than 22 millions views on YouTube. Meanwhile Mark is best known for writing Bruno Mars' hit single Uptown Funk in 2014.           Dynamic duo: Miley and Mark dropped Nothing Breaks Like A Heart just weeks ago, and it is currently sitting at #67 on Billboards Hot 100 chart         Too close? Miley and Mark got extremely close during their performance despite her nearly nude torso While chatting with Ryan Seacrest, Cyrus gushed about Ronson and his musical talents. 'I think what Mark does so well is take a song that is classic and he just makes these songs over in such a modern, cool way that sounds like something you've never heard before but reminds you of something that you've loved,' she said. 'I think that's one of this many talents.'           Chart-topping hit: The duo's music video already has more than 22 millions views on YouTube         Pro collaborator: Ronson is best known for writing Bruno Mars' hit single Uptown Funk in 2014

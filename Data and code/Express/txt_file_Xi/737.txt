@@ -1,0 +1,21 @@
+'Trump's emotional venting will not help' China in patronising rebuke over North Korea
+https://www.express.co.uk//news/world/835852/China-US-North-Korea-donald-Trump-missile
+ 00:00, Tue, Aug 1, 2017 
+  GettyThe Xinhua News Agency hit out at Donald Trump over North KoreaThe US President's "emotional venting" cannot guide policy to solve the nuclear issues, an editorial on the Xinhua news agency website, the Chinese Government's mouthpiece, said.Following Pyongyang's firing of an intercontinental ballistic missile (ICBM) on Friday, which could reach "every major US city", Mr Trump took to his favourite method of communication, Twitter. Related articles   Russia and China lash out at USA as North Korea crisis deepens   Underwater warfare? North Korea MYSTERY submarine activity after ICBM   Trump is quite a personality, and he likes to tweetXinhuaHe tweeted: "I am very disappointed in China."Our foolish past leaders have allowed them to make hundreds of billions of dollars a year in trade, yet they do NOTHING for us with North Korea, just talk. North Korea v USA explosive latest pictures Wed, September 20, 2017Images depict how tensions have escalated between North Korea and the United States. Kim Jong-Un boasted of North Korea's ability to strike any target in the US after a second ICBM test that weapons experts said could even bring New York into range - in a potent challenge to President Donald Trump Play slideshow  AFP/Getty Images1 of 45North Korea's intercontinental ballistic missile (ICBM), Hwasong-14 being lauched at an undisclosed place in North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    "We will no longer allow this to continue."China could easily solve this problem!"  GettyNorth Korea fired a ballistic missile on FridayIn retaliation, Xinhua wrote: "Trump is quite a personality, and he likes to tweet."But emotional venting cannot become a guiding policy for solving the nuclear issue on the peninsula."Taking out this outrage on China is clearly finding the wrong target.  GettyMr Trump and Mr Xi have not always seen eye to eye"What the peninsula needs is immediately stamping out the fire, not adding kindling or, even worse, pouring oil on the flames."The editorial called for the US to come up with a more practical solution, while warning Mr Trump to not shirk his responsibility over the issue.It added: "If you want to solve the nuclear issue on the peninsula, the parties concerned must come up with practical actions and sincerity, not shirk responsibility."

@@ -1,0 +1,224 @@
+Cate Blanchett exudes elegance in chic emerald gown as she poses up a storm at The House With The Clock In Its Walls premiere
+https://www.dailymail.co.uk/tvshowbiz/article-6135861/Cate-Blanchett-dons-emerald-gown-House-Clock-Walls-premiere.html
+ 19:18 BST, 5 September 2018 
+She's the Hollywood acting heavyweight with two Oscar gongs to her name. And Cate Blanchett proved her style credentials on Wednesday night as she attended the world premiere of The House With The Clock In Its Walls at Westfield White City in London.The 49-year-old Australian actress turned heads in a green Victoriana-inspired ruffle dress with a chic Gucci belt at the star-studded event.          Chic: Cate Blanchett exuded elegance in a chic emerald gown as she posed up a storm at The House With The Clock In Its Walls premiere in London on WednesdayThe Notes On A Scandal actress certainly took centre-stage in her dress, which featured a demure ankle-length hemline and a chic pleated skirt. Injecting a dose of sparkle into the look, she boosted her height with a pair of sparkly ankle-strap platforms.    RELATED ARTICLES  Previous 1 Next       Batman returns: Tired-looking Ben Affleck sports a beard as...    Lucy Mecklenburgh cuts a glum figure in white co-ords as she...    Khloe Kardashian calls Tristan Thompson marriage rumours...    Jeff Goldblum draws a crowd as he surprises London commuters...    
+
+Share this article
+Share
+24 shares
+
+ Styling her golden tresses in Old Hollywood style retro waves, she framed her features in a slick of nude lipstick. Cate was joined by Love Island star, Megan Barton-Hanson, who joined her reality star boyfriend Wes Nelson.          Looking good: The Notes On A Scandal actress certainly took centre-stage in her dress, which featured a demure ankle-length hemline and a chic pleated skirt         Killer footwear: Injecting a dose of sparkle into the look, she boosted her height with a pair of sparkly ankle-strap platforms         Two's company: She later mingled with a beaming Jack Black 
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Cate_Blanchett'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go green in a dress by Gucci this season
+
+
+
+
+Gucci Resort 2019
+Shop the current collection here...
+
+
+
+Visit site
+
+
+
+If you thought all the film premieres were currently taking place at the Venice Film Festival, then think again.
+Yes the romantic Italian city has stars like Tilda Swinton and Natalie Portman but London's Westfield shopping centre has Cate Blanchett and Jack Black at the first screening of their movie The House With A Clock In Its Walls. And we're sure the Hollywood A-listers are thrilled to be here not there...
+Either way Cate looks divine in a gorgeous green dress from Gucci's Resort 2019 collection. What's not to love about this elegant creation? The colour is beautiful, the pleating from the waist so chic and we're crazy about the ruffle detail too.
+So it's just a shame it won't be available to buy for a while. Until it is, why not browse the green midis we've found in our edit below? Ghost's take is lovely and will look fantastic styled with a pair of high heel sandals.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asos design green midi dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Marks and Spencer Limited Edition green midi dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Ghost green midi dress at John Lewis
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+NA-KD green midi dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Cate_Blanchett', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Pucker up: Jack and Cate leaned towards each other as they pretended to pucker up          Cosy: Cate shared a hug with director Eli Roth as they attended the premiere The 24-year-old Love Island star posed up a storm at the event as she ensured that the hateful comments she had referred to earlier were pushed to the back of her mind. Oozing glamour for the outing, Megan donned a Victoriana style lace gown with a high neckline and collared sleeves. Clinging to her hourglass curves, the garment featured a thigh-skimming hemline that offered a look at her tanned and toned pins, whilst a pair of gold barely-there heels aided in boosting her petite frame.          Leading stars: The film's main stars couldn't resist posing for a sweet picture together          Talented cast: Cate, Owen Vaccaro and Jack Black joined director Eli Roth for a star-studded photo also          Question time: Host Becca Dudley took centre stage with Cate for a talk before the film premiere Megan finished off the look by styling her glossy golden locks in a chic up-do, whilst bearing a slick of glossy red lipstick. Also attending the The House with a Clock in Its Walls premiere were the lead stars Jack Black and Cate Blanchett - who looked radiant in an emerald green dress.The fantasy film, directed by Eli Roth, and based on the 1973 novel of the same name by John Bellairs, will be released in UK and US cinemas on September 21. The House with a Clock in Its Walls tells the story of a young orphan who aids his magical uncle in locating a clock with the power to bring about the end of the world.          Cute couple: Also on the green carpet was Megan Barton-Hanson with his boyfriend Wes Nelson              Lovely in lace: Oozing glamour for the outing, Megan donned a Victoriana style lace gown with a high neckline and collared sleevesEarlier that day, Megan appeared on Good Morning Britain while wearing a slogan T-shirt which condemns 'slut-shaming.'Talking to Love Island's harshest critic, Piers Morgan, 53, alongside Wes, 20, Megan's yellow top said: 'Stop valuing women based on their sexual history’.  She said of women being open with their sexuality: 'I think it's really unfair and an old fashioned way to look at it. It's frowned upon its 2018, it shouldn't be a put a down.'         Leggy lady! Clinging to her hourglass curves, the garment featured a thigh-skimming hemline that offered a look at her tanned and toned pins and donned a pair of gold barely-there heels         Blonde bombshell: Megan finished off the look by styling her glossy golden locks in a chic up-do, whilst bearing a slick of glossy red lipstick         Suited and booted: Wes Nelson also looked dapper for the event in a navy pinstriped suit       'I slept with guys on TV and people think I should be ashamed of it. I'm not. If a guy done it... Adam [Collard] did it.'Megan previously spoke about her decision to become a stripper, saying: 'I did it for a year - I got in, I got out, I earned my money, I didn’t hurt anyone, I don’t see why it’s so negative. 'Men enjoyed it, I enjoyed it, couples came in… everyone is happy!’Now happy with Wes, the couple admitted they feel like they are stronger than ever, with Megan saying she wouldn't have chosen him a few years ago.         Not-so mellow yellow: Megan and Wes' Love Island co-star Samira Mighty was also at the premiere and donned an eye-catching gold bustier with a shaggy cardigan               Suited and booted: Jack Black donned a fitted grey suit as he struck a variety of poses She said: 'It's all worked out for the better. If I'd have seen his selfies, seen that he was. so, I would have run a mile if I had seen his profile, [online].'Most definitely, I don't think either of us thought we would find love. [Love Island] is the most idyllic place to find love, it's not traditional.'There's all the camera, producers, but there's no social media, so it’s probably the most organic.'         Sharp: Star of the film Owen Vaccaro donned a black suit and bow tie          Tangerine dream: Rebecca Dudley looked fabulous in a bright orange jumpsuit 

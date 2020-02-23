@@ -1,0 +1,38 @@
+Evacuations planned by Japan as North Korea vows to 'mercilessly ravage' America
+https://www.express.co.uk//news/world/791999/North-Korea-America-tensions-Japan-evacuations-amid-threats
+ 14:42, Fri, Apr 14, 2017 
+   North Korea is raising the stakes in its war of words with the US and its allies as the country pushes ahead with its plans to lauch a six missile test.And Japan has said it will help South Korea to evacuate 60,000 residents from the country as the crisis in the region continues.The United States has warned that a policy of "strategic patience" is over and is now sending Vice President Mike Pence to South Korea on Sunday.Mr Pence will visit the country for 10 days as emergency management plans get underway amid fears Kim Jong Un is plotting to start a war.  GETTYRotund despot Kim Jong Un is ready for war  Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    And China which has cancelled flights to Pyongyang says the angry rhetoric needs to be stopped from reaching an "irreversible and unmanageable stage" as a US aircraft carrier group headed to the region.Japan's National Security Council discussed how to evacuate its nearly 60,000 citizens from South Korea, a government official has confirmed.Now North Korea has waded into the debate once more claiming the United States is bringing "huge nuclear strategic assets" to the Korean peninsula. Related articles   ‘Peace is THREATENED’ UK blasts Kim Jong UN over nuclear    Britain vows to 'take action' over North Korea's WMD threat    Japan is planning to send military aircraft and ships to assist in the evacuation if the South Korean government agreed according to reports which followed the NSC meeting. The country is also preparing with an onslaught of North Korean refugees fearing that the country will also flood them with spies and agents.Tension has risen since the U.S. Navy fired 59 Tomahawk missiles at a Syrian airfield last week in response to a deadly gas attack.US President Donald Trump's plans for North Korea, which has conducted missile and nuclear tests in defiance of UN and unilateral sanctions, are as yet unclear but he has offered a show of support to the region which hosts tens of thousands of American soliders.   GETTYDictator Kim gets his hands dirty as he digs in the mud in PyongyangThe United States has warned that its policy of "strategic patience" is over.Japanese Chief Cabinet Secretary Yoshihide Suga told a news conference that the government was always collecting and analysing information about North Korea's moves but refrained from commenting on details.He said: "At present, we are in close contact with the United States and South Korea and in addition to urging (the North) to refrain from provocative actions and observe relevant UN  Security Council resolutions, we will take all necessary steps to protect our people's lives and assets."Japan began working on plans to respond to a potential crisis on the Korean peninsula in February, after Prime Minister Shinzo Abe met Trump at a summit in the United States, Kyodo news agency said.The country has also admitted that the issue of North Korea is beginning to cause concern for members of the public.  Photos from North Korea during celebration of the birth of late leader Kim Il Sung Wed, April 19, 2017Covering a North Korean military parade is an emotional roller coaster, a visual and sensory barrage of socialist-realist propaganda Play slideshow  AFP/Getty Images1 of 23North Korean leader Kim Jong-Un (R) attending a military parade in Pyongyang marking the 105th anniversary of the birth of late North Korean leader Kim Il-Sung  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Tensions are reaching boiling point ahead of tomorrow's "Day of the Sun", the 105th anniversary of the birth of state founder Kim Il Sung.But that is not going down well with President Trump who has said North Korea was a problem that "will be taken care of" and he believed Chinese President Xi Jinping would "work very hard" to help resolve it.That in return has sparked fury in the isolated state with  the North's KCNA news agency issuing a direct threat.It reported: "The Trump administration, which made a surprise guided cruise-missile strike on Syria on April 6, has entered the path of open threat and blackmail."The army and people of the DPRK will as ever courageously counter those who encroach upon the dignity and sovereignty of the DPRK and will always mercilessly ravage all provocative options of the U.S. with Korean-style toughest counteraction." 

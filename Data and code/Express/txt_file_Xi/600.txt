@@ -1,0 +1,21 @@
+Melania Trump makes fashion FAIL in bizarre fur-trimmed dress with Donald Trump in Beijing
+https://www.express.co.uk//life-style/style/877511/melania-trump-dress-donald-news-latest-pictures-today-beijing
+ 14:27, Thu, Nov 9, 2017 
+  REUTERSMelania Trump made a rare fashion fail in a pink fur trimmed dressMelania Trump, 47, chose a heavily patterned black dress for a state dinner with Donald Trump, China's President Xi Jinping and first lady Peng Liyuan at the Great Hall of the People.In an obvious nod to the country, Melania’s dress was heavily embroidered with a Chinese-style design.The shape of the dress was also reminiscent of traditional Chinese clothing.But is was a rare fashion mis-step for the First Lady, who chose a dress with a bizarre fur-trim on the sleeves. Related articles   Melania Trump DROWNS her slim frame in oversized dress in Beijing   Melania Trump flashes generous hint of chest  Taking the pink theme further, Melania matched her shoes to the colour, wearing powder pink suede courtsThe pink colour of the fur echoed throughout the pattern of the dress.Taking the pink theme further, Melania matched her shoes to the colour, wearing powder pink suede courts.As with her outfit today, Melania did not wear any jewellery, instead letting the print of her dress take over.She also kept her hair and make-up the same as earlier in the day.  Getty ImagesMelania Trump wore another heaby black gown for dinner in Beijing, China, with Donald Trump Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      Getty ImagesMelania Trump could be seen toasting wine with Donald Trump and Chinese officialsEarlier today, Melania drowned her figure in a black maxi dress. The item came up to her neck and past her feet on the floor.A heavy white floral brocade print featured down the middle and on the sleeves of the dress.Smaller, more delicate pink flowers could also be seen decorating the dress.As the print was so striking, Melania opted not to wear jewellery with her outfit.  Getty ImagesMelania Trump joined Donald Trump, China's President Xi Jinping and first lady Peng Liyuan at dinnerShe kept her hair in a curled blow-dry, and her make-up sleek and simple.The black maxi is in stark contrast to other outfits the First Lady has worn on this trip.Melania wore a see-through navy dress in a lace net design with appliqué details to attend a dinner with South Korea's President Moon Jae-In at the presidential Blue House in Seoul.She wore a flesh-coloured slip under the gown to preserve her modesty.

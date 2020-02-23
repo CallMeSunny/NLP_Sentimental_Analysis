@@ -1,0 +1,246 @@
+Madonna, 60, commands attention in a bondage-style bodysuit, fishnet tights and an eye-patch as she arrives at MTV Q&A event clutching a riding crop... to mark world premiere of her new video
+https://www.dailymail.co.uk/tvshowbiz/article-6956633/Madonna-commands-attention-bondage-style-bodysuit.html
+ 21:39 BST, 24 April 2019 
+She is never afraid to make a daring statement when it comes to her fashion choices.And Madonna certainly didn't hold back, as she arrived at her MTV Q&A event wearing a risque bondage-style ensemble on Wednesday evening in London, to mark the launch of the world premiere of her new music video Medellín.The 60-year-old pop icon showcased her age-defying physique in a lace and leather bodysuit which was cinched around her waist with a gold belt.         Racy: Madonna certainly didn't hold back, as she arrived at her MTV Q&A event wearing a risque bondage-style ensemble on Wednesday evening in LondonThe Vogue hitmaker covered her toned pins in a pair of fishnet tights, which adding extra height to her statuesque frame with a pair of strappy black heels.   RELATED ARTICLES  Previous 1 Next       Miley Cyrus goes TOPLESS while Emily Ratajkowski transforms...    Madonna, 60, is a bride from the Wild West as she cosies up...    Madonna, 60, transforms into a cigar-smoking, cowboy bride...    Madonna leaves Kabbalah Sabbath service with her daughters...    
+
+Share this article
+Share
+1.5k shares
+
+ Madonna heavily accessorised her look with a series of glitzy necklaces and rings, and most noticeably a black and red glitzy eye patch complete with a glittering red 'x'.In her glove covered hand, Madonna clutched a leather riding crop as she made her way into the live event.          Wild: The 60-year-old pop icon showcased her age-defying physique in a lace and leather bodysuit which was cinched around her waist with a gold belt         Sensationa: The Vogue hitmaker covered her toned pins in a pair of fishnet tights, which adding extra height to her statuesque frame with a pair of strappy black heels
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Madonna'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Express yourself in a ruffle mini like Madonna
+
+
+
+
+Kristian Aadnevik pleated skirt
+Click to browse the collection
+
+
+
+Buy now
+
+
+
+What with Madonna being Madonna she was hardly going to turn up at an MTV event looking all Mother of the Bride.
+Queen Madge, who turned 60 last year, proved age is just a number as she was spotted in London last night, wearing what can only be described as the most dominatrix outfit we've seen...well...ever (we've lived a sheltered life). 
+Her stylist Eyob Yohannes, who pulled the ensemble together, opted for labels labels labels with a custom blazer by Keko Hainswheeler and Gregory Kara, a Burberry wool trench and Miu Miu shoes.
+And whilst we're seriously coveting that eyepatch (Gabrielle, ever the style icon), it's her mini skirt by Kristian Aadnevik that's really caught our attention.
+So short we can almost see what Madonna had for breakfast, we're loving the wrap detail and leather ruffles.
+Madonna's skirt will be available in boutiques, so why not get into the groove with our skirt edit below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+                                                    £1450
+                                                
+
+
+
+
+Burberry wool trench
+
+
+Buy now
+
+
+
+
+
+
+
+
+                                                    £625
+                                                
+
+
+
+
+Miu Miu at NET-A-PORTER ruffle skirt
+
+
+Buy now
+
+
+
+
+
+
+
+
+                                                    £190
+                                                
+
+
+
+
+See By Chloe at Matches taffeta skirt
+
+
+Buy now
+
+
+
+
+
+
+
+
+                                                    £7.99
+                                                
+
+
+
+
+SheIn ruffle skirt
+
+
+Buy now
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Madonna', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The star covered her racy look with a black mac, which she no doubt removed once inside the event to offer to full impact of her showstopping look.She opted for a heavy coat of make-up including a deep rogue lip, while styling her bright blonde tresses in tight, glamorous curls. During the evening the video for Madonna's Medellín video will be premiered, hot on the heels of the news that she is releasing a new album.         Edgy: Madonna heavily accessorised her look with a series of glitzy necklaces and rings, and most noticeably a black and red glitzy eye patch complete with a glittering red 'x'         Bondage-style: In her glove covered hand, Madonna clutched a leather riding crop as she made her way into the live eventMadonna is the world's biggest music icon, with a chart-topping career spanning more than three decades.So naturally Madonna's fans were delighted at the prospect of new music, with the wait now over as she released her new single Medellin with Latin superstar Maluma.The legend's new track comes from her upcoming 14th studio album Madame X - set for release on June 14, 2019.         Covering up: The star covered her racy look with a black mac, which she no doubt removed once inside the event to offer to full impact of her showstopping look                     Ready to go: She opted for a heavy coat of make-up including a deep rogue lip, while styling her bright blonde tresses in tight, glamorous curlsMadonna has burst back on to the music scene in typically-wild style as she shared the artwork earlier this week, in which she sported a cowboy hat, white corseted gown, a veil and a slick of vampish red lipstick.Despite having only released the single cover, and a 90-second teaser video introducing fans to her latest alter ego, Madame X, fans will no doubt be overjoyed to see the launch of the full video.In the sensational video introduction, Madge dons a variety of costumes and disguises, and explains in voiceover the basis of her new persona.'I decided to call my record Madame X. Madame X is a secret agent travelling around the world, changing identities, fighting for freedom. Bringing light to dark places.           New music: During the evening the video for Madonna's Medellín video will be premiered, hot on the heels of the news that she is releasing a new album              Legend: Madonna is the world's biggest music icon, with a chart-topping career spanning more than three decades       'Madame X is a dancer. A professor. A head of state. A housekeeper. An equestrian. A prisoner. A student. A mother. A child. A teacher. A nun. A singer. A saint. A w***e. A spy in the house of love. I’m Madame X.'  In the days following the initial teaser, the superstar doled out a few more looks at her title character's many personas.  Along with the teaser video, Madonna also released snippets of her dramatic new music, in which she could be heard singing, 'The thing that hurt the most/ Was that I wasn't lost' over the powerful piano-driven instrumentals.         Fans: So naturally Madonna 's fans were delighted at the prospect of new music, with the wait now over as she released her new single Medellin with Latin superstar MalumaThe Track List for the undisputed queen of pop's next album, includes collaborations with musicians Quavo, Swae Lee and Anitta, as well as a second track with Maluma titled 'B**ch I'm Loca.'Madame X consists of 13 tracks in total (with two included on the deluxe edition) and features Madonna singing in Portuguese, Spanish and English.In a 2018 interview with Vogue Italia, the musical icon revealed that her new music was inspired by Portugal, where she lived throughout the process of its creation.                  Release date: The legend's new track comes from her upcoming 14th studio album Madame X - set for release on June 14, 2019

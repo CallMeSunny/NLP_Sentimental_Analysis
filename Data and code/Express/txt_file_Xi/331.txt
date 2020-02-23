@@ -1,0 +1,21 @@
+BREXIT OFFENSIVE: Dozens of major firms join Theresa May for China trade mission
+https://www.express.co.uk//news/world/910386/China-Brexit-Theresa-May-Xi-Jinping-trade-mission-business-deals-post-Brexit-deals
+ 13:30, Fri, Jan 26, 2018 
+   More than 40 companies, universities and trade associations will travel with Mrs May as she tries to show the UK is willing to make post-Brexit trade ties with Beijing. The companies include BP, HSBC and the London Stock Exchange Group. The list of companies reflects the Government's priorities in its industrial strategy with representatives from the education sector as well as clean technology businesses on the trip.   GETTYTheresa May will head to China where she hopes to forge tens of trade deals  Live from inside DAVOS Summit 2018 Fri, January 26, 2018Behind the scenes at the World Economic Forum in Davos, Switzerland Play slideshow  EPA1 of 30Donald J. Trump adresses a plenary session during the 48th Annual Meeting of the World Economic Forum (WEF) in Davos, Switzerland, 26 January 2018  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     It will be a historical visit. We attach great importance to our relations with the UKChina's foreign ministryThe itinerary shows that education is a key focus of the trip, there will be stop-off in Wuhan, a city in Hubei province which has become a Chinese education hub. The Government is hopeful that the trip will see more than 50 partnerships and other deals signed.  Related articles   Education chief David Meller forced to quit over sex-pest scandal   One in eight secondary schools labelled ‘sub-standard’ The International Trade Secretary, Liam Fox, is also due to travel with the PM, as well as various quangos and lobbying groups, including the Scotch Whisky Association.A Downing Street spokesman said a “large delegation” would join Mrs May on the trip which is “intended to intensify the golden era of relations” between the UK and China.   GETTYLiam Fox will accompany Theresa May on her trip to China The trip will mark the growing importance in the relationship between Britain and China as London contemplates its economic future after it officially leaves the EU in March 2019.The China trip will be Mrs May’s first as PM and will include visits to Shanghai and Hubei.China’s huge market makes an attractive target for Britain outside the EU single market and customs union and a string of top officials have travelled to Beijing in recent months.  GETTYThe itinerary includes a visit to Shanghai In December, finance minister Philip Hammond visited the Asian giant to work out final preparations for a “stock connect” linking the London and Shanghai exchanges, and had agreed to examine the possibility of connecting their bond markets as well.China's Foreign Ministry spokeswoman Hua Chunying confirmed the visit, from January 31 until February 2, during a regular news briefing in Beijing.   She said: “It will be a historical visit. We attach great importance to our relations with the UK.“We hope we can continue to further deepen our political mutual trust, expand our cooperation and to elevate our bilateral relations to a new high.” 

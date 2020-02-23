@@ -1,0 +1,38 @@
+World War 3: North Korea 'cannot be HALTED' after boom in sophisticated missile production
+https://www.express.co.uk//news/world/871715/World-War-3-North-Korea-Kim-Jong-un-Donald-Trump-USA-China-Xi-Jinping-Asia
+ 02:31, Fri, Oct 27, 2017 
+  GETTYDonald Trump is set to work with China to rein in despot leader Kim Jong-unNewly analysed photos of North Korean factories point to signs that the country is producing its own Unsymmetrical dimethylhydrazine (UDMH), a fuel used in rockets.Shea Cotton, a Research Associate at California’s James Martin Centre, said: “The thing with UDMH production is that the production facilities required to make it look a lot any other chemical production facility.“So it’s hard to know if you’ve found one just by looking at satellite pictures.“The pictures point to a few potential sights. Related articles   Trump blasts Russia for ‘HURTING’ a resolution with North Korea   Eddie Jones calls on England squad to be ‘PREPARED for North Korea' “It just means that they have the means to produce their own rocket fuel, and probably a lot of it too.“It also means we won’t be able to halt their program just by turning off the spigot.“The unfortunate truth this program is that it’s a very sophisticated program which the North Koreans have laboured over for years now.“They’ve meticulously built up their production capacity and are constantly improving their program. Inside Kim's secret army: North Korean military laid bare in smuggled-out pictures Thu, January 11, 2018The true face of Kim Jong un’s army has been laid bare in shocking new images smuggled out of North Korea Play slideshow  Pen News1 of 21A female soldier on duty in high heels  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “There isn’t an easy fix for this program and the existence of facilities like this proves it.”The report, written by Joseph Bermudez Jr, analyses the possibility of the hermit kingdom producing UDMH based on a series of ariel photos.North Korea’s February 8 Vinalon Complex in Hungnam has been identified as a potential facility for producing the rocket fuel.Mr Bermudez explained that the area “contains production lines for both chlorine and ammonia, chemicals used in the production of hydrazine, the presence of waste water ponds, and recent construction activities within the complex”.   The July 27 Factory in the state was spotted as another potential area for UDMH production.Bermudez added: “These requirements for UDMH were likely initially satisfied by acquisition of limited quantities from abroad.“Increasing demands during the past 10 years, however, have likely led to both the acquisition of additional quantities of UDMH where possible and the acquisition or development of technology.” A unique portrait series from inside North Korea Mon, October 2, 2017North Korea: A unique portrait series from inside North Korea. Play slideshow  AFP/Getty Images1 of 7Ryu Nam-Sok (61) poses for a portrait in a public square in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    North Korea has increased its development of Hwasong-12 IRBM and Hwasong-14 ICBM missiles that use the UDMH fuel, which combined with tightening world sanctions, have pushed the hermit kingdom to start developing its own rocket fuel.With global tensions reaching critical levels, the US has called on China to increase its stranglehold on the rogue state in a bid to diffuse World War 3.Donald Trump is set to work with China to rein in despot leader Kim Jong-un when he visits China next month.  GETTYIsolating North Korea further over its nuclear and ballistic missile tests is a key goal for TrumpIsolating North Korea further over its nuclear and ballistic missile tests is a key goal for the President on what will be his longest foreign trip to date.Trump will call on President Xi Jinping to fully implement UN Security Council resolutions against Pyongyang and take other steps to pressure North Korea.China, North Korea's sole major ally, accounts for more than 90 percent of trade with the isolated country.  GETTYThe hermit kingdom has reportedly been pushed to create its own rocket fuelChina has said it will strictly enforce UN Security Council sanctions banning imports of coal, textiles and seafood while cutting off oil shipments to the rogue nation.But a senior White House official who briefed reporters ahead of President Trump's Asia tour said China needs to do more to comply with two UN Security Council resolutions that were approved unanimously, including with China's support.The official said: “We would like to see China follow through on those commitments. We would like to see China do things bilaterally as well that might even go beyond things that are mandated by those UN Security Council resolutions.”

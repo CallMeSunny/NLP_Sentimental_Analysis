@@ -1,0 +1,21 @@
+China invites Theresa May to major summit for new ’Silk Road’
+https://www.express.co.uk//news/politics/764581/China-visit-Theresa-May-major-summit-new-Silk-Road
+ 09:48, Wed, Feb 8, 2017 
+  GETTYTheresa May has been invited to attended major summit on china on building a new Silk Road“One Belt, One Road” is Chinese President Xi Jinping's landmark programme to invest billions of dollars in infrastructure projects including railways, ports and power grids across Asia, Africa and Europe. China has dedicated $40 billion to a Silk Road Fund and the idea was the driving force behind the establishment of the $50 billion China-backed Asian Infrastructure Investment Bank.  Related articles   'World under attack from Russia and China' - Trump's defence chief   Own Goal! UK invest £3m for training football coaches in China China has so far given few details about who will attend the summit, to be held in Beijing. The country's top diplomat, State Councillor Yang Jiechi, told the official China Daily last week that leaders from about 20 countries have confirmed their participation, representing Asia, Europe, Africa and Latin America, though he did not give names.      GETTYChina have given few details about who will attend the summit to be held in BeijingOne Beijing-based diplomatic source with direct knowledge of the invite list told Reuters that May was among the leaders who had been invited.  It's China's most important diplomatic event of the yearSource“China is choosing the countries it sees as friends and who will be most influential in promoting 'One Belt, One Road',” said the source, speaking on condition of anonymity. Two other diplomatic sources confirmed May was on the invite list.  Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYChina billions of dollars in infrastructure projects Asia, Africa and Europe“It's China's most important diplomatic event of the year,” one of the sources told Reuters. China's Foreign Ministry did not immediately respond to a request for comment on whether it had invited May.   GETTYDowning Street has said Theresa May will visit China this yearSri Lanka has already confirmed its prime minister is coming, and China says Philippine President Rodrigo Duterte is also attending. Foreign leaders often combine attendances at important multilateral events China is hosting with official state visits to China. 

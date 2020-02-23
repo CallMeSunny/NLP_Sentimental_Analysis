@@ -1,0 +1,21 @@
+North Korea poses ‘VERY SERIOUS CHALLENGE to the world’, former CIA chief claims
+https://www.express.co.uk//news/world/787548/newsnight-john-brennan-north-korea-very-serious-challenge-donald-trump-china-us-xi-jinping
+ 01:39, Tue, Apr 4, 2017 
+   After Donald Trump vowed to take on Pyongyang on his own if he didn’t receive backing from China, Mr Brennan has urged the two powers to work together to quell the threat from Kim Jong-un.Speaking on Newsnight, Mr Brennan said: “China certainly holds a lot of sway with North Korea, and I think it’s critically important for the United States to continue and to deepen the discussion with China about how best to manage this North Korean challenge.  GETTY/BBCJohn Brennan has urged China and the US to work together to quell the North Korean threat Related articles   North Korea scolds US for ‘escalating NUCLEAR ATTACK FEARS’    Kim Jong-un hails ‘NEW BIRTH’ of North Korean rocket industry  “The North Korean issue is a very complicated and complex one and it doesn’t lend itself to simple solutions.“There’s not a simple military solution to it, given that North Korea has such a tremendous amount of firepower and artillery that could rain down on Seoul if there was going to be some type of military action.”  GETTYMr Brennan alongside former US President Barack Obama First 100 days of President Trump Mon, June 12, 2017President Donald Trump is making a significant impact on global politics during his first term. Play slideshow  REUTERS1 of 23President Donald Trump arrives at Newark International airport  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     There’s not a simple military solution to it, given that North Korea has such a tremendous amount of firepower and artillery that could rain down on Seoul if there was going to be some type of military actionJohn BrennanMr Brennan served as the CIA chief under President Barack Obama and has been an outspoken critic of Trump, previously claiming the President “should be ashamed” of the speech he made outside the agency’s headquarters in January after the Republican discussed the turnout at his inauguration in front of the CIA’s Memorial Wall of Agency heroes.Despite their frosty relationship, Mr Brennan said he was hopeful the Trump administration would handle the North Korean situation.He said: “I am hoping that Mr Trump and his advisers have the last couple of months really learning and understanding what the challenge is and what the implications are of certain policy courses.  GETTYTrump is set to meet with Xi Jinping on Friday with North Korea expected to be high on their agenda“This is something that requires a very thoughtful and measured approach.”Trump is expected to meet with Chinese leader Xi Jinping later this week, although the President has already tweeted to say he is expecting a “very difficult” encounter.   A former US official specialising in Asia said: “Xi and Trump are not natural friends."The question is when Trump’s ‘Make America Great Again’ hits Xi’s ‘Chinese Dream’, what’s the result?”

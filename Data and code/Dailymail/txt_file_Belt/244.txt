@@ -1,0 +1,233 @@
+Putting on a brave face: Rebecca Ferguson makes her first public appearance since revealing 'cheating ex' dumped her when she got pregnant
+https://www.dailymail.co.uk/tvshowbiz/article-2852414/Rebecca-Ferguson-makes-public-appearance-revealing-cheating-ex-dumped-got-pregnant.html
+ 23:09 BST, 27 November 2014 
+She welcomed her new bundle of joy into the world last month but despite the happy occasion, Rebecca Ferguson was hiding a sad secret that the baby's father had left her when she got pregnant. However, Rebecca, 28, put on a brave face as she made her first public appearance since revealing all about her painful situation as she attended Naomi Campbell's Fashion For Relief Pop-Up Shop at Westfield shopping centre in London on Thursday evening. Rebecca looked lovely in a black skater dress with gold belt and some funky red and black heels. Scroll down for video          Moving on: Rebecca Ferguson made her first public appearance since giving birth last month, at Naomi Campbell's Fashion For Relief Pop-Up Shop in London on ThursdayHer hair flowed down her back in loose curls and Rebecca's make-up was flawless as she attended the launch of the story which will donate all proceeds to the DEC Ebola Crisis Appeal. Earlier this month Rebecca opened up about the betrayal she faced when the father of her newborn daughter, Arabella, decided to leave after he discovered she was pregnant - and confessed how he had another girlfriend.              Post-baby body: Rebecca looked trim in a black skater dress as she put on a brave face following a traumatic few months in which her 'cheating ex' left her when he discovered she was pregnant        Revealing all: While Rebecca hid her pain throughout her pregnancy, she opened up about it earlier this month to HELLO! magazine 
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Rebecca_Ferguson'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go for a flattering LBD like Rebecca Ferguson
+
+
+
+
+French Connection croc luxe slash neck dress
+Simple and effective
+
+
+
+Visit site
+
+
+
+It was the night of Naomi Campbell's Fashion 4 Relief party and the celebrities turned up in their droves to help the appeal and bag themselves some designer goodies in the process.
+Tons of designer pieces old and new had been donated to the appeal and star's such as Rebecca Ferguson jumped at the chance to help.
+She might still be battling her baby weight, but you would never have known it. She looked gorgeous at the party in a black croc skater dress which she accessorised with a chunky gold belt.
+The dress is such a classic. It will hide tummies when you're feeling self-conscious and it's simply chic.
+She jazzed up her look with red leopard Kurt Geigers which ensured the look packed a punch.
+You can snap up her dress (right) at John Lewis and bag the heels (below) from Kurt Geiger so you can channel her look properly.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Carvela ghost Kurt Geiger
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos black skater dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Ted Baker skater dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Betty Barclay short sleeved shift dress at John Lewis
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo black skater dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Rebecca_Ferguson', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The former X Factor star, who is already mum to Lillie May, nine, and Karl Jnr, seven, from a previous relationship with Karl Dures, had kept her heartbreak a secret during the pregnancy but decided to speak about the pain after giving birth. 'On the outside everyone must have thought everything was rosy at home,' she told Hello! Magazine . 'I kept a smile on my face and kept all my feelings inside because I had this awful feeling of shame, but I was heartbroken.'  'I was fuming when I found out, I was so angry. The way I was treated was wrong,' she added. 'I think some people think you're devastated because you want the man, but it's not that.                 Flawless: She may have a newborn and two other children at home but Rebecca looked remarkably fresh faced and energetic 'It's devastating for a woman because it's a normal thing for your child to be wanted.'The singer also went on to reveal how the father of her other two children now wants to treat new addition Arabella as his own and has offered to adopt her.'Karl has been a huge support, we're really good friends.          'I had this awful feeling of shame': Rebecca Ferguson has opened up about the betrayal she faced when the father of her newborn daughter, Arabella, decided to leave after he discovered she was pregnan         Her little bundle of joy: The X Factor star welcomed her third child into the world last month         Out now: To read the full interview, grab the latest edition of Hello! magazine'He was there for the birth and he has offered to adopt her and be her dad too,' she explained.'He has given her his name, which is lovely, so she will be the same as the other kids.'Rebecca announced she was pregnant with her third child in April after she dramatically collapsed during a performance on Loose Women weeks before.Speaking to MailOnline, she said: 'What's funny is after the show, I took a test because I was thinking 'This is weird! What's going on with my body?' and it came up negative.''I was like How strange! I've got all of the pregnancy symptoms but after the show I ended up spending two days resting in bed.' She added: 'I kept on saying to everyone, I've got pregnancy symptoms so it was really weird and then a couple of days later I took another test and it was positive!' Rebecca announced the surprise pregnancy to Twitter followers on April 13 with the message: 'Yes I am having a new lovely baby. Children are such a blessing and I'm grateful to God for my new little gift xx.' The latest edition of Hello! magazine is on sale now.

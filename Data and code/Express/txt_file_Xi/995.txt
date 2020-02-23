@@ -1,0 +1,38 @@
+Japan 'teams up with US & sends WARSHIPS to Korean peninsula' as global tensions escalate
+https://www.express.co.uk//news/world/790836/japan-us-uss-carl-vinson-north-korea-military-drills-navy-kim-jong-un-donald-trump
+ 02:10, Wed, Apr 12, 2017 
+   The Japanese Maritime Self Defence Force (MSDF) may carry out helicopter landings on the USS Carl Vinson, which was deployed near the Korean peninsula in the wake of Kim Jong-un’s missile tests.It is believed the joint military drills are to be carried out as a show of strength towards Kim Jong-un’s despotic regime.  GETTYJapan is joining up with the US to carry out drills, according to reports Related articles   North Korea 'launches ANOTHER ballistic missile'   US & North Korean tensions BOIL OVER as Kim condemns 'RECKLESS' Trump  Japan wants to dispatch several destroyers as the Carl Vinson enters the East China SeaAn anonymous source told Reuters: "Japan wants to dispatch several destroyers as the Carl Vinson enters the East China Sea."One source who told Reuters about the drills has direct knowledge of the plan, while the other has reportedly been briefed.Japanese military officials refused to comment on the proposed drills. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The joint show of military might between the US and Japan could anger China.Tokyo and Beijing officials have been locked in a bitter territorial dispute over the uninhabited islets lose to Taiwan.It comes less than 24 hours after North Korea promised it would retaliate and defend itself “by powerful force of arms” after the US deployed a Navy strike group in the Korean Peninsula. America and South Korea prepare for war against North Korea Tue, April 11, 2017U.S. and South Korean marines participate in the endurance exercise in temperature below minus 20 degrees celsius under a scenario to defend the country from any possible attacks from North Korea. Play slideshow  1 of 22  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYDonald Trump has urged Xi Jinping to take a tough stance with North KoreaKim Jong-un’s state-owned news agency KCNA claimed Trump’s deployment showed “reckless moves for invading” that had now “reached a serious phase”.Tensions regarding North Korea have threatened to boil over in recent weeks after Donald Trump promised to deal with the nation unilaterally should China not help and put pressure on their neighbour and ally.The US President tweeted: "North Korea is looking for trouble. If China decides to help, that would be great. If not, we will solve the problem without them! U.S.A."He added: “I explained to the President of China that a trade deal with the U.S. will be far better for them if they solve the North Korean problem!"  EPAUSS Carl Vinson has been deployed near North Korea   Kim Jong-un’s sabre rattling in recent months has continued to escalate after the leader continues to carry out a series of nuclear and missile tests.A foreign ministry statement from the North Korean government on KCNA said: “We will hold the US wholly accountable for the catastrophic consequences to be entailed by its outrageous actions."The DPRK is ready to react to any mode of war desired by the US.”

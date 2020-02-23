@@ -1,0 +1,21 @@
+Melania Trump shows maternal side in navy as she meets children with China’s First Lady
+https://www.express.co.uk//life-style/style/789326/Melania-Trump-jumpsuit
+ 19:17, Fri, Apr 7, 2017 
+   Melania Trump wore a covered-up look to meet children at the Bak Middle School of the Arts in West Palm Beach, Florida. The US First Lady, wife of President Donald Trump, wore a navy blue jumpsuit with a wide belt that tied at the waist.Though Melania, 46, often opts for a sexy look, visiting the school today she looked every inch the conservative role model.Melania had a floral print silk scarf wound around her neck, disguising her bust. Related articles   Melania Trump OOZES airport glamour with husband Donald Trump   Melania Trump wears sexy figure hugging RED to meet Chinese President   RUETERSMelania Trump covered up to visit a Florida school with China's First Lady Peng Liyuan Melania Trump covered up to visit a Florida school with China's First Lady Peng LiyuanIn typical fashion, the chic dresser wore stilettos in a matching hue.Melania was joined by Peng Liyuan, 54, who also wore a very conservative ensemble.Peng Liyuan wore a lace white long sleeved dress, covered by a white lace sleeve-less jacket with a scalloped edge.The two women smiled and waved as they greeted the children at their school.  Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      REUTERSMelania Trump, wife of US president Donald Trump, wore a navy jumpsuit to meet childrenThis look was very sedate compared to a look the US First Lady wore earlier in the official visit. Melania wore shows off every curve in a figure-hugging red dress to meet the Chinese President.Melania Trump wore a striking red dress as she joined husband Donald Trump to meet Chinese President Xi Jinping and his wife Peng Liyuan in Florida yesterday.Red is the national colour of China, and no doubt Melania chose the dress for the occasion for this reason.  REUTERSMelania Trump and Peng Liyuan greeted children during China's official visit to the USEarlier in the day the First Lady oozed old Hollywood glamour as she stepped off a private jet in a a plunging sexy black and white dress with her husband.Melania Trump stepped off the plane in West Palm Beach, Florida after her husband Donald Trump, addressed the crowds at the White House yesterday. She wore a black, low-cut dress with white applique detail, which looked stunning as the First Lady stepped off the plane. She added a pair of black heels and some sunglasses - channeling Jacqueline Kennedy Onassis.Black is some what of a signature colour for the First Lady of the United States.The 46-year-old former model accentuated her waist with a patent, wide belt with a silver square buckle. She wore a deep smokey eye to accentuated her features, and a pretty pink, nude lip.

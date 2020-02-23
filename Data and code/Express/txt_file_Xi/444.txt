@@ -1,0 +1,38 @@
+North Korea crisis: China amasses new anti-warship missiles as WW3 tensions continue
+https://www.express.co.uk//news/world/802637/North-Korea-crisis-world-war-3-ww3-US-China-missiles-Yulin
+ 05:47, Fri, May 12, 2017 
+   Sino-US tensions over disputed territory in the South China Sea, along with sabre-rattling from North Korea which is mostly backed by China, have seen tensions in the region rise dramatically recently.The situation has also been enflamed by US President Donald Trump sending the aircraft carrier the Carl Vinson, along with an armada of warships to the region to undergo military drills in the area.Images of the Yulin naval base, located on Hainan Island of the hotly disputed islands off southern China close to Vietnam, now appear to show Beijing has stock-piled a range of land-base missile launchers that have the capability of reaching and knocking out the US military vessels.  GettyChina's President Xi Jinping Is this China's hottest women soldiers? Wed, March 8, 2017China's military top brass exploded over a TV series which showed the nation’s female special forces as sexy, scantily clad babes Play slideshow  1 of 10  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Israel-based ImageSat International snapped the images from its Eros B satellite with missiles being deployed on the base’s west side.Imagery analyst Amit Gur confirmed the new builds are anti-ship missiles.He said: "The direction in which the launchers are facing leads us to believes these are shore-to-ship missiles."Mr Gur added that the missiles pictured in the satellite looked to be fully operational and ready to fire.He added: "They must have concluded renovation work, as the systems are clearly visible."We don't just know if they are new systems, or a redeployment of the ones that were stored during the renovation."  AFPUS President Donald Trump speaking in Washington Forbidden photographs depict the true North Korean army Wed, April 12, 2017While tourists are able to visit North Korea as part of a controlled tour group, they are asked by their handlers to never take photographs of soldiers. These pictures taken by photographer Eric Lafforgue show the reality of military service in the secretive state Play slideshow  ERIC LAFFORGUE/EXCLUSIVEPIX MEDI1 of 26Soldiers enjoy a ride at the funfair in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The missiles appear to have been installed on Monday after the base was essentially empty.While the US has said that the warships are there to put pressure North Korea who has threatened to attack the US with nuclear weapons, China is increasingly worried over the presence of the fleet so close to its own waters.Although China and the US have been enjoying improved relations lately after a visit to the US by Chinese President Xi Jinping and Mr Trump referring to the premier as “his friend” both sides have remained cautious.  ImageSat InternationalSatellite image of the Yulin naval base  GettyUS aircraft carrier Carl Vinson which is currently stationed off the coast of North Korea  ImageSat InternationalSatellite image of China's Yulin naval base Related articles   North Korea and China relationship: Are they allies or enemies?   Chinese military test weapons close to North Korea fuelling WW3   GettyChinese surface-to-air missiles on display at a trade fair in 2016  GettyChinese President Xi JinpingChina has come under fire for building man-made islands near the Spratly archipelago, smack in the centre of the South China Sea.But as recently as March 30, its defence ministry insisted that no such islands existed and that any work being done strictly served civilians rather than the military.

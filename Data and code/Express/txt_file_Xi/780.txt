@@ -1,0 +1,21 @@
+NEW BREXIT ERA: Train arrives in UK DIRECTLY from China reopening Silk Road trade route
+https://www.express.co.uk//news/uk/755810/Brexit-Article-50-European-Union-Silk-Road-China-London-trade-deal-business
+ 13:21, Wed, Jan 18, 2017 
+   The first direct freight train linking China and the United Kingdom arrived today, just more than 24 hours after Theresa May told the nation to prepare for life outside the EU's single market.The 7,400-mile journey could prove to be a fast and effective way of encouraging monumental amounts of trade between Britain and China in the post-Brexit world.It is thought the train route could transport huge amount of stock in a quicker way than ever before and it is a boost for the Government's Brexit team, who are adamant Britain can prosper without Brussels' involvement. Related articles   Davos 2017: Who is Chinese President Xi Jinping?    Video of man’s travel hack goes VIRAL   GETTY*ITVBritain is already creating new business relationships outside the EUThe train signifies the reintroduction of the ancient Silk Road and journeys take just 16 days to complete – compared to up to six weeks if containers are sent via boat.The landmark train journey also cost significantly less than waterbourne transportation.  EXPRESSThe train stops in Moscow, Barking and MadridFang Xudong, vice general manager of Tianmeng Industrial Investment, which owns the train, said: "The fast train route between Yiwu and London takes 30 days less than maritime transportation, while only costing a fifth of air transportation."The train, hauling 68 containers of household cargo including clothes, bags and suitcases, has travelled through 14 countries on its route to the UK, including Kazakhstan, Russia and Poland. Foreign Secretary Boris Johnson in pictures Thu, July 21, 2016Foreign Secretary Boris Johnson attends his first EU foreign ministers meeting in Brussels to discuss the issues in Turkey, Syria, and the Middle East. Play slideshow  Getty Images1 of 18British Foreign Secretary Boris Johnson addresses the press after a meeting with the French Minister of Foreign Affairs Jean-Marc Ayrault at Quai d'Orsay on July 28, 2016 in Paris, France  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Today, the train came through the Channel Tunnel en route to Barking, its final destination.So far there have been 40 freight train routes connecting Asia to 14 European cities, which form part of a trade route launched in 2013.

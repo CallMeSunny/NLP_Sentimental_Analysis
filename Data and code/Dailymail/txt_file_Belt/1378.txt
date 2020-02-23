@@ -1,0 +1,224 @@
+After her X Factor comeback, Simon Cowell's golden girl Fleur East showcases her latest fashion range as she kicks off what's set to be a VERY successful career
+https://www.dailymail.co.uk/femail/article-3313933/Fleur-East-showcases-latest-fashion-range-kicks-s-set-successful-career.html
+ 17:53 BST, 11 November 2015 
+It's only been a year since she launched onto the scene as the chart-topping star of The X Factor, but now Fleur East can add fashion designer to her resume.The 27-year-old, who won over Simon Cowell and co on last year's show, and who already has an iTunes UK number 1 under her belt, has now unveiled her second fashion range.Fresh from performing on Sunday night's X Factor with an energetic and impressive all-singing-all-dancing routine, the pop star has unveiled a new capsule collection ahead of the festive season.         Fleur East, who won over Simon Cowell on last year's X Factor, has designed her second fashion range - and models it all herselfThe singer says her 14-piece compact selection of statement styles is 'exclusive for those wanting to make a bold yet effortlessly glam statement this Christmas.'Fleur, who models it all herself, said: 'I absolutely love this time of year – I particularly love getting dressed up, so designing a super glam range to wear for the party season was an amazing opportunity.   RELATED ARTICLES  Previous 1 Next       Mortified male customers report 'logistical difficulties'...    Prepare to swoon! David Gandy strips down to his underwear...    
+
+Share this article
+Share
+
+ 'I cannot wait to start rocking some of these pieces.'Taking inspiration from the catwalks, the range has an underlying 70s inspired vibe with slinky jersey fabrication, asymmetric hemlines and halter-style necks.         The 27-year-old, who already has an iTunes UK number 1 under her belt, has unveiled her second drop         The singer says her 14-piece compact selection of statement styles is 'exclusive for those wanting to make a bold yet effortlessly glam statement this Christmas'
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Fleur_East'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pack a punch in a purple mini like Fleur East
+
+
+
+
+Fleur East halterneck chain mini dress
+Pre-order here
+
+
+
+Visit site
+
+
+
+Now that the X Factor tour is over and Fleur East is becoming her own artist, we are already seeing great things. From her new single that she absolutely nailed on the show to her clothing collections at Lipsy, Fleur is clearly set to hit the big time.
+Her first line with the store that also hosts pieces from the likes of Michelle Keegan and Jessica Wright, went down a storm and now the new festive collection is here.
+The collection features sparkling picks all set to make an impact at Christmas parties while ensuring you look effortlessly glamorous. She's incorporated a lot of halterneck and asymmetric numbers into the drop, which includes this fab purple mini dress.
+It's not in store just yet, but if you click right you can pre-order Fleur's dress or any other piece from the collection on the Lipsy website.
+Too impatient to wait? Check our our hot halter dresses below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Jessica Wright Paula sequin lace halter dress at Lipsy
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missguided chiffon shift dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Club L slinky wrap front halterneck dress at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Gorgeous Couture The Lyla dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Fleur_East', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The range is full of low plunge necklines, drape effects, thigh splits, lurex minis, side split maxis and cut outs. 'The slinky asymmetric dresses are the perfect festive go-to dresses. I love that the hem line on the skirt isn’t straight as it makes it a little more risqué. It shows the perfect amount of leg! 'I love the shape and design so we decided to include it in the range in two colour ways- black as the perfect LBD and ultramarine for a flash of warmth in the Winter,' said Fleur. The starlet is the latest in a string of celebrities to collaborate with Lipsy, following the likes of Kim, Kourtney and Khloe Kardashian, who teamed up for their sell-out Kardashian Kollection previously.Fleur will also follow in the footsteps of former Coronation Street star Michelle Keegan, whose line with the brand has also flown off the shelves.          Fleur said: 'I absolutely love this time of year - I particularly love getting dressed up, so designing a super glam range to wear for the party season was an amazing opportunity'         Taking inspiration from the catwalks, the range has an underlying 70s inspired vibe with slinky jersey fabrication       As well as launching her range for Lipsy, Fleur has, of course, been busy making music in the recording studio, which she reveals is going 'very well.'The singer spent much of the summer in Los Angeles where she was busy recording her debut album, which already has been given the thumbs up by her boss and X Factor mogul, Simon Cowell.He told The Sun: 'I've heard it and it's world class. She has discovered who she wanted to be. Sometimes you just spot someone who's not obvious and Fleur's a good example of that.'  And the future is certainly looking bright for the songstress, who is being likened to Rihanna and has some serious ambition. She told FEMAIL: 'In five years' time, I will hopefully be on album number five and touring the world; fingers crossed! 'And If all goes well with fashion, hopefully another fashion line!'.         As well as launching her range for Lipsy, Fleur has, of course, been busy making music in the recording studio, which she reveals is going 'very well'         Fleur East seen performing on last year's X Factor show, which has helped launch her stellar career        

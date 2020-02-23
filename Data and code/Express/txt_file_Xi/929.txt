@@ -1,0 +1,21 @@
+Inside North Korea’s armoured SUPER-TRAIN - with pathetic 37mph TOP SPEED
+https://www.express.co.uk//news/world/938404/north-korea-china-train-kim-jong-un
+ 06:07, Thu, Mar 29, 2018 
+   North Korea rarely sends its leaders abroad but, on the rare occasions it does, the Kim dynasty travel in absolute security on a heavily-fortified train.Kim Jong-un was filmed arriving in Beijing this week in a bullet-proof train painted a dark-green colour - the same train which transported his father and grandfather during their bloody reigns.Kim’s father Kim Jong-il even used the train for parties during long-distance trips to Russia or China, scoffing lobster and wine while his citizens starved during the disastrous 1990s famine.The train is packed with bodyguards with each carriage divided into secure units, ensuring total safety for the ‘Dear Leader’ at all times.  GETTYNorth Korea's leader Kim Jong-un has visited China on the country's famous super-trainThe windows and walls are coated with armour and black-out tint to hide those on board and reduce the risk of assassination.The train also acts as a moveable town, with carriages converted into conference rooms, offices, bedrooms and dining areas.Former guests say the train is kitted out with hi-tech TVs and computers.However it can reportedly only reach a top speed of just 37mph. READ MORE: Will North Korea attack the US? Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Russia official Konstantin Pulikovsky, who travelled on the train, said guests could order food from a variety of cuisine, with live lobsters stored on board and fancy foreign wines imported.He said: “It was possible to order any dish of Russian, Chinese, Korean, Japanese and French cuisine.”Kim Jong-il even died on one of his trains, when he suffered a fatal heart attack in December 2011.  GETTYKim Jong-il travelled regularly on the North Korea train and even died on itKim Jong-un's trip to China this week, with video footage showing the huge train arriving in and departing from Beijing, has sparked speculation about the leader's strength - or lack thereof.North Korea expert Gordon Chang believes Kim was ordered to travel to China to meet with President Xi Jinping - an order from his sole remaining ally he could not refuse.READ MORE: Does North Korea have nuclear weapons?  GETTYNorth Korea's heavily-armoued super-train in Beijing this weekMr Chang said: “I think the reason why Kim went to Beijing was because Beijing demanded that he go there.“You have got to remember that Kim was going to make his first foreign trip to South Korea to go south of the military demarcation line in the demilitarised zone to the peace house, which is in South Korea.“The Chinese realised they were being marginalised and what they said to Kim was ‘you come to Beijing, or else.”

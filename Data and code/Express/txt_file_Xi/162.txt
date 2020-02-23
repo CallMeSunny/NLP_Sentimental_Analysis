@@ -1,0 +1,38 @@
+US and China could be DESTINED for war due to THIS historical fact, warns political expert
+https://www.express.co.uk//news/world/793997/usa-china-war-ww3-donald-trump-xi-jinping
+ 21:38, Wed, Apr 19, 2017 
+   Historical trends over the past 500 years show the two superpowers are more likely than not to go to war when one rapidly increases its power. This sobering prediction was made by Graham Allison, director of Harvard Kennedy School’s Belfer Centre for Science and International Affairs in Time magazine. He said the past five centuries have shown economic and political tensions between “rising and ruling powers” usually end in war.   GETTYThe USA and China could be set for war, a political expert has warned Related articles   China threatens to sell weapons to USA's enemies in Trump Taiwan row   CHINA SHOWDOWN: Trump ignores warnings and sends Navy to disputed sea The expert did, however, disagree with Stephen Bannon, a close aide to Donald Trump, who claimed America “is going to war in the South China Sea in five to ten years, there is no doubt about that”. READ MORE: North Korea's allies - who is on Kim Jong-un's side? Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     The historical pattern of structural stress between rising and ruling powers known as Thucydides Trap does put the odds against usGraham AllisonMr Allison said: “Bannon is wrong: war is not inevitable. But the historical pattern of structural stress between rising and ruling powers known as Thucydides Trap does put the odds against us.“Thucydides Trap refers to an ancient Green political figure who wrote about how Athens and Sparta could not co-exist.   GETTYChinese soldiers march in unison amid growing tensions with the USHe had written: “What made war inevitable was the growth of Athenian power and the fear which this caused in Sparta.”Mr Allison believes this Greek saga could now be recreated in modern times in Washington and Beijing. He said: “In the 16 cases over the past 500 years when a rising nation threatened to displace a ruling one, war occurred 12 times.”Tension has risen in recent months between the US and China on a number of issues, which have been exacerbated by Donald Trump’s shock election win last November.   GETTYDonald Trump's election win sent shockwaves around the world and ramped up US-China tensionsThe business mogul has previously dismissed the country as a “currency manipulator”, threatened to halt trade between the two states, hinted he may work with Taiwan in breach of the ‘one China policy’ and pressured China to get tough on its ally North Korea.  Is this China's hottest women soldiers? Wed, March 8, 2017China's military top brass exploded over a TV series which showed the nation’s female special forces as sexy, scantily clad babes Play slideshow  1 of 10  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    However, tactful diplomacy between Mr Trump and Chinese leader Xi Jinping could avoid bloodshed and destruction, Mr Allison explained. He said: “Great powers can escape this trap. Doing so in this 17th case - the US vs China - will require statecraft as subtle as that of the British in dealing with a rising America a century ago, or the ‘wise men’ who crafted a Cold War strategy to meet the Soviet Union’s surge without bombs and bullets.”

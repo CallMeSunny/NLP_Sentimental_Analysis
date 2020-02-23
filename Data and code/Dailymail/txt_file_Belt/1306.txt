@@ -1,0 +1,225 @@
+Jenna Dewan treats herself to a pamper session at a salon after split from Channing Tatum
+https://www.dailymail.co.uk/tvshowbiz/article-5621793/Jenna-Dewan-treats-pamper-session-salon-split-Channing-Tatum.html
+ 16:54 BST, 16 April 2018 
+On Saturday she posted her first social media snap since she and husband Channing Tatum announced their split on April 2.And the next day Jenna Dewan was spotted going to a salon in Los Angeles to treat herself to a pamper session.The 37-year-old actress flashed a smile as she walked away from her car.         Treating herself: Jenna Dewan was spotted going to a salon in LA for a pamper session on Sunday after posting her first social media message since her split from Channing Tatum
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Jenna_Dewan-Tatum'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gear up for summer with Jenna's white mini skirt
+
+
+
+
+NANUSHKA Sedu belted frayed stretch-denim mini skirt at NET-A-PORTER
+Shop it here!
+
+
+
+Visit site
+
+
+
+The world is still reeling from the news that one of Hollywood's most popular couples are calling it quits. But this isn't stopping Jenna Dewan making a sunny appearance out and about, looking positively radiant. The actress wore a plain white tee, flat sandals, oversized shades and a cross body bag, complete with a gorgeous white denim skirt by Nanushka. 
+ 
+You can buy Jenna's skirt now from NET-A-PORTER for £235. And it's the perfect time to buy something like this as the weather does look to be finally improving after what feels like the longest winter on record. A white denim skirt is one of the most versatile pieces you can add to a spring/summer wardrobe. It goes with everything and as the denim is white and not blue, you can get away with it for dressier occasions too. Buy a slightly longer line one and paired with a shirt and pointed toe flats it could easily work for a chic summer office look. By night team it with a coloured lace-trim cami and strappy high sandals, et voila, evening ready!
+ 
+Shop our edit of the best white skirts to buy now below, with gorgeous options from the likes of Warehouse, H&M and Calvin Klein.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Warehouse PATCH POCKET DENIM SKIRT
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+CALVIN KLEIN 205W39NYC denim mini skirt at Farfetch
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+H&M Scalloped denim skirt
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Button front skirt by Glamorous at Topshop
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Jenna_Dewan-Tatum', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Jenna showed off her slender, dancer's figure in a tight, white T-shirt and white denim mini-skirt with a white fabric belt that she tied at her waist.The beautiful brunette's tresses grazed her shoulders and she completed her ensemble with gold slides and a brown purse that she slung across her body.   RELATED ARTICLES  Previous 1 Next       Jenna Dewan shares first message with fans since shock split...    Jenna Dewan cuts a stylish figure in a crop top and skinny...    Jenna Dewan after Channing Tatum split: Actress spotted on...    Jenna Dewan leans on her family for support and 'seems...    
+
+Share this article
+Share
+55 shares
+
+ The actors announced the end of their nearly nine-year marriage in a joint statement posted on social media.'We have lovingly chosen to separate as a couple,' it said.         Fabulous figure: The 37-year-old actress showed off her slender, dancer's body in a tight, white T-shirt and white denim mini-skirt with a white fabric belt that she tied at her waist         Casual ensemple: The beautiful brunette completed her outfit with gold slides and a brown purse that she slung across her body       'There are no secrets nor salacious events at the root of our decision — just two best-friends realizing it's time to take some space and help each other live the most joyous, fulfilled lives as possible.'Channing hasn't posted anything since then while Jenna broke her silence on Saturday by sharing a photo of herself on a beach by the ocean in a white crop top and long white skirt that billowed in the breeze.She captioned it, simply:'Thank you guys for all your love. Love you right back,' paying tribute to all the messages of support from her fans.         Beach babe: On Saturday she posted her first social media snap since she and husband Channing Tatum announced their split on April 2, thanking her fans for their supportChanning and Jenna got together after co-starring in the 2006 dance film Step Up, before marrying in 2009.The former couple's statemen said they will remain focused on co-parenting and raising their four-year-old daughter Everly.Meanwhile, Jenna has work to help take her mind off the split.Her film Berlin, I Love You, an anthology of 10 romances set in the German capital, is set for release this year while TV movie Mixtape is in pre-production.                What a difference a year makes: Last April Channing, 37,  and Jenna looked like a happy couple at the grand opening of Magic Mike Live Las Vegas at the Hard Rock Hotel & Casino 

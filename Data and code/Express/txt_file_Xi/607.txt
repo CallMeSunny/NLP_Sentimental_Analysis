@@ -1,0 +1,21 @@
+We call you 'Auntie': Theresa May 'honoured' by affectionate nickname in China
+https://www.express.co.uk//news/politics/913402/theresa-may-auntie-nickname-china-trade-brexit
+ 22:07, Thu, Feb 1, 2018 
+   Chinese media has paid close attention to the trip. The China Daily News ran a front-page picture of Mrs May inspecting a military guard of honour.In an interview on state broadcaster CCTV in Beijing, the reporter asked: “Did you realise that you’ve got a Chinese nickname?”Mrs May said: “No, I didn’t!” and was told: “A lot of Chinese people would affectionately call you in Chinese Auntie May. That’s really a kind of a call for Chinese – you’re one of the members of the family. Do you like that?”Mrs May replied: “Oh, thank you. Thank you very much indeed. I’m honoured by that.”   GETTYTheresa May was 'honoured' by her Chinese nickname Related articles   May in China LIVE: Brexit trade boost as Chinese nickname PM 'AUNTIE'   Jacob Rees-Mogg for PM? Backbencher favourite to take May's job    GETTYTheresa May took tea with President Xi Jingping  In pictures: Theresa May visits China Wed, January 31, 2018Theresa May and her husband Philip May arrive in Wuhan for her three-day visit to China. Play slideshow  EPA1 of 29British Prime Minister Theresa May speaks during a joint press conference with Chinese Premier Li Keqiang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     A lot of Chinese people would affectionately call you in Chinese Auntie May. That’s really a kind of a call for Chinese – you’re one of the members of the family. Do you like that?Chinese state TVShe and husband Philip later continued the charm offensive by telling President Xi Jinping how much they liked Chinese tea.Served Lapsang Souchong at a traditional tea ceremony with Mr Xi and his wife Peng Liyuan, Mr May told Madame Peng: “We drink that.”Meanwhile International Trade Secretary Liam Fox, in China with Mrs May, called for an end to Tory carping over her leadership.He said: “They [China] are looking at performance...and they look at the Prime Minister in a different way than some of, let’s say, the internal tea room discussions in the UK do.”

@@ -1,0 +1,21 @@
+Princess Charlotte given gifts to mark her 1st birthday
+https://www.express.co.uk//news/royal/666441/Princess-Charlotte-1st-birthday-gifts-Duke-and-Duchess-of-Cambridge
+ 21:18, Mon, May 2, 2016 
+  GETTYPrincess Charlotte was showered with gifts that marked her first birthdayCharlotte has been showered with presents from kings, queens, presidents and prime ministers in her first year. They range from a silver rattle to rugby kit to a jigsaw puzzle from the world’s most powerful man. Kensington Palace revealed that Charlotte’s uncle, Prince Harry, brought her a New Zealand rugby sleepsuit and a Wellington rugby snowsuit from his tour of New Zealand.  Related articles   Princess Charlotte poses for cute official photo for first birthday   Ten things you never knew about the number One  Prime Minister David Cameron gave her a copy of Hans Christian Andersen’s Fairy Tales. The Australian government sent a cot blanket made from Tasmanian Merino wool. And Justin Trudeau, Prime Minister of Canada, sent the Princess a snowsuit and a book, as well as making a 100,000 dollar (£54,000) donation to a Canadian charity on her behalf. Aides declined to say what Charlotte’s family gave her for her birthday but disclosed that on April 22 US President Barack Obama and First Lady Michelle gave the royal toddler a jigsaw puzzle and a toy replica of Bo, their Portuguese Water Dog, to match one they had given her brother, Prince George, two.   GETTYThe tiny royal turned turned 1 today and was given gifts by from around the worldNew Zealand Prime Minister John Key sent a selection of teddy bears, baby blankets and bootees.  The Duke and Duchess of Cambridge are incredibly gratefulKensington Palace spokeswomanDuring his state visit to Britain last year, Chinese President Xi Jinping presented the royal baby with a set of silk figurines, while Mexican President Enrique Pena Nieto gave Charlotte a silver rattle during his 2015 visit. And when her parents went to Bhutan last month, Charlotte and George received coats from the country’s King and Queen.  Princess Charlotte in pictures Mon, July 9, 2018Princess Charlotte of Cambridge, Charlotte Elizabeth Diana, who was born on 2 May 2015. Play slideshow  PA1 of 100Princess Charlotte in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYSome candid shots oft he young royal were released to mark her birthdayA Kensington Palace spokeswoman said: “The Duke and Duchess of Cambridge are incredibly grateful for all the letters, gifts and good wishes they have been fortunate to receive in the year since Princess Charlotte was born. “The couple have taken a number of gifts into their home, some are stored within the royal household and some gifts were donated to organisations which could make good use of them.”

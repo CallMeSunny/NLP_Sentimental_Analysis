@@ -1,0 +1,21 @@
+Donald Trump will NOT visit North Korea border on South East Asia tour amid WW3 fears
+https://www.express.co.uk//news/world/873979/Donald-Trump-Asia-tour-North-Korea-news-world-war-3-South-Korea
+ 09:51, Wed, Nov 1, 2017 
+   The decision to skip a visit to the demilitarised zone (DMZ), a common stop for visiting residents and other high-profile US officials, comes at a time of high tensions with Kim Jong-un’s secretive state. Time constraints are said to be the reason for the decision not to go to the world’s most dangerous flashpoint.An official said: “The president is not going to visit the DMZ, there is not enough time in the schedule.” Other officials downplayed the importance decision, saying it was becoming a “cliche”.   GETTY Trump will not visit the border between North and South Korea  Related articles   New York terror - Truck rampage leaves several dead in Lower Manhattan   New York terror attack victims: Five Argentine friends among 8 kill...   GETTY Mike Pence visited the tense frontier earlier this year A senior administration official said: “We just had Secretary Mattis there last week, we had Vice-President Pence there earlier this year. “It’s becoming a little bit of a cliche, frankly.” President Donald Trump will instead visit Camp Humphreys, which sits south of Seoul.He will depart for South East Asia for 12 days on Friday, where he will visit five different nations. A visit by any US leader to the border, heavily militarised with electric fences, minefields and anti-tank barriers, is often seen as a show of solidarity in the face of threats from North Korea.  Inside Kim's secret army: North Korean military laid bare in smuggled-out pictures Thu, January 11, 2018The true face of Kim Jong un’s army has been laid bare in shocking new images smuggled out of North Korea Play slideshow  Pen News1 of 21A female soldier on duty in high heels  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    But the senior administration official said only a “minority” of US presidents had visited the tense frontier. However, since Ronald Reagan visited in 1983, only George HW Bush has failed to make a visit. President Trump will meet Chinese President Xi Jinping on November 8, where the pair will hope to discuss how Beijing is set to tackle the growing threat from the North. A US official added: “The Chinese have done a great deal.      GETTY Barack Obama made a visit when he was US president“They’ve done more than I think many expected they would. And the US is working more closely with China on the North Korea problem than ever. “That said, there is clearly more that China could do.” The US and North Korea remain locked in a war of bitter words as the nations remain on the brink of World War 3 over North Korea’s growing nuclear programme. 

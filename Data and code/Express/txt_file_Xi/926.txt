@@ -1,0 +1,21 @@
+North Korea THREAT: US defense expert warns Trump only has TWO choices to avoid 'DISASTER'
+https://www.express.co.uk//news/world/942048/North-Korea-news-Donald-Trump-US-war-twitter-latest-China-President-Kim-Jong-un
+ 06:58, Fri, Apr 6, 2018 
+   Donald Trump is expected to meet North Korean leader Kim Jong-un in May in an effort to get the hermit kingdom to shut down its nuclear regime.Writing for CNBC, Mr Panetta said Mr Trump must face the “reality” that he only has “two choices to avoid disaster.”Mr Panetta said the first option would be not to use the meeting as a photo opportunity but to pin down a date for negotiators to form the technicalities of an agreement.He said: “Assume that the summit will largely be a photo op with Kim Jong Un, with an agreement on a broad framework of issues to be considered in future negotiations, and a decision on a place and time for an agreed set of negotiators to begin discussion on the specifics of a possible agreement.”  Getty•BBCNorth Korea: Leon Panetta said Donald Trump must avoid a disaster with North Korea But to be successful, it will take time... Tweeting will not do itLeon PanettaThe second option is to postpone any summit until negotiators agree that North Korea will shut down its nuclear programme.Mr Panetta wrote: “Postpone any summit until designated negotiators have determined that there is, in fact, a set of elements and conditions that can be agreed to that will result in the denuclearization of North Korea.”The former Chief of Staff for President Bill Clinton warned that President Trump is “doing little” to prepare for the issues that will need to be addressed at any summit.But Mr Panetta said the US President needs credit for bringing about a meeting.   He added: “But to be successful, it will take time, serious preparation, careful planning and extensive consultation with our allies.“Tweeting will not do it!”Mr Trump has tweeted that he is “looking forward” to his meeting with North Korean leader Kim Jong-un. In a series of tweets, he wrote: “For years and through many administrations, everyone said that peace and the denuclearization of the Korean Peninsula was not even a small possibility.“Now there is a good chance that Kim Jong Un will do what is right for his people and for humanity. Look forward to our meeting!    Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “Received message last night from XI JINPING of China that his meeting with KIM JONG UN went very well and that KIM looks forward to his meeting with me.“In the meantime, and unfortunately, maximum sanctions and pressure must be maintained at all cost!”President Trump and Kim Jong-un have not yet set a date for their meeting but the South Korean leader, Moon Jae-in will meet the North Korean leader on April 27 for a historic Korean summit.

@@ -1,0 +1,29 @@
+They've had the time of their lives! The ghostly remains of abandoned resorts that were once glitzy Upstate New York hotels (and the setting for Dirty Dancing)
+https://www.dailymail.co.uk/travel/travel_news/article-2756693/They-ve-time-lives-Ghostly-remains-abandoned-resorts-glitzy-Upstate-New-York-hotels-setting-Dirty-Dancing.html
+ 08:26 BST, 16 September 2014 
+The abandoned summer resorts of Upstate New York's Sullivan and Ulster counties are a ghostly, eerie and bizarrely beautiful reminder of the halcyon days of the holiday playground known as the Borscht Belt.Popular with the middle class Jewish community, hence the nickname, and within easy driving distance from New York City, they were the height of glamour and recreation for families heading to the Catskills.Those unfamiliar with the area need look no further than the film Dirty Dancing, for which it's the setting, or better still this series of stunning images.   RELATED ARTICLES  Previous 1 2 Next       Ghost town for rent! Turkey set to auction lease on deserted...    That's one way to get a tan! Motorist sunbathes on ROOF of...    From catching the Northern Lights to biking the Himalayas:...      Britons rank a night on Sir Richard Branson's luxury Necker...    
+
+Share this article
+Share
+
+ Many of the area's finest hotels, that were at the peak of their pomp in the 1960s, have simply been left to rot these days yet maintain much of their majesty in these pictures. Scroll down for video           An abandoned pool at the Grossinger's Catskill Resort Hotel in the Town of Liberty, one of the grander venues in the of the area which closed its doors in 1986              A battered hallway and abandoned pool lounges at the Grossinger's Resort, which was in operation from 1919 until 1986         The former Homowack Lodge in Wurtsboro village in the town of Mamakating, Sullivan, had its own bowling alley          more videos           1   2   3                   Watch video  EXCLUSIVE: The Points Guy try all four classes in BA all at once       Watch video  Original Spice Bus from Spice World will be listed on Airbnb       Watch video  Theresa May insists Conservatives are the real Brexit Party       Watch video  Two window washers trapped on a swinging lift on top of Oklahoma tower           Watch video  Richer Sounds shows you the range of products they offer       Watch video  Motorist runs over a police officer after she pulled him over       Watch video  British Major General Chris Ghika: 'No increased threat from Iran'       Watch video  Shaman Durek explains his teachings and philosophy           Watch video  Adorable goat learns to ride on his pony best friend’s back       Watch video  James Charles stays quiet at LAX amid YouTube drama       Watch video  Excited pup ran over a mile to see his friends at doggy daycare       Watch video  Kerri-Anne Kennerley unleashes on Bill Shorten          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-37', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+              The Homowack bowling lanes were once a hive of activity but now it is just gathering dust         A self-portrait of the photographer Bellink relaxing in one of the Grossinger's emptied swimming pools that once offered relief from the summer heat         Jonathan Haeber's works, including the above image of a large room with a toy rocket as the focal point, feature in the book Grossinger's: City of Refuge and Illusion         A dismal site now, Grossinger's is shown deserted and surrounded by snow         The lounge of the Homowack hints at an interior that was not shy about colour         A sign of the times with this turntable in this shot from Bellink          more videos           1   2   3                   Watch video  EXCLUSIVE: The Points Guy try all four classes in BA all at once       Watch video  Original Spice Bus from Spice World will be listed on Airbnb       Watch video  Theresa May insists Conservatives are the real Brexit Party       Watch video  Two window washers trapped on a swinging lift on top of Oklahoma tower           Watch video  Richer Sounds shows you the range of products they offer       Watch video  Motorist runs over a police officer after she pulled him over       Watch video  British Major General Chris Ghika: 'No increased threat from Iran'       Watch video  Shaman Durek explains his teachings and philosophy           Watch video  Adorable goat learns to ride on his pony best friend’s back       Watch video  James Charles stays quiet at LAX amid YouTube drama       Watch video  Excited pup ran over a mile to see his friends at doggy daycare       Watch video  Kerri-Anne Kennerley unleashes on Bill Shorten          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-50', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+     

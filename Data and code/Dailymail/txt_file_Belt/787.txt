@@ -1,0 +1,223 @@
+White hot! Jessie J smoulders in plunging Roman frock and fishnet stilettos as she turns up the heat at intimate Adam Lambert gig
+https://www.dailymail.co.uk/tvshowbiz/article-3179998/The-Voice-coach-Jessie-J-smoulders-plunging-Roman-frock-intimate-Jason-Derulo-Adam-Lambert-gig.html
+ 14:51 BST, 30 July 2015 
+Jessie J has left no doubt she back with a Bang Bang after taking time out of her tour earlier this month for health reasons.The Flashlight hitmaker smouldered in a white robe-like frock when she hit the town in Sydney for an exclusive Adam Lambert and Jason Derulo gig as part of the Nova Red Room global tour.The British beauty showed off plenty of leg in the thigh-skimming number whose plunging neckline and belt at the waist did much to accentuate her trim physique.         Whiteout! Jessie J smouldered in a white robe-like frock as she steeped out for an exclusive Jason Derulo and Adam Lambert gig in Sydney on ThursdayThrowing in a healthy dose of her quirky London style, Jessie teamed her dress with fishnet boots that climbed up to her knees, a jet black manicure and sleek hairstyle with a severe centre parting.   RELATED ARTICLES  Previous 1 Next       Abstinence makes the heart grow fonder! Erin Holland looks...    'Everyone is really good looking and has amazing legs!'...    All blushed out! Gina Liano looks ready for business as she...    'Squats and lunges are my best friends!' Khloé Kardashian...    
+
+Share this article
+Share
+76 shares
+
+ The piece de resistance was undoubtedly her venomous purple lipstick however, that injected a welcome pop of colour to her otherwise monochrome look.Although she arrived close to two hours late to the intimate gig held at the Marquee at The Star, The Voice Australia coach didn't fail to attract attention and was greeted by fans as she stepped off the red carpet.         Kinky boots: The Bang Bang singer teamed her quirky dress with fishnet boots that climbed up to her knees
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Jessie_J'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work pyjama chic in Jessie J's Topshop wrap dress
+
+
+
+
+Topshop Boutique Judo Wrap Dress
+Pyjama chic!
+
+
+
+Visit site
+
+
+
+Whilst you’d be forgiven for thinking Jessie J forgot to get dressed for the Adam Lambert and Jason Derulo gig, this dressing gown-esque mini is actually a Topshop Boutique white wrap dress. 
+Channeling the pyjama chic trend, Jessie teamed her dress with a pair of fishnet boots, a white clutch bag and her signature hoop earrings to add a glam edge to the look. 
+Part of Topshop’s upscale Boutique line, this dress will set you back a bit more than a regular Toppers dress, but at £85 it’s not going to break the bank. Click right to get it now, or for more choice check out our edit in the carousel below- all budgets covered!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+ASOS Obi Wrap Dress in Natural Fibre
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+ASOS Wrap Dress with Eyelet Details
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+PrettyLittleThing Keri wrap dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Joseph belted wrap dress at Farfetch
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Jessie_J', FFFtype: 'inline', fff: true}});
+        }
+    
+
+              London styling: A jet black manicure and sleek hairstyle with a severe centre parting finished off the hitmaker's look         Plump pout: Lashings of venomous purple lipstick injected a pop of colour to her otherwise monochrome ensemble                 Here we go: Jessie shared a shot of herself getting ready for the event earlier that night Jessie, who was forced to pull out of a number of recent gigs after undergoing a mystery operation, arrived in Australia this week ahead of The Voice live finals which are due to kick off on Sunday.Speaking to Daily Mail Australia about her experience with talent Down Under, she revealed she's been taken aback at how attractive, leggy and blonde everyone is.'Everyone was really good looking and had amazing legs!' the raven-haired singer said on Wednesday of her experience judging her reality show auditions. 'I feel like it's because everything's up hill so everyone had really good legs and bum[s] - not that people in England don't, but we definitely walk up hills less in England,' she went on, adding: 'Everyone's blonde!'          Legging it! Former Miss World Australia Erin Holland lead the other VIP guests in a sexy little black dress              Stylish: April Rose Pengilly - the model daughter of INXS rocker Kirk Pengilly - stunned in a sleeveless two-tone dress         Floral frenzy: TV host and model Carissa Walford's garish floral print dress ensured she stood outAttending as a guest and not a performer, Jessie was joined at the show by a host of local socialites including former Miss World Australia Erin Holland who slipped her model figure into a little black dress. She wasn't the only ex beauty queen in attendance as Carissa Walford, now a presenter on Channel V, and singer and Miss Universe Australia runner up Briden Starr, also made it out.The former made sure she stood out in a garish floral print dress while Briden revealed her toned tum in a daring black crop top.          Singer and Miss Universe Australia runner up Briden Starr revealed her toned tum in a daring black crop top              Leather look: TV presenter Sophie Falkiner went hell for leather in a crop top and matching pencil skirt         Kicked up her heels! The blonde was accompanied by her husband Tony ThomasApril Rose Pengilly - the model daughter of INXS rocker Kirk Pengilly - proved to be another fashion high-point courtesy of her sleeveless two-tone dress.The brunette teamed her outfit with a pair of strappy heels, while her make-up was selected from a natural colour palette.Nova's Red Room Global Tour feature seven global artists in four Nova Red Rooms across Dublin, London, Dubai and Sydney.          Packing on the PDA! The later leaned in for a very public smooch              Loved up: Former Australian Idol star Rob Mills cuddled up to his actress girlfriend Ellen Simpson on the red carpet and laid a kiss on her head         Showstoppers: Adam Lambert and Jason Derulo hit the stage for the intimate gig         Side by side: Jessie posed for a snap with Jason Derulo later that night  

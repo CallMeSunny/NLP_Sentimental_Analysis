@@ -1,0 +1,38 @@
+SHOCK CLAIM: United States 'is plotting surprise NUCLEAR ATTACK on China AND Russia'
+https://www.express.co.uk//news/world/761450/united-states-russia-china-nuclear-war-congress-report
+ 06:18, Wed, Feb 1, 2017 
+   US Congress has ordered a study into the “political and military leadership survivability” of China and Russia during wartime. The report could be interpreted as a signal the US is preparing for a preemptive strike on the two nations, according to military analysts. US intelligence agencies and Strategic Command, which is in charge of US nuclear forces, will carry out the study, a report says.   GETTYThe US could be planning an attack on Russia and China, a former US Army major has claimed Related articles   Moscow accuses China of deploying missiles ready to hit the US   Trump and Vladimir Putin to meet to discuss sanctions before G20   That’s the reason for this study: to ensure we wipe out their command and control with a first strikeRetired US Army major Todd PierceRetired US Army major Todd Pierce told Russian state media Sputnik: “No other nation-state has any intent of attacking us except if they should survive our initial ‘preemptive attack’, they can be expected to retaliate the best they are able.“That’s the reason for this study: to ensure we wipe out their command and control with a first strike.” According to a conference report of the National Defense Authorization Act 2017 (NDAA), Congress has ordered a “report on Russian and Chinese political and military leadership survivability, command and control, and continuity of government programs and activities”.The report called for the Director of National Intelligence to submit the study to congressional committees by January 15, five days before Donald Trump took office. The NDAA said the report should identify where senior political and military leaders in China and Russia are “expected to operate during crisis and wartime” as well. It should also assess the location of “above-ground and underground facilities important to the political and military leadership survivability, command and control, and continuity of government programs and activities”.   GETTY STOCK IMAGEThe report could be interpreted as a signal the US is preparing for a preemptive strike  EPADonald Trump spoke on the phone to Vladimir Putin on SaturdayMr Pierce said the report could be explained by the US wanting to explore the possibility of wiping out Vladimir Putin and Xi Jinping in a sudden attack. He insisted the study is not a defensive move but “typical American double talk when we are in the process of planning offensive military operations”.Former CIA officer Phil Giraldi echoed Mr Pierce’s view that the study is part of a comprehensive assessment routinely made by military intelligence agencies.  Do these photos show America preparing for war with Russia? Wed, January 18, 2017A photographer has captured what he says is an F-16 jet practicing dogfights with a mysterious Russian fighter plane – before returning to Area 51. Play slideshow  1 of 24  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Giraldi said: “I think it's routine contingency planning as I see no evidence that it was initiated personally by any of the identifiable hawks.” He added the US Department of Defense has prepared plans for all contingencies including the most improbable. Mr Giraldi said: “I'm sure the Pentagon has even worked up a plan and assessment regarding what would happen if we were to invade Canada. Didn't work out too well in 1812.”  Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    It comes as the Kremlin said a phone call between Mr Trump and Mr Putin on Saturday went well signalling US-Russia relations could thaw under the new US president. But Washington has seen tensions with Beijing escalate over disputed islands in the South China Sea. China said it has "irrefutable" sovereignty over the islands as the White House vowed to defend "international territories" in the strategic waterway.

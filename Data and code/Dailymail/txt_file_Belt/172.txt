@@ -1,0 +1,223 @@
+Taylor Swift dazzles in skimpy sequinned leotard as she brings her Reputation stadium tour to California
+https://www.dailymail.co.uk/tvshowbiz/article-5748217/Taylor-Swift-puts-incredible-display-sequinned-leotard-Pasadena.html
+ 17:22 BST, 19 May 2018 
+She's the Queen of Pop with a record-breaking 40m album sales under her belt.And Taylor Swift proved she was a force to be reckoned with in the world of music, as she gave a dazzling performance at the Rose Bowl in Pasadena, California, on Friday night.The songstress looked incredible in black sequin leotard which showed off the slender figure, paired with over-the-knee black lace up boots.         Talented: Taylor Swift proved why she's the Queen of Pop as she gave a dazzling performance at the Rose Bowl in Pasadena, California, on Friday nightShe was joined on stage by Canadian singer Shawn Mendes, 19, and had a wardrobe change into a statement burnt orange jacket, while Shawn cut a more casual look in black jeans and a shirt.   RELATED ARTICLES  Previous 1 Next       Did Meghan COPY Princess Mary's wedding dress? Allison...    Tangerine dream! Oscar winner Cate Blanchett opts for a...    
+
+Share this article
+Share
+
+ Talented Taylor wore her blonde locks loose around her face in a relaxed tousled style, and had her trademark feline eyeliner flicks and a plum lip.Earlier this month, she set tongues wagging when posted what looked to be a very private note to social media.         Stunning: The songstress looked incredible in black sequin leotard which showed off the slender figure, paired with over-the-knee black lace up boots
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Taylor_Swift'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sparkle in a sequin bodysuit like Taylor in Jessica Jones
+
+
+
+
+Jessica Jones custom bodysuit
+Head to the website here
+
+
+
+Visit site
+
+
+
+For her 1989 world tour, Taylor Swift's outfits were made by designer Jessica Jones who creates custom designs for the runway, red carpet and stage. And this time around for her Reputation tour, Taylor turned to Jessica once again.
+It's no surprise Taylor went back for more, with the made-to-measure pieces looking so luxe and glamorous! We're loving the all over sequin design of this hooded bodysuit.
+Sadly you can't buy this one-piece, but click right to see more about this designer who has also created pieces for Selena Gomez, Jennifer Garner and Kristen Stewart, to name a few.
+Alternatively, sparkle in your own sequin all-in-one like Taylor by checking out similar options lined up below from V by Very, Michael Kors Collection, Cushnie et Ochs and more.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Michael Kors Collection sequin bodysuit at NET-A-PORTER
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+V by Very sequin bodysuit (now reduced to £29)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Cushnie et Ochs sequin bodysuit at The Outnet (now reduced to £278)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo sequin bodysuit
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Taylor_Swift', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Trademark look: Talented Taylor wore her blonde locks loose around her face in a relaxed tousled style, and had her trademark feline eyeliner flicks and a plum lip         She was joined on stage by Canadian singer Shawn Mendes, 19, and had a wardrobe change into a statement burnt orange jacketThe white stationery with black writing and a dog sticker on the back of the envelope was from her arch enemy Katy Perry, who the blonde Look What You Made Me Do singer has been feuding with for a staggering six years.Swift - who is about to go on her Reputation tour - wrote 'Thank you Katy' in red with pink hearts over the photo of the letter, and showed part of the writing.It was difficult to see what Katy wrote but it looks like it said, 'I've being doing some reflecting on our miscommunications and though feelings between us .... would to clear the air ...deeply sorry for.'         Gossp: Earlier this month, Taylor set tongues wagging when posted what looked to be a very private note to social media         Personal: It was difficult to see what Katy wrote but it looks like it said, 'I've being doing some reflecting on our miscommunications and though feelings between us .... would to clear the air ...deeply sorry for'         Having fun: The 28-year-old seemed to be having the time of her life as she performed on stage         Powerful: The hugely successful woman gave a showstopping performance in CaliforniaThis comes almost one year after Perry said she wanted to 'finish' their feud.The singers have been embroiled in a fight since Taylor claimed the Bon Appetit singer stole three of her backing dancers from her Red tour in 2012.In 2014, Taylor released the single Bad Blood, which was believed to be about her feud with Katy, and the star has seemingly retaliated with single Swish Swish, which is also reportedly about their battle.         Relaxed: Shawn cut a more casual look in black jeans and a shirt, in contrast to Taylor's statement outfit         Leggy: Taylor showed off her long legs as she danced around the stage and belted out her hits         Feud: In 2014, Taylor released the single Bad Blood, which was believed to be about her feud with Katy, and the star has seemingly retaliated with single Swish Swish, which is also reportedly about their battle       Perry, who dates Orlando Bloom, said in 2017, 'Honestly, it's really like she started it and it's time for her to finish it.'And Katy claims she 'tried to talk' to the blonde beauty about the feud some time ago, but claims she 'wouldn't speak' to her.Katy added: 'She wouldn't speak to me. I do the right thing anytime that it feels like a fumble. It was a full shut-down and then she writes a song about me and I'm like "OK, cool, cool, cool. That's how you wanna deal with it?"'          Spectacular: The Pasadena show looked incredible as fireworks errupted to mark the special occasion

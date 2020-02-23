@@ -1,0 +1,21 @@
+Kim Jong-Un may launch missile to mark North Korea day
+https://www.express.co.uk//news/world/850905/Kim-Jong-Un-may-launch-missile-mark-North-Korea-day-Donald-Trump
+ 22:13, Wed, Sep 6, 2017 
+  GETTYWORLD leaders are braced for another North Korean missile launch over the next few daysThe secretive state has reportedly been preparing for another Intercontinental Ballistic Missile test-firing – possibly to mark the country’s founding day on Saturday. Last weekend leader Kim Jong Un detonated the state’s sixth and biggest nuclear weapon in an underground bunker and claimed he could hit the mainland US with nuclear missiles.Japan yesterday said that Sunday’s nuclear blast was more than nine times more powerful than the blast that devastated Hiroshima in 1945.  Related articles   KIM'S MIND GAMES: North Korea releases strategy pics    Chinese stock exchange up for third consecutive day    President Trump has vowed to retaliate with “fire and fury” to any threat to the US or its allies.  We had a very, very frank and very strong phone call.President TrumpBut after a telephone conversation with China’s President Xi Jinping yesterday, Mr Trump softened his tone. He has repeatedly called on China, North Korea’s only real ally and main trading partner, to bring the rogue state to heel. Following the call Mr Trump said military action was not “a first choice but we’ll see what happens”.  North Korea conducts 'perfect' hydrogen bomb test Sun, September 3, 2017North Korea conducted its sixth and most powerful nuclear test, which it said was a successful detonation of an advanced hydrogen bomb Play slideshow  REUTERS1 of 9North Korean leader Kim Jong Un provides guidance on a nuclear weapons program in this undated photo released by North Korea's Korean Central News Agency  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYLast weekend leader Kim Jong Un detonated the state’s sixth and biggest nuclear weaponHe said: “President Xi would like to do something. We’ll see whether or not he can do it. But we will not be putting up with what’s happening in North Korea. “I believe that President Xi agrees with me 100 per cent ... We had a very, very frank and very strong phone call.”

@@ -1,0 +1,224 @@
+Taking the stage by Storm! Singer Tallia shows off her slender figure in glittering sequin jumpsuit as she performs energetic set at The Ivy
+https://www.dailymail.co.uk/tvshowbiz/article-4281138/Tallia-Storm-shows-figure-sequin-jumpsuit-stage.html
+ 12:12 BST, 4 March 2017 
+She is currently carving a career as a singer, having been discovered by Elton John back in 2012. And Tallia Storm looked to be in her element on Saturday night, as she headed to The Ivy in London to perform an intimate gig for the venue's private members. The budding popstar, 18, upped the glamour for her big night in a figure-hugging sequin jumpsuit as she took to the stage to belt out a number of hits for the crowd.Scroll down for video          Singing her heart out: Tallia Storm looked to be in her element on Saturday night, as she headed to The Ivy in London to perform an intimate gig for the venue's private membersThe Scottish singer exuded confidence despite her young age as she paraded around the stage in her standout ensemble.   RELATED ARTICLES  Previous 1 Next       Hadid she do it? Bella showcases her endless pins in...    'To say we feel blessed is an understatement': David Beckham...    Chart busting Ed Sheeran appears on The One Show with new...    Sir Patrick Stewart, 76, enjoys romantic dinner with wife...    
+
+Share this article
+Share
+117 shares
+
+ Cutting into spaghetti straps and a plunging V neck, the eye-catching jumpsuit teased at her bust and flashed plenty of skin to keep the look sexy, despite its full length.Cinching in at her petite waist, the all-in-one then clung tightly to her figure all the way to the floor to show off her enviably flat stomach and long, slim legs.          Saucy: Cutting into spaghetti straps and a plunging V neck, the eye-catching jumpsuit teased at her bust and flashed plenty of skin to keep the look sexy despite its full length
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Tallia_Storm'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get glittery like Tallia in her Giuseppe Zanotti sandals
+
+
+
+
+Giuseppe Zanotti glittered sandals
+Now reduced to £452 at Luisa Via Roma
+
+
+
+Visit site
+
+
+
+We are self-confessed magpies here in the Fashion Finder office, so if it glitters, we're loving it is the hard and fast rule.
+Tallia Storm took to the stage in The Ivy in London this week looking super sparkly in an embellished catsuit and glittery sandals.
+The shoes were gold, silver and black and featured a high platform ensuring Tallia towered. We love their metallic glitzy vibe and we know we'll be bagging a pair. Click right to shop these Giuseppez Zanotti sandals now at Luisa Via Roma.
+Want to check out other glittery goodness? Head to the line up below to choose sandals from the likes of Marc Jacobs, Miss KG and more.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET SOME LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Miss KG Havoc T-bar heeled shoe at Very (now £72.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos Hummingbird wide fit glitter heeled sandals
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Marc Jacobs Adriana platform sandals at Farfetch
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Giuseppe ZanottiBetty glittered platform sandal
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Tallia_Storm', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Slender: Cinching in at her petite waist, the all-in-one then clung tightly to her figure all the way to the floor to show off her enviably flat stomach and long, slim legsMaintaining her typically quirky style, the outfit was emblazoned with punky cartoon images of eyes, lips and even a revolver gun - before she upped the glitz further with a pair of glittering platform heels.Tallia left her hair in tousled waves and added a glamorous slick of eyeliner for a finishing touch as she took to the stage for a passionate and energetic set. After performing onstage with Elton John in 2012, the blonde has turned her attention to singing full-time - despite her tender 18 years.         Going for it: Tallia left her hair in tousled waves and added a glamorous slick of eyeliner for a finishing touch as she took to the stage for a passionate and energetic set         Chilling out: The star later relaxed in the swanky venue after the show - swapping her glittering number for a more classic silk jumpsuit of black and blue stripes       Recently revealing that her classmates have been accepting of her decision to pursue fame, she told Teen Vogue: 'I guess everybody's got their thing, so they're just like, "Oh, she's a singer, that's her thing. They honestly don't think it's a big deal. Everybody jokes about it.'As well as singing however, the youngster is known for her bold and brave style, often seen at endless red carpet events around the country.The starlet also revealed to the magazine that she has always had a passion for fashion and gets style tips from her older sister.She added: 'From the age of six, we were putting on fashion shows in our house. She knows what I'm looking for and what I want to look like.'Fashion is all about about being fun and not playing it safe.'          Heading for fame:After performing onstage with Elton John in 2012, the blonde has turned her attention to singing full-time - despite her tender 18 years

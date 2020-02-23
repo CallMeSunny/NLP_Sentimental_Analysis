@@ -1,0 +1,21 @@
+Prince Philip gave the Queen this wedding present (and Kate Middleton has borrowed it)
+https://www.express.co.uk//life-style/life/879604/queen-elizabeth-kate-middleton-prince-philip-wedding-bracelet
+ PUBLISHED:  07:20, Wed, Nov 15, 2017 
+   Queen Elizabeth II had her wedding to Prince Philip in November 1947. In honour of the day, the former Lieutenant Philip Mountbatten bought Her Majesty a bracelet as a gift.The large diamond bracelet was a fitting wedding gift for a member of the royal family, as it was made from the same diamonds as the Queen’s engagement ring.These sparkling gems were taken from a tiara owned by Prince Philip’s mother, Princess Alice of Battenberg.The tiara was dismantled to create his wife’s engagement ring, and later her wedding present. Related articles   Queen and Duke in 70 intimate pictures showing 70 years of love   Queen and Philip's anniversary: How couple's marriage was defined    GETTYQueen Elizabeth II’s wedding present from Prince Philip, and Kate Middleton has worn it Queen Elizabeth II’s wedding present from Prince Philip, and Kate Middleton has worn itA statement piece, the large bracelet harks back to the art deco era of design.It was set in platinum, much like Her Majesty’s engagement ring, and made by the same London jeweller Philip Antrobus.The Queen’s engagement ring was a three carat diamond solitare with five smaller diamonds on either side. According to reports, the Prince-to-be took a hands-on role in the designs, specifying exactly what he wanted for his bride. Queen Elizabeth II in pictures Tue, July 3, 2018The latest pictures of Her Majesty the Queen. Play slideshow  PA1 of 100Queen Elizabeth II attends a reception for 603 (City of Edinburgh) Squadron, Royal Auxiliary Air Force  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYQueen Elizabeth II: Prince Philip bought Her Majesty a bracelet as a giftThe Queen has been seen wearing the gift numbers times over the seven decades since the couple were married. She recently wore the bracelet to pose for her Diamond Jubilee photograph.Kate Middleton was allowed to wear the bracelet at her first state banquet to make the visit of Chinese president Xi Jinping and his wife Peng Liyuan in October 2015.At the event Kate wore a red dress by a favourite designer of her’s, Jenny Packham.  GETTYQueen Elizabeth II: It was made from the same diamonds as the Queen’s engagement ringShe also wore the Papyrus tiara, loved by the Queen mother, along with dangling silver earrings. Prince Philip has stood by the Queen side for almost 70 decades. The royal couple, age 91 and 96 respectively, are parents to Charles, Prince of Wales, Anne, Princess Royal, Prince Andrew, Duke of York and Prince Edward, Earl of Wessex. How do the pair show their love when in public? A body language expert has revealed all. 

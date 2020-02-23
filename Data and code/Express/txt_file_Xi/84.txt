@@ -1,0 +1,21 @@
+China to LAUNCH WAR on ISIS? President Xi vows to BATTLE jihadis after Paris attacks
+https://www.express.co.uk//news/world/619513/ISIS-Islamic-State-China-President-Xi-Jinping-Li-Keqiang-Paris-attacks
+ 07:43, Mon, Nov 16, 2015 
+  GETTYPresident Xi Jinping condemned the horror attacks in ParisPresident Xi Jinping vowed to step up the fight in the wake of the "barbaric" attacks by militants linked to ISIS on Friday night.He made the comments during a phone call with Francois Hollande, the French president, according to Chinese media reports.President Xi is also believed to have offered "deep condolences" to Mr Hollande during their conversation yesterday. Related articles   Thousands of Londoners honour Paris victims with moving vigil in...   How to change YOUR Facebook profile picture to French flag to... Foreign Ministry spokesman Hong Lei said: "Terrorism is a common challenge facing humanity."China resolutely supports France in maintaining its national security and stability and in attacking terrorism."And Li Keqiang, the Chinese Premier, expressed "strong outrage and condemnation" over the attacks.  ANADOLUAt least 141 people were killed across Paris on Friday  ANADOLUThe Eiffel Tower went dark in respect for the victimsNo Chinese nationals are among the victims identified so far by French authorities.But the China National Tourism Administration (CNTA) said around 1,300 Chinese tourists were in Paris on Friday.A spokesman for the CNTA urged its bureau to follow the developments in the French capital closely.  GETTYPresident Xi on a trip to New Zealand last yearXi's comments have led to speculation that China is set to bomb the terrorists to oblivion in Iraq and Syria.Russia has reportedly killed hundreds of fanatics since Vladimir Putin ordered airstrikes against ISIS in September.The terror group's arms supplies are also said to have been cut off by relentless Russian bomber jets.Washington and its allies have suggested Russia is seeking to prop up Bashar al-Assad's regime rather than defeat ISIS.But Putin recently hit back, saying his country wants to "contribute to the fight against terrorism".    World unites: PrayersForParis Fri, November 27, 2015The world has united in an act of solidarity in tribute to the victims of the Paris terror attacks. Landmarks around the world have been lit in blue, white, and red to symbolise the French flag. Play slideshow  AFP/Getty Images1 of 69French President Francois Hollande (C) attends with French members of governement (back) the  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    

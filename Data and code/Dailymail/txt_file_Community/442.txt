@@ -1,0 +1,435 @@
+FTSE CLOSE: UK stocks jump as China softens its trade war talk; Report hails good news for British exports
+https://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html
+ 08:18 BST, 10 April 2018 
+          
+
+
+    {"@context":"http://schema.org","@type":"LiveBlogPosting","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","description":"The FTSE 100 closed up 72.00 points at 7266.75 after Chinese president Xi Jinping softened the rhetoric in the ongoing trade dispute with the US. He warned against a 'cold war' mentality, sending Asian and European markets higher. The Dow Jones also soared after the opening bell on Wall Street. A report from HSBC claimed British exports had benefited from the weak pound while a KPMG retail update found the freezing 'Beast from the East' kept shoppers away from the high street in March.","headline":"FTSE CLOSE: UK stocks jump as China softens its trade war talk; Report hails good news for British exports","publisher":{"@type":"Organization","@id":"https://www.dailymail.co.uk#publisher","name":"Daily Mail","logo":{"@type":"ImageObject","url":"https://i.dailymail.co.uk/i/sitelogos/daily-mail-structured-data-logo.gif","width":"350","height":"60"}},"liveBlogUpdate":[{"@type":"BlogPosting","headline":"City pundits on today's session","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-20","dateModified":"2018-04-10T17:42:46+01:00","datePublished":"2018-04-10T17:42:46+01:00","articleBody":"<br />Jasper Lawler, head of research at London Capital Group, said: 'The jump higher out of the gates in European stocks proved durable. Investors are acting like Chinese President Xi Jinping&rsquo;s \"conciliatory\" speech at a forum in Asia makes a trade war dead on arrival.\n'Although another twist or two in the trade dispute seems likely, it does seem we&rsquo;ve stepped off the road to ruin. The exception was again shares in Russia.\n'The benchmark Micex index has now notched up double-digit losses in just two days. The fact that the new US tariffs target individuals and industries that are not part of Putin&rsquo;s inner circle increases the risk of investing in any Russian company.<br /> <br />'There were some specific beneficiaries of the proposed economic reforms in President Xi&rsquo;s speech. European automakers including Volkswagen, BMW and Peugeot Citroen all saw share prices rise in excess of 2 per cent.\n'Lower import tariffs will cut the cost of purchasing foreign cars for Chinese drivers. Car sales have plateaued in developed markets but there is years of rising demand to take advantage of in China.'\nDavid Madden, market analyst at CMC Markets, said: 'European markets are set to finish higher today after Chinese president Xi Jinping said he is willing to open up the Chinese economy even further.\n'The remarks were made overnight at the Bo&rsquo;ao forum. Traders are taking it as a sign there won&rsquo;t be a full-blown trade war between the US and China, and they are snapping up stocks. <br /> <br />'Mining companies are clawing back some of yesterday&rsquo;s lost ground. The message out of China is towards a more open and liberal mindset in terms of international trade.\n'The second-largest economy in the world is a major importer of raw materials, and should they commit to their pledge to lower trade barriers, it is likely to benefit companies like BHP Billiton, Rio Tinto and Antofagasta.'","author":{"@type":"Person","name":"Tanya Jefferies"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"FTSE 100 closes up 72.00 points at 7266.75","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-19","dateModified":"2018-04-10T17:07:45+01:00","datePublished":"2018-04-10T17:07:45+01:00","articleBody":"","author":{"@type":"Person","name":"Tanya Jefferies"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Thousands of City jobs at risk after Deutsche Bank sacked boss","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-18","dateModified":"2018-04-10T16:15:02+01:00","datePublished":"2018-04-10T16:15:02+01:00","articleBody":"Thousands of City jobs could be on the block at Deutsche Bank after it fired chief executive John Cryan.\nThe Yorkshireman was forced to quit by his own board amid concerns that his already-brutal programme of cuts does not go far enough.\nHe has been replaced by insider Christian Sewing, who has hinted that the troubled German lender&rsquo;s once-mighty investment bank will be slashed further.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Recruiter hails solid growth","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-17","dateModified":"2018-04-10T16:03:34+01:00","datePublished":"2018-04-10T16:03:34+01:00","articleBody":"Recruitment company Robert Walters enjoyed first quarter success with a 17 per cent increase in recruitment fee revenue it revealed today.\nEurope saw an impressive growth rate of 32 per cent with the biggest growth countries, Germany, Spain and the Netherlands each growing over 35%.\nIn the UK there was significant growth outside of the capital with Manchester, Milton Keynes and St Albans being hailed as standout stars.\nUK Q1 fee income was up 6 per cent at &pound;25.2 million with the economy continuing to shrug off fears of a Brexit-induced hiring freeze.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"BoE: We helped UK households through financial crisis","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-16","dateModified":"2018-04-10T15:47:34+01:00","datePublished":"2018-04-10T15:47:34+01:00","articleBody":"Bank of England chiefs have simultaneously lauded their effectiveness in nursing British households through the financial crisis and hinted another rate rise is imminent.\nIn a speech at the University of&nbsp;Melbourne&nbsp;in Australia, the Bank's chief economist Andy Haldane said the average UK family has benefited from a cumulative &pound;90,000 boost to their wealth since the 2008 crisis due to its policies to support the economy.\nThe figure includes the impact of house price rises and stock market climbs. With these stripped out Haldane said it is a more modest but not insignificant &pound;9,000.\n'The material loosening of UK monetary policy after 2007 has had a significantly positive effect on employment, income and wealth, without which average living standards in the UK would be materially lower,' Haldane said.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Check in with the afternoon markets","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-15","dateModified":"2018-04-10T12:32:53+01:00","datePublished":"2018-04-10T12:32:53+01:00","articleBody":"European markets are 'buoyant' according to Connor Campbell of Spread Ex.\nHe said: 'The European markets remained buoyant in the aftermath of President Xi&rsquo;s openness-eying speech, with the prospect of some sizeable growth to come from the US session likely to keep the gains going.\n'Though it trailed its more ebullient peers, the FTSE still managed a respectable 40 point rise as the day went on, a move that took the UK index back above 7200 and to levels not seen in around a month.\n'This came despite a decent showing from the pound; sterling jumped 0.2% against both the dollar and the euro, keeping above $1.415 against the former while knocking on the door of &euro;1.15 against the latter. That&rsquo;s because the currency got a bit of a boost in the form of some pro-rate hike comments from Ian McCafferty &ndash; the gains only weren&rsquo;t larger due to the MPC member&rsquo;s already well-known hawkish stance.\n'As mentioned, the certain elements of the Eurozone were more than ready to embrace the idea that the US and China are stepping back from the trade war brink. The DAX surged over 140 points, leaving the German index to dance around the 12400 mark for the first time since the middle of March.'","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Regulator increases scrutiny of 'big six' accounting firms","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-14","dateModified":"2018-04-10T12:15:58+01:00","datePublished":"2018-04-10T12:15:58+01:00","articleBody":"The UK's six largest accounting firms are facing a regulatory crackdown after the watchdog said it would \"enhance\" its monitoring of the sector amid growing criticism of auditing failures.\nThe Financial Reporting Council (FRC) said the move is meant to avoid instability in the financial sector and \"systemic deficiencies\" in the networks of the sector's biggest companies - BDO, Deloitte, EY, KPMG, PwC and Grant Thornton.\nIt plans to focus on \"critical\" areas including evidence of auditing quality, risk management and controls, financial soundness, values and behaviours as well as leadership and governance.\nThe watchdog said it had already started work on monitoring risk reporting, contingency planning and IT security across the companies, and plans to report back to the firms on its findings.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Full story on British Gas price hike","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-13","dateModified":"2018-04-10T11:59:50+01:00","datePublished":"2018-04-10T11:59:50+01:00","articleBody":"The full story on British Gas's announcement of a price hike is available to read here.\nThe energy firm is to increase bills for 4.1 million dual-fuel customers by an average of 5.5% - &pound;60 a year. It has blamed rising wholesale energy and Government policy costs for the move.\nIt means&nbsp;British Gas's standard variable tariff will rise to &pound;1,161 a year for a typical dual fuel customer.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Bitcoin back down to $6,700","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-12","dateModified":"2018-04-10T11:38:21+01:00","datePublished":"2018-04-10T11:38:11+01:00","articleBody":"","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Government cracks down on outsourcing contracts in bid to boost small business","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-11","dateModified":"2018-04-10T11:18:30+01:00","datePublished":"2018-04-10T11:18:30+01:00","articleBody":"The Cabinet Office has announced plans to block companies who do not pay contractors from winning government contracts.\nThe moves are hoped to help small businesses win more public sector work. The government set a target for a third of all contracts to be with small businesses by 2022.\nIt follows the collapse of construction firm Carillion and the saga that followed with questions asked about why the government gave public contracts to a firm in such difficulty.&nbsp;\nCabinet Office minister Oliver Dowden said: 'This government is listening to the business community and is committed to levelling the playing field for smaller suppliers to win work in the public sector.'","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Lettings agency boosts profit","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-10","dateModified":"2018-04-10T11:04:33+01:00","datePublished":"2018-04-10T11:04:25+01:00","articleBody":"Letting agency Belvoir Lettings has reported a 14% jump in group revenue for 2017, up to &pound;11.3m.&nbsp;&nbsp;\nProfit before tax at the group was up 62% to &pound;3.9m, rising from &pound;2.4m in 2016.\nThe group manages 58,020 properties.\nIt has increased final dividend to 3.5p, meaning the total dividend for the year is 6.9p, up from 6.8p in 2016.\nCEO&nbsp;Dorian Gonsalves said: 'We are pleased to report another year of strong growth for the Group, in terms of both revenues and profitability.&nbsp;Our franchisees, who are mostly owner-operators, have continued to grow organically, through diversification and by making local portfolio acquisitions, all of which have contributed to our adjusted profit in 2017 being up 39%.\n'Looking to 2018, the Board remains confident that the Belvoir Group will benefit from further consolidation within the sector, further integration of our recent acquisitions to deliver additional efficiencies and diversification of property-related services offered through our franchised networks, to ensure a continued increase in shareholder value.'","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Eddie Stobart reports falling profits despite solid revenue growth","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-9","dateModified":"2018-04-10T10:33:30+01:00","datePublished":"2018-04-10T10:33:30+01:00","articleBody":"Haulage firm Eddie Stobart has reported strong growth in its underlying earnings last year, rising to &pound;623.9m in 2017 - up from &pound;549m in 2016.\nHowever its statutory profits fell to &pound;9.9m, down from &pound;11.2m in 2016.\nThe company has proposed a final dividend of 4.4 pence a share, a total of 5.8 pence a share for the full year.&nbsp;\nChief executive Alex Laffey said:&nbsp;'We have made good progress in implementing our strategy of becoming a leading provider of end-to-end supply chain solutions. This has been demonstrated by our performance over the past 12 months, especially within our two key growth sectors, Manufacturing, Industrial and Bulk, and E-commerce.\n'Overall we are pleased with our progress in 2017.&nbsp; The new financial year has started well and in line with the Board's expectations.'","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/10/1523352802076_lc_galleryImage_Eddie_Stobart_truck_Undat.JPG"},{"@type":"BlogPosting","headline":"British Gas to hike bills for four million households","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-8","dateModified":"2018-04-10T09:57:18+01:00","datePublished":"2018-04-10T09:55:43+01:00","articleBody":"British Gas has announced plans to increase energy bills for dual-fuel customers on its standard&nbsp;variable tariff by an average of 5.5%, a rise of &pound;60 a year.&nbsp;\nThe change will hit 4.1 million households across the UK.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/09/1523350633533_lc_galleryImage_A_British_Gas_bill_behind.JPG"},{"@type":"BlogPosting","headline":"Russian rouble tumbles","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-7","dateModified":"2018-04-10T09:50:20+01:00","datePublished":"2018-04-10T09:50:20+01:00","articleBody":"The value of the Russian rouble has plummeted amid a second day of fierce selling of the currency.&nbsp;\nIt has fallen a further 4.5% today after an initial 4% drop on Monday.&nbsp;\nOne dollar now buys 63.45 roubles.\nFresh US sanctions and geopolitical risks emanating from actions in Syria have shaken Russian investors.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Card Factory revenues tread higher","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-6","dateModified":"2018-04-10T09:40:56+01:00","datePublished":"2018-04-10T09:40:56+01:00","articleBody":"Card Factory reported a 4.3% increase in revenues in 2017 to &pound;398.2 million and said that like-for-like store sales were up 0.4% while online sales were barely changed at &pound;19.3 million, up from &pound;19.2 million.\nHowever, the company&rsquo;s profit before tax was lower at &pound;82.8 million, down from &pound;83.7 million the year before.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/09/1523349617566_lc_galleryImage_File_photo_dated_21_05_09.JPG"},{"@type":"BlogPosting","headline":"Hostelworld revenues up","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-5","dateModified":"2018-04-10T09:17:28+01:00","datePublished":"2018-04-10T09:17:28+01:00","articleBody":"Hostelworld has reported a surge in bookings and revenue for 2017, and upped its shareholder dividend as a result.\nGroup bookings increased by 6% (to 7.5m bookings) with core Hostelworld brand bookings up 13%, the company said today, with 'continued strong performance' in Asia with bookings growth of 12%.&nbsp;\nThe group's net revenue increased 8% to &euro;86.7m, with profits after tax of&nbsp;&euro;11.2m.\nIt has proposed a 15% increase in its final dividend of 12.0 euro cent per share, up from the 10.4 euro cents it offered in 2016.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"UK exports to accelerate in 2018","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-4","dateModified":"2018-04-10T08:50:42+01:00","datePublished":"2018-04-10T08:50:42+01:00","articleBody":"British exports will expand at the fastest pace since 2011 according to a survey published by HSBC.\nExports of UK goods and services will increase by 10% this year, hitting &pound;639bn.\nThe weak pound has provided a boost to British companies with earnings overseas while the economies of key trading partners have soared despite the UK economy failing to keep up.\nThe US, Germany and France are among the top markets for UK exporters.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Import tariff comments caught the ear of markets...","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-3","dateModified":"2018-04-10T08:44:02+01:00","datePublished":"2018-04-10T08:43:55+01:00","articleBody":"Connor Campbell, a financial analyst at Spread Ex, also reacted to President Xi's market-calming speech.\nHe said: 'Now, Xi still threw plenty of shade at the Orange Menace, calling on other countries to &lsquo;reject power politics&rsquo; and embrace openness lest they be &lsquo;assigned to the dustbin of history&rsquo;.\n'Yet it was his comments on import tariffs, which he said would be &lsquo;significantly&rsquo; lower for autos, and his promise that the country would do more to enforce intellectual property rights of international firms, ostensibly a key concern for Trump, that really caught the ear of the markets.'","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"President Xi provides relief for markets","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-2","dateModified":"2018-04-10T08:39:13+01:00","datePublished":"2018-04-10T08:39:13+01:00","articleBody":"President Xi has extended an olive branch in the ongoing trade dispute with the US, but will Donald Trump accept it?\nMarkets have breathed a sigh of relief nonetheless.\nRebecca O&rsquo;Keeffe, head of investment at interactive investor, said: 'President Xi&rsquo;s speech overnight appears to have struck the right tone, providing some relief for investors who have been buffeted by the recent war of words between Trump and China over trade. \n'While there was already an overwhelming sense that Chinese officials were keen to achieve a negotiated settlement before the proposed tariffs do any lasting damage to either the Chinese or US economies, today&rsquo;s speech was the clearest indication yet that China is prepared to take concrete steps to address some of Trump&rsquo;s chief criticisms. \n'The big question is whether President Trump will now take the olive branch offered by Xi&rsquo;s conciliatory approach and dial down the rhetoric from his side too.\n'Corporate profits have taken a back seat to trade tensions and increased volatility over the past few weeks, but as the US earnings season starts in earnest this week, they will take on huge significance.&nbsp; Equities received a huge boost when the US tax reform bill was signed into law in December and investors will want to see that this is feeding through to the bottom line to justify their continued faith. \n'A good earnings season would do a lot to regain some equilibrium and provide some much-needed relief and calm for beleaguered investors.'","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"Shoppers avoided the high street as Beast from the East tore across UK, report finds","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-1","dateModified":"2018-04-10T08:23:59+01:00","datePublished":"2018-04-10T08:23:59+01:00","articleBody":"The Beast from the East kept shoppers away from stores in March as people huddled in the warmth of their homes amid the big freeze, figures show.\nA report from the British Retail Consortium (BRC) and KPMG, covering the final days of February to the end of March, said the period was volatile as the run-up to Easter helped to offset the impact of the \"seemingly endless\" cold weather on sales.\nIt said UK retail sales increased by 1.4% on a like-for-like basis compared with March 2017, when they had decreased 1% from the preceding year.\nOn a total basis, sales rose 2.3% annually in March, against a decline of 0.2% in March 2017.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"},{"@type":"BlogPosting","headline":"FTSE treads higher","url":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html#lc-id-0","dateModified":"2018-04-10T08:23:01+01:00","datePublished":"2018-04-10T08:23:01+01:00","articleBody":"Chinese president Xi Jinping's softened tone in the trade dispute sent Asian markets higher overnight, helping support a rise on our own FTSE 100.\nIt opened 0.51% higher, gaining 36 points.\nIt stands at 7,220 currently.","author":{"@type":"Person","name":"Louise Hill"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/newpix/2018/04/10/08/4B00754D00000578-0-image-m-7_1523344600701.jpg"}],"coverageStartTime":"2018-04-10T08:23:01+01:00","coverageEndTime":"2019-05-20T13:47:54+01:00"}
+    
+
+
+
+
+Tanya Jefferies
+Host commentator
+
+
+
+Louise Hill
+Host commentator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Auto-update
+
+
+
+17:42 
+
+
+City pundits on today's session
+
+
+Jasper Lawler, head of research at London Capital Group, said: 'The jump higher out of the gates in European stocks proved durable. Investors are acting like Chinese President Xi Jinping’s "conciliatory" speech at a forum in Asia makes a trade war dead on arrival.
+'Although another twist or two in the trade dispute seems likely, it does seem we’ve stepped off the road to ruin. The exception was again shares in Russia.
+'The benchmark Micex index has now notched up double-digit losses in just two days. The fact that the new US tariffs target individuals and industries that are not part of Putin’s inner circle increases the risk of investing in any Russian company. 'There were some specific beneficiaries of the proposed economic reforms in President Xi’s speech. European automakers including Volkswagen, BMW and Peugeot Citroen all saw share prices rise in excess of 2 per cent.
+'Lower import tariffs will cut the cost of purchasing foreign cars for Chinese drivers. Car sales have plateaued in developed markets but there is years of rising demand to take advantage of in China.'
+David Madden, market analyst at CMC Markets, said: 'European markets are set to finish higher today after Chinese president Xi Jinping said he is willing to open up the Chinese economy even further.
+'The remarks were made overnight at the Bo’ao forum. Traders are taking it as a sign there won’t be a full-blown trade war between the US and China, and they are snapping up stocks.  'Mining companies are clawing back some of yesterday’s lost ground. The message out of China is towards a more open and liberal mindset in terms of international trade.
+'The second-largest economy in the world is a major importer of raw materials, and should they commit to their pledge to lower trade barriers, it is likely to benefit companies like BHP Billiton, Rio Tinto and Antofagasta.'
+
+
+
+
+
+
+
+
+17:07 
+
+
+FTSE 100 closes up 72.00 points at 7266.75
+
+
+
+
+
+
+
+
+
+
+16:15 
+
+
+Thousands of City jobs at risk after Deutsche Bank sacked boss
+
+
+Thousands of City jobs could be on the block at Deutsche Bank after it fired chief executive John Cryan.
+The Yorkshireman was forced to quit by his own board amid concerns that his already-brutal programme of cuts does not go far enough.
+He has been replaced by insider Christian Sewing, who has hinted that the troubled German lender’s once-mighty investment bank will be slashed further.
+
+
+
+
+
+
+
+
+16:03 
+
+
+Recruiter hails solid growth
+
+
+Recruitment company Robert Walters enjoyed first quarter success with a 17 per cent increase in recruitment fee revenue it revealed today.
+Europe saw an impressive growth rate of 32 per cent with the biggest growth countries, Germany, Spain and the Netherlands each growing over 35%.
+In the UK there was significant growth outside of the capital with Manchester, Milton Keynes and St Albans being hailed as standout stars.
+UK Q1 fee income was up 6 per cent at £25.2 million with the economy continuing to shrug off fears of a Brexit-induced hiring freeze.
+
+
+
+
+
+
+
+
+15:47 
+
+
+BoE: We helped UK households through financial crisis
+
+
+Bank of England chiefs have simultaneously lauded their effectiveness in nursing British households through the financial crisis and hinted another rate rise is imminent.
+In a speech at the University of Melbourne in Australia, the Bank's chief economist Andy Haldane said the average UK family has benefited from a cumulative £90,000 boost to their wealth since the 2008 crisis due to its policies to support the economy.
+The figure includes the impact of house price rises and stock market climbs. With these stripped out Haldane said it is a more modest but not insignificant £9,000.
+'The material loosening of UK monetary policy after 2007 has had a significantly positive effect on employment, income and wealth, without which average living standards in the UK would be materially lower,' Haldane said.
+
+
+
+
+
+
+
+
+12:32 
+
+
+Check in with the afternoon markets
+
+
+European markets are 'buoyant' according to Connor Campbell of Spread Ex.
+He said: 'The European markets remained buoyant in the aftermath of President Xi’s openness-eying speech, with the prospect of some sizeable growth to come from the US session likely to keep the gains going.
+'Though it trailed its more ebullient peers, the FTSE still managed a respectable 40 point rise as the day went on, a move that took the UK index back above 7200 and to levels not seen in around a month.
+'This came despite a decent showing from the pound; sterling jumped 0.2% against both the dollar and the euro, keeping above $1.415 against the former while knocking on the door of €1.15 against the latter. That’s because the currency got a bit of a boost in the form of some pro-rate hike comments from Ian McCafferty – the gains only weren’t larger due to the MPC member’s already well-known hawkish stance.
+'As mentioned, the certain elements of the Eurozone were more than ready to embrace the idea that the US and China are stepping back from the trade war brink. The DAX surged over 140 points, leaving the German index to dance around the 12400 mark for the first time since the middle of March.'
+
+
+
+
+
+
+
+
+12:15 
+
+
+Regulator increases scrutiny of 'big six' accounting firms
+
+
+The UK's six largest accounting firms are facing a regulatory crackdown after the watchdog said it would "enhance" its monitoring of the sector amid growing criticism of auditing failures.
+The Financial Reporting Council (FRC) said the move is meant to avoid instability in the financial sector and "systemic deficiencies" in the networks of the sector's biggest companies - BDO, Deloitte, EY, KPMG, PwC and Grant Thornton.
+It plans to focus on "critical" areas including evidence of auditing quality, risk management and controls, financial soundness, values and behaviours as well as leadership and governance.
+The watchdog said it had already started work on monitoring risk reporting, contingency planning and IT security across the companies, and plans to report back to the firms on its findings.
+
+
+
+
+
+
+
+
+11:59 
+
+
+Full story on British Gas price hike
+
+
+The full story on British Gas's announcement of a price hike is available to read here.
+The energy firm is to increase bills for 4.1 million dual-fuel customers by an average of 5.5% - £60 a year. It has blamed rising wholesale energy and Government policy costs for the move.
+It means British Gas's standard variable tariff will rise to £1,161 a year for a typical dual fuel customer.
+
+
+
+
+
+
+
+
+11:38 
+
+
+Bitcoin back down to $6,700
+
+
+
+
+Crypto update:#BITCOIN  6746.93  +1.24%#ETHER  395.45  +1.35%#BITCOINCASH  634.72  +0.78%#RIPPLE  0.482  +0.8%#LITECOIN  113.28  -0.14%#BTC #ETH #BCH #XRP #LTC— IGSquawk (@IGSquawk) April 10, 2018
+
+
+
+
+
+
+
+
+
+11:18 
+
+
+Government cracks down on outsourcing contracts in bid to boost small business
+
+
+The Cabinet Office has announced plans to block companies who do not pay contractors from winning government contracts.
+The moves are hoped to help small businesses win more public sector work. The government set a target for a third of all contracts to be with small businesses by 2022.
+It follows the collapse of construction firm Carillion and the saga that followed with questions asked about why the government gave public contracts to a firm in such difficulty. 
+Cabinet Office minister Oliver Dowden said: 'This government is listening to the business community and is committed to levelling the playing field for smaller suppliers to win work in the public sector.'
+
+
+
+
+
+
+
+
+11:04 
+
+
+Lettings agency boosts profit
+
+
+Letting agency Belvoir Lettings has reported a 14% jump in group revenue for 2017, up to £11.3m.  
+Profit before tax at the group was up 62% to £3.9m, rising from £2.4m in 2016.
+The group manages 58,020 properties.
+It has increased final dividend to 3.5p, meaning the total dividend for the year is 6.9p, up from 6.8p in 2016.
+CEO Dorian Gonsalves said: 'We are pleased to report another year of strong growth for the Group, in terms of both revenues and profitability. Our franchisees, who are mostly owner-operators, have continued to grow organically, through diversification and by making local portfolio acquisitions, all of which have contributed to our adjusted profit in 2017 being up 39%.
+'Looking to 2018, the Board remains confident that the Belvoir Group will benefit from further consolidation within the sector, further integration of our recent acquisitions to deliver additional efficiencies and diversification of property-related services offered through our franchised networks, to ensure a continued increase in shareholder value.'
+
+
+
+
+
+
+
+
+10:33 
+
+
+Eddie Stobart reports falling profits despite solid revenue growth
+
+
+Haulage firm Eddie Stobart has reported strong growth in its underlying earnings last year, rising to £623.9m in 2017 - up from £549m in 2016.
+However its statutory profits fell to £9.9m, down from £11.2m in 2016.
+The company has proposed a final dividend of 4.4 pence a share, a total of 5.8 pence a share for the full year. 
+Chief executive Alex Laffey said: 'We have made good progress in implementing our strategy of becoming a leading provider of end-to-end supply chain solutions. This has been demonstrated by our performance over the past 12 months, especially within our two key growth sectors, Manufacturing, Industrial and Bulk, and E-commerce.
+'Overall we are pleased with our progress in 2017.  The new financial year has started well and in line with the Board's expectations.'
+
+
+
+
+
+
+
+
+
+
+09:55 
+
+
+British Gas to hike bills for four million households
+
+
+British Gas has announced plans to increase energy bills for dual-fuel customers on its standard variable tariff by an average of 5.5%, a rise of £60 a year. 
+The change will hit 4.1 million households across the UK.
+
+
+
+
+
+
+
+
+
+
+09:50 
+
+
+Russian rouble tumbles
+
+
+The value of the Russian rouble has plummeted amid a second day of fierce selling of the currency. 
+It has fallen a further 4.5% today after an initial 4% drop on Monday. 
+One dollar now buys 63.45 roubles.
+Fresh US sanctions and geopolitical risks emanating from actions in Syria have shaken Russian investors.
+
+
+
+
+
+
+
+
+09:40 
+
+
+Card Factory revenues tread higher
+
+
+Card Factory reported a 4.3% increase in revenues in 2017 to £398.2 million and said that like-for-like store sales were up 0.4% while online sales were barely changed at £19.3 million, up from £19.2 million.
+However, the company’s profit before tax was lower at £82.8 million, down from £83.7 million the year before.
+
+
+
+
+
+
+
+
+
+
+09:17 
+
+
+Hostelworld revenues up
+
+
+Hostelworld has reported a surge in bookings and revenue for 2017, and upped its shareholder dividend as a result.
+Group bookings increased by 6% (to 7.5m bookings) with core Hostelworld brand bookings up 13%, the company said today, with 'continued strong performance' in Asia with bookings growth of 12%. 
+The group's net revenue increased 8% to €86.7m, with profits after tax of €11.2m.
+It has proposed a 15% increase in its final dividend of 12.0 euro cent per share, up from the 10.4 euro cents it offered in 2016.
+
+
+
+
+
+
+
+
+08:50 
+
+
+UK exports to accelerate in 2018
+
+
+British exports will expand at the fastest pace since 2011 according to a survey published by HSBC.
+Exports of UK goods and services will increase by 10% this year, hitting £639bn.
+The weak pound has provided a boost to British companies with earnings overseas while the economies of key trading partners have soared despite the UK economy failing to keep up.
+The US, Germany and France are among the top markets for UK exporters.
+
+
+
+
+
+
+
+
+08:43 
+
+
+Import tariff comments caught the ear of markets...
+
+
+Connor Campbell, a financial analyst at Spread Ex, also reacted to President Xi's market-calming speech.
+He said: 'Now, Xi still threw plenty of shade at the Orange Menace, calling on other countries to ‘reject power politics’ and embrace openness lest they be ‘assigned to the dustbin of history’.
+'Yet it was his comments on import tariffs, which he said would be ‘significantly’ lower for autos, and his promise that the country would do more to enforce intellectual property rights of international firms, ostensibly a key concern for Trump, that really caught the ear of the markets.'
+
+
+
+
+
+
+
+
+08:39 
+
+
+President Xi provides relief for markets
+
+
+President Xi has extended an olive branch in the ongoing trade dispute with the US, but will Donald Trump accept it?
+Markets have breathed a sigh of relief nonetheless.
+Rebecca O’Keeffe, head of investment at interactive investor, said: 'President Xi’s speech overnight appears to have struck the right tone, providing some relief for investors who have been buffeted by the recent war of words between Trump and China over trade. 
+'While there was already an overwhelming sense that Chinese officials were keen to achieve a negotiated settlement before the proposed tariffs do any lasting damage to either the Chinese or US economies, today’s speech was the clearest indication yet that China is prepared to take concrete steps to address some of Trump’s chief criticisms. 
+'The big question is whether President Trump will now take the olive branch offered by Xi’s conciliatory approach and dial down the rhetoric from his side too.
+'Corporate profits have taken a back seat to trade tensions and increased volatility over the past few weeks, but as the US earnings season starts in earnest this week, they will take on huge significance.  Equities received a huge boost when the US tax reform bill was signed into law in December and investors will want to see that this is feeding through to the bottom line to justify their continued faith. 
+'A good earnings season would do a lot to regain some equilibrium and provide some much-needed relief and calm for beleaguered investors.'
+
+
+
+
+
+
+
+
+08:23 
+
+
+Shoppers avoided the high street as Beast from the East tore across UK, report finds
+
+
+The Beast from the East kept shoppers away from stores in March as people huddled in the warmth of their homes amid the big freeze, figures show.
+A report from the British Retail Consortium (BRC) and KPMG, covering the final days of February to the end of March, said the period was volatile as the run-up to Easter helped to offset the impact of the "seemingly endless" cold weather on sales.
+It said UK retail sales increased by 1.4% on a like-for-like basis compared with March 2017, when they had decreased 1% from the preceding year.
+On a total basis, sales rose 2.3% annually in March, against a decline of 0.2% in March 2017.
+
+
+
+
+
+
+
+
+08:23 
+
+
+FTSE treads higher
+
+
+Chinese president Xi Jinping's softened tone in the trade dispute sent Asian markets higher overnight, helping support a rise on our own FTSE 100.
+It opened 0.51% higher, gaining 36 points.
+It stands at 7,220 currently.
+
+
+
+
+
+
+
+{"id":"5597873","channel":"/money","pageUrl":"http://www.dailymail.co.uk/money/markets/article-5597873/FTSE-LIVE-UK-stocks-shift-higher-China-softens-trade-talk.html","status":"running","greenBox":{"body":""},"modifiedOrder":1}
+0
+0
+
+
+
+
+
+
+    if (!window.LiveCommentary) window.LiveCommentary = {};
+    window.LiveCommentary.commentaryConf = JSON.parse('{"publicNodeHost":"livecommentary.dailymail.co.uk/apps/livecommentary_public","websocketNodeHost":"https://livecomjoy.dailymail.co.uk/apps/livecommentary_public","startTime":1555499269,"appVersion":3,"frontEndHostOverride":"www.dailymail.co.uk","dmWebsiteOrigin":"https://www.dailymail.co.uk","pushMissingPostsOnReconnect":false}');
+
+
+
+   

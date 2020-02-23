@@ -1,0 +1,21 @@
+THIS is when the UK could strike a 'straightforward' free trade deal with America
+https://www.express.co.uk//news/world/805186/UK-should-secure-trade-deal-with-America-October-donald-trump-state-visit-Matthew-elliott
+ 11:47, Tue, May 16, 2017 
+   Matthew Elliott, the chief executive of Vote Leave, insisted securing trade deals with countries around the world “should be quite straightforward”.Speaking to CNBC, he said a trade deal had to be the main priority for the UK when the US leader visits.He said: “President Trump will be coming over in October for an official state visit to the UK, I hope that during that visit the number one item on the agenda is that trade deal.”  CNBC•GETTYMatthew Elliott called for the UK to sort out a trade deal by October Related articles   Fuming MEP rips into Brussels for denying UK share of EU assets   Europe prepares for no Brexit deal     I hope that during that visit the number one item on the agenda is that trade dealMatthew ElliottIt comes after reports of “positive” signals from the White House following the billionaire tycoon’s election win.Eurosceptic MEP Nigel Farage, a close ally of the leader and the first British politician to meet him after the election, had previously said a deal was on the cards despite Barack Obama saying the UK would be at the “back of the queue”.Speaking in March, the former Ukip leader insisted Britain would be able to secure a trade deal with the US by the end of the year if Brussels bureaucracy did not stand in its way. Brexit Negotiations: Britain's sternest enemies Tue, April 4, 2017According to a new index, the EU27 countries fall into three groups: hard-core, hard and soft. These are the countries with the highest scores which indicate a fairly strong opposition to Britain’s position Play slideshow  AFP/Getty Images1 of 7France has the highest score in the index at 32.5  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYNigel Farage on the campaign trail with Donald Trump last yearHe told the news channel: “Quite honestly, if the British Government went to Trump today and said right, let's crack on, I think that certainly by the end of this year if not a considerable time before, a trade deal could be done."But the problem is we are not allowed to because Mr Juncker says we can't do it until we have left the European Union.”Despite Mr Farage’s comments, Mr Elliott said a trade deal with the EU would also be “straightforward”.He said: “In terms of the UK-EU trade deal, that should be quite straight forward because of course we already have zero tariffs, zero quotas and the same regulations.“In terms of trade deals with the rest of the world, I think that if we don’t complicate it, if we don’t add in lots of regulation and lots of other sundry things like the EU tends to do, it should be quite straightforward.”

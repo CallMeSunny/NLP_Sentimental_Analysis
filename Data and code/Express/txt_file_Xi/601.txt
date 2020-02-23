@@ -1,0 +1,21 @@
+China stocks rise as investors pile into banking and consumer shares
+https://www.express.co.uk//news/world/830576/China-stocks-rise-investors-banking-consumer-shares
+ 15:03, Wed, Jul 19, 2017 
+  GETTYChina stocks rose today as investors piled into banking, consumer and resources shares Even badly bruised small caps shrugged off early weakness to end the morning higher, though traders were not sure if their recent sharp correction has ended. The blue-chip CSI300 index rose 1.1 percent to 3,707.23 points by the lunch break, while the Shanghai Composite Index gained 0.8 percent to 3,213.09. Start-up board ChiNext was in negative territory for most of the morning but managed to end the morning up 0.4 percent. Still, the gauge remained near the lowest level since January, 2015.  Related articles   Chinese blue-chip stocks likely to drop after five week rising streak   China stocks rise after initial sharp drop this morning The index, long dominated by speculators, plunged early in the week in what media dubbed "Black Monday" after President Xi Jinping vowed to strengthen control over financial risk. "Blue-chips are powering ahead but ChiNext is in the abyss. Such divergent trends will be self-reinforced, and will last for at least a year," said Chang Chenwei, trader of a Shanghai-based hedge fund house. State-owned firms in particular were advancing on expections of further reforms, he added. Earnings of steel and coal firms, for example, have benefited from government-orchestrated shutdowns of older, more inefficient plants and mines.   GETTYEven badly bruised small caps shrugged off early weakness to end the morning higherThe latest semi-annual reports from Chinese mutual fund houses show that institutional investors are increasingly buying into blue chips, with asset managers targeting market leaders in sectors such as banking, insurance, home appliances and automobiles.  Blue-chips are powering ahead but ChiNext is in the abyssChang ChenweiForeign investors are also plowing money into China's big-caps, with the CSOP FTSE A50, the biggest yuan-denominated China-focused exchange-traded fund in Hong Kong, seeing money inflows recently.   GETTYThe index had dropped after President Xi Jinping vowed to strengthen control over financial risk"We believe China big-cap A stocks are still the first stop for global investors who look to get access in China especially after MSCI's decision to include China A shares into its global index framework starting from 2018," fund manager CSOP Asset Management wrote.  Top 10 countries that want to trade with UK after Brexit Thu, February 16, 2017These are the top 10 trade partner prospects for the UK moving forward Play slideshow  1 of 11  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYState-owned firms in particular were advancing on expectations of further reformsMost sectors rose in China, led by financials and raw material shares, with big players in the sector all state-owned. An index trading coal producers jumped 3.4 percent, while non-ferrous metal shares rose 2.8 percent.

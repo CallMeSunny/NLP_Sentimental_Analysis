@@ -1,0 +1,21 @@
+LIFE IN SPACE: China and Europe to build collaborative MOON VILLAGE
+https://www.express.co.uk//news/science/796908/China-ESA-Europe-to-build-collaborative-MOON-VILLAGE-space
+ 16:03, Wed, Apr 26, 2017 
+   The European Space Agency (ESA) and China’s space exploration arm China National Space Administration have held talks in regards to building a moon-base, a spokesperson for the ESA confirmed.The secretary general for China's space agency, Tian Yulong, told the east-Asian country’s state media that talks are ongoing, and Pal Hvistendahl, a spokesperson for the ESA, confirmed its truth.Mr Hvistendahl said: “The Chinese have a very ambitious moon program already in place.“Space has changed since the space race of the '60s.  Related articles   Out of this world delivery: Amazon boss to send supplies to MOON   WATCH: What's this mystery object floating across the MOON?   ESAThe ESA's impression of the moon village“We recognise that to explore space for peaceful purposes, we do international cooperation." While Europe, Russia and the USA have dominated space exploration, particularly the latter, China’s entrance has been strong.Recently, China has sent a space lab, Tiangong 2, into Earth’s orbit to rival the International Space Station, and in doing so became only the third nation to independently get people into space.  GETTYHumans could be set for a return to the moonPresident of China, Xi Jinping said that the Tiangong 2 mission would "enable China to take larger and further steps in space exploration, and make new contributions to building up China as a space power”.The ESA’s director general Johann-Dietrich Wörner has in the past confirmed that it is looking to build a “moon village”. Moon in pictures Thu, September 24, 2009 Play slideshow  1 of 20An early Waxing Crescent Moon is seen just after sunset on January 9, 2008 from Tyler, Texas. The 'nightside' of the Moon is seen lit by light reflected from the day time side of the Earth and is known as 'Earthshine'  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYAn artist's impression of a moon villageSpeaking at a conference in January, Mr Wörner said: “For me, the Moon village is already more or less a fact.“Okay, there is nothing on the Moon visible [yet], but there will be something visible very soon, because several of these entities are planning to go to the Moon rather soon.”  GETTYESA's Mr Wörner: “For me, the Moon village is already more or less a fact."He continued: “It's not like the International Space Station, which is more or less restricted to the club. “The Moon village idea is an open idea, free and open access.”

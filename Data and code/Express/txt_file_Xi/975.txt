@@ -1,0 +1,21 @@
+New US sanctions could make Kim Jong-un's North Korea ‘rethink nuclear programme’
+https://www.express.co.uk//news/world/845188/us-sanctions-kim-jong-un-north-korea-nuclear-programme
+ 05:01, Thu, Aug 24, 2017 
+  GETTYSanctions could disrupt North Korea's nuclear and ballistic missile programmes, it has been claimedThe US Treasury Department earlier this week announced new sanctions on Chinese and Russian entities that help fund and facilitate North Korea's nuclear and ballistic missile programmes.Coupled with the United Nations Security Council resolution passed earlier this month, the sanctions are intended to further isolate companies and individuals outside of North Korea that provide key support to Pyongyang's nuclear ambitions.Robert Manning, a senior fellow at the Atlantic Council, has suggested that people are wrong to argue the latest round of sanctions will be ineffective because earlier measures have been comparatively mild. Related articles   Merkel says EU & Germany should do more to help North Korea crisis   World War 3 fears MAPPED: The rising tensions between global powers He said: "These new, increasingly comprehensive sanctions, ending North Korea's access to the international financial system and cutting off sources of hard currency, as was done to Iran, have not been tried."Such actions could lead Pyongyang to rethink its nuclear programme.”Mr Manning, however, was keen to stress that it would take time for the sanctions to deliver success for the Trump administration.  GETTYDonald Trump has repeatedly called on China to put more pressure on North Korea Revealing images from inside North Korea's museums Thu, August 10, 2017Photographs show guides giving tours of museums which feature destroyed American tanks and planes from the Korean War. Other pictures show statues and monuments dedicated to the ‘military might’ of North Korea, despite the fact that its reckless spending on the military has left many of its people starving Play slideshow  Roger Gomez / mediadrumworld.com1 of 10Soldiers on a smoke break  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He said: ”The irony is that while Trump has rejected Obama's policy of 'strategic patience,' it will take time, perhaps 12 to 15 months, for these efforts to bear fruit."Where Obama was largely waiting out Pyongyang and doing little to squeeze them, Trump's pressure tactics could bite, but require that same strategic patience."But Mr Manning also argued that the latest sanctions would not hit China hard, claiming that no major Chinese banks or companies have been targeted yet.  GETTYBeijing provides a key lifeline for the North Korean economy   He said: "This will have no significant impact on China's overall national economy. It is something that President Xi Jinping can live with.”US President Donald Trump has repeatedly called on China to put more pressure on North Korea.Beijing provides a key lifeline for the North Korean economy as it accounts for roughly 85 per cent of Pyongyang's imports, according to UN data.

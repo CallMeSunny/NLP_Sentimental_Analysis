@@ -1,0 +1,38 @@
+China begs world powers to ease North Korean tensions or expect 'DISASTROUS consequences'
+https://www.express.co.uk//news/world/824357/North-Korea-China-Liu-Jieyi-Kim-Jong-un-Xi-Jinping-Donald-Trump-disastrous-consquences
+ 02:28, Tue, Jul 4, 2017 
+   Liu Jieyi, China’s ambassador to the United Nations warned things could “get out of control” if states fail to ease tensions with Kim Jong-un.Beijing is currently pushing for talks on dismantling North Korea’s nuclear programme, after Kim carried out two nuclear tests last year and a series of ballistic missile tests since.But Trump’s administration said it will only open up talks with Pyongyang after they stop their nuclear and missile tests.  GETTYChina has warned of disastrous consequences if world powers do not ease tensions  Related articles   Japan prepares for North Korean nuclear strike with nationwide warning   China lashes out at Trump ‘damaging’ anti-missile system  North Korea as you've never seen before through these stunning pictures Tue, June 13, 2017These incredible photographs, which offer a unique glimpse behind the veil, were taken on a trip to the country by web designer Reuben Teo Play slideshow  Reuben Teo / mediadrumworld.com1 of 10Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Speaking at a news conference at the UN headquarters, Mr Liu said: “Currently tensions are high and we certainly would like to see a de-escalation."If tension only goes up ... then sooner or later it will get out of control and the consequences would be disastrous."The ambassador made the comments a day after China’s president Xi Jingling spoke with President Donald Trump to discuss the threat posed by Pyongyang.  GETTYLiu Jieyi, centre, sitting next to Donald Trump during a UN working dinner If tension only goes up ... then sooner or later it will get out of control and the consequences would be disastrousLiu Jieyi, China’s ambassador to the United NationsThe White House said President Trump “raised the growing threat posed by North Korea’s nuclear and ballistic missile programs”.However, Mr Xi made a disparaging statement following their conversation. The Chinese leader said “negative factors” have affected his relationship with President Trump.Pressing for more cooperative action against Kim, Mr Liu said, “we cannot afford to wait for too long without dialogue taking place” because the crisis with North Korea is “very, very serious”.     GETTYChina's leader Xi Jinping spoke with Donald Trump about North Korean aggressionWelcoming South Korea’s new leader Moon Jae-In into the White House, President Trump said the US had run out of patience with North Korea.The US President said: “Together, we are facing the threat of the reckless and brutal regime in North Korea. The nuclear and ballistic missile programs of that regime require a determined response.”But Kim has shown no signs of slowing down his missile tests. Yesterday, the isolated Asian state reload footage of their army striking a replica South Korean missile, in a show of strength. Bewildering photographs from inside a North Korean circus Thu, June 29, 2017From a monkey balancing on a goat, to a team of Shih Tzus playing football, North Korea is keen to show tourists their wide range of entertainment. Situated in the capital of Pyongyang the North Korean zoo and circus are regular attractions for wealthy locals and visiting Westerners Play slideshow  Barcroft Images1 of 20A monkey doing a handstand on a goat in a local animal show in Pyongyang, North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    A commentator can be heard in the video claiming Pyongyang will be able to “wipe out the daylight robbery U.S. imperialist and its subordinate [South Korea] without a trace”, according to NK news.Shortly before yesterday’s tests, Kim Jong-un’s mouthpiece criticised South Korea’s alliance with the US, claiming its neighbour is a “puppet and colonial servant”.The North Korean state newspaper, Rodong Sinmun, lashed out saying South Korean officials had ”revealed their miserable appearance seized with sycophancy and submission to the US”.

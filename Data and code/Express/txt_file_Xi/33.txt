@@ -1,0 +1,21 @@
+Dow Jones rises nearly 400 points as President Xi eases fears of a trade war
+https://www.express.co.uk//finance/city/944246/Dow-Jones-today-US-stocks-China-Xi-Jinping-trade-war
+ 21:00, Tue, Apr 10, 2018 
+  GETTYPresident Xi Jinping helped to ease trade war fears today with his comments The Dow Jones, S&P 500 and the Dow Jones industrial average all rose today following the Chinese premier's remarks.The Dow Jones is currently up by 396 points or 1.65 percent. The S&P500 is up 40 points or 1.54 percent and the Dow Jones industrial average is up by 412 points or 1.72 percent.President Xi discussed plans on Tuesday to "open" up the country’s economy by lowering tariffs on imports on cars and enforcing legal intellectual property of foreign groups, while also reducing duties on other consumer products.President Xi Jinping said: “This year, we will considerably reduce auto import tariffs and at the same time reduce import tariffs on some other products.” Related articles   BTC back at $8k - claims bitcoin to benefit from weakness in US stock    Dow Jones, FTSE, Dax and CAC all drop  Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    US car makers saw a jump in shares after this news was reported as Ford Motor rose 2.2 percent, whilst General Motors and Tesla gained 2.9 percent 5 percent.Art Hogan, chief market strategist at B. Riley FBR an investment bank, said: "If you look at President Xi's speech, it was conciliatory and that feels like a de-escalation. That's what the market wants."The problem is reform in China happens slowly.”Joshua Mahony of financial spreadbetting firm IG said: “Talk of China easing their import restrictions are helping drive global market sentiment higher.”The Chinese president comments also boosted European and Asian markets, with both seeing higher trading during their sessions.   Julian Evans-Pritchard, senior China economist Capital Economics said: “This could provide Trump with an opportunity to back down from his tariff threats while claiming a victory of sorts.”The Chinese president also boosted European and Asian markets as they both saw higher trading during their sessions.In general stocks have been more volatile this year compared to 2017 , still David Spika, president of GuideStone Capital Management said: “This is a more normal environment. It doesn't feel normal because we're not used to it.”

@@ -1,0 +1,38 @@
+William and Kate get sneak peek at new Poldark series during China visit
+https://www.express.co.uk//news/royal/613622/Prince-William-Kate-Middleton-watch-new-Poldark-China-visit
+ 14:29, Wed, Oct 21, 2015 
+  GETTYThe Duke and Duchess of Cambridge welcome Chinese President Xi Jinping at a creative industry eventWilliam and Kate, in a burgundy Dolce & Gabbana dress, watched intently with Chinese President Xi Jinping and his wife Peng Liyuan as the show's stars performed the scene at a special exhibition showcasing British creative talent.The second in line to the throne and his wife welcomed China's first couple to the event at Lancaster House, a Government hospitality building next to Clarence House, on the second day of their State Visit to Britain.They watched as Heida Reed, who plays Elizabeth, and Jack Farthing, Poldark's nemesis George, performed an intense scene in period costume, as George tried to get Elizabeth to set a date for their wedding in the Cornish drama.After the scene, the guests chatted to the actors and Debbie Horsfield, writer and executive producer of the hit show. Related articles   Lady in Red: But was Kate’s dazzling dress a craven nod too far to...   Corbyn FINALLY shows respect to the Queen as he obeys convention... William, 33, asked: "‎How's it been down there in Cornwall? Windy?"Farthing replied: "Really windy," and William, recalling family holidays in Cornwall, quipped: "All the sound microphones were blown away."Outside Lancaster House, the royal couple and their guests also got a sneak preview of the Aston Martin DB10 that serves as James Bond's car in the new movie SPECTRE, which has its royal premiere in London on Monday with the Cambridges in attendance.  GETTY•PAThe event celebrated cultural collaboration between the UK and China I think William and Kate found it funny as well, we put some of our British humour into itPortia CriswickOver the years, Bond movies have featured several oriental villains, including Chinese crook Dr No‎. The 1997 film Tomorrow Never Dies featured an evil media mogul bringing Britain and China to the brink of war before Bond and Wai Lin, a Chinese spy, agreed to work together to defeat the crooks.But the filmakers have been careful to avoid portraying China's Communist government as the enemy. As a result, the Bond franchise has become popular in China.The VIP visitors met Michael Wilson, one of the producers of SPECTRE, who said that the car was one of only 10 produced especially for the film by Aston Martin, and designed with the help of the film’s director Sam Mendes.“The president asked which film it was for, and I said it was the current film. He seemed interested to know what was going on," he said.  GETTYThe Duke and Duchess of Cambridge meet President of China, Xi Jinping  PAAidan Turner, star of Poldark“We are opening in China on November 13, so it is coming to China very quickly.”Asked if President Xi was the sort of man who might have been a Bond villain in years past, he said with a smile: “We were careful never to have politicians as viInside, the visitors watched a performance showcasing Merlin Entertainments.The company, which runs Legoland and Shrek's Adventure Land used the visit to announce it had signed an agreement with China Media Capital to establish a Legoland park in Shanghai.The royals and presidential party watched Kieren Smith, Artistic Director for Merlin, perform as character Doc Merlin and introduce them to the attractions. Kate Middleton Duchess of Cambridge pictures Mon, July 16, 2018Kate Middleton, the Duchess of Cambridge in pictures. Play slideshow  1 of 100  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He was joined by actress Portia Criswick, who plays Princess Fiona in Shrek Adventure Land.Afterwards Kieren said: "It was really enjoyable."The President and his wife were delightful, smiling and laughing, they definitely seemed to enjoy it."I think William and Kate found it funny as well, we put some of our British humour into it."At times he tour of Lancaster House became chaotic  as guests due to meet the party crowded into rooms alongside the royals, the president, their entourages and media from both countries.  PADuchess of Cambridge's first State banquetCrowds became particularly excited when the couples met action movie star Jackie Chan, a big film star in both the UK and China.He praised the State Visit, saying: "I think it really helps for the culture exchange. Right now China is one of the bigger markets."Collaboration really helps me to create new ideas."After touring the exhibits William presented President Xi with a specially commissioned painting from BAFTA visualising creative collaboration between the two countries.BAFTA Chief Executive Amanda Berry said after the visit: "It was a unique opportunity to showcase not only the best of British but also the relationships that are already happening in Britain and China."Outside before they left, the official party was shown two London icons: a black cab and a double decker bus. The president and his wife will almost certainly never get to use either. Kate once used both regularly but those days are over. Aidan Turner Thu, September 10, 2015Aidan Turner, star of Poldark in pictures Play slideshow  BBC/Mammoth Screen/Mike Hogan1 of 11Aidan Turner in Poldark  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+       

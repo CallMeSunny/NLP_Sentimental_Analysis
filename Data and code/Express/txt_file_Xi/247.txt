@@ -1,0 +1,21 @@
+China getting fed up of Kim? Security RAMPED UP on border with North Korea
+https://www.express.co.uk//news/world/680369/north-korea-kim-jong-un-xi-jinping-china-pyongyang-south-united-nations
+ 06:25, Thu, Jun 16, 2016 
+  GETTYTensions have been hotting up between Kim Jong-un and Xi JinpingTroops have been taking part in inspections along the border as China becomes increasingly cantankerous over tourists visiting certain sensitive areas.A Korean source said the rising surveillance is taking place after North Korea threatened to retaliate against the large number of defections taking place to the South this year.In April, 13 North Koreans working at a restaurant run by Pyongyang in China fled to the South, leaving North Korean officials furious.  GETTYTroops patrolling the North Korean border  GETTYA group of North Korean defectors protesting against Kim's regimeThe mass defection happened shortly after the United Nations slammed crazy Kim’s hermit nation and branded the tubby tyrant with a number of sanctions over its ominous ballistic missile tests.The Korean source added although the extra security is being billed as an extra layer of protection for tourists, it is more likely a scheme to stop foreign tourists visiting the area. Inside North Korea Thu, July 28, 2016Take a look inside North Korea and the unseen world of Kim Jong Un. Play slideshow  REUTERS1 of 59North Korea leader Kim Jong Un visits the Chollima Building Materials Complex  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    A tourists guide claimed that the border forces belong to the Chinese People's Liberation Army.A recent tourist to that area of China said tourists were being made to spend a large period of their time undergoing security inspection from Chinese troops.   They said: “We spent more time being checked than sightseeing.”They added that troops examined passports, mobile phones and there belongings.

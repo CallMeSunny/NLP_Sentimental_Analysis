@@ -1,0 +1,38 @@
+China TIGHTENS trade restrictions with North Korea in SHOCK move AGAINST its ally
+https://www.express.co.uk//news/world/900878/north-korea-kim-jong-un-world-war-3-china-xi-jinping-un-sanctions-trade-deals
+ 01:33, Sat, Jan 6, 2018 
+  GETTYChina tightens trade restrictions with North KoreaChina's commerce ministry and customs authorities said they have tightened their trade restrictions with North Korea, in accordance with UN sanctions against Pyongyang.Beijing will limit exports of iron, steel and other metals, as well as on industrial machinery and transport vehicles to North Korea.China, who is widely regarded as the hermit kingdoms main trading partner and energy supplier, will also limit crude oil and refined petroleum supplies.According to China’s Commerce Ministry the ban will begin on today, on January 6.The UN Security Council decided last month to impose new penalties on North Korea for its intercontinental ballistic missile test. Related articles   North Korea warning: Expert reveals four nations ready to start WW3   North Korea warned it faces strong US military response if talks fail This included setting tougher limits on refined petroleum products and crude oil supplies to Pyongyang.In the past, Beijing has repeatedly acted as Pyongyang’s diplomatic protector however, North Korea's recent reckless behaviour has begun to drive a wedge between the two nations.The UN measure also demands the repatriation of all North Koreans working abroad within 24 months.Chinese leaders, including President Xi Jinping, have resisted previous US pleas for an outright oil embargo but agreed to the latest limit.Under the latest restrictions, Chinese companies will only be allowed to export 4 million barrels of oil and 500,000 barrels of refined petroleum products per year. Tanks on move near North Korea border as Kim and Trump gear up for WAR Fri, January 5, 2018North Korean leader Kim Jong Un reopened a key cross-border communication channel with South Korea for the first time in nearly two years Wednesday as the rivals explored the possibility of sitting down and talking after months of acrimony and fears of war Play slideshow  REX1 of 13South Korean army's K-55 self-propelled howitzers take positions during a military exercise  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    They are barred from supplying the dictator run-state with military or weapons programs.Some North Korean exports to China will also be restricted, including equipment, grain, timber and other agricultural products.Those goods that had been sent prior to the sanctions imposed on December 23rd must be released by customs before January 24th.In late December, Donald Trump accused China of violating the sanctions order by exporting oil to North Korea, after a media report alleged illegal supplies of oil to North Korean vessels at sea.China denied the reports but Mr Trump claimed that they had been caught “red-handed”.     GETTYChina's commerce ministry and customs authorities said they have tightened their trade restrictionsThe US President has been pushing Beijing to exercise more pressure on Pyongyang.On December 29th, South Korea said that it had inspected Hong Kong-flagged vessels transferring nearly 600 tons of petroleum to a North Korean vessel in October.The ship, however, was seized on November 24th at the port of Yeosu.China denied the allegations and insisted that it would never allow Chinese companies to violate UN resolutions.Meanwhile, in the state-run newspaper Rodong Sinmun on Friday, the hermit kingdom said its leader would ensure “victory to the Korean army and people.”The editorial called for the people of North Korea to come together and North “achieve a fresh victory on all fronts”.  GETTYThe US President has been pushing Beijing to exercise more pressure on Pyongyang North Korea celebrates new year with terrifying war-themed display Tue, January 2, 2018North Korea residents celebrated New Year’s Eve with a chilling fireworks display while despot leader Kim Jong-un used his message to threaten nuclear war on Donald Trump Play slideshow  REUTERS1 of 7Fireworks are seen above the Taedong River during New Year celebrations as visitors pose for a photo in front of an ice sculpture of an intercontinental ballistic missile at the Pyongyang Ice Sculpture Festival in Kim Il Sung Square in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    It stated: “No force on the earth can block the vigorous advance of Korea as it is under the outstanding and tested guidance of the Workers' Party of Korea which leads our style of socialism to victory.“The Supreme Leader's New Year Address serves as an inspiring banner that gives the confidence in sure victory to the Korean army and people.“He in the New Year address proudly declared that we have realised the wish of the great leaders who devoted all their life to providing the strongest national defence capability for reliably safeguarding the country's sovereignty.“And we have created a mighty sword for defending peace, as desired by all our people who had to tighten their belts for long years.”North Korea’s leader Kim Jong-un said in a New Year statement he was open to dialogue with the South and could send a delegation to the Winter Olympics.Talks between the Korean neighbours are set to be held on January 9, despite warnings from the US it is a bluff and Pyongyang’s nuclear ambitions show no sign of slowing.

@@ -1,0 +1,21 @@
+Germany and China risk FALL OUT as Merkel talks Tibetan human rights with Richard Gere
+https://www.express.co.uk//news/world/765303/Angela-Merkel-Richard-Gere-China-Tibet-human-rights-Hollywood-Germany
+ 15:53, Thu, Feb 9, 2017 
+   The German Chancellor met with the star of Pretty Woman, a fervent campaigner for Tibetan rights, to speak about “human rights” – which have got so bad Buddhist monks are committing suicide by setting themselves on fire in protest.Mr Gere, 67, is a close friend of the Dalai Lama and wants to see Tibet escape the clutches of its oppressive Chinese masters and establish more human rights in the region. Related articles   US and Turkey agree to join forces to attack ISIS   You could be ARRESTED for using your phone on a flight He is keen for democracy to be upheld in the infamously oppressed region and founded the International Campaign for Tibet in 1988.The Chinese President, Xi Jinping, is implementing the “one China” policy, which makes it clear the Oriental powerhouse views territories with historical links to China belong to his country.  GETTYMerkel has risked China fallout by discussing human rights in Tibet with Richard Gere  GETTYHollywood royalty Richard Gere wants to see a free TibetWhile the Chancellor claims to be a supporter “in principle” of the One China policy, she has met with the Dalai Lama on numerous occasions and her 45 minute long meeting with anti-China activist Gere suggests her stance could be shifting.Last year, Merkel said: “We still stand by a 'one China' policy and we will not change our stance.” Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Gere issued a gushing endorsement for Merkel’s refugee policy and described Germany as a model in the political age, as he tried to woo the Chancellor.He said: "I come from a country that is very chaotic at the moment. And frankly, we are looking at Germany to inspire us. "Above all in the refugee policy, the Germans and their government showed courage.”

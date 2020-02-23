@@ -1,0 +1,22 @@
+North Korea has 'no chance' against US and Guam threat is a bluff, Russian general says
+https://www.express.co.uk//news/world/840235/north-korea-v-usa-news-no-chance-guam-bluff-russian-general-Leonid-Ivashov
+ 11:37, Sat, Aug 12, 2017 
+   Leonid Ivashov, a retired Colonel-General and political analyst, urged the two sides to reach a diplomatic solution to the tensions, which have been ramped up in recent days by both the president and the dictator. Mr Ivashov, in an interview with Russia Today, said Pyongyang’s threats of bombing the US territory of Guam was “a bluff”, and that the US could easily blast any North Korean missiles out of the sky even if it did attack. And he called for both Russia and China to intervene now and impose further sanctions on North Korea, in a bid to take the conflict “out of the military perspective”.  Related articles   Japan rushes MISSILES to cities in bid to counter North Korea attack   Labour MP calls on Trump to TALK to North Korea to restore 'harmony' Discussing the prospect of war between North Korea and the US, Mr Ivashov said: “It’s a total mismatch.“The US is a superpower, while North Korea is a small regional player. North Korea can’t compete with America on any level.” The US’ superior technology meant it could locate all of Kim’s weapons factories and missile sites, Mr Ivashov said, and “eliminate everything that North Korea created in terms of medium-range and long-range missiles and nuclear production”.Neither would North Korea’s anti-missile defences be any match for the American B-1 bombers, he added.  GETTY•REUTERSDonald Trump has stepped up the war of words with Kim Jong Un, fuelling fears of all-out conflict  GETTYPresident Xi has urged his US counterpart to dial down the rhetoric with North KoreaThe former military leader, who today is head of the Academy of Geopolitical Problems, admitted North Korea might be able to inflict “some damage” on the US, but this would pale in comparison to the havoc wreaked by America’s military might.On North Korean threats towards Guam, Mr Ivashov said: “To some extent, it’s a bluff on the part of North Korea; an attempt to save face and avert the American blow through international rhetoric.”President Trump has been urged to tone down his aggressive rhetoric towards North Korea, after a week in which he has promised to visit “fire and fury” on the rogue state if it attacked the States.  In pictures: The best place to escape Trump’s ‘fire and fury’ Fri, August 11, 2017Built in 1970s, Pyongyang Metro may soon become the best place for North Korean's to escape Donald Trump's 'fire and fury' like the world has never seen Play slideshow  Eric lafforgue/Exclusivepix medi1 of 15The Pyongyang subway
+The best place to escape american fire and fury  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    In a phone call with the Commander in Chief, Chinese president Xi Jinping called for both sides to “maintain restraint and avoid words and deeds that would exacerbate the tension on the Korean Peninsula”.Mr Ivashov believes both China and his home country should go further to prevent a conflict, with the introduction of further sanctions.  “The main thing is to get the situation out of the military perspective,” he said. 

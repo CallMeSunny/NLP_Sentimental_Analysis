@@ -1,0 +1,21 @@
+Kim Jong-un plotting to use nuclear weapons on US cities, military commander warns
+https://www.express.co.uk//news/world/797103/north-korea-kim-jong-un-nuclear-weapons-us-missile-defence-system
+ 22:43, Wed, Apr 26, 2017 
+  GETTYKim Jong-un showcased his new missiles at the Day of the Sun paradeAdmiral Harry Harris, head of the US Pacific Command, told Congress the US would be ready “with the best technology” to defeat any North Korean missile threats.The remarks came during a classified briefing at the White House, which Democrat Chris Coons described as “sobering”.The US has deployed a number of warships and a submarine to the Korean peninsula, despite China’s argument that a newly deployed US Thaad missile system could destabilise security.Three people were taken to hospital after protesters clashed with police as the anti-missile system was delivered on Wednesday.There have been increasing tensions amid rising fears that North Korea could be planning further missile or nuclear tests. Related articles   READY FOR WAR? Kim Jong-un shows off North Korean army   UK is NOT ready for war because it cannot AFFORD weapons, warns MPs Speaking ahead of the briefing, Admiral Harris said the advanced missile defence system would be ready within days.He added that it was widely believed that North Korea would launch an attack against the US as soon as it had military capabilities.He said: "With every test Kim grows closer to his goal, which is using nuclear weapons on US cities."As [US President Donald] Trump and [Defence Secretary James] Mattis have said, all options are on the table.”Admiral Harris said the advanced missile defence system in South Korea was meant to bring the North Korean despot “to his senses, not his knees”. Explosive images as South and North Korea test their deadly power Tue, May 2, 2017South Korea and US military held the integrated live fire exercise amid tensions over nuclear issues in the Korean Peninsula Play slideshow  AFP/Getty Images1 of 13South Korean K1A2 tanks fires live rounds  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    President Trump invited all 100 senators to the briefing, which took place in a building next to the White House.Admiral Harris went on to say that the relationship between Mr Trump and Chinese President Xi Jinping remained "positive and encouraging".He said: "It is purely a defensive system. It is aimed north, not west. It poses no threat to China."His comments come after China launched its second aircraft carrier in the latest sign of its growing military strength.The as-yet unnamed ship was transferred into the water in the north-eastern port of Dalian, state media said, and reports suggest it will be operational by 2020.

@@ -1,0 +1,38 @@
+North Korea and China relationship: Are they allies or enemies?
+https://www.express.co.uk//news/world/801761/North-Korea-China-relationship-Kim-Jong-un-allies-enemies
+ 13:12, Mon, May 8, 2017 
+   Are North Korea and China allies or enemies?China has been one of North Korea's long-standing allies, trading partners and source of food and energy since the country's creation post-WWII.Historically it has also been an opponent of any sanctions coming from the international community and the United Nations.In February 2014 China openly criticised a UN report which outlined the human rights abuse in North Korea, involving torture, forced starvation and crimes against humanity.But it is likely China has done so not out of altruistic reasons, but to avoid a regime collapse and influx of refugees. Related articles   North Korea attacks UN for ignoring ‘aggressive’ American missile test   North Korea warns it is ready for ‘final sacred war with sea of FIRE’ Bethany Allen-Ebrahimian, an assistant editor at Foreign Policy, said China is always careful in its handling of the North Korean situation."China fears that harsher sanctions may destabilise its northern neighbour, which could potentially send millions of refugees over the border," she said."But recent missile tests — and growing international pressure — have only narrowed Beijing’s options."Korea's and China's history were intertwined for a period of time in the early 20th century when a Japanese occupation swept through the region.  GETTYChina has been an ally of North Korea since the state was founded right after WWII Kim Jong-un flexes his military muscles Mon, May 15, 2017North Korean leader Kim Jong-un inspecting military detachments on two islets in waters off the country's southwest front. Play slideshow  REUTERS1 of 16North Korean leader Kim Jong Un inspects the long-range strategic ballistic rocket Hwasong-12 (Mars-12)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     China fears that harsher sanctions may destabilise its northern neighbour, which could potentially send millions of refugees over the borderBethany Allen-Ebrahimian, Foreign PolicyThis gave rise to various Marxist groups and guerrilla fighters who would later dominate the region.When Japan left the Korean Peninsula in August of 1945, the USSR installed a communist government in the North with Kim Il-sung as its leader - hand picked by Joseph Stalin himself.Then in 1950 tensions escalated when the North invaded the South with military backing from China.Today the situation is much more complex however and China who is no longer a pure Maoist state, is growing increasingly concerned with Kim Jong-un's actions.NORTH KOREA LIVE: LATEST UPDATES AND NEWS  GETTYThe Chinese government is becoming increasingly worried about Kim Jong-un's actionsThe seemingly steadfast relationship was challenged in 2006 when Pyongyang tested a nuclear device in October.In an unprecedented move, Beijing supported a UN Security Council Resolution which imposed sanctions on North Korea.The strained relationship took another dive this year when Chinese President Xi Jinping halted all imports of coal from North Korea - the country's main source of income.Reportedly some two million tonnes of coal were left stranded in Chinese ports as North Korean vessels were turned away.  GETTYChina halted its imports of coal from the communist hermit state, this year  GETTYTwo thirds of North Korea's trade comes from its neighbour to the northNearly two-thirds of North Korea's trade is tied to China, which gives Beijing leverage over the isolated state.Michael Hirson, Asia director of Eurasia Group, believes Chinese authorities are starting to lose their patience with Kim Jong-un.He told CNBC: "We're seeing some incremental steps that the Chinese may be in favour of doing more. "I think China is signalling to both sides, to the U.S. that China is doing more, that China is acting in good faith to head off a crisis in North Korea. "Primarily they're telling the U.S. that ultimately China feels the only solution in North Korea is one that involves diplomacy and getting North Korea to the table." North Korea v USA explosive latest pictures Wed, September 20, 2017Images depict how tensions have escalated between North Korea and the United States. Kim Jong-Un boasted of North Korea's ability to strike any target in the US after a second ICBM test that weapons experts said could even bring New York into range - in a potent challenge to President Donald Trump Play slideshow  AFP/Getty Images1 of 45North Korea's intercontinental ballistic missile (ICBM), Hwasong-14 being lauched at an undisclosed place in North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    It is likely China will continue to put pressure on and try to rein in its troublesome neighbour, but at the same time avoid conflict.The presence of the US military and President Donald Trump's unpredictable behaviour has only made the tension in the Korean Peninsula more palpable.North Korea's nuclear programme is becoming increasingly problematic, but as long as China prevents Kim Jong-un from pulling the war trigger, it can be considered North Korea's strongest ally.

@@ -1,0 +1,38 @@
+China unveils ‘MAGIC’ island building ship as Trump arrives – but who has the most muscle?
+https://www.express.co.uk//news/world/876073/China-Donald-Trump-USA-Xi-Jinping-Navy-South-China-Sea-Destroyer-Island-Dredger
+ 10:05, Mon, Nov 6, 2017 
+ The Tiankun dredger is capable of smashing up enough rock from the sea bed to fill three olympic swimming pools every hour.The Chinese ship can then shoot the debris 15 miles away to create entirely new islands, allowing Beijing to lay claim to territory in the South China sea.The Communist nation currently claims it owns 85 per cent of the maritime region, however Brunei, Taiwan, Malaysia, Indonesia, the Philippines and Vietnam all believe China is encroaching on their territory.Free access to the South China Sea is also vital for other countries including the US, with approximately £3.8trillion of trade passing through the region.  GETTYThe two world leaders have repeatedly faced off over territorial disputes in the South China SeaRelated articles   US warship 'carries out threatening manoeuvres near Chinese islands' And tensions have soared between the Trump administration and Xi’s Communist Party following a series of US naval operations in the region.Earlier this year China launched the formidable Type 055 destroyer class warship as part of their campaign to dominate the world’s oceans.Built at the Jiangnan shipyard in Shanghai, the the first of the new class of ship nicknamed Renhai by Nato is equipped with air defence, anti-missile, anti-ship and anti-submarine weapons.Weighing in at approximately 12,000 tonnes, the ship is in theory more powerful than both South Korea’s DDG-991 and Japan’s Atago class warship. China and Russia hold first Joint Naval Drill in the Baltic Sea Wed, July 26, 2017 Play slideshow  Getty Images1 of 10A Chinese warship operates a live-fire drill during the Joint Sea 2017 in Baltic Sea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYThe Chinese have invested heavily in their navy to rival the USBut it can only lay claim to being the second most powerful ship in the world – falling behind Donald Trump’s DDG-1000 Zumwalt class destroyers.The ship is the largest ever built for the US navy, and cost the seafaring branch of the military approximately £2.9billion ($4.4billion) – about one tenth of the UK’s entire military budget.With US naval Captain James Kirk at the helm, the ship is equipped with a Long Range Land Attack Projectile (LRLAP) capable of firing at a range of more than 115 miles.  GETTYThe Zumwalt is the world's most powerful destroyer class warship Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Last month China hit out at the Trump administration after three US officials confirmed the USS Chafee, an Arleigh Burke-class guided-missile destroyer, passed the Paracel islands to challenge "excessive maritime claims" in the south China sea.China has described previous US decisions to sail through the waters as behaviour that “threatened the sovereignty of the South China Sea countries”.In September Chinese foreign ministry spokesman Lu Kang said: “For some time now, some countries have used the pretext of freedom of navigation to bring their planes and fleets near the South China Sea."Actually, I think this is behaviour that has threatened the sovereignty of South China Sea countries.”Related articles   Trump brands US-China trade deficit ‘embarrassing’ ahead of Asia visit  Donald Trump's Asia tour: President warned US safety depends on China  China wants HEGEMONY: Steve Bannon warns Donald Trump ahead of Asia...

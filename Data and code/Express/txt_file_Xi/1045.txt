@@ -1,0 +1,21 @@
+'Good on you China!' Beijing rejoices at reports of killing CIA spies
+https://www.express.co.uk//news/world/807703/China-CIA-spies-killed-imprisoned-Beijing-security-crackdown-New-York-Post
+ 12:50, Mon, May 22, 2017 
+  GETTYUS president Donald Trump  and his Chinese counterpart Xi JinpingSecurity forces in China reportedly killed at least a dozen people providing information to the US Central Intelligence Agency between 2010 and 2012, dismantling a network that was years in the making, according to a report in the New York Times.The Global Times, published by the official state-rub People’s Daily, said if the reports were true it was a victory for China.An editorial in its Chinese and English-language editions said: “If this article is telling the truth we would like to applaud China’s anti-espionage activities.  Related articles   CIA spy sent to ASSASSINATE Kim Jong-un captured, North Korea claims   China has ‘killed or locked up at least 20 CIA spies’ - US hunts leaks     If this article is telling the truth we would like to applaud China’s anti-espionage activitiesThe Global Times“Not only was the CIA’s spy network dismantled, but Washington had no idea what happened and which part of the spy network had gone wrong.“It can be taken as a sweeping victory. Perhaps it means even if the CIA makes efforts to rebuild its spy network in China, it could face the same result.”The newspaper, which is known for its strongly nationalist stance, said one part of the report was false.It said: “As for one source being shot in a government courtyard: that is a purely fabricated story, most likely a piece of American-style imagination based on ideology.”  GETTYUp to 20 CIA contacts have been killed or thrown into prison by ChinaThe story has been widely discussed and its contents picked up in other Chinese media, especially by online news sites.The story has attracted thousands of comments on Weibo, China’s version of Twitter, with many people expressing joy that the spy ring was broken.  GETTYThe spy network took years to create  Is this China's hottest women soldiers? Wed, March 8, 2017China's military top brass exploded over a TV series which showed the nation’s female special forces as sexy, scantily clad babes Play slideshow  1 of 10  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    One Weibo user wrote: “Strike hard against spy traitors, protect the country’s security!” Another posted: “Well done! Good on you China.” The Chinese government has yet to respond to the report.

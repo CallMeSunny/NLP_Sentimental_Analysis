@@ -1,0 +1,21 @@
+US will stop them ‘one way or the other’ - Donald Trump’s chilling threat to North Korea
+https://www.express.co.uk//news/world/826373/G20-summit-WW3-Donald-Trump-North-Korea-China-Xi-Jinping
+ 18:23, Sat, Jul 8, 2017 
+   The Republican leader, 71, gave his positive assessment of US success in the ongoing word of words with North Korea and escalating tensions in the region with growing fears of military action erupting as the rogue state continues to take steps to build up a nuclear arsenal.Mr Trump’s comments were made to the Chinese President Xi Jinping who was hosting the US leader for a meeting just after the G20 summit concluded.He told the Chinese leader: "I appreciate the things that you have done relative to the very substantial problem that we all face in North Korea, a problem that something has to be done about.  GETTYDonald Trump (R) with China's Xi Jinping"It may take longer than I'd like, it may take longer than you'd like. But there will be success in the end one way or the other."Pyongyang last week launched an intercontinental ballistic missile that experts believe could have the range to reach Alaska, Hawaii and possibly the Pacific Northwest.North Korea said it could carry a large nuclear warhead. G20 Summit: LIVE pictures Fri, July 7, 2017The G20 Summit in Hamburg commences as Angela Merkel welcomes world leaders to Hamburg Play slideshow  REUTERS1 of 32G20 leaders summit dinner in Hamburg  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Related articles   Ivanka Trump steps in for her president dad at key G20 meeting    Vladimir Putin says Syria ceasefire agreed thanks to Donald Trump    AFPDonald Trump met with his Chinese counterpart to discuss North Korea There will be success in the end one way or the otherUS president Donald TrumpMr Trump campaigned on cracking down on China for its trade practices, but he softened his tone after taking office, saying he wanted to work with China on the nuclear issue.Mr Trump hosted Xi at his Florida resort in April for a summit, and the leaders agreed to try to quickly ease some trade irritants within 100 days.He told Mr Xi on Saturday that it was an "honour to have gotten to know you" and said the two leaders had "developed a wonderful relationship."  AFPTrump told his Chinese counterpart that there would be successPreviously, Washington had urged Beijing to use its economic leverage to exert pressure on Pyongyang.In a separate meeting with Japanese Prime Minister Shinzo Abe, Mr Trump also discussed the issue of North Korea.Mr Abe said: “As I look at the current situation, particularly the security environment in the Asia Pacific region including North Korea, we believe that it has become increasingly severe.”

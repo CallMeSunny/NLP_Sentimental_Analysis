@@ -1,0 +1,21 @@
+World War 3: Donald Trump WILL stop North Korea but needs Putin and Russia to help
+https://www.express.co.uk//news/world/877333/World-War-3-North-Korea-Donald-Trump-Vladimir-Putin-China-Speech
+ 06:02, Thu, Nov 9, 2017 
+  GETTYMr Trump has said he can stop North Korea with Mr Putin's helpThe US President was meeting with his counterpart XI Jinping and said it was important that the two countries worked together.He said: “I’m calling on Russia to help rein in this potentially very tragic situation.”However, he admitted that “time is quickly running out”. Related articles   North Korea: Kim Jong-un silent as country recalculates its strategy   BREAKING: Chinese television 'CUTS OUT' during Donald Trump speech The US and Russia have tended to take opposing sides on the North Korea crisis, with the Russian President warning his US counterpart earlier this year, to not take military action against Kim Jong-un’s corrupt regime.In his speech at a business event in Beijing, Mr Trump also said that China could fix the current problem on the peninsula.He said: “The US is committed to the complete and permanent de-nuclearisation of North Korea. Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “China can fix this problem easily and quickly and I am calling on China and your great president to hopefully work on it very hard.“If he works on it hard, it will happen, there's no doubt about it.”China has previously rejected calls from the US to take a more active role in the de-nuclearisation of its neighbouring state and did not respond to Mr Trump’s latest comments.   Earlier this week Mr Trump made a speech to the South Korean National Assembly in which he said that it was necessary for the countries of the world to show strength against the rogue regime.In his speech, he said it was necessary for “all responsible nations to isolate North Korea.”China currently props up Pyongyang’s economy, accounting for 90 per cent of all trade with the nation.  GETTYMr Trump has been in China as part of a larger tour of Asia  GETTYEarlier this week Mr Trump called on all nations to stop trading with North KoreaMr Trump was visiting South Korea and China as part of a wider tour of Asia.Later this week Mr Trump will be in Vietnam for a Pacific nations’ summit where he is expected to have a one-on-one meeting with the Mr Putin.North Korea’s nuclear programme is one of the issues the two leaders are due to discuss.

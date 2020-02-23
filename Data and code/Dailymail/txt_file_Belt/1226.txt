@@ -1,0 +1,224 @@
+Katy Perry completes star-studded line up of performers at the 2017 BRIT Awards... and bags her own emoji in honour of her onstage appearance
+https://www.dailymail.co.uk/tvshowbiz/article-4224166/Katy-Perry-completes-performance-line-BRITs.html
+ 16:42 BST, 14 February 2017 
+She recently made her pop comeback with new dance hit Chained To The Rhythm.And Katy Perry has now been announced as the performer completing the star-studded line-up at this year's BRIT Awards.The Roar singer, 32, confirmed on Tuesday that she will be taking to the stage at the bash, held at London's O2 Arena next week, to belt out her new track to the crowds - and has even bagged her own emoji in honour of the news. Scroll down for video          Taking to the stage: Katy Perry has now been announced as the performer completing the star-studded line-up at this year's BRIT Awards
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Katy_Perry'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy Katy in a jumpsuit by Zuhair Murad
+
+
+
+
+Zuhair Murad split leg jumpsuit
+Find it at Farfetch!
+
+
+
+Visit site
+
+
+
+The Grammy Awards may be all about the music, but for us it's really all about the clothes.
+And not only did we have the awards show's red carpet to obsess over but there were after parties too, meaning costume changes for stars like Katy Perry who switched up her look as she attended the Universal shindig.
+Earlier in the evening she sparkled in a sequin top and feather skirt by Tom Ford but she was more understated in this jumpsuit by Zuhair Murad. We love the double breasted button detail and tailoring at the waist while the plunging neckline and split legs add acres of sex appeal.
+The good news is you can buy this all-in-one now. Click (right) to snap it up at Farfetch and style with a pair of high heel sandals on your next big night out. Or get the look for less with our edit below.
+Balmain and Boohoo do split legs or bag a tuxedo-esque bargain at Missguided.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Missguided tuxedo jumpsuit (now reduced to £20)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Balmain split leg jumpsuit at Net-a-Porter
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asilio jumpsuit at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo split leg jumpsuit
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Katy_Perry', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The funky singer's performance at the BRITs, which take place on February 22, marks her first UK TV appearance in three years.   RELATED ARTICLES  Previous 1 Next       Adele hints at support for her Album Of The Year rival...    There could be some sore heads on the red carpet! Amy Adams...    Amy Adams oozes opulence in an ivory Bardot lace gown as she...    Victoria(na) chic! Jenna Coleman is the picture of elegance...    
+
+Share this article
+Share
+
+ Overwhelmed by the news, she said excitedly in a statement: 'I'm excited to come back to one of my favourite countries, where most of my favourite musical influences come from.''After three years, I'm excited to return to the BRITs' stage to kick off a new era of purposeful pop.'         Exciting: The Roar singer, 32, confirmed on Tuesday that she will be belting out her new track Chained To The Rhythm at the bash, held at London's O2 Arena on 22 FebruaryCausing even more of a frenzy among fans, Katy, who won the BRIT Award for Best International Female Solo Artist in 2009, later took to Twitter to tease her fans about the appearance - which she hints will see the 'next chapter' of the song.Remaining coy about what the set will involve, she wrote playfully: 'YAY 2nd chapter of #ChainedToTheRhythm continues in LONDON! (sic)'In further celebration of her undoubtedly energetic performance, the Hot N Cold hitmaker was also assigned her own emoji for the awards.         Uncanny! In further celebration of her undoubtedly energetic set, the Hot N Cold hitmaker was also assigned her own emoji for the awards (above) - like the other performersThe BRIT Awards took to their own Twitter page after the announcement to unveil the strikingly similar cartoon version of her, complete with a stylish pink jacket and her trademark blonde bob.The events producers wrote beside the image: 'Of course #BRITs performer @katyperry has an official emoji and OF COURSE it's adorable!!! #KatyPerryBRITs #BRITs (sic)'Katy completes a star-studded line-up of performers at this year's ceremony, joining Ed Sheeran, Bruno Mars, Skepta, Little Mix, The 1975, Robbie Williams and Emeli Sande.         Leading lady: The performance at the BRITs continues a highly successful 2017 for Katy so far - after debuting her single at the Grammy Awards on Sunday night (above)       While Katy herself has not been nominated, fellow performers Little Mix and grime artist Skepta lead the nominations at this year's ceremony with three.Meanwhile the legendary David Bowie has been posthumously recognised in the British Male Solo Artist and the prestigious Mastercard Album Of The Year categories.   The performance at the BRITs continues a highly successful 2017 for Katy so far - after she debuted her new single at the Grammy Awards on Sunday night in a stylish white trouser suit and vibrant orange sunglasses. The song, which is her first in two years, was released on Friday, and has already reached the top 10 in the UK.          She's back: Chained To The Rhythm, which is her first in two years, was released on Friday, and has already reached the top 10 in the UK     

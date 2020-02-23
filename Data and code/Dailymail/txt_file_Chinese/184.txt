@@ -1,0 +1,37 @@
+£100bn tech deal blocked by Trump over China links... yet UK takeovers keep being waved through
+https://www.dailymail.co.uk/money/markets/article-5496561/Chinas-100bn-bid-tech-titan-blocked-Trump.html
+ 22:15 BST, 13 March 2018 
+Donald Trump stunned Wall Street and sent a message that critical US firms would be protected after he blocked a £100billion takeover that would have been the biggest technology merger in history.The US President killed off chip maker Broadcom's hostile bid for American rival Qualcomm amid fears it would see China overtake America in the race to develop cutting edge mobile internet services.It is also feared that although Broadcom is based in Singapore, it has links to the Chinese state.         Donald Trump killed off Broadcom's hostile bid for American Qualcomm amid fears it would see China overtake America in the race to develop cutting edge mobile internet servicesThis had led some to worry that a deal would allow crucial chip technology to fall into Chinese hands.The move by Trump is in stark contrast the attitude taken by the Government to takeovers – particularly by foreign firms.    RELATED ARTICLES  Previous 1 Next       Fashion chain French Connection believes it's 'very close '...    Posh tonic maker Fevertree hopes new range of low calorie...    ALEX BRUMMER: The net closes on digital firms... it's long...    Investor panic as Aviva plots to axe bonds paying 8.5%:...      Share this article Share   It has allowed a serious of pioneering technology companies to be swallowed by overseas giants, with little or no resistance from ministers.Trump's order said: 'There is credible evidence that leads me to believe that Broadcom Limited, through exercising control of Qualcomm, might take action that threatens to impair the national security of the United States.' BLOCKED BIDS  £100billion takeover of US-owned Qualcomm by foreign rival Broadcom£860million sale of payment firm Moneygram to China’s Ant Financial  £930million swoop on US tech firm Lattice by China’s Canyon Bridge£518million bid by Chinese insurance fund for US chip firm Aixtron  It is the latest deal blocked by Trump on security grounds, as concern grows about Chinese firms swooping on foreign companies behind sensitive technologies.His decision came after the powerful Committee on Foreign Investment warned the deal could see Broadcom slash research and development spending at Qualcomm. The committee said this threatened an important supplier of telecoms equipment to the US armed forces and could hand America's lead in 5G internet technologies to Chinese rival Huawei. Huawei is the only other major player in 5G technology – seen as crucial to the so-called 'internet of things' – besides Qualcomm, analysts said.Broadcom said it strongly disagreed the deal posed national security concerns and was reviewing the president's order.         But Scott Kennedy, an expert on Chinese economic policy said: 'This decision hangs a huge 'not-for-sale' sign on just about every American semiconductor firm.'Qualcomm did not comment on the decision yesterday.Sir Gerald Howarth, a former defence minister, called on the Government to step up its scrutiny of deals involving Chinese firms.He said: 'The British people need to be reassured the government is being really eagle-eyed and making sure China does not get access to these really crucial technologies, such as semiconductors, which may have vital military uses.' 
+    #fiveDealsWidget .dealItemTitle#mobile {display:none}
+    #fiveDealsWidget {display:block; float:left; clear:both; max-width:636px; margin:0; padding:0; line-height:120%; font-size:12px}
+    #fiveDealsWidget div, #fiveDealsWidget a {margin:0; padding:0; line-height:120%; text-decoration: none; font-family:Arial, Helvetica ,sans-serif}
+    #fiveDealsWidget .widgetTitleBox {display:block; float:left; width:100%; background-color:#af1e1e; }
+    #fiveDealsWidget .widgetTitle {color:#fff; text-transform: uppercase; font-size:18px; font-weight:bold; margin:6px 10px 4px 10px; }
+    #fiveDealsWidget a.dealItem {float:left; display:block; width:124px; margin-right:4px; margin-top:5px; background-color: #e3e3e3; min-height:200px;}
+    #fiveDealsWidget a.dealItem#last {margin-right:0}
+    #fiveDealsWidget .dealItemTitle {display:block;  margin:10px 5px; color:#000; font-weight:bold}
+    #fiveDealsWidget .dealItemImage, #fiveDealsWidget .dealItemImage img {float:left; display:block; margin:0; padding:0}
+    #fiveDealsWidget .dealItemImage {border:1px solid #ccc}
+    #fiveDealsWidget .dealItemImage img {width:100%; height:auto}
+    #fiveDealsWidget .dealItemdesc {float:left; display:block; color:#004db3; font-weight:bold; margin:5px;}
+    #fiveDealsWidget .dealItemRate {float:left; display:block; color:#000; margin:5px}
+        #fiveDealsWidget .footerText a:hover{text-decoration: underline;}
+        #fiveDealsWidget .footerSmall{font-size:10px; padding-top:10px;}
+    @media (max-width: 635px) {
+        #fiveDealsWidget a.dealItem  {width:19%; margin-right:1%}
+        #fiveDealsWidget a.dealItem#last {width:20%}
+    }
+    @media (max-width: 560px) {
+        #fiveDealsWidget #desktop {display:none;}
+        #fiveDealsWidget #mobile {display:block!important}
+        #fiveDealsWidget a.dealItem {background-color: #fff; height:auto; min-height:auto}
+        #fiveDealsWidget a.dealItem {border-bottom:1px solid #ececec; margin-bottom:5px; padding-bottom:10px}
+        #fiveDealsWidget a.dealItem#last {border-bottom:0px solid #ececec; margin-bottom:5px; padding-bottom:0px}
+        #fiveDealsWidget a.dealItem, #fiveDealsWidget a.dealItem#last  {width:100%}
+        #fiveDealsWidget .dealItemContent, #fiveDealsWidget .dealItemImage {float:left; display:inline-block}
+        #fiveDealsWidget .dealItemImage {width:35%; margin-right:1%}
+        #fiveDealsWidget .dealItemContent {width:63%}
+        #fiveDealsWidget .dealItemTitle {margin: 0px 5px 5px; font-size:16px}
+        #fiveDealsWidget .dealItemContent .dealItemdesc, #fiveDealsWidget .dealItemContent .dealItemRate {clear:both}
+    }
+   TOP DIY INVESTING PLATFORMS     Low cost portfolios     Low cost portfolios Cheap funds fee   £1.50 fund dealing      Free fund dealing     Free fund dealing Wealth 50 Investment ideas     Fees back in trades     Fees back in trades £22.50 quarterly fee Good for big pots     Great service     Great service Free fund dealing £7.50 share dealing     Model portfolios     Model portfolios Free fund dealing Tools and fund ideas       > Compare the best investing platform for you        

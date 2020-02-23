@@ -1,0 +1,540 @@
+UFC 219 RESULT: Cris Cyborg powers to unanimous decision victory over Holly Holm and retains title
+https://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html
+ 00:55 BST, 31 December 2017 
+Cris Cyborg staked her claim as the greatest female MMA fighter to ever compete as she powered past Holly Holm. The Brazilian defended her featherweight belt with a dominant performance which led to the judges unanimously scoring her the victor. Holm battled hard but the telling shots were landed by the champion who maintained her pressure and pace. Khabib Nurmagomedov seized victory over deadly striker Edson Barboza in the co-main event and called out Tony Ferguson, saying champion Conor McGregor would only come back once his money runs out. To see how the action unfolded, scroll down through our feed below.   
+
+
+    {"@context":"http://schema.org","@type":"LiveBlogPosting","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","description":"Cris Cyborg staked her claim as the greatest female MMA fighter to ever compete as she powered past Holly Holm. The Brazilian defended her featherweight belt with a dominant performance which led to the judges unanimously scoring her the victor. Holm battled hard but the telling shots were landed by the champion who maintained her pressure and pace. Khabib Nurmagomedov seized victory over deadly striker Edson Barboza in the co-main event and called out Tony Ferguson, saying champion Conor McGregor would only come back once his money runs out.","headline":"UFC 219 RESULT: Cris Cyborg powers to unanimous decision victory over Holly Holm and retains title","publisher":{"@type":"Organization","@id":"https://www.dailymail.co.uk#publisher","name":"Daily Mail","logo":{"@type":"ImageObject","url":"https://i.dailymail.co.uk/i/sitelogos/daily-mail-structured-data-logo.gif","width":"350","height":"60"}},"liveBlogUpdate":[{"@type":"BlogPosting","headline":"Thank you and goodnight/ good morning","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-23","dateModified":"2017-12-31T06:15:38+00:00","datePublished":"2017-12-31T06:14:50+00:00","articleBody":"Thank you for your company wherever you followed from. The main and co-main events were certainly worth staying up for and both Khabib Nurmagomedov and Cris Cyborg have set themselves up for a massive 2018.&nbsp;\nBe sure to join us again next time when Stipe Miocic defends his heavyweight belt against Francis Ngannou.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/1514700913631_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Cyborg wins by unanimous decision","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-22","dateModified":"2017-12-31T06:06:32+00:00","datePublished":"2017-12-31T06:05:14+00:00","articleBody":"As expected, Cyborg's hand is raised in triumph and its not particularly controversial to say she can be considered the best female MMA fighter ever. That was some performance. Who next? The queue might not be that long...","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/1514700351921_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Cyborg vs Holm","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-21","dateModified":"2017-12-31T06:03:14+00:00","datePublished":"2017-12-31T06:03:14+00:00","articleBody":"What a battle. It goes the distance and at a frightening pace too, it would be a huge surprise if Cyborg doesn't take the decision but Holm did herself great credit, powering through some nasty shots to reach the finish line.&nbsp;\nThe champion looked dominant and landed more strikes than the challenger in every single round.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Cyborg vs Holm","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-20","dateModified":"2017-12-31T05:56:47+00:00","datePublished":"2017-12-31T05:56:47+00:00","articleBody":"Another one in the books for Cyborg it seems. A stiff jab really started to land in that round for the featherweight queen.&nbsp;\nCyborg is controlling it and blocking everything Holm throws, perfectly telegraphing when the high kick is coming and swatting it away with distain.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Cyborg vs Holm","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-19","dateModified":"2017-12-31T05:50:55+00:00","datePublished":"2017-12-31T05:50:55+00:00","articleBody":"The bell saves Holm after Cyborg finishes the round by wobbling the Preacher's daughter. The Brazilian landed some scything knees in that round and manged to shrug off the clinch when Holm tried to close the distance. A huge round for the champ and her opponent's face looks bludgeoned.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Cyborg vs Holm","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-18","dateModified":"2017-12-31T05:43:36+00:00","datePublished":"2017-12-31T05:43:36+00:00","articleBody":"Holm is controlling Cyborg with underhooks whenever the pair clinch, she's frustrating the favourite who cannot move or land anything significant when pinned up against the cage.&nbsp;\nThe champion is bleeding from the nose and having to breath through an open mouth which is never ideal. Cyborg still landing the stronger shots but Holm is making this very interesting.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Cyborg vs Holm","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-17","dateModified":"2017-12-31T05:37:42+00:00","datePublished":"2017-12-31T05:37:42+00:00","articleBody":"Cyborg is pushing the pace and landing low kicks before switching up top with strikes to the head. Holm ties up the Brazilian twice but fails to enact anything on the cage. The difference in power seems to be stark with Cyborg landing the more telling blows. Holm can end a fight with a single movement so you can't switch off. A busy opening and it could prove to be significant if this one goes into the championship rounds.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"MAIN EVENT! CRIS CYBORG VS HOLLY HOLM","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-16","dateModified":"2017-12-31T05:19:39+00:00","datePublished":"2017-12-31T05:19:39+00:00","articleBody":"Right then, the co-main has whetted the appetite nicely for this showpiece of the evening.\nThe winner of this one will have a real claim to being the greatest female mixed martial artist of all time. Cyborg is unbeaten for more than a decade and has the raw power to make mince meat of most of her combatants.&nbsp;\nBut Holm is no joke. Her head kick KO of Ronda Rousey has become a historic image and her striking is at a world class level. Can she tame Cyborg? We'll find out shortly.","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Nurmagomedov wins by unanimous decision","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-15","dateModified":"2017-12-31T05:23:40+00:00","datePublished":"2017-12-31T05:15:33+00:00","articleBody":"Khabib drops to his knees and puts his trademark headwear on Joe Rogan. He thanks God and speaks about missing the birth of his son to be there. He says if UFC give him one hour rest now he could fight McGregor or Ferguson. The crowd are loving him up and says he wants to fight El Cucuy because McGregor still has money to spend before he comes back. Slick mike work to go with his liquid flow on the ground.","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/05/1514697101710_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Nurmagomedov vs Barboza","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-14","dateModified":"2017-12-31T05:11:09+00:00","datePublished":"2017-12-31T05:11:09+00:00","articleBody":"Barboza battles brilliantly to force off a takedown attempt and then lands a spinning heel kick. Nurmagomedov walks through it like a zombie and has another takedown. His punches are like a metronome again and again and again on the ground. Barboza gets to his feet to end the fight but that was about as one-sided as it gets. Nobody watching that would fancy taking on the unbeaten Russian, he looked absolutely incredible.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Nurmagomedov vs Barboza","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-13","dateModified":"2017-12-31T05:05:33+00:00","datePublished":"2017-12-31T05:05:33+00:00","articleBody":"The amount of punishment being taken by Barboza is tough to watch. Nurmagomedov has seemingly endless reserves of energy and fury, it was an absolute beating for five minutes and it's a bit of a surprise to see the Brazilian get off his stool for the last round.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Nurmagomedov vs Barboza","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-12","dateModified":"2017-12-31T04:59:21+00:00","datePublished":"2017-12-31T04:59:07+00:00","articleBody":"What. A. Round. Nurmagomedov ate some early leg kicks as expected but closed Barboza down anyway. He took them and finally got the takedown. The ground and pound that followed was absolutely horrendous and somehow the Brazilian survives to see round two. The Russian is a monster.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"NURMAGOMEDOV VS BARBOZA","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-11","dateModified":"2017-12-31T04:46:56+00:00","datePublished":"2017-12-31T04:46:56+00:00","articleBody":"Khabib Nurmagomedov has rag-dolled all those unfortunate enough to enter the octagon with him. Tonight Edson Barboza is charged with staving off the relentless pressure and fearsome wrestling of the unbeaten contender.&nbsp;\nMany believe Nurmagomedov would be Conor McGregor's cryptonite should the pair ever meet, such is the brilliant of his grappling. Barboza can totally debilitate fighters with his savage leg kicks but keeping his distance will be so important. It should be fascinating.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Hooker wins by guillotine!","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-10","dateModified":"2017-12-31T04:47:22+00:00","datePublished":"2017-12-31T04:37:42+00:00","articleBody":"Dan Hooker becomes the first man to finish Marc Diakiese after sinking in a guillotine and the Englishman taps almost immediately.\nThe opening round was a dull affair with both content to work on the outside and keeping their powder dry. Hooker had superior range and was wary of the explosive kicks of Diakiese who became desperate and dived in for a takedown in the third, fatally exposing his neck. &nbsp;\nHooker wants to fight in Perth in six weeks time. He asks the crowd who wants to see him there but they respond with a chorus of boos, clearly they were unimpressed by the slow start.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/04/1514695334680_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Marc Diakiese vs Dan Hooker","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-9","dateModified":"2017-12-31T04:20:26+00:00","datePublished":"2017-12-31T04:19:42+00:00","articleBody":"Right then. Every fight so far has been left in the hands of the judges but this one looks like it could arrest that trend.&nbsp;\nDiakiese is a human highlight reel with some spectacular knockouts and New Zealander Hooker announced his arrival against Ross Pearson with an impressive KO. He's promised to throw the kitchen sink at his all-action opponent. Don't blink. Iron Mike wants a KO.","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Carla Esparza claims unanimous decision win","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-8","dateModified":"2017-12-31T04:15:15+00:00","datePublished":"2017-12-31T04:13:27+00:00","articleBody":"The 'Cookie Monster' put the up-and-comer in her place. It was a razor thin victory and a hugely well matched encounter.&nbsp;\nCalvillo was convinced she'd done enough to bring it home and looked stunned to see her opponent's hand raised.&nbsp;\nBoth prefer to grapple but neither could land anything that stuck which leading to some repetitive striking combinations. Esparza poured it on in the last 20 seconds and looked more relieved than anything to see her graft rewarded by the judges. Whenever Calvillo found herself on the ground she scrambled magnificently but perhaps failed to land the more memorable strikes. Still no finishes at UFC 219!","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/04/1514693348527_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Cynthia Calvillo vs Carla Esparza","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-7","dateModified":"2017-12-31T03:46:09+00:00","datePublished":"2017-12-31T03:46:09+00:00","articleBody":"Another all-American clash. This is the first female fight of the night and an important one in the strawweight division. Calvillo has dominated her short career in the space of a year and a half, she faces her toughest test yet against former champion Esparza. We're about to find out just how legit the No 6 ranked contender really is.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Neil Magny controls Carlos Condit for three rounds","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-6","dateModified":"2017-12-31T03:41:14+00:00","datePublished":"2017-12-31T03:39:43+00:00","articleBody":"Magny stayed out of trouble, peppered Condit with strikes and threw the returning fighter's rhythm off at every turn.&nbsp;\nThe judges had another clear decision to make and duly delivered the right result. Magny secured a couple of eye-catching takedowns but neither man was ever in real danger of securing a finish.&nbsp;\nHe tells Joe Rogan: 'This feels amazing, thank you for all coming out and thanks to my training partners and coaches for taking it this far. In the first round I found wrestling was an advantage so I kept doing that.&nbsp;\n'I want someone in the top five, lets start 2018 off with a bang.'","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/03/1514691614268_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"HERE WE GO - MAIN CARD TIME","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-5","dateModified":"2017-12-31T03:05:13+00:00","datePublished":"2017-12-31T03:05:13+00:00","articleBody":"One main card. Five fights. One belt on the line. The T-Mobile Arena in Sin City has filled up nicely, the UFC is playing the trademark aggressive pump up song and things are bubbling up. Cyborg, Holm, Nurmagomedov, Barboza all in action later but first Carlos Condit and Neil Magny take centre stage.","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/06/47A80F7200000578-0-image-a-19_1514700700076.jpg"},{"@type":"BlogPosting","headline":"Michal Oleksiejczuk grinds out win over exhausted Khalil Rountree Jr","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-4","dateModified":"2017-12-31T03:01:25+00:00","datePublished":"2017-12-31T03:00:34+00:00","articleBody":"A really solid UFC debut for the Polish underdog. Rountree came out swinging haymakers for about 90 seconds and totally emptied his tank.&nbsp;\nOleksiejczuk then started picking the American apart. Body shots aplenty and a takedown into top position for almost the entirety of round three secured a unanimous decision on the scorecards.&nbsp;\nRountree needs to hit the treadmill, his cardio was dire there.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/03/1514689278820_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Myles Jury eases past Rick Glenn","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-3","dateModified":"2017-12-31T02:32:04+00:00","datePublished":"2017-12-31T02:31:09+00:00","articleBody":"Another one goes the distance as featherweights Jury and Glenn scrap for the full 15 minutes.&nbsp;\nJury was the more technical fighter throughout and the No 15 ranked contender had too much class for Glenn.&nbsp;\nGlenn's work rate and volume couldn't be questioned but he didn't seem to have the power to make Jury respect him enough. It was an intriguing battle but the victor looked so calm in there and was never out of control of this all-American bout.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/02/1514687445919_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Marvin Vettori and Omari Akhmedov slug out majority draw","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-2","dateModified":"2017-12-31T02:01:14+00:00","datePublished":"2017-12-31T02:01:06+00:00","articleBody":"The up-and-coming Italian middleweight absorbed some thunderous shots and his superior engine seemed to allow him to take control late on.&nbsp;\nThe judges didn't see it in his favour, two viewed it as a draw with one in favour of Vettori. I reckon he's been hard done by there. Akhmedov possibly won the opening round, swinging for the fences but after that it appeared to be one-way traffic.&nbsp;\nBoth landed huge shots but if there was a fourth round your money would be firmly on the Italian. That one was bruising and I'm sure most wouldn't mind rolling it back in a rematch.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/02/1514685639514_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Matheus Nicolau breezes past Louis Smolka to get us going","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-1","dateModified":"2017-12-31T01:28:02+00:00","datePublished":"2017-12-31T01:28:02+00:00","articleBody":"A performance of supreme confidence from Nicolau leaves the judges a simple formality of awarding him the unanimous decision victory over No 13 ranked flyweight Smolka.&nbsp;\nThe Brazilian was quicker to the punch, floored his man three times in the opening round and executed some brilliantly timed takedowns to coast home.&nbsp;\nSmolka's cardio held up but he had no answer to the crisp shots and body work from his opponent.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/01/1514683659495_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_30_.JPG"},{"@type":"BlogPosting","headline":"Morning all!","url":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html#lc-id-0","dateModified":"2017-12-31T01:04:37+00:00","datePublished":"2017-12-31T01:03:52+00:00","articleBody":"What a belter we have to round off the year. If you're still struggling to breathe from the amount of festive food you've devoured, take a pew and don't move for the next few hours.&nbsp;\nCris Cyborg and Holly Holm do battle for the featherweight title in the main event and the mighty Khabib Nurmagomedov takes on the striking supremo Edson Barboza before the showpiece.&nbsp;\nBefore then we have the pre-lims to savour and the business of the main card begins at 3:00.&nbsp;","author":{"@type":"Person","name":"Will Griffee"},"mainEntityOfPage":{"@id":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","@type":"WebPage"},"publisher":{"@id":"https://www.dailymail.co.uk#publisher"},"image":"https://i.dailymail.co.uk/i/pix/2017/12/31/01/1514682245149_lc_galleryImage_LAS_VEGAS_NV_DECEMBER_29_.JPG"}],"coverageStartTime":"2017-12-31T01:03:52+00:00","coverageEndTime":"2019-05-18T18:06:33+01:00"}
+    
+
+
+
+
+Will Griffee
+Host commentator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Auto-update
+
+
+
+
+
+06:14 
+
+
+Thank you and goodnight/ good morning
+
+
+Thank you for your company wherever you followed from. The main and co-main events were certainly worth staying up for and both Khabib Nurmagomedov and Cris Cyborg have set themselves up for a massive 2018. 
+Be sure to join us again next time when Stipe Miocic defends his heavyweight belt against Francis Ngannou. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+06:05 
+
+
+Cyborg wins by unanimous decision
+
+
+As expected, Cyborg's hand is raised in triumph and its not particularly controversial to say she can be considered the best female MMA fighter ever. That was some performance. Who next? The queue might not be that long...
+
+
+
+
+
+
+
+
+
+
+
+
+
+06:03 
+
+
+Cyborg vs Holm
+
+
+What a battle. It goes the distance and at a frightening pace too, it would be a huge surprise if Cyborg doesn't take the decision but Holm did herself great credit, powering through some nasty shots to reach the finish line. 
+The champion looked dominant and landed more strikes than the challenger in every single round. 
+
+
+
+
+
+
+
+
+
+05:56 
+
+
+Cyborg vs Holm
+
+
+Another one in the books for Cyborg it seems. A stiff jab really started to land in that round for the featherweight queen. 
+Cyborg is controlling it and blocking everything Holm throws, perfectly telegraphing when the high kick is coming and swatting it away with distain. 
+
+
+
+
+
+
+
+
+
+05:50 
+
+
+Cyborg vs Holm
+
+
+The bell saves Holm after Cyborg finishes the round by wobbling the Preacher's daughter. The Brazilian landed some scything knees in that round and manged to shrug off the clinch when Holm tried to close the distance. A huge round for the champ and her opponent's face looks bludgeoned. 
+
+
+
+
+
+
+
+
+
+05:43 
+
+
+Cyborg vs Holm
+
+
+Holm is controlling Cyborg with underhooks whenever the pair clinch, she's frustrating the favourite who cannot move or land anything significant when pinned up against the cage. 
+The champion is bleeding from the nose and having to breath through an open mouth which is never ideal. Cyborg still landing the stronger shots but Holm is making this very interesting. 
+
+
+
+
+
+
+
+
+
+05:37 
+
+
+Cyborg vs Holm
+
+
+Cyborg is pushing the pace and landing low kicks before switching up top with strikes to the head. Holm ties up the Brazilian twice but fails to enact anything on the cage. The difference in power seems to be stark with Cyborg landing the more telling blows. Holm can end a fight with a single movement so you can't switch off. A busy opening and it could prove to be significant if this one goes into the championship rounds. 
+
+
+
+
+
+
+
+
+
+
+05:19 
+
+
+MAIN EVENT! CRIS CYBORG VS HOLLY HOLM
+
+
+Right then, the co-main has whetted the appetite nicely for this showpiece of the evening.
+The winner of this one will have a real claim to being the greatest female mixed martial artist of all time. Cyborg is unbeaten for more than a decade and has the raw power to make mince meat of most of her combatants. 
+But Holm is no joke. Her head kick KO of Ronda Rousey has become a historic image and her striking is at a world class level. Can she tame Cyborg? We'll find out shortly.
+
+
+
+
+
+
+
+
+
+05:15 
+
+
+Nurmagomedov wins by unanimous decision
+
+
+Khabib drops to his knees and puts his trademark headwear on Joe Rogan. He thanks God and speaks about missing the birth of his son to be there. He says if UFC give him one hour rest now he could fight McGregor or Ferguson. The crowd are loving him up and says he wants to fight El Cucuy because McGregor still has money to spend before he comes back. Slick mike work to go with his liquid flow on the ground.
+
+
+What. A. Performance!Khabib moves to 25-0 and 9-0 in the UFC 👊 pic.twitter.com/la3GamCfbj— UFC on BT Sport (@btsportufc) December 31, 2017
+
+
+
+WOW!!!! BEAST!!!!! @TeamKhabib pic.twitter.com/tIJf3KxHRr— Dana White (@danawhite) December 31, 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05:11 
+
+
+Nurmagomedov vs Barboza
+
+
+Barboza battles brilliantly to force off a takedown attempt and then lands a spinning heel kick. Nurmagomedov walks through it like a zombie and has another takedown. His punches are like a metronome again and again and again on the ground. Barboza gets to his feet to end the fight but that was about as one-sided as it gets. Nobody watching that would fancy taking on the unbeaten Russian, he looked absolutely incredible. 
+
+
+
+
+
+
+
+
+
+05:05 
+
+
+Nurmagomedov vs Barboza
+
+
+The amount of punishment being taken by Barboza is tough to watch. Nurmagomedov has seemingly endless reserves of energy and fury, it was an absolute beating for five minutes and it's a bit of a surprise to see the Brazilian get off his stool for the last round. 
+
+
+
+
+
+
+
+
+
+04:59 
+
+
+Nurmagomedov vs Barboza
+
+
+What. A. Round. Nurmagomedov ate some early leg kicks as expected but closed Barboza down anyway. He took them and finally got the takedown. The ground and pound that followed was absolutely horrendous and somehow the Brazilian survives to see round two. The Russian is a monster. 
+
+
+
+
+
+
+
+
+
+
+04:46 
+
+
+NURMAGOMEDOV VS BARBOZA
+
+
+Khabib Nurmagomedov has rag-dolled all those unfortunate enough to enter the octagon with him. Tonight Edson Barboza is charged with staving off the relentless pressure and fearsome wrestling of the unbeaten contender. 
+Many believe Nurmagomedov would be Conor McGregor's cryptonite should the pair ever meet, such is the brilliant of his grappling. Barboza can totally debilitate fighters with his savage leg kicks but keeping his distance will be so important. It should be fascinating. 
+
+
+
+
+
+
+
+
+
+04:37 
+
+
+Hooker wins by guillotine!
+
+
+Dan Hooker becomes the first man to finish Marc Diakiese after sinking in a guillotine and the Englishman taps almost immediately.
+The opening round was a dull affair with both content to work on the outside and keeping their powder dry. Hooker had superior range and was wary of the explosive kicks of Diakiese who became desperate and dived in for a takedown in the third, fatally exposing his neck.  
+Hooker wants to fight in Perth in six weeks time. He asks the crowd who wants to see him there but they respond with a chorus of boos, clearly they were unimpressed by the slow start. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04:19 
+
+
+Marc Diakiese vs Dan Hooker
+
+
+Right then. Every fight so far has been left in the hands of the judges but this one looks like it could arrest that trend. 
+Diakiese is a human highlight reel with some spectacular knockouts and New Zealander Hooker announced his arrival against Ross Pearson with an impressive KO. He's promised to throw the kitchen sink at his all-action opponent. Don't blink. Iron Mike wants a KO.
+
+
+Look who's taking in #UFC219 👀IRON @MikeTyson sitting cageside here tonight! pic.twitter.com/eC6M0ZEzy0— UFC (@ufc) December 31, 2017
+
+
+
+
+
+
+
+
+
+
+04:13 
+
+
+Carla Esparza claims unanimous decision win
+
+
+The 'Cookie Monster' put the up-and-comer in her place. It was a razor thin victory and a hugely well matched encounter. 
+Calvillo was convinced she'd done enough to bring it home and looked stunned to see her opponent's hand raised. 
+Both prefer to grapple but neither could land anything that stuck which leading to some repetitive striking combinations. Esparza poured it on in the last 20 seconds and looked more relieved than anything to see her graft rewarded by the judges. Whenever Calvillo found herself on the ground she scrambled magnificently but perhaps failed to land the more memorable strikes. Still no finishes at UFC 219!
+
+
+ESPARZA!!@CarlaEsparza1 gets the UD win at #UFC219!! Agree? pic.twitter.com/nJ5koxwOmt— UFC (@ufc) December 31, 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03:46 
+
+
+Cynthia Calvillo vs Carla Esparza
+
+
+Another all-American clash. This is the first female fight of the night and an important one in the strawweight division. Calvillo has dominated her short career in the space of a year and a half, she faces her toughest test yet against former champion Esparza. We're about to find out just how legit the No 6 ranked contender really is. 
+
+
+
+
+
+
+
+
+
+
+03:39 
+
+
+Neil Magny controls Carlos Condit for three rounds
+
+
+Magny stayed out of trouble, peppered Condit with strikes and threw the returning fighter's rhythm off at every turn. 
+The judges had another clear decision to make and duly delivered the right result. Magny secured a couple of eye-catching takedowns but neither man was ever in real danger of securing a finish. 
+He tells Joe Rogan: 'This feels amazing, thank you for all coming out and thanks to my training partners and coaches for taking it this far. In the first round I found wrestling was an advantage so I kept doing that. 
+'I want someone in the top five, lets start 2018 off with a bang.'
+
+
+ANOTHER takedown!@NeilMagny has come to ruin Condit's return tonight! #UFC219 pic.twitter.com/JhACR9CSeV— UFC (@ufc) December 31, 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03:05 
+
+
+HERE WE GO - MAIN CARD TIME
+
+
+One main card. Five fights. One belt on the line. The T-Mobile Arena in Sin City has filled up nicely, the UFC is playing the trademark aggressive pump up song and things are bubbling up. Cyborg, Holm, Nurmagomedov, Barboza all in action later but first Carlos Condit and Neil Magny take centre stage.
+
+
+
+
+
+
+
+
+
+
+03:00 
+
+
+Michal Oleksiejczuk grinds out win over exhausted Khalil Rountree Jr
+
+
+A really solid UFC debut for the Polish underdog. Rountree came out swinging haymakers for about 90 seconds and totally emptied his tank. 
+Oleksiejczuk then started picking the American apart. Body shots aplenty and a takedown into top position for almost the entirety of round three secured a unanimous decision on the scorecards. 
+Rountree needs to hit the treadmill, his cardio was dire there. 
+
+
+Rountree going to work here in round 1!! He's trying to finish this fight early!!#UFC219 @War_Khalil pic.twitter.com/QKp2uRAHcu— UFC (@ufc) December 31, 2017
+
+
+
+
+
+
+
+
+
+
+
+
+02:31 
+
+
+Myles Jury eases past Rick Glenn
+
+
+Another one goes the distance as featherweights Jury and Glenn scrap for the full 15 minutes. 
+Jury was the more technical fighter throughout and the No 15 ranked contender had too much class for Glenn. 
+Glenn's work rate and volume couldn't be questioned but he didn't seem to have the power to make Jury respect him enough. It was an intriguing battle but the victor looked so calm in there and was never out of control of this all-American bout. 
+
+
+How do you eat a flying knee and act like you didn't feel it? Ask Glenn 😳#UFC219 pic.twitter.com/KhLH23RWiO— UFC (@ufc) December 31, 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+02:01 
+
+
+Marvin Vettori and Omari Akhmedov slug out majority draw
+
+
+The up-and-coming Italian middleweight absorbed some thunderous shots and his superior engine seemed to allow him to take control late on. 
+The judges didn't see it in his favour, two viewed it as a draw with one in favour of Vettori. I reckon he's been hard done by there. Akhmedov possibly won the opening round, swinging for the fences but after that it appeared to be one-way traffic. 
+Both landed huge shots but if there was a fourth round your money would be firmly on the Italian. That one was bruising and I'm sure most wouldn't mind rolling it back in a rematch. 
+
+
+
+
+
+
+
+
+
+
+
+
+01:28 
+
+
+Matheus Nicolau breezes past Louis Smolka to get us going
+
+
+A performance of supreme confidence from Nicolau leaves the judges a simple formality of awarding him the unanimous decision victory over No 13 ranked flyweight Smolka. 
+The Brazilian was quicker to the punch, floored his man three times in the opening round and executed some brilliantly timed takedowns to coast home. 
+Smolka's cardio held up but he had no answer to the crisp shots and body work from his opponent. 
+
+
+AGAIN!@NicolauMatheus lands the combo again and cuts Smolka open! We head to round 2 on @FS1! #UFC219 pic.twitter.com/lnSh4uKevB— UFC (@ufc) December 31, 2017
+
+
+
+
+
+
+
+
+
+
+
+
+01:03 
+
+
+Morning all!
+
+
+What a belter we have to round off the year. If you're still struggling to breathe from the amount of festive food you've devoured, take a pew and don't move for the next few hours. 
+Cris Cyborg and Holly Holm do battle for the featherweight title in the main event and the mighty Khabib Nurmagomedov takes on the striking supremo Edson Barboza before the showpiece. 
+Before then we have the pre-lims to savour and the business of the main card begins at 3:00. 
+
+
+
+
+
+
+
+
+
+{"id":"5223855","channel":"/sport","pageUrl":"http://www.dailymail.co.uk/sport/ufc/article-5223855/UFC-219-LIVE-Cris-Cyborg-faces-Holly-Holm.html","status":"running","greenBox":{"body":""},"modifiedOrder":1}
+0
+0
+
+
+
+
+
+
+    if (!window.LiveCommentary) window.LiveCommentary = {};
+    window.LiveCommentary.commentaryConf = JSON.parse('{"publicNodeHost":"livecommentary.dailymail.co.uk/apps/livecommentary_public","websocketNodeHost":"https://livecomjoy.dailymail.co.uk/apps/livecommentary_public","startTime":1555499269,"appVersion":3,"frontEndHostOverride":"www.dailymail.co.uk","dmWebsiteOrigin":"https://www.dailymail.co.uk","pushMissingPostsOnReconnect":false}');
+
+
+
+           Cris Cyborg (left) faces Holly Holm and will defend her featherweight title in the main event    RELATED ARTICLES  Previous 1 Next       UFC 219 preview: Cris Cyborg defends featherweight title...    Conor McGregor continues to enjoy Christmas with his family...    Boxer turned MMA star Holly Holm warns Floyd Mayweather that...    Floyd Mayweather shuts down talk of potential 'billion...    
+
+Share this article
+Share
+
+ 

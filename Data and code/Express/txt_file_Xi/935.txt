@@ -1,0 +1,21 @@
+Donald Trump and Kim Jong-un ‘should sit FACE TO FACE’, claims top South Korean minister
+https://www.express.co.uk//news/world/930385/donald-trump-kim-jong-un-us-north-korea-south-korea-foreign-minister-rex-tillerson
+ 05:43, Mon, Mar 12, 2018 
+   Kang Kyung-wha made the remarks while in Vietnamese capital Hanoi on a three-day visit as she gears up to meet her US counterpart on Saturday.She added: Willingness for dialogue has been confirmed on both sides. Now it falls on working-level officials to set the agenda for the summit."Working-level officials should take good care of and be well-prepared for the summit.”Mrs Kang and her US counterpart will later this week also reportedly discuss details about Korean envoys' visit to Washington earlier this week to extend an invitation by Kim Jong-un to Donald Trump.  GETTYKang Kyung-wha made the remarks while in Vietnamese capital Hanoi  Related articles   Donald Trump will avoid giving North Korea and Kim Jong-Un a PR coup   North Korea DESPERATE for peace treaty with Trump and offer citizens There is no indication of where exactly historic talks between the US and North Korea will take place.If Kim Jong-un does travel to meet President Trump it would be the first time he has left the country since becoming leader in 2011 following the death of his father Kim Jong-il.It seems unlikely the dictator would accept an invitation to visit Washington or President Trump’s estate in Florida, where President Xi Jinping of China has previously been a guest.Experts said the prospect of a meeting between a sitting US president and North Korea means officials are taking the secretive state’s nuclear ambitions seriously. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The most likely venue will be a neutral location, with China, Japan, South Korea or UN offices in Geneva or New York possible.Christopher Hill, a former US ambassador to North Korea, said: “My advice would be the President should not journey to Pyongyang."Nor should he invite Kim Jong-un to Washington."US Vice President Mike Pence has insisted the decision to meet with North Korea does not represent a shift in US policy.In a statement, the US Vice President said: “The North Koreans are coming to the table despite the United States making zero concessions.“Our resolve is undeterred and our policy remains the same.”The Trump administration has also affirmed it does not, as it stands, intend to loosen sanctions on Pyongyang.

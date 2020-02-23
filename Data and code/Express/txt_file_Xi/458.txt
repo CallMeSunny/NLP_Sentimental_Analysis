@@ -1,0 +1,21 @@
+President Donald Trump vows to TAKE ON North Korea WITHOUT China if necessary
+https://www.express.co.uk//news/world/791295/president-donald-trump-attack-north-korea-without-china-if-necessary-nato-jens-stoltenberg
+ 00:05, Thu, Apr 13, 2017 
+   Speaking during a joint press conference with Nato Secretary General Jens Stoltenberg, the President spoke about his blossoming relationship with Chinese leader Xi Jinping but insisted he would not wait for China as he vows to deal with North Korea.The two leaders met in the US last week and also spoke by phone on Wednesday evening. Related articles   US Navy strike group moves towards North Korea as war fears grow   Kim Jong-Un ‘orders IMMEDIATE EVACUATION of Pyongyang’    GETTYTensions between the US and North Korea have increased considerably in recent daysMr Trump said: "President Xi wants to do the right thing. We had a very good bonding, I think we had a very good chemistry together, I think he wants to help us with North Korea."We talked trade, we talked a lot of things, and I said the way you’re going to make a good trade deal is to help us with North Korea, otherwise we’re just going to go it alone, that’ll be all right too, but going it alone means going with lots of other nations."North Korea has warned that it will defend itself against any US aggression and tensions between the countries has escalated considerably in recent days.  GETTYNATO Secretary General Jens Stoltenberg alongside President Trump earlier on WednesdayMr Trump also discussed US-Russia relations after last week’s missile strike in Syria, and the President said ties were at an “all time low”.He said: "Right now we are not getting along with Russia at all - we may be at an all time low. Satellite images show Kim Jong-un escalating nuclear action Wed, April 12, 2017New satellite images show in great detail how Kim Jong-un is escalating North Korea's nuclear weapons programme. Play slideshow  DigitalGlobe/Getty Images1 of 13Figure 1. Activity continues at the North Portal  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    "Russia is a strong country. The US is a very strong country."We are going to see how that all works out."Meanwhile, Mr Stoltenberg praised Mr Trump for his "dedication" to Nato, including supporting Montenegro joining this week.  GETTYTrump appears to be in support of NATO despite previously branding the alliance 'obsolete'The Secretary General said Europe and the US are united by their membership.He said: "Peace in Europe is important for the security and prosperity of North America."A strong Europe is good for the United States."

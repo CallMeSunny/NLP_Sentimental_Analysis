@@ -1,0 +1,37 @@
+HSBC shares slip as the bank falls short of expectations due to slowdown in Chinese economy and global trade
+https://www.dailymail.co.uk/money/markets/article-6719925/HSBC-shares-slip-bank-falls-short-expectations-slowdown-China.html
+ 08:44 BST, 19 February 2019 
+HSBC shares have slipped after the Big Four bank revealed its profits have fallen short of the market's expectations.The bank said pre-tax profit in 2018 was up 15.9 per cent to £15.4bn, but this was beneath forecasts of £16.5bn.Investors delivered a relatively muted response to the news, with shares in HSBC down 2.9 per cent to 643p early on Tuesday.         HSBC said pre-tax profit in 2018 was up 15.9 per cent to £15.4bn, beneath forecasts of £16.5bn   Reported revenue was £41.7bn, a rise of 5 per cent from 2017, while the bank's dividend has been maintained at 39p ($0.51) per share.HSBC chief executive John Flint said: 'These are good results that demonstrate progress against the plan that I outlined in June 2018.'Profits and revenue were both up despite a challenging fourth quarter, and our return on tangible equity is significantly higher than in 2017.   RELATED ARTICLES  Previous 1 Next       FTSE LIVE: HSBC misses expectations; Greggs toasts...    Looking for a better bank? This is Money's five of the best...      Share this article Share   'This is an encouraging first step towards meeting our return on tangible equity target of more than 11 per cent by 2020.'Richard Hunter, head of markets at Interactive Investor, commented: 'These are generally – and typically - strong numbers from HSBC, but they come with a tinge of disappointment.         A 'tough fourth quarter' took its toll on HSBC'A tough fourth quarter took its toll on some of the numbers, whilst a slowing Chinese economy, partially fuelled by the ongoing trade spat with the US, has yet fully to wash through.'In all, the figures are strong, but not quite strong enough to allay concerns which have tended to overhang the sector as a whole.'The shares have suffered a 13 per cent decline over the last year, as compared to a dip of just 0.4 per cent for the wider FTSE100, and whilst the bank remains a behemoth within global banking, it is also a strategic work in progress. 'As such, the market consensus of the shares as a hold is likely to remain in place until some of the planned growth comes through in earnest,' Hunter added. 
+    #fiveDealsWidget .dealItemTitle#mobile {display:none}
+    #fiveDealsWidget {display:block; float:left; clear:both; max-width:636px; margin:0; padding:0; line-height:120%; font-size:12px}
+    #fiveDealsWidget div, #fiveDealsWidget a {margin:0; padding:0; line-height:120%; text-decoration: none; font-family:Arial, Helvetica ,sans-serif}
+    #fiveDealsWidget .widgetTitleBox {display:block; float:left; width:100%; background-color:#af1e1e; }
+    #fiveDealsWidget .widgetTitle {color:#fff; text-transform: uppercase; font-size:18px; font-weight:bold; margin:6px 10px 4px 10px; }
+    #fiveDealsWidget a.dealItem {float:left; display:block; width:124px; margin-right:4px; margin-top:5px; background-color: #e3e3e3; min-height:200px;}
+    #fiveDealsWidget a.dealItem#last {margin-right:0}
+    #fiveDealsWidget .dealItemTitle {display:block;  margin:10px 5px; color:#000; font-weight:bold}
+    #fiveDealsWidget .dealItemImage, #fiveDealsWidget .dealItemImage img {float:left; display:block; margin:0; padding:0}
+    #fiveDealsWidget .dealItemImage {border:1px solid #ccc}
+    #fiveDealsWidget .dealItemImage img {width:100%; height:auto}
+    #fiveDealsWidget .dealItemdesc {float:left; display:block; color:#004db3; font-weight:bold; margin:5px;}
+    #fiveDealsWidget .dealItemRate {float:left; display:block; color:#000; margin:5px}
+        #fiveDealsWidget .footerText a:hover{text-decoration: underline;}
+        #fiveDealsWidget .footerSmall{font-size:10px; padding-top:10px;}
+    @media (max-width: 635px) {
+        #fiveDealsWidget a.dealItem  {width:19%; margin-right:1%}
+        #fiveDealsWidget a.dealItem#last {width:20%}
+    }
+    @media (max-width: 560px) {
+        #fiveDealsWidget #desktop {display:none;}
+        #fiveDealsWidget #mobile {display:block!important}
+        #fiveDealsWidget a.dealItem {background-color: #fff; height:auto; min-height:auto}
+        #fiveDealsWidget a.dealItem {border-bottom:1px solid #ececec; margin-bottom:5px; padding-bottom:10px}
+        #fiveDealsWidget a.dealItem#last {border-bottom:0px solid #ececec; margin-bottom:5px; padding-bottom:0px}
+        #fiveDealsWidget a.dealItem, #fiveDealsWidget a.dealItem#last  {width:100%}
+        #fiveDealsWidget .dealItemContent, #fiveDealsWidget .dealItemImage {float:left; display:inline-block}
+        #fiveDealsWidget .dealItemImage {width:35%; margin-right:1%}
+        #fiveDealsWidget .dealItemContent {width:63%}
+        #fiveDealsWidget .dealItemTitle {margin: 0px 5px 5px; font-size:16px}
+        #fiveDealsWidget .dealItemContent .dealItemdesc, #fiveDealsWidget .dealItemContent .dealItemRate {clear:both}
+    }
+   TOP DIY INVESTING PLATFORMS     Low cost portfolios     Low cost portfolios Cheap funds fee   £1.50 fund dealing      Free fund dealing     Free fund dealing Wealth 50 Investment ideas     Fees back in trades     Fees back in trades £22.50 quarterly fee Good for big pots     Great service     Great service Free fund dealing £7.50 share dealing     Model portfolios     Model portfolios Free fund dealing Tools and fund ideas       > Compare the best investing platform for you        

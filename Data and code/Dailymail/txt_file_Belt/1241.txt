@@ -1,0 +1,226 @@
+Yolanda Hadid shows off her svelte figure as she goes hell for leather in biker gear during NYC outing
+https://www.dailymail.co.uk/tvshowbiz/article-4385140/Yolanda-Hadid-showed-svelte-figure-NYC.html
+ 03:53 BST, 6 April 2017 
+She's groomed her two daughters, Gigi and Bella Hadid, to follow in her footsteps. And Yolanda Hadid, 53, made it clear she taught them well as she made the sidewalks of New York her personal runway on Wednesday.The former model showed off her incredibly toned figure in fight dark skinny jeans that she cinched in at her hips with a fashionable belt.          Still got it! Yolanda Hadid, 53, showed off her incredibly toned figure in fight dark skinny jeans that she cinched in at her hips with a fashionable belt while walking through NYC on Wednesday
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Yolanda_Hadid'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Be a biker chick in Yolanda's Versace jacket
+
+
+
+
+Versace colour block leather jacket
+
+
+
+
+Visit site
+
+
+
+The Hadid family are a stylish lot, aren't they? 
+There's Gigi and Bella who are arguably the most in-demand models out there right now but who are equally known for their fashion-forward streetstyle. Clearly they got it from their mama, because Yolanda is always impeccably dressed too.
+In fact, the lucky things obviously share wardrobes because we've spotted Gigi in these exact zip booties by Versace... and this exact Versace jacket!
+We love this colour-bock take on a biker style  which gives it a statement vibe and as Yolanda shows, immediately adds some edge to your outfit.
+Fancy joining the Hadids? You can steal a slice of their style, at least, by getting your hands on this Versace jacket. It doesn't come cheap  though, for those without a supermodel's salary...
+So if you can't splash out, just get the look instead with our colour-block picks below from Missguided, Chloé and Kaleidoscope, or keep it classic with Jaeger's timeless black style!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Missguided black colour block faux leather biker jacket
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Chloé biker jacket (now £1347)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Kaleidoscope Rick Cardona Leather Jacket
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Jaeger Raw Edge Leather Jacket
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Yolanda_Hadid', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Originally hailing from The Netherlands, the Dutch native paired the dark jeans with a sleek black turtleneck to keep her main outfit simple and chic. She paired the sophisticated look with a multi-colored fitted leather jacket that helped accentuate her killer curves.   RELATED ARTICLES  Previous 1 Next       Gigi Hadid dons somber all-black attire in NYC... while her...    'I am proud to be a Muslim': Bella Hadid flaunts her...    'The luxury of our lives is amazing!' Mohammed Hadid's...    Yolanda Hadid cashes in on Bella and Gigi's success as she...    
+
+Share this article
+Share
+26 shares
+
+ The red, white, blue and black jacket appeared reminiscent of a leather race-car jacket, but nevertheless looked incredible on the former model. Yolanda, who recently changed her name back to Hadid to match her children and ex-husband Mohamed, wore her blonde hair brushed back into a modern style.          All smiles: The Dutch-native paired the dark jeans with a sleek black turtleneck to keep her main outfit simple and chic              Fashionable! She paired the sophisticated look with a multi-colored fitted leather jacket that helped accentuate her killer curvesShe wore natural makeup on her face, making sure it highlighted her lovely features. She finished off her look with black suede zip-up pointy boots and a dark red clutch. The busy mom, who moved to New York City last year to be closer to her children, looked busy as she multi-tasked by taking a phone call as she walked down the street. She later met daughter Bella at her fashion shoot with  Chrome Hearts in New York City. The supermodel is getting ready to launch a collection with the brand and was there for a photoshoot for it.           The busy mom, who moved to New York City last year to be closer to her children,  later met daughter Bella at her fashion shoot with Chrome Hearts in New York City         Making moves: Bella is getting ready to launch a collection with the brand and was there for a photoshoot for itThe mother-of-three, who was most recently married to music producer David Foster, recently opened up about her dating life. She told ET on Sunday, that she is currently too 'shy' to mingle with other men.Plus Yolanda insists she is too busy to look for love as she is modelling again and she is focused on keeping well while she is in remission with Lyme disease.On whether she is actively looking for love, she confessed: 'You know, I'm still a little shy.'I'm getting ready, but not yet. I'm just enjoying life, being well. Being up and out and working again. Enjoying my children. You know, life is so full right now. It's all good.'                Close family: Yolanda was honoured with the Mother of the Year accolade at Daily Front Row's 3rd Annual Fashion Los Angeles Awards (pictured in January with Bella and Gigi)The blonde beauty - who is the mother of model children Bella, Gigi and Anwar Hadid - says she is '90 per cent' on the way to having a clean bill of health.Yolanda was honoured with the Mother of the Year accolade at Daily Front Row's 3rd Annual Fashion Los Angeles Awards, and said she wouldn't have been able to go to the bash if it was last year because of the severe symptoms of the disease, a bacterial infection spread to humans by infected ticks.Speaking to Entertainment Tonight, she said: 'I feel great today. I was just saying to my son [Anwar], it's a very different story than last year and the year before, coming to this event. ...I'm, let's say, 90 percent there.'         Not dating anytime soon: Yolanda insists she is too busy to look for love as she is modelling again and she is focused on keeping well while she is in remission with Lyme disease         Yolanda, who is mom to Gigi, Bella and Anwar Hadid from her marriage to Mohamed Hadid, insists motherhood is the best thing to happen to her         

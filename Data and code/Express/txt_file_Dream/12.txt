@@ -1,0 +1,21 @@
+China becomes space exploration powerhouse as it blasts astronauts to lab in orbit
+https://www.express.co.uk//news/science/722147/China-space-exploration-tiangong-shenzhou
+ 17:56, Mon, Oct 17, 2016 
+   Two astronauts blasted off from the Jiuquan Satellite Launch Centre in northern China on Monday and are heading to dock on the Tiangong 2 space lab.The astronauts, Jing Haipeng, 49, and Chen Dong, 37, will spend 30 days in orbit as Chinese authorities look to test the experimental space station.China is joined only by the US and Russia in independently getting people into space.Furthermore, the US-led International Space Station is due to be retired in 2024, which could potentially mean that China would be left as the only nation with a permanent base in space. Related articles   Only working model of Sputnik 1 sold at auction for £200,000   Stephen Hawking: Humanity is DOOMED unless we can conquer space tra...   GETTYShenzhou 11 is on its way to Tiangong 1President of China, Xi Jinping, said that this is the basis for the eastern Asian nation’s advancement in space exploration as the country battles the ESA, Russia and the US to get the first people on Mars.President Jinping added that this mission would "enable China to take larger and further steps in space exploration, and make new contributions to building up China as a space power”.Mr Jing, who will spend his 50th birthday in space, said prior to the launch: “There is definitely some pressure with this mission. I've even been dreaming about it at night.  GETTYAstronauts Jing Haipeng (R) and  Chen Dong"I'm not thinking about the bouquets, the applause or the glory. “What I've been thinking more about is whether I have grasped all the knowledge and skills, whether I have addressed the weak areas.”China has been ambitious in its space exploration programme, with other plans in the pipeline including getting a rover to Mars.  GETTYThe Tiangong 2 space lab is in orbitThe reason it is investing so heavily in space exploration is to advance its commercial and scientific knowledge, but also its military.For the last reason, the nation was left out of the International Space Station project, as there was feared to be a conflict of interest with other nations. Stunning views from above Mon, March 20, 2017The world from above captured through these amazing photographs all from above the globe. Play slideshow  Twitter/astro_kimbrough1 of 41International Space Station astronaut R. Shane Kimbrough captured a stunning image of London on Sunday night  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    John Culberson, a Republican and member of the US House of Representatives from Texas's seventh district, said in 2010: “I have grave concerns about the nature and goals of China’s space program and strongly oppose any cooperation between NASA and CNSA’s human space flight programmes without Congressional authorisation.”

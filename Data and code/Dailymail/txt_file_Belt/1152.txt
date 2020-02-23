@@ -1,0 +1,225 @@
+Lady in red! Queen Letizia highlights her svelte figure in a striking dress complemented by a VERY trendy hairstyle
+https://www.dailymail.co.uk/femail/article-4906882/Queen-Letizia-stuns-red-dress.html
+ 16:03 BST, 21 September 2017 
+She's well known around the world for her impeccable sense of style and Queen Letizia had yet another sartorial hit on her hands on Thursday.The Spanish Queen, 45, plumped for a bold red dress adorned with a chic black belt as she arrived at the Vocento anniversary concert at the Teatro Real in Madrid, Spain.The resplendent royal exuded youth with a healthy glow as she arrived at the musical event with her dapper husband, King Felipe.         Queen Letizia highlighted her svelte figure in a striking dress complemented by a trendy hairstyle as she joined her husband at the concert commemorating the 15th Anniversary of Vocento at Royal Theater of Madrid         The 45-year-old royal exuded youth with a healthy glow as she arrived at the musical event with her dapper husband, King FelipeThe fashion-forward monarch also trialled a trendy new hairstyle, opting for a low messy ponytail for the occasion.The loved-up couple exchanged loving glances as they posed for photos with musicians and dignitaries at the event. Her appearance comes after she jetted back from a school in Tenerife earlier this week.   RELATED ARTICLES  Previous 1 Next       Shoe game! As Rihanna and Rosario Dawson step out in fall's...    One trend three styles: The best slouched boots to keep you...    
+
+Share this article
+Share
+
+ The mother-of-two looked perfectly at ease as she spent time chatting with pupils at the 'San Matias' School Centre in the city of Santa Cruz de Tenerife on Tuesday.  Donning a flattering black and white dress, the royal, 45, beamed as she joined in with a classroom discussion and was photographed cuddling one delighted schoolgirl.         The mother-of-two wore a red dress adorned with a chic black belt as she arrived at the Vocento anniversary concert at the Teatro Real in Madrid, Spain
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Queen_Letizia'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Be a lady in red like Queen Letizia in Carolina Herrera
+
+
+
+
+Carolina Herrera pleated crepe dress
+Shop it here
+
+
+
+Visit site
+
+
+
+From the Duchess Of Cambridge, to Queen Letizia, we're spoilt for choice when it comes to royal style icons.
+Looking her usual chic self, Queen Letizia had us coveting yet another of her outfits after she stepped out in this beautiful red pleated dress by one of her favourite designers, Carolina Herrera.
+Letizia has worn Carolina Herrera on several high profile appearances before, famous including her first gala as Queen.
+The crepe pleated detail on this dress offers up an interesting finish, and even though it's a trapeze cut, Queen Letizia chose to cinch in the waist with a black ribbon belt. She then accessorized with a Nina Ricci clutch, Prada pumps and earrings by Madrid-based brand Coolook to add the perfect finishing touches.
+The good news is you can steal a slice of Queen Letizia's notoriously elegant style. Click right to shop her exact dress then simply finish off with black pumps to emulate her outfit. 
+Or if you want to pick pleats without splashing that much cash, our options below can help you there...
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asos pleated maxi dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+True Decadence pleated swing dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Coast pleated dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos pleated swing dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Queen_Letizia', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         The fashion-forward monarch also trialled a trendy new hairstyle, opting for a low messy ponytail for the occasion              The loved-up couple exchanged loving glances as they posed for photos with musicians and dignitaries at the event         Radiant: Queen Letizia of Spain beamed as she visited a school in Tenerife on Tuesday         Flattering: The mother-of-two donned a stylish fit-and-flare frock for the occasionIt is believed she was on hand to mark the start of a scholarship course.Outside the school, Letizia also spent time greeting well-wishers who had queued up in the hope of catching a glimpse of the queen. One heart-warming image shows the royal cradling a baby in her arms as the child's family looks on.Showcasing her typically elegant style, Letizia donned a black-and-white dress in her favoured fit-and-flare shape for the occasion. Her brunette locks were swept in a sleek side parting and she complimented her sun-kissed complexion with minimal make-up. The ensemble was finished with a pair of on trend black strap sandals with a chunky heel.Letizia, who celebrated her 45th birthday last Friday, was last week on hand to mark the start of the new academic year at a university in Salamanca. She looked feminine in a fitted white jacket and blue midi skirt, which she teamed with a pair of co-ordinating heels.She was also more than happy to pose for a selfie with a royal fan who whipped out his phone during the appearance.

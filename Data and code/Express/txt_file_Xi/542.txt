@@ -1,0 +1,21 @@
+Theresa May to visit China this year for trade link talks ahead of Brexit
+https://www.express.co.uk//news/politics/764316/theresa-may-brexit-china-trade-links-g20-summit-prime-minister
+ 00:00, Tue, Feb 7, 2017 
+   Number 10 sources said the Prime Minister will take up an invitation for talks made by Chinese President Xi Jinping during the G20 summit she attended in his country's Hangzhou province last September.The visit, expected to take place in the summer or early autumn, is being seen as an opportunity to develop new business links with the country that boasts the world's second largest economy.  GETTYThe Prime Minister is to pay a high-profile visit to China later this year Related articles   Green Party co-leader slams Theresa May’s ‘pimping out’ of Parliament   Over HALF of voters 'approve of PM's handling of EU exit process' A Downing Street spokesman said: "We can confirm that the Prime Minister will visit China later this year. An invitation was extended during the G20."The planned visit would be "a new expression of the close relationship between Britain and China, something you have seen develop over the past few years", the spokesman said.  GETTYMrs May shakes hands with President Xi Jinping during the G20 summit last September    We can confirm that the Prime Minister will visit China later this yearDowning Street spokesmanHe added: "I would imagine that trade would form some part of the discussions."The visit marks the latest effort to improve relations with Beijing, which suffered a setback shortly after Mrs May took office when she delayed a decision on the Chinese-backed Hinkley Point power plant.Mrs May gave the green light to the Hinkley Point plant last September and has vowed to continue the "golden era" in Sino-UK relations, following on from the close ties developed by David Cameron and George Osborne.  GETTYMrs May gave the green light to the Hinkley Point plant last September History of a special relationship: Presidents and Prime Ministers together Wed, January 25, 2017Ahead of the meeting between Theresa May and Donald Trump, a look back at the close ties between the U.S. and Britain. Play slideshow  Getty Images1 of 18Margaret Thatcher shares a joke with Ronald Reagan, at No. 10 Downing Street  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    A trade deal with China would represent a major prize for the UK as it leaves the European Union.China's top diplomat Yang Jiechi visited Downing Street in December and the two governments agreed that work this year would include "enhanced trade and investment" as well as security co-operation and efforts to tackle climate change, Downing Street said at the time.

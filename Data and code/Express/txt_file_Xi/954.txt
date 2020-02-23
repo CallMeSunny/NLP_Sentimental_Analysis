@@ -1,0 +1,21 @@
+What’s Barack up to? Obama to jet into Paris for ‘secret’ talks with Emmanuel Macron
+https://www.express.co.uk//news/world/886350/Barack-Obama-world-tour-Emmanuel-Macron-France-Paris-secret-meeting
+ 15:10, Thu, Nov 30, 2017 
+  GETTYBarack Obama is a long-time fan of Emmanuel MacronThe former US leader is a long-time fan of the centrist and endorsed for the presidency when he urged voters to reject the far-right. Although the Elysée Palace did not say whether there was a reason behind the ‘secret’ meeting, it is a sure sign that the bromance between the French centrist and Donald Trump’s popular predecessor is still going strong.America’s former head of state embarked on a five-day trip to China, India and France earlier this week, and has been busy catching up with his former counterparts, including Chinese president Xi Jinping, his spokeswoman, Katie Hill said. The liberal democrat, who handed over the White House to Mr Trump in January, will be in the City of Lights on Friday and Saturday.  Related articles   Emmanuel Macron demands 'attractive French' becomes 'World's language'   Macron to change voting system for EU elections in move which could...   GETTYMr Obama will meet with Mr Macron for a 'private' lunch on Saturday  GETTYMr Macron has been openly endorsed by former US President Obama Macron appeals to people’s hopes and not their fearsBarack ObamaHe will attend a string of meetings in the French capital – including the intimate lunch with Mr Macron – and is to deliver remarks at an introductory session of the Les Napoleons innovation summit, Mrs Hill added.Mr Obama openly endorsed the 39-year-old centrist for France’s presidential election last May, issuing a video message in which he praised the then candidate for stoking people’s hopes, and not their fears.The American said: “Mr Macron has stood up for liberal values… “He is committed to a better future for the French people.   Controversial political graffiti: Politicians as you've never seen them before Mon, May 15, 2017In the 1970s and onward when graffiti was everywhere, graffiti artists often wrote messages, which often were political Play slideshow  Getty Images1 of 8A mural of U.S. President Donald Trump (R) and Russian President Vladimir Putin 'shotgunning' a marijuana joint  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “He appeals to people’s hopes and not their fears.” Mr Obama said, concluding his statement with “Vive la France!”.Mr Macron won the presidential election over his far-right rival Marine Le Pen, the head of France’s eurosceptic Front National party, with more than 60 per cent of the final round vote. 

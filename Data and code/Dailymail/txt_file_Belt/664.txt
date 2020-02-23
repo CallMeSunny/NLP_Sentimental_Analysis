@@ -1,0 +1,225 @@
+Helena Christensen, 49, looks impossibly youthful as she dazzles in chic LBD at New York party
+https://www.dailymail.co.uk/tvshowbiz/article-6255485/Helena-Christensen-49-looks-impossibly-youthful-dazzles-chic-LBD-New-York-party.html
+ 09:04 BST, 9 October 2018 
+She was catapulted to fame as one of the original Nineties supermodels alongside Naomi Campbell and Cindy Crawford.And Helena Christensen looked every inch the catwalk star as she attended the after-party of the Cinema Society and Brooks Brothers screening of The Happy Prince in New York on Monday. The 49-year-old Danish beauty dazzled in an embroidered jacquard LBD, cinching in her tiny waist with a gem-embellished belt.          Turning heads: Helena Christensen, 49, looked every inch the catwalk star as she attended the after-party of the Cinema Society and Brooks Brothers screening of The Happy Prince in New York on MondayThe brunette beauty added height to her already statuesque frame with a vertiginous pair of ankle-strap courts.    RELATED ARTICLES  Previous 1 2 3 Next       Dancing With The Stars: Evanna Lynch credits JK Rowling with...    Seann Walsh's girlfriend Rebecca Humphries DUMPS comedian on...    Lauren Pope PICTURE EXCLUSIVE: TOWIE star stuns in little...    Ariana Grande shares risqué topless snap of herself wearing...      Christine Lampard looks sensational in a LBD as she supports...    Dame Barbara Windsor's devastated husband Scott Mitchell is...    The X Factor: David Walliams pokes fun at Robbie Williams'...    Demi Rose displays her jaw-dropping curves in latex bustier...      Little Mix's Jesy Nelson looks sensational as she flashes...    Romeo Beckham shares sweet snap of himself, dad David and...    Caroline Flack's beau Andrew Brady takes couple's beloved...    
+
+Share this article
+Share
+47 shares
+
+ The mother-of-one completed her look with a black chain-trim bag and accessorised with statement drop earrings. The runway star styled her glossy raven tresses in a simple updo and highlighted her striking features with a slick of bold red lipstick.          Stunning: The 49-year-old Danish beauty dazzled in an embroidered jacquard LBD         Double trouble: Helena mingled with Hollywood actress Julianne Moore, 57, at the party       
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Julianne_Moore'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Think pink in a dress like Julianne's
+
+
+
+
+Givenchy Resort 2019
+Shop the current collection
+
+
+
+Visit site
+
+
+
+A host of celebrities flocked to the screening of The Happy Prince in New York last night. And Julianne Moore certainly stood out amongst the crowd!
+The actress opted for a vibrant dress by Givenchy, which featured all-over pleating and a colourful chevron print.
+The stripy trend has been going strong for a while now and, since this dress hails from the resort 2019 collection, we can safely say the craze is set to stay! 
+That means there’s no time like the present to invest in the perfect dress. If you’re in need of some inspiration, browse our edit below for a range of options from high street and high end brands alike. Simply team your favourite design with white mules for a nod to Julianne’s look.
+Want to see more from Givenchy? You can shop their current line at Farfetch by clicking (right).
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Boohoo striped dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Anupamaa 'Anjali' dress at Shoptiques
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Marni chevron dress at Farfetch
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Topshop striped wrap dress (now reduced to £15)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Julianne_Moore', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Helena is mother to 18-year-old son Mingus with her former boyfriend, actor Norman Reedus.She also previously dated the late INXS frontman Michael Hutchence, who tragically passed away in 1997, aged 37. They dated and lived together on and off for five years across France and Denmark in the early 1990s.         Ready for her close-up: The runway star styled her glossy raven tresses in a simple updo and highlighted her striking features with a slick of bold red lipstick         Ruling the runway: Helena took to the catwalk for  Dolce & Gabbana's Spring/Summer collection during Milan Fashion Week last month       In an extract from her new book, Michael's brother Tina, 70, recalled one particular 'magical' Christmas she spent with the couple in France in 1991.'Their relationship was very loving, spirited and, at times, competitive,' Tina wrote in an extract published in Sunday Life. 'She challenged him.' Describing the couple's lifestyle in France, Tina added: 'Michael enjoyed relaying how he and Helena had gone to the local market and bargained for the beautiful old furniture.'         Icon: She was catapulted to fame as one of the original Nineties supermodels alongside Naomi Campbell and Cindy Crawford         Star: Helena's modelling career was launched when she won the Miss Universe Denmark title in 1986       Following Michael's split from Helena, he became romantically involved with Paula Yates in the mid-1990s.The couple then went on to have daughter Heavenly Hiraani Tiger Lily Hutchence in 1996, one year before Michael died of an alleged suicide.Helena's modelling career was launched when she won the Miss Universe Denmark title in 1986.She went on to become one of the original 1990s supermodels alongside Linda Evangelista, Christy Turlington, Cindy Crawford, Naomi Campbell, Elle Macpherson and Claudia Schiffer.

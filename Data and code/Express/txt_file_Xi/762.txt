@@ -1,0 +1,21 @@
+Peppa Pig CENSORED: China removes cartoon for being 'subversive'
+https://www.express.co.uk//news/world/953902/peppa-pig-china-censorship-peppa-pig-videos-dou-yin-app
+ 22:23, Tue, May 1, 2018 
+  CHANNEL5Peppa Pig has been branded subversive by Chinese censorsThe hashtag #PeppaPig has been removed from the Dou Yin app along with more than 30,000 video clips featuring the animated porker.A document appearing to be an official guideline published by Dou Yin named Peppa Pig on its blacklist.State media blames the ban on the cartoon's connections to a subversive sub-culture created among viewers in China. Related articles   Why is Winnie-the-Pooh banned in China?   Avengers Infinity War CENSORED in Indonesia: ‘I’m SHOCKED’ – director     They are unruly slackers roaming around and the antithesis of the young generation the Communist party tries to cultivateGlobal TimesThe Global Times, a state-run tabloid newspaper, said people who upload videos of Peppa Pig tattoos and merchandise and make Peppa-related jokes “run counter to the mainstream value and are usually poorly educated with no stable job”.It said: “They are unruly slackers roaming around and the antithesis of the young generation the Communist party tries to cultivate.”The official document released by Dou Yin also banned sexual content, nudity, men dressed in women's clothing, displays of firearms and cult sermons as well as mocking of the Chinese currency and government officials.  CHANNEL5People who download Peppa Pig are 'unruly slackers' according to Chinese state mediaPeppa Pig is not the first cartoon to fall foul of Chinese censors.Winnie the Pooh, whose round face and belly was often compared to resembling the appearance of Chinese President Xi Jinping, was blocked on Weibo last year.Dou Yin is thought to be the most popular video app in China at present. It allows users to upload 15-second home-made videos with popular music titles.Peppa Pig is aimed at a pre-school audience but found mass appeal with young Chinese young adults since first airing in 2015. Disney princesses transformed into provocative pin-ups Wed, October 26, 2016These incredible illustrations show Disney princesses transformed as you have never seen them before into provocative pin-ups. Play slideshow  1 of 10  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Net users began referring to Peppa as “shehuiren” which literally means “societal person” but is often used as an euphemism for potential troublemakers or people who run counter to society's norm.The fifth season of the cartoon released last October racked up 10 billion views across China's social video platforms, according to Beijing Youth Daily.The frenzy with the character also began when net users shared Peppa-branded merchandise such as clothing, books, watches, plush toys, keyrings and even temporary tattoos.

@@ -1,0 +1,21 @@
+North Korea: 'No way' to use force to stop nuclear escalation without INSTANT response
+https://www.express.co.uk//news/world/879891/North-Korea-news-military-World-War-3-Donald-Trump-Kim-Jong-un-nuclear-power-video
+ 07:04, Thu, Nov 16, 2017 
+   North Korea would unleash a "fairly large scale" attack to counteract any intrusion in the military state.Dr Zala said: "There really isn’t a military option here. There is no sensible way of using military force to actually achieve the goal of denuclearising North Korea and being able to be sure that that has actually been successful."Even if we did so the cost would simply be too high. The retaliation from North Korea would be instant and would be on a fairly large scale."  GETTY/SKY NEWS AUDr Ben Zala said North Korea would immediately retaliate to any military approachSpeaking to Sky News Australia, the international relations expert added that the tense situation between North Korea and neighbouring countries could easily result in "miscalculations" with terrible results.He continued: "The tensions are so high that it means that the risks of a miscalculation – and of the tensions really ratcheting up to a point where decision are made in a very short time period – are always with us."It comes as China sent a special envoy to Pyongyang in the aftermath of US President Donald Trump's tour of Asia.Chinese President Xi Jinping dispatched his head of international liaison Song Tao to meet their rogue ally at the end of this week.   North Korea has been engaged in an aggressive war of word with President Trump ever since the US President threatened leader Kim Jong-un with "fiery and fury" if it continued to develop nuclear missiles.But fears of World War 3 continue to grow as a 5.4 earthquake in the Sea of Japan gave rise to concern of a possible new nuclear test carried out in North Korea.In September experts began to monitor Pyongyang after Kim Jong-un triggered an earthquake with one of his tests.The head of the nuclear test monitoring agency CTBTO said that its analysts were "looking at unusual seismic activity" in North Korea. Satellite images show North Korea’s shocking gulags Wed, February 7, 2018North Korea operates two systems of arbitrary detention and political imprisonment. Both systems feature forced labor and brutal conditions, leading to high rates of deaths in detention in both systems Play slideshow  HRNK1 of 26Map of prison camps in North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Reports of buildings shaking and tremors being felt 270 km away from Pohang, as well as the island of Jeju.The region is home to nuclear power plants and industrial facilities, but there has been no word yet of any damage to them.In Pohang about 100 residents were forced to flee from a residential block. Students in nearby schools were also evacuated from classrooms.The quake is the second biggest to ever hit South Korea. A 5.8 magnitude quake in September last year was recorded as the most powerful the country has suffered.

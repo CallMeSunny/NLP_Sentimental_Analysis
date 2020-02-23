@@ -1,0 +1,21 @@
+China releases pictures of ballistic missiles in threat they can strike ANYWHERE in world
+https://www.express.co.uk//news/world/902632/world-war-3-china-army-missiles-photos-war
+ 09:33, Wed, Jan 10, 2018 
+  PLAChina released explosive photos of recent missile testsHuge ballistic missiles are shown soaring into the sky, leaving a trail of smoke and debris in their wake in the images released by the People’s Liberation Army Daily (PLAD).The state-run paper for the country’s armed forces said DF-11 and DF-16 mobile launched missiles had been tested by Beijing at an undisclosed location. These missiles have a range of up to 620 miles, PLAD reported, putting most of Asia within reach if launched from the Chinese mainland.However, the South China Post warned Beijing could theoretically strike anywhere on the planet due to the mobile nature of the missiles - which can also carry up to three nuclear warheads.   PLAA recent Chinese missile testThe Hong Kong-based paper said: “The DF-16, first unveiled to the public in 2015, can travel about 625 miles and has been reported to be as accurate as a cruise missile, Chinese military observers have said. “The mobile-launched ballistic missiles could theoretically be launched from anywhere on China's mainland, one of China's missile shelters in the South China Sea, or even an aircraft carrier.”Particularly at risk was the US Marine Corps base at Okinawa, Japan.It comes after China's president Xi Jinping told soldiers they must be “always ready to fight”. He said: “In the past, we had more spirit than steel. Now we have plenty of equipment, so we need an even tougher and stronger spirit to wield it.”  PLAChina has carried out several missile tests in recent months Photos show Chinese military enhanced missile power Wed, January 10, 2018A Chinese military newspaper has published new photos showcasing its short and medium-range missiles Play slideshow  PLA1 of 9  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    It comes amid rising tension in the region after China was caught red-handed selling oil to North Korea - a clear breach of UN sanctions introduced to bring the rogue regime under control. Last month satellite images, taken earlier in the year, proved the illegal transfer had taken place at sea. One UN security source said: “The vessels are smuggling Russian fuel from Russian Far Eastern ports to North Korea“Russian vessels have made ship-to-ship transfers of petrochemicals to North Korean vessels on several occasions this year in breach of sanctions."A second source said: “There is no evidence that this is backed by the Russian state but these Russian vessels are giving a lifeline to the North Koreans.”

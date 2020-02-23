@@ -1,0 +1,225 @@
+Rihanna looks extremely busty in tiny leather minidress as she launches latest Fenty Beauty line in Milan
+https://www.dailymail.co.uk/tvshowbiz/article-5583561/Rihanna-looks-extremely-busty-tiny-leather-minidress-Fenty-Beauty-launch-Milan.html
+ 22:31 BST, 5 April 2018 
+Rihanna put on a busty display on Thursday as she attended the launch of her latest Fenty Beauty collection in Milan.The 30-year-old American songstress showed off her ample cleavage in an eye-popping leather dress as she celebrated the release of her latest beauty range in the Italian city.Rihanna showed off her ample cleavage in the tight black dress, oozing rocker chic as she accentuated her slim waist with a chunky black belt.         Rocker chic: Singer Rihanna, 30, put on an eye-popping display in a tight leather dress on Thursday as she attended the launch of her Fenty Beauty line in MilanRihanna highlighted her incredible curves in the sexy ensemble as she made her way along the black carpet at the beauty launch, with her trim pins accentuated by garment's crossover style.   RELATED ARTICLES  Previous 1 Next       Chris Brown bowls with Jordyn Woods... after being pictured...    Brooklyn Beckham is escorted by dad David to get new dancing...    Selena Gomez slips into skintight sweats to model her new...    Leonardo DiCaprio EXCLUSIVE: Actor, 40, receives a tender...    
+
+Share this article
+Share
+4.1k shares
+
+ Boosting her cleavage with a tight bust, the Take A Bow songstress added to her look with a large black belt sporting an enormous cowboy-style clasp.Ever the glamour girl, Rihanna accessorised her look with an array of chunky gold bangles and rings, elongating her legs with chain-strap gold heels.The Barbados-born singer kept her dark tresses styled into classic beachy waves, and highlighted her flawless complexion with a bronze smoky eye and nude lip.         Gorgeous: The Take A Bow songstress struggled to contain her ample cleavage in the tight black wraparound frock              Sensational: Rihanna highlighted her incredible curves in the sexy dress, with the thigh-skimming skirt showing off every inch of her toned pins
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Rihanna'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go hell for leather like Rihanna in a Versace dress
+
+
+
+
+Versace AW18/19
+Shop the brand here at NET-A-PORTER
+
+
+
+Visit site
+
+
+
+Rihanna looked sensational as she was spotted out in Milan celebrating the launch of her latest Fenty Beauty range.
+Opting for a head-to-toe Versace ensemble, the Umbrella songbird was working her curves in a strapless black leather dress accented with a baroque gold belt at the waist and several stacked bangles. She finished her look with a pair of sky-high ankle strap sandals which lengthened her pins too.
+This exact dress comes from the AW18/19 line so isn't currently available online, but click through to shop the current Versace range at NET-A-PORTER (right).
+Also, get the look for less with one of our high street picks in the edit below.
+From Helmut Lang to PrettyLittleThing, all budgets are covered.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Helmut Lang strapless dress at Intermix
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+PrettyLittleThing stud detail bodycon dress (now reduced to £20)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+PrettyLittleThing faux leather buckle dress (now reduced to £15)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+DSquared2 Western leather dress at Luisa Via Roma
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Rihanna', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Glamorous: The Grammy-winning singer added some extra edge to her look by rocking a slew of chunky gold bangles and an enormous waist-cinching beltEarlier that evening Rihanna was seen struggling to contain her ample cleavage in the tight dress, adjusting her frock as she left The Armani Hotel for the event.Carrying her essentials in a matching black clutch bag, the Grammy winner had previously teased fans about the new addition to her beauty range, taking to Instagram on Wednesday to count down to the day her new products would be on sale.She wrote: '#BEACHPLEASE we only 2 days away from #bodylava domination!!! Wait until you smell how delicious this is!!'         Busty: Rihanna put on a sparkling display as she took her niece Majesty to the lavish launch bash, jumping in a glittery pink ball-pit         Having fun? The three-year-old looked like she was having a whale of a time while the pair frolicked in the ball-pit together              In the wrong place? Something appeared to slip down Rihanna's tight dress as she messed around in the sea of glitter, checking her dress in hilarious fashion         Grab that one: Little Majesty wore a cute multicoloured frock for the outing as she played in the sea of clear balls surrounding by the pink sparkles         Up in the air: Tossing balls high, Rihanna let her hair down to play with her niece at the lavish launch event         Great fun: Rihanna couldn't stop smiling at the unveiling of her new beauty range         Legs for days: Rihanna added even more height to her look with gold chainstrap heels as she headed into the launch of her latest beauty line         Got everything? The beauty was also seen sorting out her essentials in a black crocodile skin handbag as she exited The Armani Hotel for the launch event         Don't pop out! Rihanna struggled to contain her ample cleavage as she arrived at the event         Showstopping: As she made her way into the event, Rihanna showed off every inch of her glowing complexion with a bronze smoky eye and nude lip       It is not the first of Rihanna fashion and beauty efforts, as she spoke to W Magazine at the 2017 launch of her FentyxPuma fall collection in New York.Speaking to the publication, the songstress talked about the inspiration behind her fashion line, and talked about making her projects inclusive and accessible.The Disturbia singer shared: 'I want to make things for all body types. That was very intentional when I first started, even back with River Island. With [Fenty x Puma], I have so much freedom. I want everybody in my crew to have something.'You don't just design for yourself. You use your taste as the muse of everything. I like to play around with silhouettes. Trust me, I could always use a good fat day outfit. I like to be comfortable.'         Voluminous: The Barbados-born singer styled her dark tresses into beachy waves as she made her arrival              Riding high: Teasing her beauty range on Instagram earlier this week, Rihanna unveiled her Summer 2018 collection, which aimed to help fans get the perfect beachy glow         Sassy: Posing up a storm, Rihanna highlighted her trim waist with a large cowboy-style belt with boasted a massive gold clasp         Chart-topper: Rihanna has been keeping fans on tenterhooks for any information about her ninth studio album, after taking a hiatus from music in 2017              Beaming: Something appeared to tickle Rihanna as she made her flashed her beaming smile on the way into the glamorous event         Glowing: The amazing songstress looked happier than ever as she made her way into the event gushing about her new beauty range         Statement: Demonstrating one of her products, Rihanna rocked a pop of red lip colour inside the event              Passionate: Rihanna spoke about her new beauty range with great vigour after teasing some of the new products with fans on social media         Family matters: Rihanna beamed with delight as she spent time with her niece Majesty at the bash, instead of the VIP guests              Flower power: Majesty looked adorable in a floral dress and dolly shoes as she cuddled up to her glamorous aunt at the bash         Let's go! Rihanna beamed with pride as the toddler playfully threw balls at guests         All eyes on her: Rihanna was the centre of attention at the event, with many fans taking photos of her for social media         Having a ball! The pair later played together in the hot pink ball pit at the event         Joining in the fun: Rihanna then threw a few bubbles at her attendees herself, with a cheeky smile on her face         Packed: Her new line with Sephora proved to be a hit, with many guests in attendance and swarming the ball pit to get a glimpse of the singer

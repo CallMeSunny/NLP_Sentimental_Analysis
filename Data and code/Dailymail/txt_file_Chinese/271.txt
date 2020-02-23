@@ -1,0 +1,224 @@
+A fallen Angel! Chinese model Ming Xi suffers an EPIC tumble as she gets her heel caught in her flowing ensemble at Victoria's Secret Fashion Show in Shanghai
+https://www.dailymail.co.uk/tvshowbiz/article-5100565/Model-Ming-Xi-suffers-EPIC-tumble-Victoria-s-Secret.html
+ 14:34 BST, 20 November 2017 
+She has been strutting her stuff for the Victoria's Secret Fashion Show since 2013.But Ming Xi momentarily lost composure as she suffered an epic tumble at the 22nd annual show which was held at the Mercedes Benz Arena in Shanghai on Monday.The Chinese model, 28, accidentally caught the flowing fabric of her ensemble on the heel of her thigh-high gladiator shoes - sending her packing for all to see.Scroll down for video            There she goes! Ming Xi, 28, suffered an epic tumble at the 22nd annual Victoria's Secret Fashion Show show which was held at the Mercedes Benz Arena in Shanghai on Monday         Going, going, gone! Ming momentarily lost composure as she tripped over her ensemble and fell to the ground Ming initially appeared on the runway looking absolutely jaw-dropping, but she was soon dealt with an embarrassing moment as she fell in her vertiginous lace up gold sandal heels.The raven-haired beauty was seen dramatically falling to the floor, before grabbing onto her statement headgear to avoid further disaster.     RELATED ARTICLES  Previous 1 Next       No wonder he's ecstatic! Harry Styles cuts a dashing figure...    Bella Hadid suffers a double nip slip as she flaunts her...    Busty Lais Ribeiro steals the show in opulent $2million...    Victoria's Secret Angel Adriana Lima wows in two VERY sexy...    
+
+Share this article
+Share
+4.2k shares
+
+ With all the excess material, getting up off the floor proved to be quite the challenge for the beauty.Luckily Ming was able to laugh off the fall as she finally made her way up from the ground.           Taking a tumble: The Chinese model, 28, accidentally caught the flowing fabric of her ensemble on the heel of her thigh-high gladiator shoes - sending her packing for all to see              Oops! The raven-haired beauty was seen dramatically falling to the floor, before grabbing onto her statement headgear to avoid further disaster         Laughing it off: Ming did her best to keep a smile on her face as she attempted to get up               Tangled up! With all the excess material, getting up off the floor proved to be quite the challenge for the beauty         The show must go on! Luckily Ming was able to laugh off the fall as she made her way up from the ground
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Ming_Xi'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make in metallics like Ming Xi in Victoria's Secret
+
+
+
+
+Victoria's Secret 'Wicked!' unlined bra
+Shop similar options below
+
+
+
+Visit site
+
+
+
+She might have taken a tumble on the Victoria's Secret runway, but Ming Xi did it in serious style.
+She faced every model's nightmare this week as she fell to her knees on the catwalk in Shanghai during the annual fashion show, but nobody was focusing on her mis-step when she was looking so fab in Victoria's Secret lingerie paired with Brian Atwood over-the-knee gladiator sandals and with blossom tree branches attached to her back!
+The good news about the pretty grey bra with a metallic shimmer to finish it off is that it's up for grabs to buy now (right). It boasts pretty scalloped lace trims and bow detail on each strap too. It's super sexy with a wintry feel.
+Want to check out similar alternatives? Head below for options by Stella McCartney, Boux Avenue and more.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Stella McCartney 'Isabel' floating bra at NET-A-PORTER
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Floozie by Frost French lace bra at Debenhams (now reduced to £13.20)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boux Avenue 'Chloe' lace balconette bra
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+ESPRIT lace bra
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Ming_Xi', FFFtype: 'inline', fff: true}});
+        }
+    
+
+While many would have been left red-faced, Ming didn't break a sweat as she flashed a huge smile while continuing her sexy strut. Despite the blunder, Ming looked sensational in her saucy metallic and royal blue hued bodysuit.The number was paired with a whimsical semi-sheer blue gown, with balloon sleeves and a soaring split down the middle. Glamorous floral wings and an incredible crown set completed the look, as did her striking coat of make-up.                 Veteran: She has been strutting her stuff for the Victoria's Secret Fashion Show since 2013              Rise to fame! Ming was discovered after placing third in the Elite Model Look competition in 2010 and has since gone on to become one of China's most sought after models         Impressive: She kicked off her international modelling career for Givenchy's 2011 Haute Spring Show, before wowing at the likes of Christian Dior, Vivienne Westwood and Kenzo the same year              Like it didn't even happen! While many would have been left red-faced, Ming didn't break a sweat as she flashed a huge smile while continuing her sexy strut         Speaking of her sudden fame back in 2011, Ming told CNN: ' Even now I don’t believe I am really a model, it’s very surreal to me'       Ming was discovered after placing third in the Elite Model Look competition in 2010 and has since gone on to become one of China's most sought after models. She kicked off her international modelling career for Givenchy's 2011 Haute Spring Show, before wowing at the likes of Christian Dior, Vivienne Westwood and Kenzo the same year. Speaking of her sudden fame back in 2011, Ming told CNN: ' Even now I don’t believe I am really a model, it’s very surreal to me.''I had no preconceptions about this career, I tend to just go with the flow. I never really gave (being a professional model) too much thought before. That said, I absolutely love what I’m doing now,' she concluded.               Laughing it off! Ming handled the embarrassing situation like a champ         Wow: Despite the blunder, Ming looked sensational in her saucy metallic and royal blue hued bodysuit         Sexy: The number was paired with a whimsical semi-sheer blue gown, with balloon sleeves and a soaring split down the middle         Beauty: Glamorous floral wings and an incredible crown set completed the look, as did her striking coat of make-up 

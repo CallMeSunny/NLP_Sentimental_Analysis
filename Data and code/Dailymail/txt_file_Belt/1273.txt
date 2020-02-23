@@ -1,0 +1,224 @@
+Olivia Munn simply shines on the red carpet wearing low-cut emerald jumpsuit at MTV Movie Awards
+https://www.dailymail.co.uk/tvshowbiz/article-5852793/Olivia-Munn-simply-shines-red-carpet-wearing-low-cut-emerald-jumpsuit-MTV-Movie-Awards.html
+ 04:08 BST, 17 June 2018 
+Olivia Munn was a fierce fashionista Saturday at the 2018 MTV Movie & TV Awards at the Barker Hangar in Santa Monica, California.The 37-year-old actress looked sexy and stunning in a plush ocean green jumpsuit with a plunging V-neck, with sleeves extending to her elbows and a matching belt with red and silver fringes.She had her shoulder-length dark locks parted down the middle as she made her way down the red carpet at the cinematic award show, which was slated to be hosted by Tiffany Haddish, with Black Panther and Stranger Things among the leading nominees.Scroll below for video          Glamorous: Olivia Munn, 37, was a fierce fashionista Saturday at the 2018 MTV Movie & TV Awards at the Barker Hangar in Santa Monica, California
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Olivia_Munn'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Look luxurious in a velvet Galvan jumpsuit like Olivia
+
+
+
+
+Galvan custom velvet jumpsuit
+Shop similar style at Farfetch
+
+
+
+Visit site
+
+
+
+You don't always see velvet in sumertime as it's often kept back for Christmas parties or autumn wear. But with the plush fabric cropping up at SS18 shows by Baja East, Bottega Veneta and Gucci, velvet is now ready for it's all year round spotlight.
+From daytime to evening wear, you can't really go wrong when it comes to this luxurious look. Take Olivia Munn for inspiration, who wore a custom Galvan velvet jumpsuit in emerald green at the MTV Movie Awards, as styled by Jessica Paster.
+The model made statements simply by wearing this deep-V, tie-waist one-piece, and accessoring with a gold clutch bag. 
+Although this one is custom made, a similar version is available to buy at Farfetch (click right). But, it will cost a little, so it's also worth checking out the edit below to find a similar style for less if you're wanting to channel Olivia at your next event.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Miss Empire 'Jenny' emerald green velvet wide leg jumpsuit
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Forever 21 velvet cami jumpsuit (now reduced to £17.99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Ukulele 'Audrey' jumpsuit
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missguided petite blue velvet jumpsuit
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Olivia_Munn', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Olivia accentuated her look with a dazzling collection of diamonds from Anita Ko, including rings, earrings, and a necklace, which she layered with other dainty pieces from Eva Fehren. The 5ft4in beauty made headlines last week after posting on Instagram a powerful personal essay,She detailed her bouts with 'anxiety and sporadic bouts of depression' following the suicide of celeb chef Anthony Bourdain in a Paris hotel room June 8.   RELATED ARTICLES  Previous 1 Next       Olivia Munn poses in very low-cut top during picnic with her...    Olivia Munn joins team battling mega-alien monster in new...    Olivia Munn opens up about her own battle with depression...    Olivia Munn and more celebs come to the defense of bullied...    
+
+Share this article
+Share
+92 shares
+
+ 'I have lived with anxiety and sporadic bouts of depression for most of my adult life. 10 years ago I tackled it, learned to fully understand it and haven't felt the dark depths of depression in about a decade,' said the Oklahoma City native. 'But before that, thoughts of suicide crossed my mind more than a few times.'For those who don't understand depression, when someone is in that place it's not because they want to die ... it's because the ongoing, relentless darkness is too painful to endure anymore.'          Swag: The dark-haired beauty strode across the red carpet with confidence                 Luxe: The actress kept in hand a gold clutch as she posed for photographers The X-Men: Apocalypse actress said that 'something very sad or traumatic can happen to you just once to bring about that feeling of despair.'The Miles from Tomorrowland star stressed to her 2.1 million followers 'SUICIDE IS NOT THE RIGHT CHOICE,' adding a list of suicide prevention numbers and urging people in need to utilize them.'Please don’t hesitate to call for you or someone you think needs help. A phone call could change everything,' she said. 'With suicide, there’s no do-overs. Please try every single option you can before making a choice that cannot be undone.'          Designer: The end of Olivia's plush belt had red and silver fringes on it         Candid: The stunning actress recently opened up about how people with suicidal urges should speak out before it's too late          Gorgeous: Munn waved to her fans at the exciting event in Southern California 

@@ -1,0 +1,21 @@
+GLOBAL BRITAIN: China applauds 'win-win Brexit' with £60bn trade set to SKY-ROCKET
+https://www.express.co.uk//news/uk/911823/Chinese-Global-Britain-post-Brexit-trade-deal-Theresa-May
+ 14:45, Tue, Jan 30, 2018 
+   Theresa May will visit China on Wednesday as part of a three-day charm offensive to boost Britain's post-Brexit trade credentials.An expert in the UK-China relations, Wang Zhanpeng, from the Bejing Foreign Studies University, said Chinese politicians are eagerly anticipating a "win-win" Brexit.  GETTY; CGTNMay is in China to meet with President Xi Jinping, as she tries to boost Britain's trade credentialsTalks with both Mr Jinping and Premier Li Keqiang are scheduled to discuss increasing the trade links between Britain and China, already worth an estimated £60billion last year.Mr Zhanpeng told China broadcaster CGTN: "The UK is unable to negotiate any trade agreements as part of the EU."So, after Brexit, China is looking forward to the 'Global Britain' approach. Businesses see a win-win."This will enable Britain to integrate further into globalisation and this will improve China-UK trade ties."British Ambassador to China Barbara Woodward echoed these remarks, adding: "The UK will be free to make our own decisions about trade agreements, so these talks will explore the scope to work with China and move towards a more ambitious trading relationship."She reiterated the vision of Golden Era for China-UK relations set out in 2015.  Brexit trade talks in pictures: UK Ministers explore potential trade deals Tue, July 25, 2017Latest pictures as Britain's Ministers started informal trade talks all over the world Play slideshow  AFP/Getty Images1 of 14British Secretary of State for International Trade Liam Fox delivers remarks on 'The Future of UK Trade Policy' at the American Enterprise Institute  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     China is looking forward to the 'Global Britain' approachWang ZhanpengOfficial figures show that trade between the UK and China is at record levels and has grown by over 60% since 2010.The Prime Minister will be joined by 50 business leaders from all sectors of the UK economy for the three-day visit to Wuhan, Beijing and Shanghai.Ahead of the trip, Mrs May said last night: “The UK and China are both global powers with a global outlook and I am committed to deepening our strong and vital partnership with what is one of the world’s fastest growing economies.“Our relationship is already broad and deep, and it delivers real benefits for both countries.“There are huge trade opportunities in China that we want to help British businesses take advantage of."Britain is China’s second-largest trading partner inside Europe, while China is Britain’s second-largest partner outside the EU.

@@ -1,0 +1,219 @@
+Sheer stars! Selena Gomez and Hailee Steinfeld opt for racy black outfits showing plenty of leg as they perform at Philly Jingle Ball
+https://www.dailymail.co.uk/tvshowbiz/article-3353787/Selena-Gomez-Hailee-Steinfeld-opt-racy-black-looks-plenty-leg-perform-Philly-Jingle-Ball.html
+ 05:13 BST, 10 December 2015 
+Selena Gomez and Hailee Steinfeld descended on Philadelphia this week to belt out their hits at Q102's Jingle Ball.The ladies took to the stage in revealing black ensembles at the Wells Fargo Center, giving fans quite a treat with their racy performances.Selena, 23, donned a sheer black bodysuit with paneled bodice and hotpants which included a built-in skirt. See the latest from Selena Gomez as she performs at the the Philly Jungle Ball          Doing her thing: Selena Gomez performed at the Philadelphia Jingle Ball on Wednesday nightCompleting the look was a pair of chunky leather ankle boots. The songstress wore her thick tresses in an immaculate centre-parting and accessorized with leather gloves. At one point the Good For You hit maker crouched down revealing lots of leg as she sang on some steps surrounded by hunky backing dancers.           Hit maker: The 23-year-old star donned a black outfit with sheer paneling for the performance          Moving in: She got up close and personal to one of her backing dancers               Getting to grips: The Good For You hit maker wore leather gloves for her raunchy performance         She's a pro: The singer put on quite a display with her dancers at the Wells Fargo Center
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Selena_Gomez'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steal Selena's colour block style this season
+
+
+
+
+David Koma SS16
+Click to pre-order some of the SS16 collection at Luisaviaroma.com
+
+
+
+Visit site
+
+
+
+Well have you got your party dress sorted?
+Christmas is basically here and we all know that means endless events, work parties and family lunches so you need a couple of options to cover off this busy time in your social calendar.
+If you're bored of classic black then why not make your LBD a little more interesting like Selena Gomez who rocked this fab number by David Koma on the red carpet yesterday? With a two-tone colour palette and embellishment on the bodice, it's a chic update that's worth copying if you want to stand out from the crowd this winter.
+Selena's dress is from Koma's SS16 collection so isn't available just yet but click (right) to pre-order some of the line at Luisaviaroma.com now. Or recreate the look with one of the dresses in our edit below.
+Splash some cash on St. John at Lane Crawford or you'll find a bargain buy at Asos.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+St. John embellished colour block dress at Lane Crawford (now reduced to £675)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos colour block pencil dress (now reduced to £11)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Paper Dolls embellished colour block dress at Little Mistress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Miss Selfridge colour block dress at John Lewis
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Selena_Gomez', FFFtype: 'inline', fff: true}});
+        }
+    
+
+       The brunette beauty wowed on the red carpet earlier in the evening donning mid-length dress with beaded bodice. The Texas-born beauty is currently rumoured to be dating One Direction's Niall Horan, 22. The pair were reportedly spotted kissing at a friend's birthday party on Friday and enjoying amusement rides together the following day at the Santa Monica pier.          Risque: The star opted for the underwear as outerwear look as she cavorted on stage         Dare to bare: The tight design left little to the imagination        Feeling it! The singer looked entranced as she closed her eyes and sung on stage          All smiles: Selena covered up in a black coat as she stepped on stage         Slim curves: The ensemble was the perfect choice to show off Selena's svelte physique         Perfectly poised: The Texan beauty wowed on the red carpet earlier in the evening in a midi dress with jeweled bodice         All that glitters: Hailee Steinfeld performed at the Q102's Jingle Ball in Philadelphia on Wednesday       But when asked about the budding romance while strolling through a Philadelphia airport on Tuesday evening, the ex-girlfriend of Justin Bieber kept her lips sealed. Meanwhile Hailee, 18, opted for a racy outfit consisting of a glittery black bodysuit, fishnet tights and patent black thigh-high-boots.The songstress took to the stage to belt out her hits with her long brunette locks falling around her shoulders.          Racy look: The 18-year-old star looked leggy in a sparkly bodysuit and thigh-high boots         Owning the stage: Hailee wore fishnet tights for the sexy lookHailee's red carpet look was more low-key and she teamed a green blazer over leather trousers and a simple t-shirt.She finished the outfit with chunky flat boots.The star recently opened up to Rolling Stone about how her EP title came about.          Racy: The actress' patent black boots made for a vampy look         Putting on a show: The brunette beauty stood in front of some back-up dancersShe revealed: 'Haiz is something that my fans started calling me for a while. I felt as though if I titled it HAIZ, it would kind of make it feel like they had named it, in a way.''Obviously, this is my first time releasing more than just a single, and I've been so excited, and I've had so much support from the fans, so I really wanted to make it feel as if this was something from me to them.' It has also been announced that the multi-talented star will return to the big screen for Pitch Perfect 3 which is set to be released August 2017.          Talent: The Pitch Perfect 2 star rocked a $255 K Kane 'Print Collar Necklace' on the red carpet earlier in the evening  

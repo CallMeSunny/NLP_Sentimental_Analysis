@@ -1,0 +1,21 @@
+China in NEW WARNING to US: Donald Trump being watched 'very closely' by president
+https://www.express.co.uk//news/world/739173/China-Donald-Trump-president-warning
+ 00:00, Fri, Dec 2, 2016 
+  GETTYPresident Xi Jinping is watching US politics "very closely" following Donald Trump's winPresident Jinping told former US secretary of state Henry Kissinger on Friday that he was keeping a close eye on the US.Trump lambasted China throughout the US election campaign, drumming up headlines with his pledges to slap 45 per cent tariffs on imported Chinese goods and to label the country a currency manipulator. Related articles   Donald Trump launches formal objection to Michigan election recount   Donald Trump vows to SHUT borders to some Middle East migrants President Jinping told Trump that cooperation was the only choice for China and the United States in a telephone call a few days after his victory.He told Mr Kissinger: "The presidential election has taken place in the United States and we are now in a key moment.     REUTERSTrump lambasted China throughout the US election campaign The presidential election has taken place in the United States and we are now in a key momentPresident Xi Jinping"We on the Chinese side are watching the situation very closely. Now it is the transition period."Overall, we would like to see the China-US relationship move ahead in a stable and sustained manner."China and the United States must "uphold continued stable development of mutually beneficial bilateral trade relations", he said.  GETTYPresident Jinping told Trump that cooperation was the only choice for China and the United States Anti-Trump protests erupt worldwide Wed, November 30, 2016Trump win sparks riots across US as crowds burn American flag and chant 'Not our president' Play slideshow  REUTERS1 of 31Supporters of the  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    President Jinping met US President Barack Obama on the margins of a regional summit in Lima last month where he called for a "smooth transition" in Beijing's relationship with the incoming cabinet.

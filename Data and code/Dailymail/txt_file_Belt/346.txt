@@ -1,0 +1,223 @@
+Nicole Scherzinger strikes a series of sassy poses in sizzling figure-hugging tangerine dress as she makes stylish arrival at X Factor auditions
+https://www.dailymail.co.uk/tvshowbiz/article-4672246/Nicole-Scherzinger-arrives-style-X-Factor-auditions.html
+ 18:32 BST, 6 July 2017 
+Over the weekend, she enjoyed a lavish, sun-soaked getaway to Mykonos as she celebrated her 39th birthday.And Nicole Scherzinger appeared to bring some of the sunshine from the Greek islands with her when she stepped out in a sizzling tangerine dress during a round of X Factor auditions in London on Thursday.The Hawaiian beauty looked sensational as she arrived at the English capital's Tobacco Dock in the figure-hugging sleeveless number, which was cinched at the waist with a matching belt and featured a pair of leather front pockets.Scroll down for video          She's back! Nicole Scherzinger was spotted at the X Factor auditions, held at London's Tobacco Dock on Thursday afternoonStanding tall in a pair of strappy silver heels, the former Pussycat Doll added to her eye-catching look with a gold choker and selection of dazzling bracelets.   RELATED ARTICLES  Previous 1 Next       'We should Photoshop me over his yearbook photo next': Ryan...    Golden girl! Heidi Klum, 44, looks youthful in low-cut silk...    'Jesus f**king Christ mom': Seth Rogen reacts to his...    Dancing queens! Pop princesses Charli XCX and Dua Lipa get...    
+
+Share this article
+Share
+
+ Her wavy raven locks were lifted away from her face in a high ponytail, while her striking makeup palette included smokey eyeshadow and pillar box red lipstick.While she was the first among her fellow judges - Sharon Osbourne and Louis Walsh - to arrive, X Factor host Dermot O'Leary was spotted at the venue sporting a plain black T-shirt with straight-cut khaki jeans.         Sensational: The Hawaiian beauty looked sensational in a figure-hugging tangerine dress
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Nicole_Scherzinger'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rock a red Elisabetta Franchi  dress like Nicole Scherzinger
+
+
+
+
+Elisabetta Franchi calf-length knit dress
+Get it now!
+
+
+
+Visit site
+
+
+
+X Factor is back and as well as checking out the singing talent we're also just as keen to check out the fashion! 
+Nicole Scherzinger is on the panel this season and looked super stylish at a round of auditions in London on Thursday wearing an Elisabetta Franchi tomato red midi dress. 
+Featuring leather patch pockets and a belt, this knitted pencil dress is super chic. We love how the bodycon silhouette shows off Nicole's figure; meanwhile the midi length keeps it ladylike. 
+The good news is this dress is available to buy online right now directly from the Elisabetta Franchi website, follow the link on the right to buy it now, or for more choice check out our roundup of alternatives in the carousel below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+ASOS Bardot pencil dress (reduced to £31.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos asymmetric pencil dress (reduced to £31.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo Wendy red pencil dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Closet red bodycon dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Nicole_Scherzinger', FFFtype: 'inline', fff: true}});
+        }
+    
+
+              All in the details: The bodycon number was cinched at the waist with a matching belt and featured a pair of leather front pockets         Hair we go, hair we go! Her wavy raven locks were lifted away from her face in a high ponytail         Well red: Her striking makeup palette included smokey eyeshadow and pillar box red lipstick              Phone: Standing tall in a pair of silver heels, she was seen checking her phone as she posed       Head judge Simon Cowell made the event something of a family affair, arriving with his partner Lauren Silverman and their adorable three-year-old son Eric, who appeared to be in a notably playful mood as he posed for snaps in his dad's arms.Likely for the purposes of shooting continuity, Nicole was seen sporting the same ensemble the night before, as she shot scenes for the show with her fellow judges.She looked delighted to be reunited with her TV show pals, larking around with Louis, who was dapper in a black shirt and chinos.Sharon meanwhile suited up in a white pinstripe pajama co-ord and black heels, while Simon stuck to his tried and tested fashion formula of a white T-shirt and jeans.         Family affair: Head judge Simon Cowell made the event something of a family affair, arriving with his partner Lauren Silverman and their adorable three-year-old son EricSimon looked back in good health on Wednesday after being forced to bow out of auditions earlier in the week thanks to a sudden illness.The head judge, 57, reportedly couldn't face being present for the array of hopefuls that would have been trotted out in front of the panel to try their luck at stardom, retreating to the solitude of a dressing room and letting his co-stars take the reigns.Taking place at London's Tobacco Dock on Tuesday, a source told The Sun that Simon 'didn't feel well early in the day so had to have a bit of a slower start to the day than usual'.         Affectionate: Simon gave his offspring a kiss on the top of his head as he got a little restless              Hold me in your arms: Sharp-tongued Simon displayed his paternal side as he hugged his sonIn a slight anticlimax, the source then added: 'But he felt a bit better as Tuesday went on so decided he would attend after all!'The source also claimed that Nicole took the role of head judge in Simon's absence, 'commanding attention' and leading proceedings until Simon was able to return to his duties at the top of the judging desk.With Sharon and Nicole's missed auditions last week, ITV recruited Alesha Dixon to fill in at the recent Edinburgh auditions.               Here she is! Sharon Osbourne was later seen making a head-turning arrival the proceedings         Stepping out in style: The outspoken TV personality looked stylish in a black kimono-style robe         Peace: The mother-of-three flashed a peace sign at assembled crowds as she entered         Sparkling: She added a large dose of sparkle to her look with an assortment of bold jewellery       Host with the most: Host Dermot O'Leary was also spotted making an early arrival at the venue         Style: The TV personality stepped out in a plain black T-shirt, which he paired with khaki jeans         Good spirits: He appeared to be in a decidedly upbeat mood as he posed in a sunshine         Ever the professional: He was seen later getting into gear for his hosting duties on the showDespite Alesha's temporary appearance all the judges from last season, as well as presenter Dermot O'Leary, are back for the most recent edition of the singing show.The format, however, is allegedly due a shake up, and Simon, 57, is said to be considering altering the tried and tested Saturday and Sunday live shows in terms of their content.While the last few seasons of the show have seen the contestants perform tracks to the studio audience on the Saturday and then return to face the results of the public vote on the Sunday, it's said that Simon wants this to happen on both evenings going forward.         Party: The night before, Nicole was seen leading the party atmosphere as she and her fellow judges left X Factor auditions at the same venue         Three's not a crowd: Nicole, Louis Walsh and Sharon Osbourne looked a little lost as to where to go as they headed out of the studio together         Commanding attention: With belt detail at the waist, Nicole's hourglass curves stole the spotlight, while a glimpse of her toned legs were also on show in the midi-length number         Come here you! Nicole leaned in for a smooch from her long-term pal Louis       What's more, the music mogul has supposedly expressed that special guest performers - usually reserved for the Sunday shows - appear on both nights, rather than featuring two every Sunday.There's also rumblings that he wants to cut the number of live weeks down from 10 to six; and further gossip suggests he wants the audition stages to take place randomly at Thorpe Park.To round off the changes, Simon is said to have had it with novelty acts such as Jedward or Wagner from seasons' past, after last year Honey G came a little too close to potentially winning the entire series.               Dressed for bed: Kooky Sharon was chic in a white pinstripe pajama co-ord for the auditions         Girls just wanna have fun: Sharon and Nicole larked around for the cameras         Back for more: The same judging panel has reunited for another run of the ITV show         Having some fun: Nicole shared some fun Snapchats with her boss Simon          Here come the boys: Simon was joined by X Factor host Dermot O'Leary  on Wednesday night              Back to full health: After being forced to skip some auditions on Tuesday after being taken suddenly ill, head judge Simon was back in good spirits on Wednesday night         Twists in store: Simon and the producers are considering altering the tried and tested Saturday and Sunday live shows for the new series          Royal wave! Simon waved at waiting photographers              Handshake? He appeared in extremely good spirits following auditions         Man-candy: Louis was put to work a Nicole's arm candy         Making friends: Simon gestured at waiting fans         Sore feet? Sharon discarded her shoes and used a bouncer to help her along         Straight to bed? She looked ready to go straight to bed         Helping hand: Her helper ensured she made it to the car safely              Sizzling: Nicole showed off her natural beauty as she left the auditions         Stylish exit: The duo looked chic as they left the venue

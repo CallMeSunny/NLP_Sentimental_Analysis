@@ -1,0 +1,21 @@
+Trump in Asia: The very important message Trump needs to deliver to the Chinese...
+https://www.express.co.uk//news/world/873999/Trump-Asia-trip-North-Korea-latest-news-trade-President-Xi-Jinping
+ 10:32, Wed, Nov 1, 2017 
+   President Trump is expected to insist that China stops supplying weapons to Kim Jong-un’s regime on his longest foreign trip to date. According to a White House official, President Trump will call on President Xi Jinping to implement UN Security Council resolutions against Pyongyang and take other steps to pressure North Korea. President Trump is visiting Asia with a stop in Hawaii, where he is planning to visit the Pacific Command headquarters to receive military briefings, in relation to North Korea.   GETTYTrump will be embarking on a trip to Asia  North Korea stages anti-US rally in battle with Donald Trump Mon, September 25, 2017Tens of thousands of Pyongyang residents were gathered in the capital's Kim Il-Sung Square to laud leader Kim Jong-Un's denunciation of US President Donald Trump. Play slideshow  AFP/Getty Images1 of 12Students march during a mass rally on Kim Il-Sung sqaure in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     President Trump will call on President Xi Jinping to implement UN Security Council resolutions against PyongyangThe White HouseFor example Beijing has sold launcher vehicles to North Korea claiming that they were lumber transporters, despite being too big for the roads. According to the White House official, China must do more to comply with two United Nations Security Council resolutions. Related articles   Humiliated North Korea on verge of HUGE nuclear launch   Donald Trump will NOT visit North Korea border on South East Asia t... The official said: “We would like to see China follow through on those commitments. We would like to see China do things bilaterally as well that might even go beyond things that are mandated by those U.N. Security Council resolutions.”President Trump has asked China repeatedly to help calm down the North Korean leader.   GETTYNorth Korea is likely to be high on Trump's agenda when he visits Asia The Japanese Defence Minister Itsunori Onodera said that the threat from North Korea has grown to a “critical and imminent level”. Another topic high on the agenda for President Trump will be the trade investigation of Chinese policies that he ordered in August.  GETTYTrump is expected to insist China distances themselves from North Korea The US want to ensure that there is no theft of intellectual property from US businesses. A top business lobby in China said they were concerned that Trump was not as prepared as he should be on the imbalanaces in the bilateral economic relationship.    The Indo-Pacific framework could spark some tricky questions for Mr Trump in Asia because the US President has rejected the Trans-Pacific Partnership. The South Korean President, Moon Jae-in, is expected to want to improve his relationship with President Trump on the trip. 

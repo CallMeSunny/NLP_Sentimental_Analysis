@@ -1,0 +1,21 @@
+North Korean 'desperately pleads with Trump' to save his wife and son after failed escape
+https://www.express.co.uk//news/world/878243/North-Korea-Donald-Trump-China-refugee-concentration-camp
+ 04:11, Sat, Nov 11, 2017 
+   The four-year-old boy and his mother tried to secretly cross the border to get away from the oppressive regime but are understood to have been detained in China last week and risk being deported.In a video message the man, who asked only to be named as Lee, pleaded with China’s President Xi Jinping not to send the pair back to Kim Jong-un’s regime.He said: “I wish China's Xi Jinping and US President Donald Trump would think of my child as their grandchild and send my son to the free country, South Korea.”  GETTYDonald Trump is being pleaded with to help save North Korean lives Related articles   South Korea warns US had made little progress with Pyongyang talks   'Vastly outnumbered' US troops could 'LOSE A WAR' against North Korea He said his family would “either face execution or wither away in a political prison camp” if they were handed back to the North Korean authorities.Lee’s wife and son were arrested along with 8 other defectors in Shenyang in Liaoning province, north-east China, on November 4.According to the charity Human Rights Watch, 49 North Korean’s have been detained in China over the last three months. Korean Demilitarized Zone: The world's most dangerous border Tue, November 7, 2017Established by the provisions of the Korean Armistice Agreement to serve as a buffer zone between North Korea and South Korea Play slideshow  AFP/Getty Images1 of 10A South Korean tank of the 8th Mechanized Infantry Division takes part in a live-fire exercise at a training ground in Cheorwon, near the demilitarized zone (DMZ)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    They claim that at least nine of those arrested over that time period have been returned to the brutal dictatorship.Lee has managed to escape from North Korea, fleeing to its southern neighbour in 2015.“I can almost hear my baby calling my name," he added.   "I can see my baby in that cold cell, crying out for his father. I can't just stand by doing nothing."According to Amnesty International, nearly 1,500 people escaped to South Korea over the last 12 months.South Korea and Japan have also reported several high profile government officials have deserted Kim Jong-un’s tyranny and sought asylum.  GETTYSatellite image of a North Korea concentration camp  GETTYThousands of North Koreans try to escape across the border every year to South koreaLee’s plea to both the Chinese premier and the US President comes in the same week that the latter visited Beijing.During his visit, Mr Trump told China it must do more to reign in North Korea as he called on President Xi Jinping to help denuclearise Kim Jong-un’s regime.He said: “China can fix this problem easily and quickly and I am calling on China and your great president to hopefully work on it very hard.”

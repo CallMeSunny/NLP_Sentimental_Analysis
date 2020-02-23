@@ -1,0 +1,38 @@
+WORLD WAR 3: Kim Jong-Un grovels to CHINA as Xi Jinping becomes world's most powerful man
+https://www.express.co.uk//news/world/871239/World-War-3-North-Korea-China-USA-Kim-Jong-Un-Xi-Jinping-Donald-Trump-alliance
+ 00:53, Thu, Oct 26, 2017 
+ President Xi consolidated power at his nation’s communist party congress, which is normally used to choose the nation’s next leader.Instead, Xi left with the presidency and no named successor – making it unlikely that his leadership will be challenged in the next decade as the nation emerges as a heavyweight superpower.He also had ‘Xi’s thought on Socialism with Chinese Characteristics’ enshrined in the party’s Communist Charter, making him the second living leader to be given the honour after Chairman Mao.Kim Jong-Un has grovelled to the leader as he looks for allies amid fears his conflict with the US may trigger World War 3.  GETTYDonald Trump highlighted plans to work with China to stop Kim Jong-un, prompting panic in the DPRKRelated articles   US warship 'carries out threatening manoeuvres near Chinese islands'   China's Xi Jinping may become 'as powerful as Chairman Mao' The young tyrant rarely offers personal messages through state media but heaped praise on the Chinese President.North Korean propaganda mouthpiece KCNA said: ”It expressed the conviction that the relations between the two parties and the two countries would develop in the interests of the peoples of the two countries."The Chinese people have entered the road of building socialism with the Chinese characteristics in the new era.”China is North Korea’s only superpower ally, with the hermit kingdom relying on the communist state for 90 per cent of its trade. Inside Kim's secret army: North Korean military laid bare in smuggled-out pictures Thu, January 11, 2018The true face of Kim Jong un’s army has been laid bare in shocking new images smuggled out of North Korea Play slideshow  Pen News1 of 21A female soldier on duty in high heels  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYKim Jong-Un has grovelled to the leader as he looks for alliesIt comes after Donald Trump highlighted plans to work with China to stop Kim Jong-un, prompting panic on the peninsula from the dictator’s administration.The US President spoke to Chinese President Xi Jinping to discuss the issue of North Korea, which is a growing concern in both Washington and Beijing.Mr Trump took to Twitter to threaten North Korea, who he abbreviated as ‘NoKo’ in his message detailing his call to President Xi.Cosying up to North Korea's only ally, Mr Trump had called President Xi to congratulate him on gaining more power at the recent Communist Party Congress in China.  GETTYPresident Xi consolidated power at his nation’s communist party congress China and Russia hold first Joint Naval Drill in the Baltic Sea Wed, July 26, 2017 Play slideshow  Getty Images1 of 10A Chinese warship operates a live-fire drill during the Joint Sea 2017 in Baltic Sea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Trump posted: “Spoke to President Xi of China to congratulate him on his extraordinary elevation. Also discussed NoKo & trade, two very important subjects!”In a second Tweet posted 15 minutes later, Mr Trump said: “Melania and I look forward to being with President Xi & Madame Peng Liyuan in China in two weeks for what will hopefully be a historic trip!”As tensions escalate Mr Trump’s attempts to cosy up to China will set alarm bells ringing in Pyongyang, who have relied heavily on Beijing throughout its history.However in recent months, as North Korea continues to recklessly test-fire rockets and nuclear weapons, China has begun to turn against the hermit state.Related articles   Chinese military clamp down hard on masturbating recruits  Foreign aid splashed on helping Chinese factory workers quit smoking

@@ -1,0 +1,21 @@
+North Korea crackdown: Now Australia tells Hong Kong to fight Kim’s nuclear advances
+https://www.express.co.uk//news/world/878634/North-Korea-Australia-Hong-Kong-nuclear-advances
+ 14:55, Sun, Nov 12, 2017 
+  GETTYAustralian Prime Minister Malcolm Turnbull is urging Hong Kong to fight North Korean crime Malcolm Turnbull claimed “cunning, sophisticated criminals” from Kim Jong-un’s North are exploiting ports and markets across Asia.Turnbull ordered action, insisting it is criminal behaviour and underhand tactics which are funding the rapid expansion of Pyongyang’s missile programme.On Sunday, the Australian leader became the first prime minister from his country to visit Hong Kong in more than 30 years.Meeting with financial regulators, Turnbull pushed for tough economic sanctions against North Korea.He said “criminal organisations, terrorist organisations, criminal regimes like North Korea” should not be able to abuse Hong Kong.“Whether it is arms, whether it is cyber crime, whether it is drugs, they are constantly seeking to raise money to finance their nuclear program,” Mr Turnbull told reporters, according to Australia’s News.com. Korean Demilitarized Zone: The world's most dangerous border Tue, November 7, 2017Established by the provisions of the Korean Armistice Agreement to serve as a buffer zone between North Korea and South Korea Play slideshow  AFP/Getty Images1 of 10A South Korean tank of the 8th Mechanized Infantry Division takes part in a live-fire exercise at a training ground in Cheorwon, near the demilitarized zone (DMZ)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     It’s vitally important that all of the financial sanctions, economic sanctions, imposed by the UN Security Council are enforcedMalcolm Turnbull“It’s vitally important that all of the financial sanctions, economic sanctions, imposed by the UN Security Council are enforced.” The Aussie PM said Trump and Chinese President Xi Jinping should ensure they are on the same page over North Korea.He is expected to meet Chinese Premier Li Keqiang and president Trump this week.“If they can see eye-to-eye and cooperate on North Korea, for example, that regime will be brought back to its senses,” Mr Turnbull said.Turnbull also said China does not want the regime to fall in the North.“But as it happens, they have the greatest economic leverage, that’s just a fact, so they have the greatest ability to bring North Korea back to its senses,” he said.     GETTYDonald Trump is meeting country leaders across Asia amid North Korea missile testing Turnbull has expressed concern about Hong Kong’s relationship with China as autonomy appears to be eroding. “Our absolute vested interest is the maintenance of a stable rules-based order in the region where the smallest country cannot be pushed around by the biggest country,” Mr Turnbull said.The Prime Minister urged stability in the region claiming “everyone’s got a lot to lose” if the current system fallsMr Turnbull flies to the Philippines on Sunday, where he is expected to sit down with controversial Philippines President Rodrigo Duterte.

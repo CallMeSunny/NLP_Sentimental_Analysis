@@ -1,0 +1,21 @@
+WORLD WAR 3: Angela Merkel offers to fix North Korea crisis amid nuclear missile threat
+https://www.express.co.uk//news/world/852188/World-War-Angela-Merkel-North-Korea-crisis-nuclear-missile-US-Trump-Kim-Jong-un
+ 06:04, Sun, Sep 10, 2017 
+   And the world leader stepped forward to suggest she could fix the problems US president Donald Trump has grappled with during his time in office by using the policies of his predecessor – Barack Obama.In 2015, Merkel, Obama and representatives from three other countries took part in talks that led to Iran agreeing to curb its nuclear work in return for the lifting of most sanctions.Mrs Merkel said: "I could imagine such a format being used to end the North Korea conflict."Europe and especially Germany should be prepared to play a very active part in that.”Speaking of the prospect of stepping into the ring with North Korea, Mrs Merkel said: "If our participation in talks is desired, I will immediately say yes.”  GETTYAngela Merkel has said she is prepared to engage in diplomacy with North Korea Related articles   Merkel warns world 'can't beat North Korea without Trump'    Trump & Merkel call for North Korea sanctions as Putin warns of CHAOS The German Chancellor claimed the only way to deal with North Korea’s nuclear programme was to come to a diplomatic solution.She also called for European nations to “do everything that can be done in terms of sanctions” when dealing with the hermit kingdom.Mrs Merkel has spoken to leaders including Chinese President Xi Jinping and Japanese Prime Minister Shinzo Abe about North Korea this week.Her words come amid rising fears of World War 3 after North Korea conducted its sixth and most powerful nuclear weapon test last week – describing it as an advanced hydrogen bomb for a long-range missile.  GETTYDonald Trump has warned Kim Jong-un he will regret forcing the US to take military action North Korea celebrates nuclear test Thu, September 7, 2017North Korea held a mass celebration for the scientists involved in carrying out its largest nuclear blast to date, with fireworks and a mass rally in Pyongyang Play slideshow  AFP/Getty Images1 of 17Korean People's Army (KPA) soldiers cheer during a mass celebration in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Donald Trump has warned Kim Jong-un he will regret forcing the US to take military action against North Korea.The Republican President has refused to rule out a strike against the reclusive state as tensions between Pyongyang and Washington reach boiling point.During a news conference Mr Trump said military action is "an option" against Kim's hermit nation.Although the US President admitted he would "prefer" not to use force against North Korea, he fired an ominous warning to the country's dictator.   He said: "Military action would certainly be an option."Is it inevitable? Nothing is inevitable."I would prefer not going the route of the military."If we do use it on North Korea, it will be a very sad day for North Korea."

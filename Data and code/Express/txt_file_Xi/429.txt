@@ -1,0 +1,21 @@
+Bitcoin price news: What is the price of bitcoin today? Is BTC rising?
+https://www.express.co.uk//finance/city/968174/bitcoin-price-news-what-is-bitcoin-price-today-btc-rising-blockchain-price-china
+ 16:07, Fri, Jun 1, 2018 
+  Chinese President Xi Jinping has endorsed blockchain, sending bitcoin's price higher (Image: GETTY)Last weekend, the cryptocurrency saw a slump as it fell below $7,300, but the token later benefited from an increase after China affirmed their position on blockchain.Fluctuating prices are nothing new for bitcoin, as it reached highs of $19,500 last December yet dipped below $6,000 in a shock crash in February this year.Bitcoin prices increased dramatically last year due to speculation on the large but still mostly unproven potential of blockchain.The market fluctuates daily and today has seen XRP drop by 0.64 percent today, Ethereum fell to $574.83, while Litecoin lost 1.94 percent to trade at $117.41. Related articles   Ripple price: Crypto CEO claims Ripple will break free from rivals   Ripple price news: Ripple price on the rise as XRP crypto nears break What is the price of bitcoin today?As of 3.40pm BST,  BTC is trading at $7,428.43, down by 0.78 percent from the start of the day.Friday has seen highs of  $7,596.56 for the cryptocurrency giant but has since dipped in value.While prices dipped sharply at around 1pm, it appears heading toward the afternoon and evening prices are on a slow rise again. Cryptocurrency price: A year in charts Mon, March 12, 2018Compare crypto currencies (Ripple, Bitcoin, Ethereum, LiteCoin) on value, market cap and supply for the past year Play slideshow  coindesk.com1 of 10LiteCoin is going down with the market dip  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Is bitcoin's price rising?After recent lows, Bitcoin has seen a bump in price due to endorsement in blockchain technology from the Chinese government. China’s president Xi Jinping this week discussed the potential of blockchain technology at an annual conference in the Chinese Academy of Sciences. His comments on blockchain hailed it as a “breakthrough”."A new generation of technology represented by artificial intelligence, quantum information, mobile communications, internet of things and blockchain is accelerating breakthrough applications," Xi said.   He continued by saying he will open national laboratories in order to develop and research blockchain infrastructure, so as to prepare his China for the future.The Chinese State Council’s 13th five-year economic plan, released in 2016, mentions blockchain twice. Several startups in China are partnering with local government to research and implement the technology. Bitcoin is not only the first application of blockchain but also the most well known.The technology creates a secure and permanent record of transactions between two parties - removing the requirement for a conciliator such as a bank. 

@@ -1,0 +1,21 @@
+'That's his ex-wife, who is an ex-prostitute' Who were Corbyn and Cameron gossiping about?
+https://www.express.co.uk//news/uk/613847/Ex-prostitute-Cameron-Corbyn-gossip
+ 00:00, Thu, Oct 22, 2015 
+  IGMr Corbyn and the Prime Minister were chatting during a wait in ParliamentThe Prime Minister and the Labour leader were caught having a chat while waiting for Chinese President Xi Jinping to deliver his speech yesterday.Lip-readers are said to have picked up a story by Mr Corbyn in which he says: "It was difficult because, erm, that's his ex-wife who is, erm, apparently an ex-prostitute."Mystery surrounds who the topic of conversation was.Related articles   Tom Watson’s actions ruined lives of innocent people   It was difficult because, erm, that's his ex-wife who is, erm, apparently an ex-prostituteMr CorbynMr Corbyn's office later denied he mentioned the word ex-prostitute but declined to say what was really said.During the chat, Mr Cameron is then said to have responded with a non-committal "Oh", before he turns the chat to a more serious matter of self-employment figures being gradually down.Mr Corbyn is then said to have began a witty anecdote about his school days.He said: "I remember I lost my glasses at a school party. I must've been about three at the time."It is not known what the Labour leader then said but Mr Cameron was seen to have burst out laughing, during the wait at Parliament.  IGLip-readers said Mr Corbyn mentioned an ex-prostitute in his chat with Mr Cameron  IGThe pair also discussed self-employment figuresTheir good humoured exchange occurred as they sat in the Royal Gallery at Parliament on Tuesday waiting for the Chinese President to address a gathering of MPs and peers.Jeremy Corbyn and President during their meetingMr Corbyn’s spokesman yesterday rejected reports of the exchange. He advised one journalist to “get a better lip reader.”“No such conversation took place,” the spokesman added.It came during a busy day for the British politicians and the Chinese delegation, which saw an agreement made for a £30billion trade deal for the Asian country to run nuclear power plants in Britain. The Prime Minister has defended the deals after China has continually come under fire for its poor human rights record. Evolution of Jeremy Corbyn's beard Wed, September 30, 2015The evolution of Jeremy Corbyn's beard in pictures Play slideshow  Photoshot PA1 of 20Jeremy Corbyn's beard evolution 1982-2015  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYThe Chinese president with Mr Cameron yesterdayBeijing is also blamed for hitting the British steel industry after flooding the UK with cheap steel imports.Mr Cameron said: "We are building Crossrail under the streets of London right now, employing almost exclusively British steel."So I reject the idea you either have a conversation about human rights and steel or you have a strong relationship with China."

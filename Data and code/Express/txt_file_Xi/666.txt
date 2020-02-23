@@ -1,0 +1,38 @@
+'Vastly outnumbered' US troops could 'LOSE A WAR' against North Korea, US Chief warns
+https://www.express.co.uk//news/world/878218/world-war-3-kim-jong-un-north-korea-pyongyang-nuclear-war-donald-trump-nuclear-war
+ 02:09, Sat, Nov 11, 2017 
+  GETTYUS are vastly outnumbered and undersupplied The army veteran said even limited military action against North Korea could cause a full-scale war leaving the US “vastly outnumbered by North Korean forces.”The use of nuclear weapons by Kim Jong-un could not be ruled out and a full-scale war would probably not destroy Pyongyang’s nuclear capability totally he warned.Lt Gen Jouas said the US “are vastly outnumbered by North Korean forces, as well as allied forces that will conduct the overwhelming majority of the fighting.”He went on to say that the US could also have problems in getting reinforcements or new supplies, adding troops “may well find their bases subject to attack by conventional or chemical weapons, which will further delay their entry into the war”. Related articles   Trump WILL release ‘ALL JFK FILES’    North Korea accuses ‘GANGSTER AMERICA’ of 'igniting a nuclear war’ The Deputy Commander added: “An enormous casualty and evacuee crisis will develop and include over 100,000 non-combatant Americans, many of who will turn to US forces to get them off the peninsula.”US Defence Secretary James Mattis has said the results of conflict would be “catastrophic”.There are currently around 28,500 US personnel in South Korea, although new reports place recent figures both higher and lower.According to the Council on Foreign Relations (CFR), a US think-tank, Pyongyang has around 1.1million personnel in its armed forces, however. North Korea's most secretive address revealed Fri, November 10, 2017This is the North Korean embassy in London, the diplomatic mission of North Korea to the UK Play slideshow  Joey Millar1 of 13KEEP CLEAR! North Korean embassy officials are cautious about security  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The CFR added in a recent analysis: “Although Pyongyang is outspent by its neighbours and adversaries in dollar-to-dollar comparisons and defence experts say it operates with ageing equipment and technology, the regime’s forward-deployed military position and missiles aimed at Seoul ensure that Pyongyang’s conventional capabilities remain a constant threat to its southern neighbour.”Lt. Gen Jouas’ letter comes at a time of heightened tension between the US and North Korea, with Donald Trump in the middle of his tour of Asia.In Seoul earlier this week he said: “It makes sense for North Korea to come to the table and make a deal that is good for the people of North Korea and for the world.”Meanwhile, Donald Trump is believed to have signed 37 major deals between US and Chinese companies during his Asia tour.     GETTYKim Jong-un could start a nuclear warThe US Commerce Department disclosed the President signed the deals in excess of $250billion (£190billion), including with huge multinational companies such as Goldman Sachs and Boeing.Mr Trump's agreements with Chinese leader Xi Jinping have been praised by US Commerce Secretary Wilbur Ross, who claimed the deals show the President is able to build bilateral relationships between nations.Mr Ross said: "American businesses are the most innovative in the world and, when given access, can compete with anyone."I believe these deals can provide a solid foundation for a stronger relationship that is more free, fair, and reciprocal between the US and China."  GETTYPyongyang has around 1.1million personnel Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Ross added: "It was a great honour for these to be witnessed by President Trump and President Xi today."A special thank you to our CEO delegation for their hard work in support of this historic event."The US President has set trade as one of his core priorities in his first year in office and he held talks with Mr Jinping about the multi-billion dollar US trade deficit with China.

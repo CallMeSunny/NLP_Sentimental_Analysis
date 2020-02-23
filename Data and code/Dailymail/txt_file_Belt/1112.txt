@@ -1,0 +1,226 @@
+Demi Lovato shows off her new Jiu-Jitsu blue belt and bob haircut in Instagram posts
+https://www.dailymail.co.uk/tvshowbiz/article-6918013/Demi-Lovato-shows-new-Jiu-Jitsu-blue-belt-bob-haircut-Instagram-posts.html
+ 02:57 BST, 13 April 2019 
+She achieved a new level in Jiu-Jitsu last month. And Demi Lovato proudly showed off her second degree blue belt in an Instagram Story on Friday, during a practice session in the martial art.The 26-year-old pop singer also shared more proud snaps of her new bob-style haircut.         Good hair day: Demi Lovato proudly showed off her second degree blue belt -and her new haircut- in an Instagram Story on Friday, during a practice session in the martial art
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Demi_Lovato'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop a slogan tee like Demi in Saint Laurent
+
+
+
+
+Saint Laurent logo t-shirt
+Shop the look at Farfetch!
+
+
+
+Visit site
+
+
+
+Demi Lovato never fails to look cool, and her latest ensemble has got to be one of our favourites to date.
+Pairing a colour block windbreaker with a logo tee, the star looked on-trend. We couldn't wait to give the look a go ourselves.
+That tee was instantly recognisable as Saint Laurent - the iridescent logo tee is an update on the brand's classic style.
+We love how it shines in the light. It's a great pick for your summer wardrobe!
+Click right to grab yours from Farfetch. Pair with a leather mini and sandals for a night out with your gal pals, or jeans and ankle boots for a more causal affair. 
+Make sure to also check out our edit below. We've rounded up some of our favourite lookalike styles. From New Look to Balmain, there's something here for everyone.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+New Look slogan top
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Ted Baker slogan top (now reduced to £34.30)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Balmain logo top at MATCHESFASHION.COM
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Topshop slogan top
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Demi_Lovato', FFFtype: 'inline', fff: true}});
+        }
+    
+
+       One of the posts showed Demi flaunting her new achievement in a video captioned 'Flexing with that blue belt'.Another post combined both her new hair and the belt, in a video that showed Demi's bob being push around by the wind in the gymnasium.   RELATED ARTICLES  Previous 1 Next       Alessandra Ambrosio heads off to Coachella for her birthday...    Ariel Winter looks like an all-American girl as she steps...    Christina Anstead has gender reveal celebration... after...    Katy Perry turns up the heat as she gives leggy display in...    
+
+Share this article
+Share
+24 shares
+
+ 'That fan action tho [PRAISE HANDS EMOJI]' she wrote beneath the stylish shot. The songstress achieved the new ranking in March, posting, 'This means the world to me and I couldn’t be happier' to her popular Instagram account.          Flex: One of the posts showed the 26-year-old  flaunting her new achievement in a video captioned 'Flexing with that blue belt'         Moving on up: The songstress achieved the new ranking in March, posting, 'This means the world to me and I couldn’t be happier' to her popular Instagram account         Angles: Another post combined both her new hair and the belt, in a video that showed Demi's bob being push around by the wind in the gymnasiumMeanwhile Demi's short new hairstyle, which she debuted Friday on Instagram, is definitely turning heads.The bombshell showed off her locks after inches were cut off, revealing a look that now falls just below her chin. Revealing her new style to fans, the singer posted a string of Instagram stories, kicking them off with a before picture of her prior look.In the first shot, Lovato's hair looked surprisingly long, settling mid way down her back and lightening out at the ends.Giving fans a full rundown of her time at the salon, she then showed an after picture.                 Always a star: Demi debuted her short new hairstyle Friday on Instagram and it's definitely turning heads         Side by side: In the first shot, Lovato's hair looks long as it falls mid way down her back and lightens out at the ends       In it, the Sorry Not Sorry hit maker gave the grand debut of her short, healthy looking new do.With ends that are completely straight along the bottom, Demi's dark hair is nothing short of sassy.Demi wrote, 'New hair, who dis?' as she boasted about her hairdresser, tagging the mastermind in her stories.         Comparison: With edges that are completely straight along the bottom, Demi's dark hair is nothing short of sassySatisfied with the outcome, the beauty then posed for numerous selfies, giving fans a view of every angle.The vocalist's hair complimented her well-kept, expertly shaped eyebrows perfectly as she put on a fierce look for the camera.  Wearing a grey loose fitted graphic t-shirt, she looked happy and healthy in the posts.         Happy: Satisfied with the outcome, the beauty then posed for numerous selfies, giving fans a view of every angle              What a babe: Wearing a grey loose fitted graphic t-shirt, she looked stunning in the postsOver the years, Demi has gone through a range of hairstyles, with each one suiting her well.For example, there was the time she sported extremely long, brunette hair with caramel tones at the ends to the 12th Annual Latin Grammy Awards in 2011.Or, there was the phase where she tested out the saying 'blondes have more fun' and went full on platinum.               Experimenting: Over the years, Demi has gone through a range of hairstyles, with each one suiting her well              Only Demi can pull this off: And don't forget all the bold colors she's thrown into her different shades - from blue to pink, she never backed down from going bold       And don't forget all the bold colors she's thrown into her different shades - from blue to pink, Demi never backed down from going bold. Another thing the triple threat won't back down from is shutting down haters. And taking to Instagram last week, the powerhouse responded to a journalist that wrote a headline about her that read, 'Demi Lovato appears to have a fuller figure after working up a sweat in LA.       More than her weight: She began her response with the simple message in all caps, which read, 'I AM MORE THAN MY WEIGHT'She began her response with the simple message in all caps, which read, 'I AM MORE THAN MY WEIGHT.'  'Unlike the past, I’m not triggered, I’m not upset that someone wrote a headline about my "fuller figure" she continued.'I’m angry that people think it’s okay to write headlines about people’s body shapes. Especially a woman who has been so open about being in recovery from an eating disorder,' she continued.         Weight: She added in another Instagram Story post, 'Too many people today based their ideal body weight off of what OTHERS tell us we should look like or weigh'She added in another Instagram Story post, 'Too many people today based their ideal body weight off of what OTHERS tell us we should look like or weigh.''Articles like these only contribute to that toxic way of thinking. If you're reading this: Don't listen to negative diet culture talk,' she added.'I am more than a headline about my body shape,' she concluded. Demi's words of empowerment were ended with an exchange between her and the article's writer, where the reporter understood his error. Outside of blasting nonstop positivity into the world, the songstress is continuing to focus on her recovery and sobriety.           Can't stop her: Outside of blasting nonstop positivity into the world, the songstress is continuing to focus on her recovery and sobriety

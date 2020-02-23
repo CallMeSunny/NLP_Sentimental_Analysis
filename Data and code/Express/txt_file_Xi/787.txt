@@ -1,0 +1,21 @@
+China tests long-range NUCLEAR missile capable of hitting London within 30 MINUTES
+https://www.express.co.uk//news/world/663481/Chinese-missile-test-nuclear-Dongfeng-London-half-hour
+ 05:00, Fri, Apr 22, 2016 
+  GETTY•YOUTUBE•JDUS2020China's Dongfeng-41 can reach the UK and USThe Dongfeng-41 missile has a range that allows it to hit most the world's 196 countries, including the US, Australia and Europe.Worryingly, the world's longest-range rocket could strike a target in the UK in just half an hour. Related articles   China's long-range missile capable of hitting US to enter service   EXCLUSIVE: Chinese nuclear deal leaves UK vulnerable to cyber attack The road and rail-mobile DF-41 has a maximum range of around 8,700 miles.This would give it easily enough range to hit London, which is just 5,000 miles from Beijing, while China's western provinces are less than 4,000 miles from Britain.Pentagon officials told the Free Beacon the test took place on April 12 with two re-entry vehicles monitored by US military satellites. China's state visit to London Thu, October 22, 2015China's President Xi Jinping and First Lady Peng Liyuan are welcomed to England on a four day state visit. Play slideshow  REUTERS1 of 39China's President Xi Jinping delivers a speech as Prince Andrew listens at the China state banquet in London  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    It is not known where the activity took place although previous tests have been conducted at the Taiyuan Satellite Launch Centre in north-east China.China's Defence Ministry yesterday appeared to confirm reports it had carried out another test of its intercontinental missile.The Chinese Defence Ministry in a statement on its website: "These tests are not aimed at any set country or target."  GETTYAnother Chinese missile capable of carrying warheads  YOUTUBE•JDUS2020The Dongfeng-41 missile has a range that allows it to hit most the world’s 196 countriesThe ministry confirmed in December that China was testing the missile, which can be mounted onto a train.Chinese President Xi Jinping is overseeing an ambitious military modernisation programme, including developing stealth fighters and building its own aircraft carriers.   That has rattled Beijing's neighbours, several of whom are engaged in territorial disputes with China, as well as Washington.China says it has no hostile intent and that it needs a modern military to protect its legitimate security needs as the world's second-largest economy.But the communist state has sparked a fierce dispute over claims to atolls - both man made and natural - in the South China Sea.

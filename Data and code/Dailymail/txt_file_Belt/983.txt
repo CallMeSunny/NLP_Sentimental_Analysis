@@ -1,0 +1,224 @@
+Summer loving: TOWIE's Lydia Bright flashes a glimpse of her legs in pretty floral dress worn under a pink belted trench for business meeting
+https://www.dailymail.co.uk/tvshowbiz/article-3535949/Summer-loving-TOWIE-s-Lydia-Bright-flashes-glimpse-legs-pretty-floral-dress-worn-pink-belted-trench-business-meeting.html
+ 16:30 BST, 12 April 2016 
+Lydia Bright showed off her summer style when she stepped out on Tuesday. The TOWIE star, 26, made a leggy statement in a double-breasted blush-coloured trench coat, as she left a business meeting in London's West End.The chic outerwear was tied in at the waist with a square gold belt as she sashayed forth in a pair of matching high heels.Scroll down for video          Setting trends: Lydia Bright, 26, made a leggy statement as she showed off her trend-setting knowledge in a double-breasted blush-coloured trench coat, as she left a business meeting in London's West End on TuesdayShe wore a mint green shirt-dress, from her own Bella Sorella clothing line, underneath, which fell below her knees.   RELATED ARTICLES  Previous 1 Next       'I've got a lot on my private parts': Katie Price talks...    Good enough to eat! Steve 'Commando' Willis tucks in to...    Camera ready! Miranda Kerr touches down in Tokyo looking...    Leggy Nicola Peltz wows in leather mini-skirt and jacket at...    
+
+Share this article
+Share
+19 shares
+
+ Her light-coloured shoes elongated her tanned legs, which were on full display as she clambered into a waiting car. James Argent's other half also stunned in the dress last month for a film screening.         Look at those legs! Her light-coloured shoes elongated her tanned legs, which were on full display as she clambered into a waiting car         Classy lady: The chic outerwear was tied in at the waist with a square gold belt, as she sashayed forth in a pair of matching high heels
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Lydia_Bright'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get set for spring in Lydia's floral shirt dress
+
+
+
+
+Bella Sorella Floral Shirt Dress
+Perfect for spring!
+
+
+
+Visit site
+
+
+
+Lydia Bright's outfit today was the definition of spring. Wearing a pale turquoise floral shirt dress under a pastel pink trench coat, she accessorised her look with a matching handbag and pointed heels. 
+We know what you're thinking, florals for spring? Groundbreaking. But there's no shying away from the fact that florals will forever be synonymous with the season and are a great way to instantly freshen up your wardrobe. 
+Lydia's pretty pastel shirt dress is from her own boutique Bella Sorella, we love how the tailored shape balances the uber feminine floral print; meanwhile the split front gives it a sexy edge. 
+Follow the link on the right to get it now, or to get the look for less check out our edit of alternatives we've lined up for you below!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Fashion Union Shirt Dress In All Over Floral Print at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Only Floral Midi Shirt Dress at Asos (reduced to £14)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+New Look Parisian Blue Floral Print Satin Shirt Dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+H&M floral shirt dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Lydia_Bright', FFFtype: 'inline', fff: true}});
+        }
+    
+
+       Whilst the dress incorporated a contrasting green colour, Lydia held onto a large boxy satchel which matched her shoes perfectly.She also stamped her pout with a slightly darker shade lipgloss, whilst keeping the rest of her make-up look simple, with just a flutter of mascara.Lydia's luscious blonde mane was undone and slightly tousled as she made her way out onto the street.          What a stunner: She wore a mint green shirt-dress, from her own Bella Sorella clothing line, underneath, which fell below her knees         Lovely: She also stamped her pout with a slightly darker shade lipgloss, whilst keeping the rest of her make-up look simple, with just a flutter of mascaraHer ladylike style is perfectly depicted in her style range, which features an assortment of sophisticated dresses, top and trousers. She did however, undergo a 'punk rock' metamorphosis as she stepped out to film the themed TOWIE finale on Sunday at London's Egg nightclub. Donning her 'metalhead' best, Lydia wore her black skull-emblazoned vest- cinched in at the waist with a studded belt.         Gorgeous: Lydia wore the same lovely dress last month for a film screening of Racing Extinction          A new look: Clad in her best 'punk rock' outfit for the bash, Lydia wore her black skull-emblazoned vest- cinched in at the waist with a studded belt on Sunday for TOWIE's wrap sceneShe further added to the era-defining look with a pair of tiny black shorts and a pair of towering platform boots- not forgetting, a black choker, fake tattoos and a backcombed 'do'.The Essex native arrived in high spirits, which inevitably turned sour as she was spotted arguing with her friend, Liam 'Gatsby' Blackwell.The row caused the fed-up reality star to head home by herself after the season 17 wrap.          Trouble brewing? It seems that Lydia Bright was less than impressed with Liam 'Gatsby' Blackwell might not be on the best of terms after the pair wrapped up filming on the TOWIE series finale, on Sunday night         Only room for one? Having finished up filming for the final episode of series 17 of the ITVBe reality show, James Argent's girlfriend appeared to have had enough - deciding to head home alone  

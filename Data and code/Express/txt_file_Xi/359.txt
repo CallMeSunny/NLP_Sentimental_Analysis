@@ -1,0 +1,38 @@
+North Korea warns China of ‘CATASTROPHIC CONSEQUENCES’ if it continues economic sanctions
+https://www.express.co.uk//news/world/795028/North-Korea-China-sanctions-United-States-Kim-Jong-un-Donald-Trump-Xi-Jinping
+ 05:24, Sat, Apr 22, 2017 
+   In a rare instance of Pyongyang using state media to threaten Beijing, the North Korean government issued the threat through commentary written by a person named Jong Phil, published by the Korean Central News Agency (KCNA).Referring to its trade partner and only ally as a “country around the DPRK”, the commentary accused China of failing to criticise actions taken by Donald Trump’s administration, while continuing to take punitive measures against Pyongyang. Related articles   Japan sends DESTROYER to meet US warships amid WW3 fears   Tubby tyrant Kim Jong-un cannot hurt the West, says Frederick Forsyth The commentary read: “Not a single word about the US act of pushing the situation on the Korean Peninsula to the brink of war after introducing its hugest-ever strategic assets to our waters is made.“But such rhetoric as ‘necessary step’ and ‘reaction at decisive level’ is openly heard from a country around the DPRK to intimidate it over its measures for self-defence.”The commentary continued: “Particularly, the country is talking rubbish that the DPRK has to reconsider the importance of relations with it, and that it can help preserve the security of the DPRK, and offer necessary support and aid for its economic prosperity, claiming the latter will not be able to survive the strict ‘economic sanctions’ by someone.”  GETTYNorth Korea accused China of "talking rubbish" Secretive images of North Korea's drone program Fri, April 14, 2017Is this a never before seen look at NK's drone program? Exclusive images capture military personnel landing a drone on North Korea's highway in 2015. Play slideshow  Exclusivepix Media1 of 9Is this a never before seen look at North Korea's drone program  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYNorth Korea recently celebrated the birth of its founder, Kim Il-sung, in PyongyangThe KCNA commentary also warned that China would face a catastrophe in its relationship with North Korea as long as it continued to apply sanctions in tandem with the US.The commentary read: “If China keeps applying economic sanctions to the DPRK while dancing to the tune of the US after misjudging the will of the DPRK, it may be applauded by the enemies of the DPRK.“But it should get itself ready to face the catastrophic consequences to its relations with the DPRK.”  GETTYA recently missiles test in North Korea reportedly failed The U.S. and South Korea Launch Operation Max Thunder Thu, April 20, 2017The US and South Korea kicked off a big exercise just as North Korea threatens 'thermonuclear war'. Exercise 'Max Thunder' is to 'enhance interoperability' between the US and South Korean forces Play slideshow  AFP/Getty Images1 of 7A South Korean F-15K jet fighter takes off during the 'Max Thunder' South Korea-US military joint air exercise at a US air base in the southwestern port city of Gunsan  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Experts have argued the commentary appears to be Pyongyang’s response to the calls of Chinese experts and media for escalated tensions against North Korea.A US F18 fighter jet involved in a show of force against Kim Jong-un’s despotic state crashed into the Japan Sea yesterday.The sole pilot survived by ejecting and landing in the sea, before being rescued by a helicopter crew.

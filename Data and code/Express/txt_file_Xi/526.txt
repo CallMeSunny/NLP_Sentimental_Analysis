@@ -1,0 +1,21 @@
+Ohh la la! Brigitte Macron beams as husband Emmanuel holds her hand on China trip
+https://www.express.co.uk//life-style/style/902102/Brigitte-Macron-husband-Emmanuel-China-trip-age
+ 07:49, Tue, Jan 9, 2018 
+  GETTYBrigitte Macron: The French First Lady was pictured out in China yesterday with her husband EmmanuelBrigitte Macron might be 64 but that didn’t stop her beaming like a teenager as her husband Emmanuel Macron held her hand in China yesterday. The couple - who have an age difference of 24 years - looked thrilled to be in China visiting the Forbidden City in Beijing. Former teacher Brigitte wrapped up warm as temperatures dropped to -1C during the afternoon in the city. The First Lady of France threw on a cream jacket with matching scarf for the occasion.  Related articles   Brigitte Macron and Turkish First Lady Emine Erdogan meet   Macron’s bizarre gift branded an ‘unprecedented diplomatic gesture' Brigitte paired her cream coat - reminiscent of her favourite Louis Vuitton style jacket, which she owns in several different colours - with black leather gloves and black sunglasses.The French President met with Chinese President Xi Jinping during the second day of his visit to China, yesterday. President Macron wore a black fitted coat with a black scarf - matching in opposition to his wife Brigitte’s simple, classic French style. The French leader hit headlines across the world after gifting China’s leader with a French horse on day one of his visit to the country.   GETTYBrigitte Macron: The First Lady wore a smart cream coat with gold buttons and a pair of black boots  GETTYBrigitte Macron: The couple wrapped up as temperatures hit -1CPresident Macron gave Mr Xi Jinping an eight-year-old brown gelding of the elite French Republican Guard.The 40-year-old chose Vesuvius from the presidential cavalry corps after finding out Mr Xi had been fascinated by the 104 horsemen who escorted him during his last official trip to Paris in 2014.Gifting the horse to Mr Xi was an “unprecedented diplomatic gesture”, Mr Macron’s office said, adding this was the first time that a French president had offered one of the Republican Guard’s horses.An Elysée official said: “It mattered a lot for the president, even if it was very complicated to import a horse for sanitary reasons. It’s a symbol of French excellence.” France's First Lady Brigitte Macron in pictures Tue, July 17, 2018Brigitte Macron is a former high school teacher and the wife of the French politician Emmanuel Macron. See her most recent pictures. Play slideshow  REUTERS•Getty1 of 100France's First Lady Brigitte Macron in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+       On day one of the couple’s visit to the country, Brigitte made waves as she touched down in the country with her choice of jacket - a bold red, double-breasted overcoat. Red symbolises good luck in China, so Brigitte was obviously hoping to sprinkle some positive energy on her trip with her choice.

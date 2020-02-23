@@ -1,0 +1,21 @@
+Could Ivanka Trump be president? Donald’s daughter is ‘in it for the long haul’
+https://www.express.co.uk//life-style/life/905478/Ivanka-Trump-news-donald-jared-kushner-washington-latest-president
+ 14:46, Tue, Jan 16, 2018 
+   Ivanka Trump, 35, is a mother-of-three and entrepreneur, who also happens to be the daughter of Donald Trump, 71.The former model, who is married to Jared Kushner, is her father’s right-hand-woman, working as an advisor to the former mogul. Mother to Arabella, Theodore and Joseph, is an official employee in Donald Trump’s administration.It has recently been claimed by a friend of Trump that Ivanka and her husband plan to stay in Washington for a long time. Related articles   How old is Ivana Trump?   Ivanka Trump: How old is Donald Trump’s daughter?   GETTYIvanka Trump: Donald’s daughter and husband Jared Kushner ‘in it for the long haul’ Ivanka Trump for president? Donald’s daughter and husband Jared Kushner ‘in it for the long haul’The source said: “Whenever she invites people, they all want to come see her in Washington.“They love it in Washington. The kids love it. “They are in it for the long haul.”Since her father’s election Ivanka has carried out various important international trips.She sat with Chinese President Xi Jinping and his wife Peng Liyuan at a state dinner, and her daughter Arabella sang a song in Mandarin for the Chinese officials.She visited India and Japan in the past year.As an advocate for women’s rights, Ivanka spoke a at the G20 head-of-state summit in July.In his recent a controversial book The Fire and Fury Michael Wolff claimed that if “the opportunity arose, she'd be the one to run for president.”However, the writer cited no sources for this assumption. Ivanka Trump in pictures Wed, August 1, 2018Ivanka Trump is Advisor to President Trump and the US First daughter. She is the eldest daughter of Donald Trump and former model Ivana Trump. Play slideshow  Getty1 of 100Ivanka Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYIvanka Trump: The former model, who is married to Jared Kushner, is her father’s right-hand-womanBoth Ivanka and her husband currently hold powerful positions in the US government.Jared Kushner, Ivanka’s husband who reported to be is worth between $240 million and $740 million, is Donald Trump’s senior advisor.He helped to run Trump’s digital media strategy during his presidential campaign.One person who is keen on the thought of an Ivanka presidency is her mother Ivana.  GETTYIvanka Trump: Mother to Arabella, Theodore and Joseph, is an official employee of Donald Trump’In her book, Raising Trump, Ivana wrote recently: “First Lady? Holds no appeal for me personally. First Mother? That could work." Ivanka has never stated any ambitions to be president but didn’t deny she would like to do the job when asked in a Cosmopolitan interview.She told the magazine when asked about a future in politics: “I do not think so, but I have learned in life to never say never! It is too limiting!"Ivana Trump appeared on Good Morning Britain to tell presenters about her marriage to the US President. h

@@ -1,0 +1,218 @@
+She's an angel! Kate Upton looks heavenly in sheer lace top and tight-fitting white jeans as she catches a flight out of LAX
+https://www.dailymail.co.uk/tvshowbiz/article-3130851/Kate-Upton-looks-heavenly-sheer-lace-tight-fitting-white-jeans-catches-flight-LAX.html
+ 04:24 BST, 19 June 2015 
+Her film career is soaring with a few hits under her belt and new movie The Layover currently in production.So it's safe to say Kate Upton has a lot to be smiling about these days.On Thursday, the 22-year-old was seen jetting out of LAX looking heavenly in all white ensemble.          Oh hai there! Kate Upton looks heavenly in sheer lace top and tight-fitting Frame Denim white jeans as she catches a flight out of LAX on Thursday       Kate chose a sheer lace top to match her tight-fitting Frame Denim white jeans, showing off her incredible figure.Kate’s sighting comes soon after she was seen filming scenes for her upcoming comedy, The Layover.Pictures recently emerged of her shooting scenes in yet another swimsuit while on set in Vancouver, Canada last month.         Winning combo: Kate chose a sheer lace top to match her tight-fitting white denim jeans, showing off her incredible figure         Workin' it: The model-turned-actress was seen greeted by autograph hunters as she made her way to LAX
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Kate_Upton'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rip up the rule book in Kate's Frame Denim jeans
+
+
+
+
+Frame Denim Le Color rip skinny jeans
+Buy yours at Shopbop
+
+
+
+Visit site
+
+
+
+Kate Upton might be more famous for strutting her stuff on the catwalk and posing for the camera in photoshoots, but she's just as chic when she's doing her own thing too. 
+She caught a flight out of LA wearing some white slashed jeans by Frame Denim, which she styled with a white lace top and some colourful court heels. 
+They're a bit on the pricey side, but Kate's distressed jeans will fit like a dream and are the perfect way to switch things up if you're always wearing black skinnies. Click (right) to get some for yourself now at Shopbop. Cara Delevingne, Kate Bosworth and The Kardashians and are all in Frame's fan club too, so you'll be keeping good company. 
+But if you want the look for less, these Boohoo jeans are a fraction of the price of the real deal, but are almost identical! Or Asos, Topshop and New Look have all got some good options too.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET SOME JEANS LIKE KATE'S
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Topshop Moto winter white ripped Leigh jeans
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos Tall Ridley ripped knee jeans (now reduced to £10)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+New Look white high rise ripped jeans
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo Chloe white ripped jeans
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Kate_Upton', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Heaven sent: Kate showed off her incredible figure on her way out of town This is set to be Kate's first movie project since The Other Women, which she starred alongside Cameron Diaz, Leslie Mann and Nikolaj Coster-Waldau.Her new film role follows a pair of lifelong friends who decide to take a road trip who decide to avoid their problems by taking a vacation only to find that their plane has been rerouted due to a hurricane warning.Kate, who plays Meg in the 2016-release, was filming with fellow actress Alexandra Daddario, as the latter takes on the role of Kate.Earlier this month, the cast flew back resumed filming on the project and were spotted in St Louis, Missouri.          She's taken: Kate is currently dating boyfriend Justin Verlander, a pitcher for the Detroit Tigers of Major League Baseball

@@ -1,0 +1,21 @@
+China PLEA with India for better relations - we ’CANNOT STAND’ another Doklam conflict
+https://www.express.co.uk//news/world/977316/India-China-relations-cannot-stand-Doklam-conflict-Chinese-envoy
+ 01:34, Thu, Jun 21, 2018 
+  Chinese ambassador to India claimed they would not be able to stand another conflict like Doklam (Image: Getty)After China built a road into Doklam, an area claimed by Bhutan and protected by India, Chinese and Indian troops were involved in a 73-day intense military stand-off at the tri-junction.Even though no shots were fired, the border dispute strained the already unstable Sino-Indian relations.On Monday Chinese envoy Luo Zhaohui emphasised the need to find a “mutually acceptable solution” on the border issue.He said: ”We need to control, manage, narrow differences through expanding cooperation. Related articles   North Korea's Kim Jong-un vows to work with China to secure 'true p...   Yulin Dog Festival: INSIDE the slaughterhouse as dogs are BLOWTORCHED “The boundary question was left over by history.“We need to find a mutual acceptable solution through Special Representatives’ Meeting while adopting confidence building measures.”He added: “We cannot stand another Doklam”.Post-Doklam, there have been frequent high-level engagements between the leaders of the two countries. China readies for World War 3: Pictures show commandoes in EXTREME drills Tue, March 27, 2018Chinese commandos take part in extreme anti-terror military drills in Korla, Xinjiang Uygur Autonomous Region of China. Play slideshow  VCG via Getty Images1 of 12Commandos carry equiptment as they march in an extreme training exercises  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Prime Minister Narendra Modi and President Xi Jinping have met twice in the last two months in Wuhan and Qingdao to try to keep peace between the two countries.Sino-Indian relations have been strained by border disputes and economic competition since 1950.They fought a war over their unresolved border in 1962, and the ongoing rivalry has escalated over China's friendly relationship with Pakistan, India's top rival.The Chinese envoy claimed on Monday a trilateral summit between China, Pakistan and India would be "very constructive”.   He said: "This is a proposal suggested by some Indian friends and it is a very a good and constructive idea.“Maybe not now, but in the future, that is the great idea.”However, today China distanced itself from its envoy's comments on the idea of trilateral cooperation between India, China and Pakistan, but highlighted the importance of dialogue with New Delhi.  Sino-Indian relations have been strained by border disputes and economic competition since 1950 (Image: Getty)  Post-Doklam there have been frequent high-level engagements between the leaders of the two countries (Image: Getty)Chinese foreign ministry spokesman Geng Shuang said: "We are willing to conduct relations with all our neighbours including Pakistan and India to strengthen our cooperation for better development and stability in this region."We also hope India, Pakistan can strengthen their dialogue to improve mutual trust in their bilateral relations."This is in the interest of the regional countries."

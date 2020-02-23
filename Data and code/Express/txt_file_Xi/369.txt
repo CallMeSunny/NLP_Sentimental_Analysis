@@ -1,0 +1,21 @@
+North Korea WARNING: China MUST do MORE to halt Kim Jong-un's World War 3 threat
+https://www.express.co.uk//news/world/889250/North-Korea-news-update-USA-World-War-3-Kim-Jong-un-Donald-Trump-Xi-Jinping
+ 14:32, Thu, Dec 7, 2017 
+   North Korea can only be kept at the table if China keeps enforcing the sanctions and Kim Jong-un is left without crucial oil supplies, said US Ambassador to the United Nation Nikki Haley.North Korea has sparked fears of World War 3 during the rogue state's testing of ICBM, which despot leader Kim Jong-un said could strike Donald Trump in Washington.The Ambassador told Fox News: “All the calls that have happened between President Xi and President Trump have been very strong positive calls.“The President has asked President Xi to cut off the oil because the last time they did North Korea came to the table.”  GETTYNorth Korea news: 'We're going to continue to push China', says US Ambassador Nikki Haley She stressed China has made some progress in helping its and the US’s mutual goal towards North Korea, but they can do better. She said: “China has followed to run the sanctions, we have seen great progress there but they haven’t gone that far. “So there’s still more they can do, we’re going to continue to push them but both China and the United States are trying to work this together.”    There’s still more they can do, we’re going to continue to push ChinaNikki HaleyOn Wednesday Lieutenant Colonel Ralph Peters said that if Donald Trump doesn’t threaten China with a trade war, North Korea is close to a “shooting war.”He said: ““The goal is to have China engage in the economic action. The Trump administration has talked a good fight on China but when it comes to the clinch the administration has been unwilling to threaten a trade war.“Short of that, if you're not willing to threaten a trade war with China, you're going to have a shooting war with North Korea. Nobody in their right mind wants that to happen.“The Chinese are trying to have it both ways. They’ll pursue some sanctions to placate us for a few months, but they’re not really cracking down.” North Korea has shown us its new missile Thu, November 30, 2017The missile dubbed the Hwasong-15 was shot into the sky before plunging down into the Sea of Japan Play slideshow  REUTERS1 of 16North Korea's leader Kim Jong Un is seen as the newly developed intercontinental ballistic rocket Hwasong-15Ã•s test was successfully launche  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Ambassador Haley said: “We’re trying to do this together because it affects the region.“As long as we keep talking, the key is we have to keep these communications together and we all agree on one goal, a denuclearised North Korea.” 

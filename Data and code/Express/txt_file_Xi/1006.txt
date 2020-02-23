@@ -1,0 +1,38 @@
+Watch US Netflix in the UK? People who use a VPN could be in serious trouble - this is why
+https://www.express.co.uk//life-style/science-technology/758679/How-To-VPN-Unblock-Watch-US-Netflix-Trouble
+ 08:52, Thu, Jan 26, 2017 
+  GETTYThose who use VPNs to unblock region-locked content could now be in serious troubleIf you use a VPN – you could soon find yourself in serious trouble.VPNs bring an additional layer of privacy to users’ online activities by masking their location.This functionality can also be used to circumvent regional exclusives on video on-demand services like Netflix, Amazon Prime, BBC iPlayer and Hulu.Content on these services varies between countries based on the distribution deals with the film studios and TV networks.Netflix subscribers in the UK currently have access to a catalogue of some 2,875 films and TV series across all genres.For comparison, those who reside in the United States have access to a catalogue of some 5,750 films and TV shows. REVEALED: Most torrented shows on Pirate bay and Kickass Torrents Thu, January 19, 2017THESE are the top 10 shows that have been illegally downloaded the most on torrent site such as the Pirate Bay and Kickass Torrents Play slideshow  PH1 of 10NUMBER 10: The Grand Tour is number 10 in the most downloaded shows  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    China has announced plans to ban the use of VPNs across the country.VPNs are widely used in China to navigate around the government’s strict online blocks that prevent residents accessing a number of major western websites.Sites on the countries blocked list include Facebook, Twitter, YouTube – and even Google.Announcing the new rules, China’s Ministry of Industry and Information Technology described the new rules as a “clean-up” of the countries internet connections.But those caught using a VPN to access western websites will not be punished just yet.  GETTYNetflix has a much larger catalogue of TV shows and films in the United StatesChina has confirmed that the nationwide VPN block won’t come into effect until March 31 2018.When implemented, the punishment for flouting these laws is unclear as China has remained intentionally vague on the consequences.China is renowned for its strict internet censorship.However not all members of the Chinese hierarchy believe that controlling the county’s internet access is the best move. New releases on Netflix Sat, December 30, 2017Netflix brings us an exciting crop of new films and TV shows to look forward to. Play slideshow  Netflix1 of 39Lost In Space, Netflix  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Speaking at the World Economic Forum in Davos, Switzerland, Xi Jinping, President of the People’s Republic of China and General Secretary of the Communist Party of China, suggested net censorship was shortsighted.He said: "We must redouble efforts to develop global connectivity to enable all countries to achieve inter-connected growth and share prosperity."Pursuing protectionism is like locking oneself in a dark room."While wind and rain may be kept outside, that dark room will also black light and air."And China isn't the only one cracking down on VPN usage.Last year, Netflix began a move to block users who used VPNs to view content outside of their permitted region."Some members use proxies or “unblockers” to access titles available outside their territory," continued the blog post."To address this, we employ the same or similar measures other firms do. This technology continues to evolve and we are evolving with it.

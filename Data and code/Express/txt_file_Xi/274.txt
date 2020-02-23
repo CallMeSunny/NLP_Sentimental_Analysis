@@ -1,0 +1,38 @@
+China reacts: Beijing unleashes DESTROYER in explosive drills as North Korea tensions rise
+https://www.express.co.uk//news/world/838343/North-Korea-News-China-USA-Trump-Military-Drills
+ 10:14, Tue, Aug 8, 2017 
+   Missile were launched in a blaze of smoke and fire across the Yellow Sea on Monday as The People's Liberation Army’s (PLA) navy tested its gargantuan ordnance.The ferocious fleet was sent out to test fire from one of its 35 Destroyers - the Taizhou.Impressive images of the drill have now emerged online, just weeks after the PLA showed off its ground units.  GETTYNorth Korea tensions fuelled by Kim Jong-Un spark military drills by Chinese destroyer  The Chinese people love peace. We will never seek aggression or expansion, but we have the confidence to defeat all invasionsXi JinpingThousands upon thousands of commandos were pictured marching across the desert through Zhurihe military training base in Inner Mongolia.Days later President Xi told troops they should be poised for attack.He said: "No one should expect us to swallow the bitter fruit that is harmful to our sovereignty, security or development interests"We will never allow any people, organisation or political party to split any part of Chinese territory out of the country at any time, in any form."The Chinese people love peace. We will never seek aggression or expansion, but we have the confidence to defeat all invasions.”  GETTYNorth Korea threat rages on as China and Russia show off military might Related articles   North Korea warn US of 'THOUSANDS-FOLD' revenge as UN sanctions hit   Donald Trump and South Korea to tighten sanctions on North Korea  China and Russia hold first Joint Naval Drill in the Baltic Sea Wed, July 26, 2017 Play slideshow  Getty Images1 of 10A Chinese warship operates a live-fire drill during the Joint Sea 2017 in Baltic Sea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Beijing announced earlier in 2017 its military was to be expanded - especially the national people’s Liberation Army (PLA).And drills have been taking place around the world, in joint ops with Russia.Flexing its military muscle has come as North Korea threatens the US with nuclear missiles, and at the same time, Trump leans on China to find the solution.President Trump has mocked the Red Army, claiming they are doing nothing about North Korea. North Korea as you've never seen before through these stunning pictures Tue, June 13, 2017These incredible photographs, which offer a unique glimpse behind the veil, were taken on a trip to the country by web designer Reuben Teo Play slideshow  Reuben Teo / mediadrumworld.com1 of 10Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Chinese Foreign Minister Wang Yi has pledged that Beijing will crack down on the hermit nation of North Korea.He said: “If we consider traditional economic relations between China and North Korea, it is China that will have to pay most of the price for implementation of the latest resolution.”However, China would sacrifice its own economic interests to ensure peace in the region, he said.Economic sanctions are costing North Korea millions, especially in coal and seafood exports, but the government will not back down.Kim Jong-Un is continuing with his nuclear programme and test firing Intercontinental Ballistic Missiles (ICBMs). Related articles   North Korea launch bid to snatch tourism money from UN   Kim Jong-un softens attitude to South Korea after Trump sanctions   NCChinese People's Liberation Army (PLA) marched for military show amid missile tensionsTrump said in a two-part tweet: "I am very disappointed in China."Our foolish past leaders have allowed them to make hundreds of billions of dollars a year in trade, yet they do NOTHING for us with North Korea, just talk. We will no longer allow this to continue. China could easily solve this problem!"China is also locked in disputes in the South China Sea over territories which Taiwan and Singapore also claim ownership of.China considers Taiwan as a rogue state and will not recognise it as an autonomous nation.

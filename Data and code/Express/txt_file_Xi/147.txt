@@ -1,0 +1,21 @@
+China launch new satellite into space to 'spy on Earth' in bid to match US military
+https://www.express.co.uk//news/world/904710/china-us-military-weapons-satellite-xi-jinping-donald-trump
+ 05:29, Mon, Jan 15, 2018 
+   The move comes as China looks to expand its military with the aim of having the best army in the world by 2030.The Long March 2D booster was sent into space from China’s Jiuquan Satellite Launch Center in the Gobi desert.According to the dictatorship, the satellite is designed for remote-sensing of land resources, and the technology will analyse vegetation, water, impervious surfaces, nutrients, and soil.  GETTYChina has launched three missiles in four days Related articles   North Korea: Kim Jong-un was an ‘EXPLOSIVE’ child, claims ex-bodyguard   Foreign aid to be SLASHED for countries on 'middle income'  However, the launch comes just after two other space missions launched over the past few days.Two SuperView-1 Earth-observation satellites and a Long March 3B rocket have been sent into orbit since last Thursday.Local media has previously reported that the country plans to soon have Big Brother style “ghost imaging” satellites that will allow them to track all US military planes. Photos show Chinese military enhanced missile power Wed, January 10, 2018A Chinese military newspaper has published new photos showcasing its short and medium-range missiles Play slideshow  PLA1 of 9  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The spy satellites will allow the Chinese government to track stealthy targets such as US B-2 Spirit stealth bombers, which usually cannot be seen, within 10 years.Using a system called ghost imaging China will be able to take pictures of the military air force, even if they are flying below heavy cloud.The communist state is currently hoping to invest enough money to have a prototype satellite complete by 2020, test the new technology by 2025 and then implement the big Brother styled satellites by 2030.   The announcement comes after Eric Schmidt, the head of Google’s parent company Alphabet, made a stark warning earlier this month about Beijing’s plans to invest heavily in technology.Speaking about whether the US or China would have more technological power Mr Schmidt said: “It's pretty simple.  GETTYXi Jinping announced plans to increase China's military might at the country's national electionThe planned for the Chinese military have been well documented and just months ago President Xi Jing Ping.He is reported to have said: “The people’s armed forces will be transformed into world-class military by the mid-21st century.”

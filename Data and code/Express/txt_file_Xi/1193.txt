@@ -1,0 +1,38 @@
+Kate Duchess of Cambridge returns to work after four months maternity leave with Charlotte
+https://www.express.co.uk//news/royal/603824/Kate-Duchess-of-Cambridge-returns-to-work-from-after-four-months-maternity-leave
+ 16:38, Tue, Sep 8, 2015 
+  PAKate. Duchess of Cambridge to return to workKate, 33, already has a busy schedule planned - including an appearance at the opening ceremony of the Rugby World Cup.The Duchess is said to have enjoyed spending the summer with her new daughter and son, Prince George, but is now looking forward to resuming a limited programme of public engagements. Kate's return will kick off with a visit to the Anna Freud Centre in London, as part of a series of appointments designed to focus on mental health issues in children and young adults. This cause is to become a major focus in the Duchess's future programme, which will include visits around the country to charities working with vulnerable children and families, according to palace sources. Kate will also join her husband Prince William, and brother-in-law, Prince Harry - both passionate rugby fans - at the opening ceremony of the Rugby World Cup which starts at Twickenham on September 18. She is also said to be attending several other unconfirmed events for the tournament.  Kate Middleton Duchess of Cambridge pictures Mon, July 16, 2018Kate Middleton, the Duchess of Cambridge in pictures. Play slideshow  1 of 100  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The Duke and Duchess will also undertake several joint engagements together, including a charities forum celebrating creative British industries in October and trips to Dundee and North Wales in late October and November.William is said to be "firmly settled" in his role at the East Anglican Air Ambulance and enjoyed his summer with his family at Anmer Hall - their newly-renovated mansion in Norfolk. The coming months will be the first time the Prince has to juggle his shift work with a full schedule of royal engagements, supporting the Queen as well as focusing on military issues and fighting the illegal wildlife trade. He plans to deliver a speech on the subject on a major Chinese television channel in October, around the time the UK will host Chinese President Xi Jinping. The illegal wildlife trade is an issue William and his brother feel passionately about, according to royal aides.  Related articles   Kate's £10bn family fortune: How baby Charlotte and George are...   Prince William guarded at work after flying air ambulance to PRISON Harry will make his first public engagement in the UK next week after returning from Africa - where he spent the summer working on front-line conservation projects. The Prince, who turns 31 next week, will attend a fly-past marking the 75th anniversary of the Battle of Britain next Tuesday and will go to dozens of Rugby World Cup events as Honorary President.He will also continue his work with the military and wounded war veterans, returning to his volunteering with London District Personnel Recovery Unit and helping with the Walk of Britain expedition organised by veterans' charity Walking With The Wounded.  Princess Charlotte in pictures Mon, July 9, 2018Princess Charlotte of Cambridge, Charlotte Elizabeth Diana, who was born on 2 May 2015. Play slideshow  PA1 of 100Princess Charlotte in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Harry will fly to the US for a series of meetings in Washington to support his Invictus Games - a Paralympic event for injured servicemen - which will be held in Orlando next year. His busy schedule will also include a visit to Lesotho in Africa - where his charity Sentebale is opening a new centre for children suffering from Aids and HIV. The Prince will also squeeze in a week-long tour to South Africa.

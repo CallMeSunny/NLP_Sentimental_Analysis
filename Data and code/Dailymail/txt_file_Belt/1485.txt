@@ -1,0 +1,219 @@
+She doesn't even look pregnant! Nicky Hilton disguises bump with patterned dress and clever belt as Nicole Scherzinger stuns in black for Alice + Olivia show 
+https://www.dailymail.co.uk/tvshowbiz/article-3450050/Nicky-Hilton-disguised-bump-patterned-dress.html
+ 22:02 BST, 16 February 2016 
+It was revealed in January that Nicky Hilton was pregnant with her first child.But on Tuesday during the Alice + Olivia Fashion By Stacey Bendet fashion event in New York City, the wife of James Rothschild was not showing a bump.In fact, the 32-year-old purse designer did not appear pregnant at all, but that may be because she was wearing a patterned dress with a clever belt that hid her mid section well.Scroll down for video          Is she with child or not? It was revealed in January that Nicky Hilton was pregnant with her first child. But on Tuesday during the Alice + Olivia Fashion By Stacey Bendet show in New York City, the wife of James Rothschild was not showing a bump              Tricky call: The 32-year-old purse designer did not appear pregnant at all, but that may be because she was wearing a patterned dress with a belt that hid her mid section well
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Nicky_Hilton'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pick up a pretty paisley number like Nicky
+
+
+
+
+Alice + Olivia Cayla tie neck dress
+Buy it here at ShopBop
+
+
+
+Visit site
+
+
+
+Alice and Olivia isn't the hugest name on the New York Fashion Week agenda, but it's certainly one of our favourite shows here at Fashion Finder.
+The fall 2016 collection showed a lot of promise as it was shown this week - we loved the bold multicoloured and animal prints contrasted with the ladylike lace and baroque patterns - the whole collection was a treat for the eye in terms of being bright and beautiful. And there to see this gorgeous collection unfold was Nicky Hilton, who of course donned Alice + Olivia for the event - what else?
+The heiress looked fabulous in her paisley print number that makes up part of the resort commercial line that is up for grabs now - the season was full of the print!
+Nicky finished off the bohemian look with the help of tan sandals and her hair plaited - she looked fabulous and totally ready for the spring season.
+Want her cute dress? Click right to bag it now at ShopBop, or see the carousel below for similar alternatives.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Rebecca Taylor Paisley-print silk midi dress at MATCHESFASHION.COM
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+SEA printed satin-crepe dress at Net-a-Porter
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Diya smock dress with drop hem in paisley print (now £22)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Style London pussybow shirt dress in paisley print at Asos (now £11.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Nicky_Hilton', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Also at the show was Nicole Scherzinger who stunned in all black with a camel haired coat hanging from her shoulders.Nicky did have a glow to her as she posed inside The Gallery Skylight at Clarkson Square.The sister of perfume mogul and DJ Paris Hilton added brown strappy heels that showed off a black pedicure and held onto a blue clutch purse.         Elegant: Also at the show was Nicole Scherzinger who stunned in all black with a camel haired coat hanging from her shouldersThe LA native also flashed her giant diamond ring from Rothschild.The two wed in a lavish ceremony in Kensington Park in London in July after becoming engaged the year before while on vacation in Lake Como, Italy. Nicole looked a bit like Kim Kardashian with her a semi sheer black dress with pointy black heels and a long beige coat draped over her shoulders.She held onto a multi-colored purse that looked like it belonged in a Miami nightclub.And the former Pussycat Dolls singer had her hair parted in the middle and worn straight just like the reality star often does.          So KK: The former Pussycat Dolls singer had her hair parted in the middle and worn straight just like Kim Kardashian with a strong red lip         Svelte: Nicole stunned in a semi sheer black dress with pointy black heelsAt the show, models were seen wearing colorful ensembles that looked perfect for the hot months.One brunette beauty wore a silky pink top with pleats all over it and a high neck which clashed nicely with her embroidered bell-bottom jeans.Platform pumps in red and black added a modern twist.                 Hippie chic: One brunette beauty wore a silky pink top with pleats all over it and a high neck which clashed nicely with her embroidered bell-bottom jeans         Jewel toned: Two models wore similar dresses with ruby red, emerald green and sapphire blue         So Seventies: Three models looked like they had time traveled from four decades ago         A different look: One model had on a Loving You biker jacket with a feathered skirt         The location: The scenery set-up during Alice + Olivia By Stacey Bendet  presentation at The Gallery, Skylight at Clarkson Square in New York City              She's been masking her bump all week. She's seen on Monday at left and on Sunday at right

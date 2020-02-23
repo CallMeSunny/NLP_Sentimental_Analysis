@@ -1,0 +1,72 @@
+North Korea latest pictures: Kim Jong-un V Donald Trump - the standoff in pictures
+https://www.express.co.uk//news/world/803705/North-Korea-latest-pictures-Kim-Jong-un-Donald-Trump-picture-images
+ 13:30, Fri, May 12, 2017 
+ North Korea v USA explosive latest pictures Wed, September 20, 2017Images depict how tensions have escalated between North Korea and the United States. Kim Jong-Un boasted of North Korea's ability to strike any target in the US after a second ICBM test that weapons experts said could even bring New York into range - in a potent challenge to President Donald Trump Play slideshow  AFP/Getty Images1 of 45North Korea's intercontinental ballistic missile (ICBM), Hwasong-14 being lauched at an undisclosed place in North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    America’s show of force in the regionThe US military is putting on a show of force in the region in a bid to exert pressure on North Korea and stop its nuclear programme. Donald Trump has sent a so-called 'armada' - including aircraft carrier USS Carl Vinson and a nuclear-powered submarine - towards the peninsula.The US armed forces have carried out training drills with the South Korean military and maritime exercises with the Japanese navy in recent weeks. North Korea accused the the US of pushing the peninsula to the brink of nuclear war after two US bombers flew training drills with the South Korean and Japanese air forces.   GettyNorth Korea latest pictures: Kim Jong-un V Donald Trump in pictures  GettyA South Korean tank and a US tank fire live rounds during a drill in Pocheon on April 20  GettyA fighter plane launches from USS Carl Vinson in the western Pacific Ocean on May 2 Explosive images as South and North Korea test their deadly power Tue, May 2, 2017South Korea and US military held the integrated live fire exercise amid tensions over nuclear issues in the Korean Peninsula Play slideshow  AFP/Getty Images1 of 13South Korean K1A2 tanks fires live rounds  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    North Korea’s threats and missile tests North Korea has carried out a series of ballistic missile tests and is threatening to carry out a sixth nuclear test. Kim Jong-un’s regime and state-controlled media have issued chilling threats, warning the region is edging closer to nuclear war. North Korea held military drills to mark the 105th anniversary of the birth of Kim Il-Sung and the 85th anniversary of its army in April. The regime has accused the CIA and South Korean spies of plotting to assassinate Kim Jong-un.   GettyThis photograph released on March 7 shows the launch of four ballistic missiles in North Korea   GettyThis picture released on April 14 shows Kim Jong-un inspecting troops Kim Jong-un flexes his military muscles Mon, May 15, 2017North Korean leader Kim Jong-un inspecting military detachments on two islets in waters off the country's southwest front. Play slideshow  REUTERS1 of 16North Korean leader Kim Jong Un inspects the long-range strategic ballistic rocket Hwasong-12 (Mars-12)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The US anti-missile system THAAD America has angered China by deploying its anti-missile system, known as THAAD, in South Korea in case it needs to intercept attacks by North Korea. China fears the THAAD’s presence could threaten its own military security and argues the system could be used to spy on its territory. South Korean protesters have demonstrated against the deployment of THAAD at a former golf course. WHAT IS THAAD?   EPAThe US has deployed THAAD in South Korea to protect the country  GettySouth Korean protesters at a rally near the US embassy in Seoul on April 28World leaders try to resolve the crisis South Korea's new President Moon Jae-In has spoken to leaders in China, Japan and the US in a effort to ease tensions over North Korea.Mr Moon is said to have told Chinese President Xi Jinping that the THAAD issue can be resolved when North Korea’s provocation ends.   Last month Donald Trump encouraged Mr Xi to impose more sanctions on North Korea during a the Chinese President’s visit to Florida.   AFP GettyPresident Moon Jae-In talks over the telephone with Chinese leader Xi Jinping  GettyChinese President Xi Jinping meets Donald Trump in Florida Photos from North Korea during celebration of the birth of late leader Kim Il Sung Wed, April 19, 2017Covering a North Korean military parade is an emotional roller coaster, a visual and sensory barrage of socialist-realist propaganda Play slideshow  AFP/Getty Images1 of 23North Korean leader Kim Jong-Un (R) attending a military parade in Pyongyang marking the 105th anniversary of the birth of late North Korean leader Kim Il-Sung  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    

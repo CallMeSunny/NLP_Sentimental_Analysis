@@ -1,0 +1,38 @@
+China sends a gift to North Korea to cement ‘FRIENDLY RELATIONS’ after Trump meeting
+https://www.express.co.uk//news/world/881109/World-War-3-North-Korea-Donald-Trump-China-Kim-Jong-un-Xi-Jinping-Beijing-USA-Asia
+ 02:10, Sat, Nov 18, 2017 
+  GETTYChina has sent a gift to North Korea in a move to cement 'friendly relations'Song Tao, the special envoy of Chinese President Xi Jinping, delivered the present yesterday as he detailed the outcomes of Beijing’s latest meeting of congress.Kim Jong-un’s puppet mouthpiece, the Korean Central New Agency (KCNA) said: “Song Tao stressed the CPC's stand to steadily develop the traditional friendly relations between the two parties and countries.”KCNA also disclosed that a gift was presented during the meeting in a move set to enrage Washington.The exact details of the present yet to be detailed as is the itinerary of the envoy’s visit. Related articles   Japan READY for World War 3 as they 'prepare detention centres'   China will not be ‘SEDUCED into being COMPLIANT with the West’ The news that China is still eager to ensure strong ties with Kim Jong-un come after it was recently revealed that Beijing is “very worried” about a strike on Pyongyang.Fears of a radical escalation that could lead to World War 3 have pushed Xi Jinping to reach out for a diplomatic resolution.China’s latest move seems to go against promises made to Donald Trump that it will increase pressure on the rogue nation to halt its nuclear weapons programme. Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    US General Michael Hayden recently remarked that North Korea could face increasing pressure to put an end to their nuclear test thanks to Donald Trump's visit to key allies in Asia.He claimed: "You've got a bit of a ray of light, a breath of fresh air here with the Chinese trying to amp up their pressure on the North Koreans."But you have to be realistic: China is most interested in stability on the whole Korean peninsula. They’re not too excited about change."   Speaking to CNN, General Hayden said China – North Korea's only ally in the region – is now expected to exercise more influence on Pyongyang.The retired general continued: "I think we can rely on them to amp up the pressure a bit to have Kim the youngest tone down the rhetoric, maybe stop testing for a while."But I don’t think he’s going there to point out that they need to give up these weapons." North Korea's most secretive address revealed Fri, November 10, 2017This is the North Korean embassy in London, the diplomatic mission of North Korea to the UK Play slideshow  Joey Millar1 of 13KEEP CLEAR! North Korean embassy officials are cautious about security  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    However, the emphasis on friendly relations and delivery of gifts appears to call into question the motives of China at a time the world is seemingly on the verge of World War 3.In addition to improving its relations with the Asian superpower, North Korea is developing new terrifying weapons.New photos of Kim Jong-un’s latest war toys show that North Korea has ignored US threats to halt its reckless military development.  GETTYChina’s latest move seems to go against promises made to Donald TrumpPhotos show North Korea is constructing powerful new submarines, cable of firing deadly ballistic missiles.North Korea watchdog 38 North warned work has been underway at the Sinpo South Shipyard for a number of weeks.They said the hermit state “is on an aggressive building schedule” and determined to deploy its first operational ballistic missile sub.  GETTYSong Tao is the special envoy of Chinese President Xi JinpingA report this week said: “Throughout 2017 there has been continued movement of parts and components into and out of the two parts yards adjacent to the constructions halls in the centre of the shipyard.“Accompanying this has been the movement of the gantry and tower cranes that service the yards.”The Washington-based group revealed the shipyard historically deals with submarine manufacturing - although it said an imminent deployment is unlikely.

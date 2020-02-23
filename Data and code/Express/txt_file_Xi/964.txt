@@ -1,0 +1,21 @@
+Donald Trump warns North Korea against 'fatal miscalculation' in World War 3 threat
+https://www.express.co.uk//news/world/877095/Donald-Trump-World-War-3-Kim-Jong-un-North-Korea-Twitter-Washington-DC-Pyongyang
+ 15:53, Wed, Nov 8, 2017 
+   The US President, who is currently visiting China on a diplomatic tour, issued the threat to Kim Jong-un in an ominous Twitter post.Mr Trump wrote: "NoKo has interpreted America's past restraint as weakness. This would be a fatal miscalculation."Do not underestimate us. AND DO NOT TRY US." Related articles   North Korea has been 'weaponised' by China and Trump must react   North Korea drought: 18 MILLION could starve to death  Mr Trump arrived in Beijing earlier today to ask for President Xi Jinping's help to rein in North Korea, a close ally of China.During his two-day visit, he will ask China to abide by UN resolutions and cut financial links with the regime, according to White House officials.Mr Trump believes any talks with North Korea would require the hermit state to end its repeated military provocations.  GETTYDonald Trump issued the ominous threat to North Korea on Twitter Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    His trip to China comes after a speech to South Korea's National Assembly, in which used some of his toughest language yet against the North.The address lodged specific accusations of chilling human rights abuses by Kim's communist regime in Pyongyang.Mr Trump called on countries around the world to isolate Pyongyang by denying it "any form of support, supply or acceptance".The Republican painted a dystopian picture of the reclusive North, saying people were suffering in "gulags" under crazed despot Kim.  GETTYThe US President greets South Korean leader Moon Jae-in in Seoul We will not allow American cities to be threatened with destructionDonald TrumpHe went mostly on the attack the speech but did promise a "path to a much better future" if North Korea stopped developing ballistic missiles.He told South Korean lawmakers: "We will not allow American cities to be threatened with destruction. We will not be intimidated."And we will not let the worst atrocities in history be repeated here, on this ground we fought and died to secure."  GETTYDonald Trump and First Lady Melania arrive in Beijing this afternoonThe North defends its nuclear weapons programme as a necessary defense against what it says are US plans to invade.The United States, which has 28,500 troops in South Korea, a legacy of the 1950-53 Korean war, denies any such intention.Mr Trump said: "The world cannot tolerate the menace of a rogue regime that threatens it with nuclear devastation."

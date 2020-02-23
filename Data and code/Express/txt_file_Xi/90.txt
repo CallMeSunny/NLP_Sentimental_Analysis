@@ -1,0 +1,21 @@
+‘I disagree’ The phrase China has BANNED online to silence discontent of communist party
+https://www.express.co.uk//news/world/924646/China-president-Xi-Jinping-two-terms-I-disagree-Communist-Party-web-censors-Weibo-Mao
+ 11:02, Tue, Feb 27, 2018 
+  GETTYSocial media users have been unable to use certain phrases to stop any open discontent in China The government wants to silence any critics against President Xi being able to continue as president after his two terms.Limits were introduced more than 30 years ago to prevent a repeat of the Mao dictatorship.His presidency has seen economic reform, a campaign against corruption, as well as a crackdown on human rights. Photos show Chinese military enhanced missile power Wed, January 10, 2018A Chinese military newspaper has published new photos showcasing its short and medium-range missiles Play slideshow  PLA1 of 9  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Censored terms are the best evidence for what people are talking a lot aboutThe Constitution now limits Mr Xi, who became president in 2013, to two terms in office.The phrases of “I disagree”, “migration” and “boarding a plane” were blocked from posts by regular users of Weibo, which is a popular microblogging site in China. Related articles   China's new emperor: Xi Jinping scraps two-term limit to stay in power   China the NEW North Korea? Furious public reaction to 'dictator' Xi The phrase “boarding a plane” can mean “ascending the throne” in Chinese.Anyone who tried to enter these Chinese words were given a messaging information saying “the content violates the relevant laws and regulations or Weibo’s terms of service`’.  GETTYTheresa May recently visited the superpower to get trade deals before Brexit Founder of censorship-watching organisation China Digital Times, Xiao Qiang, said to the Financial Times: “Censored terms are the best evidence for what people are talking a lot about.“The banned keywords are precisely expressions that are ringing true, as public concerns rise over Xi Jinping's authoritarian tendencies putting China back politically at least 30 years.”  GETTYChairman Mao was the dictator in China until his death in 1976 The 64-year-old president has shows that he wants to remain in office past 2023, which would overturn rules of succession in Chinese politics that was brought about after the power struggles to replace Mao.   Some people in China got around the censorship by sharing images of Winnie the Pooh, which was supposed to be Mr Xi, and showed him hugging a jar of honey.Xi is reaching the end of his first five-year presidential term and will be formally elected for a second when China’s parliament opens on March 5.

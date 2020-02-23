@@ -1,0 +1,21 @@
+Leader of the World, Emmanuel? Now Macron says he wants to ‘FIX’ the China-Tibet crisis
+https://www.express.co.uk//news/world/951673/emmanuel-macron-france-news-china-tibet-dalai-llama
+ 16:26, Thu, Apr 26, 2018 
+  GETTYEmmanuel Macron fancies himself a global mediatorEmmanuel Macron ruled out meeting the exiled leader in Paris, saying that doing so would draw the ire of China, who has accused him of being a dangerous separatist.But the president told George Washington University students on the last day of his state visit to the United States: “If France can be useful in order to help fix the situation between the Dalai Lama and his people, and China, I will do my best.”“He’s an extraordinary leader, I respect him a lot,” Mr Macron said of the exiled Tibetan spiritual chief, adding that he had perceived some “early signals” that Chinese President Xi Jinping may be open to talks with the man Beijing has long accused of being a “dangerous separatist”.Mr Macron said: “I hope so for China, I hope so for the Dalai Lama, and I hope so for Buddhist people.” Related articles   Iran WAR is LOOMING: Macron blasted as a ‘DANGEROUS THREAT to peace'   MACRON BACKLASH: Realities under Macron’s France    GETTYThe Dalai Llama met Macron last year If France can be useful in order to help fix the situation between the Dalai Lama and his people, and China, I will do my best.Emmanuel MacronThe French leader has strived to position himself as an honest broker in international conflicts since taking office last May.He has however ruled out meeting with the Dalai Lama, saying that doing so without Beijing’s blessing would spark a “crisis” with China.“Now that I’m president of the French Republic, if I meet him it will trigger a crisis with China,” Mr Macron said, stressing that he had been a candidate when he met with the Dalai Lama last year.The French centrist added that meeting with the Tibetan leader in France “without preconditions” and without speaking to the Chinese government first just to “send a message to Beijing” would be “useless and counterproductive”. Donald Trump and Macron’s Washington love-in: PICTURES Wed, April 25, 2018Donald Trump and Emmanuel  Macron’s Washington love-in. Play slideshow  AFP/Getty Images1 of 20US President Donald Trump and French President Emmanuel Macron hugging during a joint press conference  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He added: “Is it good for my people if China takes countermeasures against France in retaliation? No.”The Dalai Lama fled to India in 1959 after a failed anti-China uprising and set up a government in exile there.He says he seeks only greater autonomy for Tibet, not outright Independence, and has even expressed a desire to return to Tibet.Beijing accuses Tibet’s de facto spiritual leader of seeking independence through “spiritual terrorism”.

@@ -1,0 +1,225 @@
+Beyoncé shows off her cleavage in a deeply plunging geometric print suit as she poses in a statement hat for a series of arty Instagram snaps
+https://www.dailymail.co.uk/tvshowbiz/article-6708049/Beyonce-makes-arty-statement-shows-sizzling-curves.html
+ 08:46 BST, 15 February 2019 
+She spent the evening before Valentine's Day enjoying the opening of the Dreamweavers art exhibition with her husband of 10 years Jay Z.But looking nothing short of a work of art herself, Beyonce shared a selection of busty snaps of herself in a geometric print suit ahead of her evening out. The 37-year-old songstress showcased her sensational curves in the clinched jacket, which was secured around her waist with a knotted belt.          Wow: Beyonce shared a selection of busty snaps of herself in a geometric print suit ahead of her evening out
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Beyonce'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get suited and booted like Beyonce in Ena Gancio
+
+
+
+
+Ena Gancio suit
+Check out the brand at Etsy
+
+
+
+Visit site
+
+
+
+Tailoring is a huge trend right now, but why stick to business-like pinstripes or block colours? 
+Beyonce showed us how it's done when she attended the opening of an art exhibition wearing a statement printed suit and matching hat. She's not one to do things by halves! 
+The whole thing was made just for Queen Bey by Ena Gancio, a designer who uses traditional African-inspired prints in modern silhouettes. 
+If your wardrobe is missing a suit then why not give this look a go? We particularly like the idea of teaming it with trainers for a fresh and relaxed approach to tailoring, switching to heels for a big occasion. Click (right) to find out more at Etsy. 
+Alternatively, head to the carousel below for more statement suits, starting with our favourite - a bow print option by Unique21 at Asos.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET THE LOOK
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+COLLUSION check suit at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Unique21 bow print suit at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo striped suit (now reduced to £36.48)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos pinstripe suit
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Beyonce', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Showcasing her more than ample assets, the Formation singer opted for a deeply plunging neckline, which gave her arty look a sexier feel.   RELATED ARTICLES  Previous 1 Next       Kendall Jenner bites into shoe during hilarious game with...    Emma Roberts shares kiss with boyfriend Evan Peters as they...    Sofia Richie calls Scott Disick her 'Sweet Valentine' as...    Kaia Gerber suits up in a structured coat for Valentine's...    
+
+Share this article
+Share
+74 shares
+
+ She teamed her fashionable ensemble with a pair of 70s-inspired flared trousers, and a matching wide-brim hat tilted upon her cascading curls, all boasting the same eye-catching pattern.Beyonce finished her flawless look with a pair of barely-there mocking heels, while letting the outfit speak for itself by opting to forgo any glitzy accessories.          Plunging: The 37-year-old songstress showcased her sensational curves in the clinched jacket, which was secured around her waist with a knotted belt         Sexy: Showcasing her more than ample assets, the Formation singer opted for a deeply plunging neckline, which gave her arty look a sexier feelThe mother-of-three enhanced her striking looks with a glamorous coat of make-up, opting for a shimmering purple smokey eye and a high gloss chocolate lip.Beyonce spent the evening with Jay at UTA Artist Space in Beverly Hills, where they supported the opening of the exhibition together.The exhibition was curated by Nicola Vassell in collaboration with Swizz Beats, who is presenting the exhibition at the gallery.          Geometric: She teamed her fashionable ensemble with a pair of 70s-inspired flared trousers, and a matching wide-brim hat tilted upon her cascading curls, all boasting the same eye-catching pattern                 Glam: The mother-of-three enhanced her striking looks with a glamorous coat of make-up, opting for a shimmering purple smokey eye and a high gloss chocolate lipBeyonce and Jay-Z have been married since 2008, and together have daughter Blue Ivy, seven, and one-year-old twins Rumi and Sir.They recently added another Grammy to their household by winning Best Urban Contemporary Album as The Carters. Their latest golden statue marks the 23rd Grammy win for Bey and the 22nd Grammy award for Jay.                 Date night: Beyonce spent the evening with Jay at UTA Artist Space in Beverly Hills, where they supported the opening of the exhibition together

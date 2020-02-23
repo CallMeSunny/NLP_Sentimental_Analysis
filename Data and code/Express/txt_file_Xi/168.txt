@@ -1,0 +1,21 @@
+China announce new 'operational' WARPLANE as plot for military DOMINATION continues
+https://www.express.co.uk//news/world/917294/china-military-j-20-stealth-fighter-jet-war-plane-artificial-intelligence-xi-jinping-trump
+ 01:25, Sun, Feb 11, 2018 
+  GETTYChina's new warplane aims to help Beijing become a military world leaderThe communist state have modernised their military forces in recent years as they aim to create an army that could rival the US in any potential future war.The futuristic Chinese aircraft have a longer range, more internal fuel capacity and a larger weapons capacity than most jets used by the UK military.People's Liberation Army Air Force spokesman Shen Jinke said the deployment of the warplane would “help the air force better shoulder the sacred mission of safeguarding national sovereignty, security and territorial integrity.” Related articles   Photos show Beijing’s ‘ISLAND FORTRESSES’ in South China Sea   World War 3: Chinese prepare ARMY on North Korea BORDER for 'WAR' The latest addition to China’s army is believed to be equipped with unique WS-15 turbo engines capable of reaching supersonic speeds.The J-20 is reported to now be “operationally ready” after use of the new aircraft was announced early last year and underwent extensive drills in September.Tensions have continued to escalate between the US and Beijing over North Korea and the South China Sea over the past 12 months. Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Until recently, only the US and Japan had stealth fighters in Asia, giving the a significant advantage over Premier Xi Jinping’s forces in any military confrontation.Last year the Chinese leader unveiled the country’s new artificial intelligence strategy, which outlined plans to become a military world leader by 2050.It spoke of the needs for a “modernisation of the national defence and armed forces” to compete with the US.   It went on to say: “The people’s armed forces will be transformed into world-class military by the mid-21st century.”The introduction of the new J-20 jets is the latest attempt from China to reach their aim of becoming the most powerful military force in the world.Last year Eric Schmidt, the head of Google’s parent company Alphabet, made a stark warning that Beijing would be dominating in artificial intelligence on  the world stage within just over 10 years.  GETTYThe new jet is equipped with unique WS-15 turbo engines capable of reaching supersonic speeds  GETTYChina hope to have a larger military than the US by 2050He warned Xi Jinping was investing heavily in artificial intelligence for both commercial and military use.Mr Schmidt said: “It's pretty simple.“By 2020, they will have caught up; by 2025, they will be better than us; and by 2030, they will dominate the industries of artificial intelligence.”

@@ -1,0 +1,223 @@
+'Workout time!': Elsa Hosk shows off her impossibly toned midsection in sports bra as she gets ready for Victoria's Secret show in China
+https://www.dailymail.co.uk/tvshowbiz/article-5095763/Elsa-Hosk-shows-impossibly-toned-midsection.html
+ 16:09 BST, 18 November 2017 
+Elsa Hosk sure seems to be fit for her Victoria's Secret fashion show, which will take place in China on Monday.But the blonde beauty wanted to make sure she looked as toned as possible before the big night - which will see Harry Styles as a performer - so on Saturday the star hit the gym for yet another workout.The 29-year-old Swedish import looked curvy in her black bra top and matching leggings.         A 10 plus some: Elsa Hosk sure seems to be fit for her Victoria's Secret fashion show, which will take place in China on Sunday evening. But the blonde beauty wanted to make sure she looked as toned as possible before the big night
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Taylor_Hill,Elsa_Hosk,Adriana_Lima'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work out in a Victoria's Secret sports bra like Elsa's
+
+
+
+
+Victoria's Secret crossback sports bra
+Shop other colourways in the sale now!
+
+
+
+Visit site
+
+
+
+Elsa Hosk is training hard for the upcoming Victoria’s Secret show and shared her recent gym session with her loyal social media followers - of course! 
+The model sported a simple outfit of black leggings and sports bra by the brand. Her bra is a new style and features a monochrome colour-block design with plunge front and cross back. It offers minimum support so it’s ideal for yoga, pilates and weight training. 
+Fancy bagging this sports bra for yourself? Click the link to your right to shop other colourways, now in the sale! Alternatively if you’d rather shop around before you buy, head to the carousel below for the best alternatives.
+From Asics to Nike and beyond, we've rounded up the best monochrome picks for you to peruse. Team with gym leggings for your workout, a la Elsa, or wear with skinny jeans and a leather jacket for a night out.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asics sports bra at Zalando (now reduced to £17.99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Puma sports bra at Luisa Via Roma
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Nike sports bra at Zalando
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Pretty Little Thing black bralet
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Taylor_Hill,Elsa_Hosk,Adriana_Lima', FFFtype: 'inline', fff: true}});
+        }
+    
+
+In her Instagram caption the IMG Model wrote: 'Workout time.'   RELATED ARTICLES  Previous 1 Next       And they're off! Elsa Hosk flashes toned abs hours before...    Bikini-clad Jorgie Porter sets pulses racing as she flaunts...    
+
+Share this article
+Share
+
+ She appeared to be in her hotel room as her bed was in the background and was still not made.The CK model wore her hair up and appeared to have eye makeup on with long lashes. She smiled wide when taking her selfie.         From above: Martha Hunt, 28, Lily Aldridge, 32, and Hosk , 29, proved their worth as they posed together in Shanghai on FridayThe day before Hosk joined pals Martha Hunt and Lily Aldridge in Shanghai.The elite beauties showcased their enviable figures in tight denim and white tees.They were preparing for the Victoria's Secret Fashion event.       Martha, 28, put her gorgeous legs on center stage as her denim leggings wrapped her body tightly. She left her trademark blonde tresses long and loose as they cascaded over her petite shoulders.Lily, 32, was a showstopper in a black satin bomber jacket that covered her ample assets in an alluring way. One of the few brunette Victoria's Secret Angels, Lily dared to impress with her signature locks.Elsa - who hails from Sweden - pulled up the rear as she rocked the denim look while using the fan as a sensual accent. The 29-year-old will also be wearing the Swarovski Crystal Anniversary bra which will feature 275,000 multicolored crystals.Elsa will be following the footsteps of Josephine Skriver who wore the statement piece in 2016.         Model behavior: Martha put her gorgeous gams on center stage as her denim leggings wrapped her body tightly         Hair today: She left her trademark blonde tresses long and loose as they cascaded over her petite shoulders         Fan it out: Lily was a showstopper in a black satin bomber jacket that covered her ample assets in an alluring way         Brunette's have more fun: One of the few brunette Victoria's Secret Angels, Lily dared to impress with her signature locks         Surprise: Elsa - who hails from Sweden - pulled up the rear as she rocked the denim look while using the fan as a sensual accent         Post it: Martha took to social media to post glamorous shots         Stunning: A face that could launch a thousand shipsThe Stockholm-born beauty told WWD: 'When I found out I was wearing the Swarovski look I was so excited as I’ve always wanted to wear it. I can’t wait to walk down the runway in it.'Meanwhile, 22-year-old Gigi Hadid - who was slated to walk the runway with her sister Bella - took to Twitter on Thursday morning to say that she won't be traveling to China to do the show.'I’m so bummed I won’t be able to make it to China this year,' she wrote. 'Love my VS family, and will be with all my girls in spirit!! Can't wait to tune in with everyone to see the beautiful show I know it will be, and already can't wait for next year!'         Gang's all here: The ladies united on stage ahead of the sexiest catwalk show on earth          Girls night out: Just having a blast, the group- were playing around in their matching outfits         Air kisses: Leading the way was Alessandra who looked stunning In September, furious Chinese people warned the supermodel not to attend this year's show after Chinese web users left thousands of angry comments to boycott Gigi for her eye-slant joke. She had to issue an apology on a Chinese social media platform to make amends.Gigi did not reveal why she pulled out of the show, although it was recently reported that some models were having trouble getting their Chinese visas approved.Fashionista reported on Tuesday that four models, Julia Belyakova, Kate Grigorieva and Irina Sharipova from Russia and Dasha Khlystun from Ukraine, had allegedly been denied visas, according to Instagram fan accounts.          Addicted: Martha kept posting on her accounts              Secrets: Martha wowed as she placed a hand on her lips in the sizzling ensemble          Gripping: Her Instagram story was enthralling as she posed up a storm Although there was no mention of Gigi having issues with her visa, Chinese fans have been demanding that she be denied entry into the country because of her 'racist' video.This comes as it's been reported that fans in China are getting scammed into buying fake tickets to the fashion show.According to TMZ: 'The Chinese equivalent to eBay is now littered with offers to purchase tickets ... we found the rock-bottom price was $7,000 and the highest was a staggering $35,000 which supposedly got you a seat in the first 5 rows. And get this for audacious ... the $35k includes a phantom afterparty.'         Not enough pictures: Karlie Kloss felt compelled to take more snaps         Literate: Taylor Hill knows how to sign her name         Just kickin' it: Candace Swanpoel also knows how to spell her nameThe show is not open to the public and is invitation only. Meanwhile, Elsa and Martha weren't the only models to show off her excitement for the upcoming lingerie show; Romee Strijd and Jasmine Tookes both shared a photo as soon as they touched down in ChinaThe 21-year-old model Taylor Hill also shared her excitement with multiple Instagram stories.         Hearts alive: The girls made hearts with their arms         How do they do it: They made more heart signage         Who me? No one wanted to take the blame for their hilarious hijinks         Air kisses again: They pulled out all the stops for the sizzling promo shots Taylor recorded herself in her Shanghai hotel room, and gave her followers a quick look of her amazing city skyline view. Another model who was excited about traveling to Shanghai was Karlie Kloss.The 25-year-old Victoria's Secret Angel-who took two years off from the brand- wished her long-time friend Lily Aldridge a happy birthday.Karlie wrote: 'Wishing a very happy birthday to this angel @lilyaldridge. Love you with all my heart...and can’t wait to celebrate in Shanghai!'It seems like Lily will be having an eventful 32nd birthday, as she will be celebrating with all her model friends.         Wait! More hearts! See... They are getting good at the heart hand thing         Sex appeal: She gave it her all posing outside among her fellow lingerie model pals         Backside: Using all her model experience, Adriana smouldered in the sexy snaps 

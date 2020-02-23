@@ -1,0 +1,38 @@
+Donald Trump confronts North Korea and promises to solve ‘ALL the world’s problems’
+https://www.express.co.uk//news/world/877319/Donald-Trump-North-Korea-China-Kim-Jong-un-Xi-Jinping-USA-Beijing-UN-Japan-South-Korea
+ 03:22, Thu, Nov 9, 2017 
+   During his speech, the President stated that current meetings with President Xi Jinping were “absolutely terrific” as the world leaders discuss issues of North Korea and trade.Trump said: “There can be no more important subject than China-US relations."I look forward to many years of success and friendship."I believe we can solve almost all of the world's problems and probably all of them.”  GETTYDonald Trump has said that he can solve 'all the world’s problems' in his latest address in China Related articles   Trump has 'largest aircraft carriers' pointed at North Korea   Donald Trump labels North Korea a 'nuclear MENACE' in Seoul speech On issues of trade, the firebrand Republican stated, “past administrations allowed it to get so far out of kilter”, indicating he is set to take a more aggressive stance in remedying the imbalance between the two superpowers.The President was positive about his relationship with Mr Jinping by describing the two as having “great chemistry”.The Chinese leader stated that the two nations have “have made important progress this year” and declared he believes “there is a solution to that” with regard to diffusing threats imposed by North Korea.North Korea and trade are set to be the highest matters on the meeting agenda for the US President, the former has been a key theme with his two prior meetings with leaders in South Korea and Japan. Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The news of the positive start made by the President comes after experts recently stated that his demands for China to toughen its stance on North Korea will lead to “no substantial progress” on de-escalating World War 3 threats from the nuclear-armed regime.The US leader landed in Beijing yesterday for talks with the Asian superpower, including how to avert nuclear conflict on the Korean Peninsula.White House officials said Mr Trump will ask Mr Xi to make good on his commitments to UN sanctions aimed at squeezing the cash flow to Kim Jong-un’s regime and stopping the tyrant’s pursuit of more powerful nuclear weapons.   But experts say although the Chinese premier is likely to lavish the President with praise and lay on an elaborate state visit, China will ultimately reject his demands.Shen Dingli, professor of international studies at Shanghai’s Fudan University, said as far as Beijing is concerned, Mr Trump’s trip is more about show than substance.He told The Times: “For North Korea, there won’t be any substantial progress. Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “It will be brought up but nothing will come out of it.“And the North Korea nuclear issue is one single problem that will hurt US-China relations.”Mr Trump was treated to a personal tour of Beijing’s Forbidden City by Mr Xi on the first day of his stopover in China yesterday.  GETTYThe President stated that current meetings with President Xi Jinping were 'absolutely terrific'But Mr Shen added the preferential treatment was just part of a “show of Chinese culture” aimed at building mutual respect, rather than a signal the Chinese leader is willing to agree to any the President’s demands.Ahead of Mr Trump’s arrival in the Chinese capital, a senior White House official told reporters on Air Force One the President would ask Mr Xi to commit to continue enforcing international sanctions against the rogue state.The official said during the bilateral talks, Mr Trump would ask China cut all financial links with Kim’s oppressive regime.  GETTYThe President was positive about his relationship with Xi JinpingBut Beijing said it was already “fully and strictly” upholding UN sanctions, which are aimed at restricting Kim’s cash flow and hampering his nuclear weapons programme.And She Yinhong, professor of international studies at Renmin University in the Chinese capital, said Beijing would be unwilling to toughen its stance any further.He said: “China’s sanctions against Pyongyang have been unprecedented in terms of scope and severity and now China no longer has the capability, nor the willingness, to further sanction North Korea.”

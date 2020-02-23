@@ -1,0 +1,21 @@
+US-China trade war: Trump ‘wishful thinking’ to suppose he is winning trade war, say China
+https://www.express.co.uk//news/world/999880/us-china-trade-war-donald-trump-tariffs-xi-Jinping-china-daily
+ 03:40, Tue, Aug 7, 2018 
+   The China Daily wrote in an editorial on Tuesday that Donald Trump has “an ability to elasticise the truth”.On Saturday, the President posted on Twitter claiming the Chinese markets had taken a phenomenal fall.Trump posted on the social media site: “Tariffs are working far better than anyone expected.“China market has dropped 27 percent in the last four months.” Related articles   EU on COLLISION COURSE with Trump for trying to BLOCK Iran sanctions    China launches attack on ‘street-fighter’ Donald Trump The China Daily shot back, calling the propositions “wishful thinking”.The newspaper also stated that China's stock market was performing poorly before the US administration's imposition of trade tariffs, and is due in part to Beijing's attempts to cut corporate debt.Chinese media has fired several shots at the US leader this week, as it takes an increasingly aggressive stance towards Trump and the tariffs he has placed on Chinese imports.The Chinese government responded to the US administration by proposing retaliatory tariffs on $60 billion worth of US goods ranging from liquefied natural gas (LNG) to some aircraft on Friday.  Trump has imposed billions of dollars worth of tariffs on China (Image: GETTY ) President Donald Trump meets Italy's Prime Minister Mon, July 30, 2018U.S. President Donald Trump is hosting Italian Prime Minister Giuseppe Conte at the White House to discuss global conflicts and promoting economic prosperity Play slideshow  EPA1 of 10US President Donald J. Trump meets with Italian Prime Minister Giuseppe Conte  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    This followed a proposal by the US administration for a higher 25 percent tariff on $200 billion worth of Chinese imports.On Monday, the Communist Party's People's Daily newspaper singled out Trump, saying he was starring in his own "street fighter-style deceitful drama of extortion and intimidation".The newspaper also undermined Trump’s claims that "tariffs are working big time”, pointing to the US Commerce Department’s announcement on Friday that the US trade deficit climbed $3 billion to $46.3 billion in June, the first increase in four months.      (Image: GETTY )Trump has repeatedly criticised China for its trade deficit with the US, which he feels is a sign of unfair trade practices.Despite the harsh tariffs, China’s exports are thought to have grown last month.A poll conducted by Reuters economists suggests exports will have increased in July.

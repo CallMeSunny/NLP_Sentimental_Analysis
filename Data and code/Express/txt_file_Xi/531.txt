@@ -1,0 +1,21 @@
+North Korea dealt HUGE BLOW as China allow US anti-missile shields to be installed
+https://www.express.co.uk//news/world/873942/world-war-3-north-korea-china-ww3-south-korea-donald-trump-defence-kim-jong-un-asia-video
+ 13:33, Wed, Nov 1, 2017 
+   North Korea has had its missile programme seemingly weakened as China and South Korea agree to hold bilateral meetings to strengthen their ties as their rouge neighbour Kim Jong-un threatens to start World War 3The deputy director of South Korea’s National Security Office, Nam Gwan-pyo, announced President Moon Jae-in would attend a separate meeting with his Chinese counterpart Xi Jinping to end a year-long argument on US defence systems in the Korean peninsula.At a press conference broadcasted by Arirang News, Mr Gwan-pyo said: "South Korea and China have agreed to hold a bilateral summit between South Korean President Moon Jae-in and Chinese President Xi Jinping on the sidelines of the APEC summit in Da Nang, Vietnam next week.“Our two countries are also working towards President Moon's bilateral talks with Chinese Prime Minister Li Keqiang when they both take part in the ASEAN-related summits in Manila.”  CGTN/GETTY/TALK ASIANorth Korea news: World War 3 threat lowers as China allow US missile defences in AsiaChina's relationship with South Korea became strained after Seoul and Washington jointly decided to deploy a missile defence system in response to North Korea’s nuclear programme.China claimed the Terminal High Altitude Area Defence (THAAD) could be used to spy into its territory but was rebuked by both countries.Chinese President Jinping will meet his South Korean counterpart on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit.The two heads of state are likely to discuss Kim Jong-un's missile and nuclear programme as well as ways to develop bilateral ties, a senior South Korean presidential Blue House official later told reporters, declining to be identified due to the sensitivity of the matter.     Inside Kim's secret army: North Korean military laid bare in smuggled-out pictures Thu, January 11, 2018The true face of Kim Jong un’s army has been laid bare in shocking new images smuggled out of North Korea Play slideshow  Pen News1 of 21A female soldier on duty in high heels  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Pyongyang has undertaken an unprecedented missile testing programme in recent months, as well as its biggest nuclear test yet in early September, as it seeks to develop a powerful nuclear weapon capable of reaching the United States. North Korea's actions have angered China, its only major ally, and drawn further tough sanctions from the United Nations and the United States. North Korea further angered the Chinese government after it ignored warnings about the safety of the country’s main testing facility in Punggye-ri.The North Korean site suffered a major collapse, killing hundreds and putting the entire region at risk due to possible clouds of radioactive fallout.It comes as US President Donald Trump prepares to kickstart his first tour of Asia to mark his first year in office.

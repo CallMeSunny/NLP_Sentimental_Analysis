@@ -1,0 +1,224 @@
+Gemma Collins shows off her agility as she reveals her confidence is back during Dancing On Ice rehearsal to Destiny Child's Survivor
+https://www.dailymail.co.uk/tvshowbiz/article-6670785/Gemma-Collins-reveals-confidence-rehearses-Dancing-Ice-routine.html
+ 18:57 BST, 5 February 2019 
+She broke down in tears on Sunday night's Dancing On Ice, saying her legs had 'turned to jelly' as a result of her terrifying fall a week before. But Gemma Collins channelled her inner Beyoncé for rehearsals on the rink on Tuesday as she practised this week's routine with her pro skater Matt Evers. Sharing a clip of the choreography on Instagram, the TOWIE star, 38, showcased her flexibility when she kicked back her leg while practicing their routine.         She's got moves: Gemma Collins showed off her agility as she revealed her confidence is back during Dancing On Ice rehearsal to Destiny Child's Survivor on MondayTOWIE's GC told her admiring fans her confidence was coming back as she skated to Destiny Child's hit Survivor. Clad in sportswear, Gemma pulled off a number of steps on the ice, from toe taps to an impressive arabesque.    RELATED ARTICLES  Previous 1 Next       Dancing On Ice bosses send Gemma Collins to RELAX at a...    Gemma Collins shows off her TWO STONE weight loss in tiny...    Dancing On Ice's Matt Evers hits back at 'fix' claims and...    Saira Khan wells up after Dancing On Ice elimination as she...    
+
+Share this article
+Share
+49 shares
+
+ The reality stars confidence seemed to have come on leaps and bounds following Sunday's show as she shimmied around the ice with Matt.  She captioned the post: 'Rough cut off working on Sunday’s routine @themattevers @woo2kaz @thedanwhiston you really helped me build my confidence today and I can’t thank you enough ....very rough cut but I’m not giving up yet .... and the PUBLIC SUPPORT is OVERWHELMING beyond belief THANKYOU  #lottolearn #notgivingup #practicemakesperfect @dancingonice.'         Fighter: TOWIE's GC told her admiring fans her confidence was coming back as she skated to Destiny Child's hit Survivor         Shaken: Gemma broke down in tears on Sunday night's Dancing On Ice, saying her legs had 'turned to jelly' as a result of her terrifying fall a week before
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Gemma_Collins'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work out in style like Gemma in leggings by Nike
+
+
+
+
+Nike 'Leg-A-See' leggings
+Get them here
+
+
+
+Visit site
+
+
+
+Gemma Collins has undertaken an intensive exercise regime since joining Dancing on Ice. When the reality star offered followers a sneak peek of her upcoming routine during rehearsals, we were slightly distracted by her choice of attire... 
+We’re all familiar with Nike’s ‘Just do it’ slogan, and Gemma’s black leggings have the lettering emblazoned down one leg.  The stylish design is created in soft, stretchy fabric, which skims the figure for all-day comfort and flexibility. You can't beat it.
+Sound good? Click (right) to pick up a pair for a purse-friendly £26.95.
+If you’re keen to check out the competition, head straight to the carousel below. We have rallied up more monochrome leggings from Adidas, Reebok, Calvin Klein and more…
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET SOME LEGGINGS LIKE GEMMA'S
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Adidas logo leggings at Next
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+The North Face leggings at JD Sports
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Reebok logo leggings
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Calvin Klein logo leggings at Selfridges
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Gemma_Collins', FFFtype: 'inline', fff: true}});
+        }
+    
+
+       It seemed like Gemma's relaxing day at the spa did her the world of good as she skated around the rink with apparent ease. Earlier in the day, the TOWIE legend enjoyed an array of treatments at Champneys saying the producers had sensed she needed to chill out. Taking to Instagram Stories, Gemma said:  'This is reality right now, I’m so ill but I’m at Dancing On Ice.          Showtime: Clad in sportswear, Gemma pulled off a number of steps on the ice, from toe taps to an impressive arabesque         Back to her best: It seemed like Gemma's relaxing day at the spa did her the world of good as she skated around the rink with apparent ease         R&R: Earlier in the day, the TOWIE legend enjoyed an array of treatments at Champneys saying the producers had sensed she needed to chill out       'I’ve got to keep quiet, but the lovely producers at Dancing On Ice have brought us to Champneys. When they saw what I look like they were like...'Gemma then flaunted her battered and bruised knee.The GC's new-found confidence comes just days after she had to be consoled by host Holly Willoughby after receiving the lowest score of the night following her performance to Look What You Made Me Do by Taylor Swift. Dressed as the Evil Queen, Gemma said through sobs her 'legs had turned to jelly' and she felt paralysed with fear as soon as she took to the rink.          Building confidence: She captioned the post: 'Rough cut off working on Sunday’s routine @themattevers @woo2kaz @thedanwhiston you really helped me build my confidence today                Overwhelmed: She added: 'I can’t thank you enough ....very rough cut but I’m not giving up yet .... and the PUBLIC SUPPORT is OVERWHELMING beyond belief THANKYOU'She said through sobs: 'My nerves have gone since the fall. I’m really upset. My legs are like jelly, they’ve just gone.'  Providing some encouragement, Ashley Banjo said: 'One of my favourite things is that when you fell, you fell trying. You’ve knocked your confidence. Better to go out and try and fall, then not try.'Gemma and judge Jason Gardiner famously fell out on the show a few weeks ago when she accused the choreographer of "selling stories" on her but this week, Jason gave the television personality her highest score from all the judges, a four. Her rival even offered some kind words: 'I did give you the highest score, the beginning needed stronger execution, you really need to incorporate the evil queen characterisation, the GC queen wasn't there. It was like she left the building.'         Confidence in tatters: Gemma had a big knock to her confidence after she faceplanted the ice while dancing to Celine Dion's It's All Coming Back To Me two weeks ago

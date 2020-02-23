@@ -1,0 +1,224 @@
+The force is strong with them! Angelina Jolie wears wintry white dress as she takes her children to watch Star Wars: The Last Jedi in snowy NYC
+https://www.dailymail.co.uk/tvshowbiz/article-5187551/Angelina-Jolie-takes-children-Star-Wars-NYC.html
+ 07:02 BST, 17 December 2017 
+She's a movie star and a UN ambassador - but most importantly, a mom.And Angelina Jolie wore the latter hat Saturday in snowy New York City, as she brought four of her six children - Zahara, 12, Shiloh, 11, and twins Knox and Vivienne, nine - to a screening of Star Wars: The Last Jedi in Manhattan. (Her teenage sons with ex Brad Pitt, Maddox, 16, and Pax, 13, were not along for the trip to the cinema.)The 42-year-old actress-director lived up to her fashionista image, donning a wintry ensemble of a textured wrap dress with a tan belt with heeled black boots.Scroll below for video          Fab family: Angelina Jolie, 42, was a vision of glamour as she walked with four of her kids (L-R) Knox, nine, Shiloh, 11, Vivienne, nine, and Zahara, 12, in Manhattan on Saturday en route to catch a screening of Star Wars: The Last JediThe Maleficent beauty accessorized with black sunglasses with a black leather handbag with metallic buttons. She was impeccably made up with her dark brown locks slightly parted to the left as she walked with her quartet of kids, who were bundled up amid the frosty conditions.Zahara kept warm in an ash grey zip-up sweatshirt with moss green cargo pants and black Nike trainers, with her hair pulled back.   RELATED ARTICLES  Previous 1 Next       Giving the cold shoulder! Angelina Jolie wows in black...    Radiant Angelina Jolie is stylish in black plush coat over...    Brrravo! Angelina Jolie bundles up in a padded coat and...    Joy for Jolie! Angelina lands TWO Golden Globe nominations...    
+
+Share this article
+Share
+3.3k shares
+
+ Shiloh matched her sister, as she also wore an ash grey zip-up over a white top with brown khaki cargo pants and black sneakers, seemingly drawing the hoodie over her face as photographers approached.Knox smiled in a padded blue zip-up vest over a blue sweatshirt with brown khaki cargo pants and black boots, while his twin sister Vivienne wore a seaweed green hooded sweatshirt with patterns with camouflage pants and blue sneakers.         Captivating: Angelina looked every bit the A-lister with luxe sunglasses, jewelry and earrings          Tis' the season: The Girl, Interrupted Oscar-winner made sure her children were properly dressed for the snowy day in the Big Apple          Mindful: Angelina was at the back of the pack as her children carefully walked in the snow 
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Angelina_Jolie'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bag a Salvatore Ferragamo studded tote like Angelina Jolie
+
+
+
+
+Salvatore Ferragamo large studded Gancio tote bag
+Get it in red!
+
+
+
+Visit site
+
+
+
+Angelina Jolie enjoyed a festive trip to the cinema with her children this week, spotted heading through snowy New York to watch Star Wars. 
+Angelina looked very chic for the outing wearing a longline white wrap cardigan teamed with a belt and boots. But it was her bag that really caught our eye! 
+We're loving this black leather studded tote which features top handles and contrasting gold hardware. It's also super roomy and perfect for fitting all your essentials in. 
+It's sadly sold out in black but you can get the red version by following the link on the right. Or alternatively recreate the look with one of the picks from our roundup below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Michael Kors 'Mercer' studded crossbody bag
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Pimkie tote bag with studded strap at Asos (now reduced to £17)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Morgan studded box bag at Asos (now reduced to £37.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Zara embossed tote bag with pendant
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Angelina_Jolie', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The family seemed to be in a great mood as they made their way through the city.They were coming off a big night in the Big Apple Friday, where they visited Cipriani Wall Street for the 2017 United Nations Correspondents Association Awards, where Angelina accepted the honors for 2017 UNCA Global Citizen of the Year.The Academy Award-winning actress, accepting her honors, said that people have an obligation to envision themselves 'in the struggles of others,' and fight 'their fight for human rights and freedom as your fight,' according to People.                Helping hand: The international star drew looks from onlookers as she helped guide Vivienne         Big honors: Angelina on Friday was awarded with the 2017 UNCA Global Citizen of the Year by the United Nations              Life lessons: Jolie said that she imparts humanitarianism to her children Jolie said that she instills the lessons that guide her ambassadorship into her children.'When people of any race or of any religion are being persecuted and killed we cannot do less than we are capable of doing,' she told the crowd at the swanky Gotham eatery. 'This is what I want my own children to know and value and what I have learned from them.'Children have an understanding and a truth. They can instinctively feel right from wrong. They are not led by strategy they are led by morality.'         Bundled up: The children wore warm sweaters and pants on the icy day in Manhattan          City life: The family walked past a bike route en route to the theater She thanked her kids and said she was beaming with pride over who they're 'growing up to be and for the hope that gives me for the future.'Jolie has not just contributed on an international level, but in a big way in her own industry, as she emerged two months ago to reveal that she was one of the many women producer Harvey Weinstein made unwelcome sexual advances toward, in a hotel room when she was 23 and promoting the 1998 rom-com Playing By Heart.         Silence-breaker: Angelina made headlines in October when she added her name to the list of women alleging sexual misconduct from producer Harvey Weinstein, citing an uncomfortable run-in that occurred nearly two decades back to The New York Times          Wise decision: Angelina said that following the experience, she vowed 'never to work with [Weinstein] again and warn others when they did' of her opinion         Powerful voice: The A-list star said that behavior like Weinstein's 'towards women in any field,' and in 'any country is unacceptable''I had a bad experience with Harvey Weinstein in my youth, and as a result, chose never to work with him again and warn others when they did,' she told The New York Times. 'This behavior towards women in any field, any country is unacceptable.'Weinstein has been accused by a total of 84 women of sexual harassment, misconduct and abuse; his rep has said that 'any allegations of nonconsensual sex are unequivocally denied by' the producer.

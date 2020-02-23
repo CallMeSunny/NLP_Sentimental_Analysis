@@ -1,0 +1,21 @@
+'Military force WON'T work' China BEGS for calm as 'North Korea prepares for nuclear test'
+https://www.express.co.uk//news/world/791800/world-war-three-china-calm-military-force-north-korea-nuclear-test-launch-donald-trump
+ 00:50, Fri, Apr 14, 2017 
+  GETTYChina is urging North Korea & the US to avoid resorting to military force to quell tensionsSpeaking in Beijing, Chinese foreign minister Wang Yi suggested he would rather see diplomacy than the use of military force.He said: "Military force cannot resolve the issue. Related articles   Kim Jong-un watches military contest as North Korea prepares for war   US 'to launch PREEMPTIVE STRIKE if North Korea conducts nuclear test "Amid tensions we will also find a kind of opportunity to return to talks."Whoever provokes the situation, whoever continues to make trouble in this place, they will have to assume historical responsibility.”  GETTYThe despotic leader is believed to be preparing another nuclear test launch.jpgDespite the superpower’s insistence that military force should not be used to resolve the North Korean problem, experts have warned Kim Jong-un could be gearing up to launch another nuclear test at any moment.Washington-based think tank 38 North claim satellite images show “unusually high levels of activity” at Kim Jong-un’s Punggye-ri Nuclear Test Site. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      Whoever provokes the situation, whoever continues to make trouble in this place, they will have to assume historical responsibilityWang YiExperts say the images could mean a nuclear test is “imminent” as US Secretary of State Rex Tillerson has called for North Korea to destroy its nuclear arsenal.In recent years, barbaric dictator Kim Jong-un has launched nuclear tests to coincide with ‘the Day of the Sun’, an annual public holiday in North Korea to commemorate the birth of the country’s founder, Kim Il-sung.Pyongyang has already warned of an upcoming “big and important event” and with the Day of the Sun set to be celebrated on Saturday April 15 as the world braces itself for what would be North Korea’s sixth nuclear test.  GETTYDonald Trump and Chinese president Xi Jinping have discussed ways to quell the North Korean threat Meanwhile, an influential Chinese newspaper has claimed the best option for North Korea is to give up its nuclear program in return for protection from China.On Thursday, the Global Times said in an editorial: "As soon as North Korea complies with China's declared advice and suspends nuclear activities... China will actively work to protect the security of a denuclearised North Korean nation and regime.”

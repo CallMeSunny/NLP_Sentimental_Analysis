@@ -1,0 +1,21 @@
+ISIS hackers target China for first time - but will Beijing join fight against jihadis?
+https://www.express.co.uk//news/world/635731/Islamic-State-hackers-target-Chinese-university-pledge-holy-war
+ 00:00, Mon, Jan 18, 2016 
+  IG•GETTYISIS fighters hacked a Beijing university websiteOnline attackers breached the firewall of a prestigious Beijing university, posting an image of ISIS fighters on horseback holding the group's black and white flag.Beneath the picture, uploaded to Tsinghua University website, was the bizarrely coded message: "Everything is okay in the end. If it's not okay, then it's not the end :$" Related articles   Time to ACT: China launches WAR on ISIS after terrorists 'execute...   ISIS army set for new wave of recruits as 'thousands' of Chinese... The attackers signed off "Islamic State hacker" and gave an email address with a .ru suffix - the internet country code used in Russia.It is thought to be the first such attack on a website based in China.The website was shut down briefly to "prevent further spreading of the message". Yulin's dog meat festival in pictures Mon, June 22, 2015WARNING GRAPHIC CONTENT: Animal Right's activists campaign against Yulin's Dog Meat Festival in China. Pictures from the festival in China. Play slideshow  AFP/Getty Images1 of 21A dog looks out from its cage at a stall as it is displayed by a vendor as he waits for customers during a dog meat festival at a market in Yulin  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      IGThe message posted on behalf the 'Islamic State hacker'Li Shaoxian, vice-president of a think tank with ties to the Chinese Ministry of State Security, said "many hundreds or thousands" of Uighurs from the country's western Xinjiang province were involved with the group in Syria.He said: "Whether there are Chinese citizens involved in ISIS, the answer is certainly yes."I don't have the specific number but I think there are possibly many hundreds, or thousands, of them."As a researcher I have been following the situation closely."I believe there are quite many Chinese citizens fighting in Syria, not just with the ISIS but also other forces in Syria, where there are all kinds of groups who have people fighting who are from China."  GETTYChina's president Xi Jingping has spoken about cracking down on terroristsPressure is now growing on the communist administration to join the global fight against the terrorist organisation.President Xi Jinping vowed to step up the fight in the wake of the "barbaric" attacks in Paris last November.He also vowed to "crack down" on violent terrorist operations after Chinese national Fan Jinghui was executed by the group.Xi said: "China will strengthen cooperation with the international community, resolutely crack down on violent terrorist operations that devastate innocent lives and safeguard world peace and security."However, China has yet to commit to military involvement in the conflict raging in Iraq, Syria and other affected countries around the world.  GETTYThe Uighurs in western China have long-opposed the Chinese govenment   

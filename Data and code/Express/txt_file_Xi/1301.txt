@@ -1,0 +1,55 @@
+North Korea bans ‘singing and drinking’ as SCARED Kim Jong-un desperately clings to power
+https://www.express.co.uk//news/world/882168/North-Korea-Kim-Jong-un-Donald-Trump-World-War-3-South-Korea-Pyongyang-UN-Asia
+ 02:01, Tue, Nov 21, 2017 
+  GETTYNorth Korea has banned 'drinking and singing' as Kim Jong-un tightens the grip on his peopleThe National Intelligence Service (NIS) discovered the revelation after two military figures were punished following an inspection of the hermit kingdom’s General Political Bureau.NIS said: "Pyongyang has devised a system whereby party organs report people's economic hardships on a daily basis, and it has banned any gatherings related to drinking, singing and other entertainment and is strengthening control of outside information.”The agency revealed that both Hwang Pyong-so and Kim Won-hong were punished for their “impure attitude” following the investigation as Kim Jong-un clamps down on his people amid increased international pressure.It added: "We have been watching the situation as we have gathered such intelligence on the punishment.” Related articles    How US Marines are being trained to fight through NUCLEAR WAR    Trump declares N.Korea a sponsor of terrorism –but experts warn of WW3 Hwang Pyong-so is seen one of the rogue nation’s most powerful military figures - the punishment was dealt by Choe Ryong-hae, the vice chairman of the Central Committee of hermit kingdom’s ruling Worker’s Party.Mr Hwang previously replaced Ms Choe as head of the General Political Bureau back in 2014 - NIS reports that the move was part of a sadistic plot from Kim Jong-un to pit the two against each other to ensure loyalty.Kim Jong-un’s tightening grip on his people was recently exposed by a number of testimonies that emerged from escapees of the isolationist kingdom.A university student that escaped in 2013 said: "I was in my second year at the university when this person was introduced to us as our new leader. I thought it was a joke. Among my closest friends, we were calling him a piece of s***. Ever wondered what North Korean street food looks like? Fri, November 3, 2017Fascinating pictures of popular street food sold in the informal markets of North Korea Play slideshow  REUTERS1 of 21Kim Jong Un smiles as children eat during his visit to the Pyongyang Orphanage  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “Everyone thinks this, but you can only say it to your closest friends or to your parents if you know that they agree."A young mother added: "Everybody knew that Kim Jong Il and Kim Jong Un were both liars, that everything is their fault, but it's impossible to voice any opposition because we are under such tight surveillance.“If someone is drunk and says Kim Jong Un is a son of a b****, you'll never see them again."   A doctor also declared: "It's like a religion. From birth, you learn about the Kim family, learn that they are gods, that you must be absolutely obedient to the Kim family.“The elites are treated nicely, and because of that they make sure that the system stays stable. But for everyone else, it's a reign of terror.“The Kim family uses terror to keep people scared, and that makes it impossible to stage any kind of social gathering, let alone an uprising.” Fascinating photos show life in North Korea before the Kim dynasty Wed, November 8, 2017Before millions suffered under the Kim dynasty’s brutal dictatorship, this collection of photographs shows a time when Korea was a free and united nation Play slideshow  News Dog Media1 of 10A restaurant in Seoul, Korea, circa 1900  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    With the rogue nation frequently issuing threats of nuclear annihilation to the world, the South’s spy agency has been monitoring the country’s military and has not found any signs of an upcoming provocation, but insisted that with Kim Jong-un at the helm the world should be on constant alert.It went on: “Depending upon North Korean leader Kim's determination, a nuclear test is possible any time.”With international sanctions increasing the desperate situation in North Korea, it appears the country is putting all of its efforts into its military programme after NIS reported the country will develop an intercontinental ballistic missile (ICBM) capable of reaching the mainland US this year.   After being briefed by the spy agency, lawmakers in South Korea told reporters: "The agency is closely following the developments because there is a possibility that North Korea could fire an array of ballistic missiles this year under the name of a satellite launch and peaceful development of space, but in fact to ratchet up its threats against the United States.”Meanwhile, the hermit state is enforcing even tougher controls on outside information in the face of a wave of international sanctions which have isolated North Korea further.Last week, President Trump said the ongoing threat from North Korea required “urgent action” as he spoke for the first time since returning from his 12-day Asia tour. Korean Demilitarized Zone: The world's most dangerous border Tue, November 7, 2017Established by the provisions of the Korean Armistice Agreement to serve as a buffer zone between North Korea and South Korea Play slideshow  AFP/Getty Images1 of 10A South Korean tank of the 8th Mechanized Infantry Division takes part in a live-fire exercise at a training ground in Cheorwon, near the demilitarized zone (DMZ)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Speaking at the White House, the President hailed his trip to Asia and said it allowed the US to achieve a number of key goals.He said trip had allowed him "to unite the world against the nuclear menace posed by the North Korean regime - a threat that has increased steadily through many administrations and now requires urgent action."As he gave details about his discussions with world leaders, Trump said spoke with Xi Jinping and convinced the Chinese leader to back UN sanctions on Pyongyang.  GETTYKim Jong-un’s tightening grip on his people was recently exposed by a number of testimoniesHe reiterated that “all options remain on the table” as he warned, “time is running out”.Trump said the US and its allies will not allow the “twisted dictatorship” in North Korea to hold the world hostage.President Trump's warning to North Korea is the latest in a series of threats and insults with Kim Jong-un.  GETTYSouth Korea's spy agency is spying on Pyongyang as world tensions soarLast week, the President reacted to reports that Kim Jong-un had described him as "old".He tweeted: "Why would Kim Jong-un insult me by calling me "old," when I would never call him "short and fat?" Oh well, I try so hard to be his friend - and maybe someday that will happen!"This was followed by North Korea accusing Donald Trump of declaring war on the hermit kingdom after the US President berated Kim Jong-un’s authoritarian dictatorship.

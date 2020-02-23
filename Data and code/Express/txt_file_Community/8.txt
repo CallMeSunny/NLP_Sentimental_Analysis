@@ -1,0 +1,21 @@
+Chinese security boss reveals AI could be used to 'stop terror attacks and lower crime'
+https://www.express.co.uk//news/world/857748/china-terrorism-world-war-3-cyber-crime
+ 06:16, Sat, Sep 23, 2017 
+  GETTYChinese security boss to prevent terrorismMeng Jianzhu says data analysis can predict patterns which could stop terror attacks before they happen.The police in the surveillance state have enlisted the help of AI to determine who is going to commit a crime before it has happened.The head of the Chinese Community Party’s central commission for political and legal affairs, said the government would start to use AI software which uses machine learning, data mining and computer modelling to predict where crime and disorder is likely to occur. Related articles   World War 3: China warning: Iran could set ‘precedent’ for North Korea   Where does the expression ‘for all the tea in China’ come from? One of the ways China is hoping to use future technology is through facial recognition firm Cloud Walk which is trialling software that gathers data on where people are what they are doing.Cloud Walk spokesman Fu Xiaolong told the Financial Times: “The police are using a big-data rating system to rate highly suspicious groups of people based on where they go and what they do.”He added that the risk rises if the person “frequently visits transport hubs and goes to suspicious places like a knife store”. The Jobs Robots Are Already Stealing From Humans Fri, February 17, 2017 Play slideshow  Getty Images1 of 9CHEF: A start-up called Moley Robotics has invented a 100% automated, intelligent robot chef. The cooking automaton can learn recipes and techniques, whip up gourmet meals and even clean up after itself.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+       In Shanghai, traffic police supposedly use facial recognition technology to identify cyclists and pedestrians who violate road regulations.Mr Meng said: “Artificial intelligence can complete tasks with a precision and speed unmatchable by humans, and will drastically improve the predictability, accuracy and efficiency of social management.”This all comes amid Europe’s recent terrorists attacks.  GettyChinese traffic police now use facial recognition   GETTYMeng JianzhuMr Meng also said security forces should look for patterns in data about terror attacks and build an analysis model to help authorises predict where the attack may strike, Chinese news website the paper.cn reported.He added that security services should break down any barriers in data sharing to enable the smooth integration of various systems and called for renewed efforts to integrate all the footage from surveillance cameras around the country.Critics of the new idea have already raised concerns about how Beijing’s use of advanced technology will allow them to tighten its control over its subjects.

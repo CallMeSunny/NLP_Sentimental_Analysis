@@ -1,0 +1,21 @@
+‘China is the world’s factory’China's projection for GROWTH increased by the IMF for 2018
+https://www.express.co.uk//finance/city/909382/China-2018-international-Monetary-Fund-Hony-Capital-Xi-Jinping
+ 16:03, Wed, Jan 24, 2018 
+  GETTYIMF has increased its projection for growth in China this yearThe CEO of Hony Capital, a Chinese private equity firm, believes the predicted growth is linked to the country rebalancing to a consumption-driven model. John Zhao, told CNBC at the World Economic Forum in Davos, said: “The real story about Chinese growth is consumption.”The IMF raised its forecast for China’s economic growth this year to 6.6 percent, a slight rise from 6.5 per cent growth the organisation credited last year. The Hony Capital CEO said: "I think IMF's renewed number is very realistic.” Mr Zhao believes the IMF’s new figures are completely justified and that the restructuring of the Chinese economy to a consumer based one is the reason why.  Related articles   US Navy destroyer sent to disputed waters as Beijing fires warning   China slams 'troublemaker' US over Navy destroyer patrol  Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He said: “China continues to be the world's factory. A lot of that is 'new economy.' China is arguably the world's best consumption market.“China hosts the largest middle-income crowd, growing very fast, buying things left and right, and that trend continues.”This news is in stark contrast to China’s economy predicting a challenging 2018 at the beginning of the year. China’s leaders believe it will experience what it calls three years of “critical battles”.   The country is attempting to tackle problems such as domestic debt, poverty and pollution.The Chinese premier says he wants the country to follow a “high quality” growth model with a more intense focus on fairness, the environment and a joyful life. President Xi Jinping has set out a three-year plan for the country, usually a one-year-plan is drafted.Ding Shuang, chief Greater China economist at Standard Chartered Bank in Hong Kong said: “Unlike his predecessors, Xi is willing to compromise and more determined to push forward this work by tolerating slower GDP growth.”

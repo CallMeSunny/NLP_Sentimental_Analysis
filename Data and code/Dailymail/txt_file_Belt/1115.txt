@@ -1,0 +1,244 @@
+Susanna Reid looks chic in a camel coat as she cosies up to football club owner beau Steve Parish in the stands while cheering on Crystal Palace
+https://www.dailymail.co.uk/tvshowbiz/article-6967523/Susanna-Reid-looks-chic-camel-coat-cosies-Steve-Parish.html
+ 22:12 BST, 27 April 2019 
+She has become a regular fixture at Crystal Palace home games.And Susanna Reid once again sat beside her football club owner beau Steve Parish, as his team played a home game against Everton on Saturday afternoon. The Good Morning Britain host, 48, looked chic as she wrapped up in a camel coat which was tied around her svelte waist with a fabric belt for the outing.          Chatting: Susanna Reid once again sat beside her football club owner beau Steve Parish as his team played a home game against Everton on Saturday afternoonSusanna cosied up to Steve in the director's box at Selhurst Park, as she leaned in and chatted to her handsome boyfriend while watching the match.   RELATED ARTICLES  Previous 1 Next       Stacey Dooley makes a thinly-veiled dig at ex Sam Tucknott...    'We want to call her, but there's no-one there': Jedward...    Kate Garraway makes an EPIC Twitter blunder as she awkwardly...    Richard Bacon is 'excited to be Piers Morgan's understudy'...    
+
+Share this article
+Share
+
+ The TV presenter shielded her eyes from the rays with a pair of huge square shades, while accentuating her pretty features with light touches of make-up. She wore her glossy brunette locks in bouncy blown out curls, further adding to her glamorous ensemble.                 Chic: The Good Morning Britain host, 48, looked chic as she wrapped up in a camel coat which was tied around her svelte waist with a fabric belt for the outing          Glam: The TV presenter shielded her eyes from the rays with a pair of huge square shades, while accentuating her pretty features with light touches of make-up
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Susanna_Reid'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step out like Susanna in a cashmere coat by Max Mara
+
+
+
+
+Max Mara cashmere coat
+Shop a similar version at Harrods!
+
+
+
+Buy now
+
+
+
+Susanna Reid stepped out to watch some football with her beau this week. Naturally, she had to wrap up warm for the occasion!
+Susanna kept her look classic in a white blouse and skinny jeans, which she teamed with leather boots and this classic coat. 
+When it comes to your outerwear wardrobe you can't go too far wrong with a neutral shade like this one. The roomy pockets are perfect for keeping your hands warm plus the belt nips you in at the waist. 
+It's by Max Mara and although Susanna's exact coat isn't available to buy right now, you can click (right) to shop a similar Max Mara offering at Harrods.
+Alternatively, wrap up warm in one of the lookalike coats we've got lined up for you in the edit below. From Ted Baker's doppelganger to Boohoo's investment piece, we've got a cashmere wrap coat to suit every style and budget.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+                                                    £399
+                                                
+
+
+
+
+Ted Baker wrap coat
+
+
+Buy now
+
+
+
+
+
+
+
+
+                                                    £25
+                                                
+
+
+
+
+Boohoo belted coat (now reduced to £19)
+
+
+Buy now
+
+
+
+
+
+
+
+
+                                                    £295
+                                                
+
+
+
+
+Reiss belted coat (now reduced to £195)
+
+
+Buy now
+
+
+
+
+
+
+
+
+                                                    £69.99
+                                                
+
+
+
+
+Stradivarius wooly coat
+
+
+Buy now
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Susanna_Reid', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Enjoying the match: Susanna cosied up to Steve in the director's box at Selhurst Park, as she leaned in and chatted to her handsome boyfriend while watching the matchMeanwhile, Steve looked dapper in a tailored navy suit with a pale blue checked suit and co-coordinating tie as he sipped coffee from a paper cup.Susanna and Steve have been going from strength-to-strength ever since they began dating late last year after meeting in New York.The couple appeared just as smitten as ever, as Steve lovingly gazed at his partner as the pair appeared to share a joke.                  Perfect couple: She wore her glossy brunette locks in bouncy blown out curls, further adding to her glamorous ensemble         Smart: Meanwhile, Steve looked dapper in a tailored navy suit with a pale blue checked suit and co-coordinating tie as he sipped coffee from a paper cupSusanna separated from her journalist partner Dominic Cotton, 51, in 2014, after being with him since 1998, and following her appearance on Strictly Come Dancing in 2013.She’s been a single mother to sons Sam, 16, Finn, 14, and Jack, 13 since splitting with her ex after 16 years together.Her relationship was rumoured to have been put under strain after the BBC moved her former breakfast show to Media City in Salford in 2012.                Blossoming romance: Susanna and Steve have been going from strength-to-strength ever since they began dating late last year after meeting in New York         Former flame: Susanna separated from her journalist partner Dominic Cotton, 51, in 2014, after being with him since 1998, and following her appearance on Strictly Come Dancing in 2013       

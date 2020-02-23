@@ -1,0 +1,224 @@
+Stylish Sofia Richie rocks a sheer lace jumpsuit as she steps out to run errands in Malibu
+https://www.dailymail.co.uk/tvshowbiz/article-4370206/Stylish-Sofia-Richie-rocks-flared-black-jumpsuit.html
+ 04:03 BST, 1 April 2017 
+Sofia Richie added some flair to her day as she stepped out on Friday for lunch and grocery shopping.The 18-year-old sported quite the stylish ensemble in a billowing black jumpsuit, adorned with sheer lace.She headed to the grocery store after her lunch in star-studded Malibu, California. Scroll down for video          Trendy: Sofia Richie sported a stylish ensemble on Friday as she stepped out for lunch and grocery shopping in Malibu, California The blonde beauty added a dark grey cardigan that was cinched around her svelte waist with a navy blue belt.   RELATED ARTICLES  Previous 1 Next       Let them eat cake! Chrissy Teigen cannot stop laughing or...    On the prowl! Kyle Richards sprints into Beverly Hills...    
+
+Share this article
+Share
+
+ Checkered-printed flats brought out Sofia's quirky fashion sense, but nonetheless flattered the star.She rounded out her look with a shimmering long pendant necklace as she tied her hair back in a neat ponytail and threw on black sunglasses.                Billowing beauty: The 18-year-old daughter of Lionel Richie wore a black flared jumpsuit, adorned with sheer lace patches, and a dark grey cardigan         Quirky: Adding a cinching navy blue belt, Sofia slipped into eccentric checkered-printed flatsLater on in the day, the sister of Nicole Richie jumped into something more comfortable as she caught up with a gal pal.Slipping into a white sweatshirt and black Adidas track pants, she covered her locks with a pink hat, but still decided to keep her favorite checkered shoes.She brought along her Pomeranian mix pup, Flynn, as the three gallivanted around the city.She added the new member to the family back in October of last year, recently after breaking up with ex-beau, Justin Bieber.          Gal pal time: Sofia slipped into something more comfortable later in the day to hang out with pal Elisa Johnson, Magic Johnson's daughter, and her Pomeranian pup, Flynn         Pop: She added a pop of color wearing a pink cap as she held her pup close to her side
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Sofia_Richie'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amp up your activewear with joggers like Sofia
+
+
+
+
+adidas Originals 3-stripe tracksuit bottoms
+Buy Sofia's bottoms here!
+
+
+
+Visit site
+
+
+
+With Lionel Richie as a dad and Nicole Richie as a sister, it's hardly surprising that Sofia Richie is turning out to be a never-ending source of style inspiration.
+Proving her fashion credentials in an off-duty outfit, Sofia teamed her go-to tracksuit bottoms - adidas Originals 3-stripe - with a white hoodie, checkered leather mules and a pretty pink bucket hat. Click (right) now to steal Sofia's style by bagging yourself a pair of comfy and cool joggers. 
+The easiest item to style up, Sofia's trousers can take you from day to night in one fail swoop. Wear a la Sofia in the daytime and switch out your checkered mules for strappy heels and your hoodie for a crop top to upgrade your basics from AM to PM in a flash. 
+Alternatively, click below now to shop our carousel of lookalike joggers! From Fila to Missguided, we've got tracksuit bottoms to suit every budget.
+Click below to shop now...
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET A PAIR LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Fila joggers at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missguided side stripe joggers
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Puma joggers at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Pretty Little Thing side stripe joggers (now reduced to £7.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Sofia_Richie', FFFtype: 'inline', fff: true}});
+        }
+    
+
+              Catching up: She seemed to enjoy spending time with Elisa as she lovingly threw her arm around her good palMeanwhile, the daughter of Lionel Richie recently returned from her exciting trip to New York City where she treated herself to her seventh tattoo. She'd enlisted the help of famed artist JonBoy, who specializes in tiny tattoos, and once her inking was done, she shared pics showing the side of her right wrist with the words: 'Never let go.' The teen already has six other tattoos, including her surname etched behind her ear.         Lucky number seven! Sofia recently returned from an exciting trip to The Big Apple on Wednesday where she received another tattoo to her collection that read 'never let go'The tattoo comes just weeks after rumors surfaced suggesting Sofia had reunited with her 23-year-old former beau, whom she split with in September following a whirlwind one-month romance.Reports emerged after the Sorry singer commented, 'Ur so pretty', on one of his ex's Instagram photos earlier this month.But it's unknown if her new tattoo is a reference to her relationship with the pop star, who she was reportedly smitten with.          Back on? Reports emerged a few weeks before her tattoo that Sofia has reunited with ex-beau and lover boy Justin

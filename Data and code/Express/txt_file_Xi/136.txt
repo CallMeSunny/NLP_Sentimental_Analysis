@@ -1,0 +1,21 @@
+Panic for North Korea as Donald Trump gets closer to Kim’s Chinese allies
+https://www.express.co.uk//news/world/871205/north-korea-usa-china-trump-xi-jinping
+ 22:47, Wed, Oct 25, 2017 
+  GETTYNorth Korea is facing losing its ally China to America as Mr Trump grows closer with President XThe US President spoke to Chinese President Xi Jinping to discuss the issue of North Korea, which is a growing concern in both Washington and Beijing. Mr Trump took to Twitter to threaten North Korea, who he abbreviated as ‘NoKo’ in his message detailing his call to President Xi. Cosying up to North Korea's only ally, Mr Trump had rang President Xi to congratulate him on gained more power at recent Communist Party Congress in China. Mr Trump posted: “Spoke to President Xi of China to congratulate him on his extraordinary elevation. Also discussed NoKo & trade, two very important subjects!” Inside Kim's secret army: North Korean military laid bare in smuggled-out pictures Thu, January 11, 2018The true face of Kim Jong un’s army has been laid bare in shocking new images smuggled out of North Korea Play slideshow  Pen News1 of 21A female soldier on duty in high heels  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    In a second Tweet posted 15 minutes later, Mr Trump said: “Melania and I look forward to being with President Xi & Madame Peng Liyuan in China in two weeks for what will hopefully be a historic trip!”As tensions escalate Mr Trump’s attempts to cosy up to China will set alarm bells ringing in Pyongyang, who have relied heavily on Beijing throughout its history. However in recent months, as North Korea continues to recklessly test-fire rockets and nuclear weapons, China has begun to turn against the hermit state.    In February the country cut off imports of North Korean coal - a major money spinner for Kim’s impoverished and starving nation. In response North Korean state media, essentially a mouth piece for Kim, accused China of a “betrayal”. It said: “China should no longer recklessly try to test the limitations of our patience. We have so devotedly helped the Chinese revolution and suffered enormous damage."  GETTYPresident Donald Trump and President Xi Jinping could work together against North KoreaAs well as visiting China, Mr Trump has hinted at the possibility of visiting the demilitarised zone on the Korean peninsula during his pan-Asian trip. Mr Trump is scheduled to depart on November 3 on a trip that includes visits to Japan, South Korea, China, Vietnam and the Philippines. READ MORE: Will the USA attack North Korea?  GETTYDonald Trump's US election victory was greeted with concern in China You'll be surprisedDonald TrumpHe has not yet made clear whether he will visit the demilitarised zone on the border between North and South Korea. Mr Trump told reporters on the White House South Lawn: “I'd rather not say... but you'll be surprised.”

@@ -1,0 +1,21 @@
+Britain gets massive post-Brexit economic boost as Australia offers monumental trade deal
+https://www.express.co.uk//news/uk/707209/Theresa-May-G20-Australia-Malcolm-Turnbull-Barack-Obama-free-trade-Brexit-EU
+ 06:27, Mon, Sep 5, 2016 
+   Theresa May was given assurances by Australian Premier Malcolm Turnbull, who said he wants a “very strong” free trade arrangement with Britain.In a move that could see the British economy flourish post-Brexit, Mr Turnbull said Australia would do everything it could to give Britain “all the support and assistance we can” after Article 50 in invoked.  GETTYTheresa May has been given a major boost to the post-Brexit economy by Australia's Malcolm Turnbull Related articles   May dismisses Britain introducing Australian points immigration system   SHOCK CLAIM: Top Tories have 'NO IDEA' about Theresa May’s foreign ... Mr Turnbull described Brexit as a “momentous and historic choice” by the British people and his support flies in the face of bitter Barack Obama’s rhetoric, as well as that of Japan’s Prime Minister Shinzo Abe.Obama indicated a trade deal with the UK would not be a top priority for Washington and Japan published a list of demands to protect its firms based in the UK from the impact of Brexit.But Mr Turnbul, meeting with Mrs May this morning at the G20 summit in Hangzhou, eastern China, said: “Britain's made a very momentous and historic choice to leave the European Union and we have already been engaged in discussions with you about what the free trade arrangements may look like after that."Australia is determined to provide Britain with all the support and assistance that we can."  GETTYEarlier at the G20 Summit Obama hinted Britain would be a low priority when it came to trade dealsMrs May told him: "It is a historic decision for British people. It will be a complex and challenging process leaving the European Union."But I'm very clear that it doesn't mean that we are going to be inward-looking. In fact, we want to be even more outward-looking around the whole of the world. And obviously, Australia, with our long-standing ties and our close relationship, will be one of the first countries we will be looking to." G20 Summit Wed, April 1, 2009 Play slideshow  1 of 51World leaders have their picture taken at the G20 Summit in London.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Later, the Prime Minister faces one of her most sensitive diplomatic encounters since entering Number 10 as she meets Chinese leader Xi Jinping for talks following the delay to the Beijing-backed nuclear power station at Hinkley Point.The Prime Minister will give her verdict on the £18 billion project, initiated by former Chancellor George Osborne, later this month.Security implications and the high cost of the energy produced by the Somerset plant are believed to be the main sticking points for the deal.

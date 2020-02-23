@@ -1,0 +1,38 @@
+Trump declares NOW is the time to take ACTION on North Korea amid further nuclear tests
+https://www.express.co.uk//news/world/796053/Donald-Trump-North-Korea-war-Kim-Jong-un-Pyongyang-nuclear-missile-launch-test-UN-meeting
+ 00:12, Tue, Apr 25, 2017 
+   The US President issued the chilling warning during a meeting with 15 UN Security Council ambassadors, including China and Russia, at the White House on Monday.Mr Trump said: “The status quo in North Korea is also unacceptable."The council must be prepared to impose additional and stronger sanctions on North Korean nuclear and ballistic missile programs." Related articles   China 'deploys 150,000 troops to North Korean border'   Mystic claims World War 3 is IMMINENT & predicts 'the death of Assad'   GETTYGlobal tensions have been escalating with North Korea over its missile launchesHe added: “This is a real threat to the world, whether we want to talk about it or not. North Korea is a big world problem and it's a problem that we have to finally solve."People put blindfolds on for decades and now it's time to solve the problem."His comments come as satellite images of North Korea’s nuclear plant shows activity and Kim Jong-un’s chiefs have vowed they will go to war if provoked.South Korean and US officials have feared for some time that a sixth North Korean nuclear test could be imminent and speculation has grown that this, or another missile test, could coincide with the 85th anniversary of the foundation of North Korea's army on Tuesday.  GETTYDonald Trump met with the members of the UN Security Council    Photos from North Korea during celebration of the birth of late leader Kim Il Sung Wed, April 19, 2017Covering a North Korean military parade is an emotional roller coaster, a visual and sensory barrage of socialist-realist propaganda Play slideshow  AFP/Getty Images1 of 23North Korean leader Kim Jong-Un (R) attending a military parade in Pyongyang marking the 105th anniversary of the birth of late North Korean leader Kim Il-Sung  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     This is a real threat to the world, whether we want to talk about it or not. North Korea is a big world problem.Donald TrumpThe reclusive state showcased new missiles during a military parade to celebrate the 105th anniversary of North Korea’s founder Kim Il-sung earlier this month, including what experts believe may have been intercontinental ballistic missiles.According to US officials tougher sanctions could include an oil embargo, banning North Korea's airline, intercepting cargo ships and punishing Chinese banks and other foreign doing business with Pyongyang.The US Secretary of State Rex Tillerson will be chairing a special ministerial meeting of the Security Council about North Korea on Friday to discuss ways to maximise the impact of existing sanctions and show "resolve to respond to further provocations with appropriate new measures".  REUTERSThe suspected-intercontinental ballistic missile being paraded in the North Korean capital Pyongyang Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Tillerson and US Secretary of Defence Jim Mattis, Director of National Intelligence Dan Coats and General Joseph Dunford, chairman of the Joint Chiefs of Staff, will also be holding a rare briefing on North Korea for the entire 100-member US Senate on Wednesday.Earlier reports suggest a pre-emptive strike against the communist state had not been ruled out by the Trump administration as the President’s national security adviser, Lieutenant General HR McMaster, revealed “all our options are on the table”.Chinese President Xi Jinping, during a call with Mr Trump called for all sides to exercise restraint, as Japan conducted exercises with a US aircraft carrier strike group headed for the Korean peninsula.  EPAThe USS Carl Vinson carrier group is en route to the Korean peninsula  GETTYAmong the UN Security council members were representatives from Russia and ChinaChina, North Korea's sole major ally, has been angered by Kim Jong-un’s nuclear and missile programmes.The White House said Donald Trump and Mr Xi "reaffirmed the urgency of the threat posed by North Korea's missile and nuclear programmes, and committed to strengthen coordination in achieving the denuclearisation of the Korean peninsula."Two Japanese destroyers have joined the approach of the USS Carl Vinson carrier group as joint military drill is also being held in Australia.The move has angered the secretive state, who the official newspaper of North Korea's ruling Workers' Party said: ”The United States should not run amok and should consider carefully any catastrophic consequence from its foolish military provocative act.”

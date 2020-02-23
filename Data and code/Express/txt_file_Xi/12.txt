@@ -1,0 +1,21 @@
+Trump expects ‘GREAT FRIENDSHIP’ with Chinese president Xi Jinping as leaders meet in US
+https://www.express.co.uk//news/world/788956/Donald-Trump-expects-great-friendship-Xi-Jinping-Mar-a-Lago-Merkel-May-Florida-North-Korea
+ 00:31, Fri, Apr 7, 2017 
+   The US President invited Mr Xi for a key summit at his Mar-a-Lago residence, and North Korea's nuclear threat is expected to top the agenda.During their first dinner together, Mr Trump said he had “developed a friendship” with Mr Xi and joked that "so far I have gotten nothing, absolutely nothing" in talks.  GETTYDonald Trump and Xi Jinping share an amorous handshake during dinner at Mar-a-Lago Related articles   Trump all smiles as he meets Chinese leader amid tensions over N Korea   Trump considers military strike in Syria after chemical weapons attack  First 100 days of President Trump Mon, June 12, 2017President Donald Trump is making a significant impact on global politics during his first term. Play slideshow  REUTERS1 of 23President Donald Trump arrives at Newark International airport  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The two leaders have already been photographed shaking hands and embracing several times, which could be an attempt by President Trump to sneer Angela Merkel.Three weeks ago, the German chancellor was left grimacing and looking extremely awkward at the White House after the 70-year-old businessman refused to shake hands with her.As they posed in the Oval Office for official pictures, photographers could be heard calling for the two to shake hands. Mrs Merkel smiled and asked Mr Trump: “Do you want to have a handshake?”, but was embarrassingly ignored.Upon the Chinese President’s arrival in Florida yesterday afternoon, he received a charming welcome from US Secretary of State Rex Tillerson, who ushered Mr Xi across the red carpet through Palm Beach International Airport.But the Prime Minister is said to have the best and most “special relationship” with the US President. Mrs May and Mr Trump were photographed holding hands as they walked through the White House.  GETTYThe place setting for US President Donald Trump and Chinese President Xi Jinping in Florida  GETTYMelania Trump and Jinping's wife Peng Liyuan look at the two happy leadersAlthough Mr Trump and Mr Xi appear to be all smiles, the US President is expected to launch a stern offensive during talks.Mr Trump will be "sending a clear signal" to Mr Xi on North Korea, and on their imbalanced trade relationship.  GETTYRex Tillerson ushers Xi Jinping through the Florida airport  GETTYTrump said they will have a special relationshipOn his flight to Florida, the US President said: “We have been treated unfairly and have made terrible trade deals with China for many, many years. That's one of the things we are going to be talking about.”The meeting comes after Mr Trump promised to “solve” North Korea with or without the help of his “friend”, Mr Xi.

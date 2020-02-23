@@ -1,0 +1,21 @@
+SHOCK CLAIM: China are playing new President Trump 'like a drum', says top economist
+https://www.express.co.uk//finance/city/757810/Chinese-donald-Trump-drum-trade-economist
+ PUBLISHED:  00:01, Tue, Jan 23, 2018 
+  GETTYChina is playing Trump like a drum, according to one economistThe politician repeatedly hit out at the economic policies of the far eastern nation ahead of taking office. And now that markets are anxiously awaiting more details from the new president, there are fears Mr Trump could call China a 'currency manipulator' - a label that would play into their hands, according to Carl Weinberg, founder of research firm High Frequency Economic. The colossal country has recently been trying to keep the yuan strong. But if China allows the currency to weaken this would cause problems for Mr Trump, as it's likely to boost Chinese exports. Related articles   Pound hits one-month HIGH against dollar investors 'lose patience' wit   ECB's Brexit threat: Bank could CRACKDOWN on London’s euro-clearing    Mr Weinberg told CNBC: "China right now is manipulating to strengthen the yuan and if China stops at his request, the yuan will get weaker and he doesn't want that. "I think the Chinese are playing him like a drum in this regard."Ahead of his inauguration, Mr Trump signalled that the current strength of the dollar is a problem for the US. Related articles   Tony Blair caused Brexit with immigration failure, Hammond blasts   Brexit is ticking TIME BOMB for eurozone, says Merkel's finance chief  Donald Trump's most iconic photographs Wed, June 14, 2017The U.S. President as you've never seen him before! Play slideshow  NY Daily News via Getty Images1 of 27Real estate developer Donald Trump annouces intentions to build a $100 million dollar Regency Hotel in 1976.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    In another clash, last week Chinese President Xi Jinping spoke out in favour of globalisation and against the protectionist policies favoured by Mr Trump. Mr Weinberg added: "Listening to President Xi step right up and say if the U.S. doesn't want to be the hegemon on trade and globalism, then we're happy to step up."That's a big change in the world economic order and I don't see how we can possibly benefit from that.

@@ -1,0 +1,21 @@
+Brigitte Macron stuns in red gown on art gallery trip with Emmanuel Macron in China
+https://www.express.co.uk//life-style/style/902669/brigitte-macron-pictures-news-emmanuel-china-beijing
+ 10:39, Wed, Jan 10, 2018 
+  Getty ImagesBrigitte Macron news: The French first lady stood out in redBrigitte Macron, 64, joined Emmanuel Macron, 40, at the Ullens Chinese Contemporary Art Centre in Beijing.While most of the others on the visit wore black, Brigitte stood out in vibrant red.Her red dress, which had full length sleeves and came down to her feet, was trimmed with silver sequins.The silver sequin waistband highlighted Brigitte’s trim figure. Related articles   Brigitte Macron and husband Emmanuel pictured on China trip   Brigitte Macron news: Emmanuel and his wife visit China  Brigitte Macron news: Emmanuel Macron's wife steps out in red gown in Beijing, ChinaAlthough the dress was very covered up, it did feature deep thigh splits on the sides.Brigitte went for a chic updo to complement her formal gown.She also opted for silver and diamond jewellery to match the silver sequins on her dress, with drop earrings and a thick silver ring.As usual, Brigitte wore smoky eye make up and nude lipgloss on her face.  Getty ImagesBrigitte Macron news: Emmanuel and Brigitte are in China this week France's First Lady Brigitte Macron in pictures Tue, July 17, 2018Brigitte Macron is a former high school teacher and the wife of the French politician Emmanuel Macron. See her most recent pictures. Play slideshow  REUTERS•Getty1 of 100France's First Lady Brigitte Macron in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      Getty ImagesBrigitte Macron news: Brigitte chose red, the Chinese colour of good luck, for her visitThe Macron’s are enjoying a three day tour of China in a trip designed to boost Chinese and French relations.Macron hopes to use this week's visit to China to boost Beijing's ties with Paris, and take over from the UK as China's closest ally in Europe.Mr Macron's first official visit to China is aimed at boosting the global influence of both countries - as France looks to move out of Germany's shadow, and China from the US.The UK had long been seen as China's closest partner in Europe - but since Brexit and the election of Mr Macron, China has increasingly looked to France.     Getty ImagesBrigitte Macron news: Brigitte slipped in to a black coat as she walked around the galleryEmmanuel is the first by the leader of a European country since Xi Jinping secured his grip on power at the communist party congress in October.So far, the couple have seen the famous terracotta warriors, the Big Wild Goose Pagoda, and the Great Mosque of Xian.Brigitte has chosen the colour red - a symbol of good luck in China - on a couple of occasions while in the country, wearing a red coat to visit Xian on her first day.She slipped into a stylish white coat and matching jumper for day two.

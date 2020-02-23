@@ -1,0 +1,21 @@
+‘He can do ANYTHING’ Kim Jong-un PREPARED to unleash nukes against the US & ALL its allies
+https://www.express.co.uk//news/world/787533/North-Korea-Kim-Jong-un-prepared-unleash-nukes-against-US-Trump-all-allies-Theresa-May
+ 23:05, Mon, Apr 3, 2017 
+  GETTYKim Jong-un is prepared to attack the US and its allies with nuclear weapons, it has been confirmedA senior defector from North Korea who has also worked as a former deputy ambassador in London said the despot leader is prepared to do “anything beyond the normal imagination” if he feels threatened.Thae Yong Ho, 55, told NBC News: “Once he sees that there is any kind of sign of a tank or an imminent threat from America, then he would use his nuclear weapons with ICBM.” Related articles   Trump vows to 'SOLVE' North Korea & threatens China to deal with Kim   Theresa May rebukes idea of US using military action on North Korea  Secretive images revealed as North Korea prepares for war Wed, April 5, 2017A look at North Korea's firepower as it pursues its nuclear and ballistic missile programs in defiance of the United States and its allies. Play slideshow  AFP/Getty Images1 of 30People watch a television news showing file footage of a North Korean missile launch, at a railway station in Seoul  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Yong Ho said the North Korean leader is “desperate” to maintain his rule with the development of nuclear weapons and the ICBM which could hit the United States.He claimed the leader will stop at nothing to develop a nuclear programme - and would even turn down trillions of dollars if he was offered a pay-off to abandon the nuclear race.The former ambassador added: “If Kim Jong-un has nuclear weapons and ICBMs, he can do anything. So I think the world should be ready to deal with this kind of person.”   President Donald Trump fuelled World War 3 fears yesterday when he said he was prepared to deal with the hermit kingdom himself.But the British Prime Minister - a key ally to Washington - urged President Trump to persuade China to bring its ally to heel.While Trump has vowed to “solve” the North Korean threat, Mr Yong Ho believes Kim must be “eliminated”.The defector said: “Kim Jong-un is a man who can do anything beyond the normal imagination” so the real solution to the North Korean nuclear issue is to “eliminate Kim Jong-un from the post”.  GETTYThe Prime Minister urged Donald Trump to focus on persuading China instead of "solving" Jong-unChinese president, Xi Jinping, will visit Trump’s Florida resort later this week as the two leaders are expected to discuss the growing threat from Kim Jong Un’s nuclear programme.According to sources, Jong-un is preparing for a potentially catastrophic test in the first week of April.

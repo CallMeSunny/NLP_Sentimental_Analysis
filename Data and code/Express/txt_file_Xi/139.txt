@@ -1,0 +1,55 @@
+China warns Kim Jong-un Pyongyang faces 'GREAT LOSSES' if North Korea tests another nuke
+https://www.express.co.uk//news/world/796394/North-Korea-Kim-Jong-un-Donald-Trump-America-China-Xi-Jinping-nuclear-war
+ 16:22, Tue, Apr 25, 2017 
+   The Chinese government have also warned that should war break out, it would be Pyongyang that would suffer most.Xi Jinping’s powerhouse is clearly worried about nuclear war breaking out in the region, pleading with Donald Trump and Kim Jong-un to behave with restraint.An editorial piece in the Global Times, widely regarded as the mouthpiece of the Communist Party, said: “The game of chicken between Washington and Pyongyang has come to a breaking point.”  GETTYChina's Xi Jinping has warned North Korea not to test another nuclear weapon Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Related articles   Pamela Anderson pens bizarre POEM about Julian Assange   Trump 'asks UN ambassador to debrief him' on Macron vs Le Pen election It added that if North Korea conducted another nuclear missile test “it is more likely than ever that the situation will cross the point of no return”.The piece continued: “All stakeholders will bear the consequences, with Pyongyang sure to suffer the greatest losses.”A spokesperson for the Chinese foreign ministry added weight to his leader’s desire to see a deescalation of tension in the region. Forbidden photographs depict the true North Korean army Wed, April 12, 2017While tourists are able to visit North Korea as part of a controlled tour group, they are asked by their handlers to never take photographs of soldiers. These pictures taken by photographer Eric Lafforgue show the reality of military service in the secretive state Play slideshow  ERIC LAFFORGUE/EXCLUSIVEPIX MEDI1 of 26Soldiers enjoy a ride at the funfair in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Lu Kang said: “The current situation on the Korean Peninsula is complicated and sensitive and the tension is high.“We urge all sides concerned to keep restrained and calm and refrain from taking actions that could escalate tensions.” But the rhetoric coming out of America is not particularly conciliatory, with the US’ ambassador to the UN, Nikki Haley urging her nation to “maximise pressure” on the “paranoid” North Korean dictator.  GETTYThis is footage of a North Korean weapon test todaFor his part, President Trump has pressed China to reign in its hard-talking ally.The Republican tweeted, after having a face-to-face meeting with Xi Jinping as well as a phone call in recent weeks, that China should “solve the North Korea problem”.American and South Korean troops have been engaging in war games in the region in recent weeks, and a fleet of ships from Japan joined President Trump’s “armada” yesterday.  GETTYDonald Trump has been piling the pressure on North Korea Related videos   How North Korea funds their nuclear programme   Australia receives DIRECT threats from North Korea   Japan prepares for missile attack as North Korea threat grows Kim Jong-un, not renowned for his measured approach, has shown no sign of backing down so far, vowing to turn America into “ashes”.North Korea also held a massive firing drill today involving 400 guns.A Pyongyang-based newspaper said: “There is no limit to the strike power of the People's Army armed with our style of cutting-edge military equipment including various precision and miniaturised nuclear weapons and submarine-launched ballistic missiles.” Photos from North Korea during celebration of the birth of late leader Kim Il Sung Wed, April 19, 2017Covering a North Korean military parade is an emotional roller coaster, a visual and sensory barrage of socialist-realist propaganda Play slideshow  AFP/Getty Images1 of 23North Korean leader Kim Jong-Un (R) attending a military parade in Pyongyang marking the 105th anniversary of the birth of late North Korean leader Kim Il-Sung  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    President Trump yesterday called an urgent meeting at the Senate where he vowed to fix the North Korean problem.He said: "The status quo in North Korea is unacceptable and the council must be prepared to impose additional and stronger sanctions on North Korean nuclear and ballistic missile programs.  REUTERSKim Jong-un tested missiles yesterday and other forms of explosives"North Korea is a big world problem, and it’s a problem we have to finally solve."To find out what would happen if President Trump launched a nuclear attack on Pyongyang, click here.

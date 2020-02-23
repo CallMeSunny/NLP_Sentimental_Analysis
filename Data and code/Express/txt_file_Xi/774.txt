@@ -1,0 +1,21 @@
+G20 live stream: How to watch Trump v Putin online
+https://www.express.co.uk//news/world/825851/G20-live-stream-watch-online-trump-putin-merkel-may-hamburg-protest
+ 09:55, Fri, Jul 7, 2017 
+Heads of states from the world’s 20 leading economies are meeting this weekend to discuss trade, climate change and global security.Watch the live stream above, or click here to follow live G20 updates.The summit promises to be a tense one, with Ms Merkel and other leaders vowing to press Mr Trump on his decision to take the US out of the Paris climate agreement.The US President also faces questions over his protectionist “America first” trade policy. Related articles   G20 2017: 5 things to watch for at the upcoming summit   Hamburg transformed into war zone by anarchist thugs in shock video Later today, Mr Trump will have his first face-to-face meeting with Mr Putin, which is likely to be dominated by North Korea and Syria.Mr Trump has accused Russia of acting as a destabilising force in the Middle East, while Mr Putin has united with China to call for an end to US-South Korea military exercises.Talks between Mr Trump and Chinese president Xi Jinping will also likely centre around North Korea.  GETTYMerkel greets Trump and Putin at the G20Washington has been critical of Beijing’s unenthusiastic attempts to put pressure on Pyongyang over its growing nuclear programme.On the eve of the summit, thousands of violent protesters descended on Hamburg.Police used water cannon and pepper spray last night as up to 12,000 demonstrators took part in a Welcome to Hell march.    G20 Summit protests live pictures Fri, July 7, 2017The "Welcome to Hell" protest march ahead of the G20 summit in Hamburg turned violent as burning barricades were erected and riot police called in Play slideshow  REUTERS1 of 53Barricades burn as protesters clash with riot police during the protests at the G20 summit in Hamburg  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    After organisers cancelled the event, a hardcore group continued to rally in the German city, throwing bottles and smoke bombs and setting cars alight.Police said that 74 officers were hurt, most with minor injuries.Several protestors were wounded, with one reportedly in a life-threatening condition.

@@ -1,0 +1,21 @@
+TRADE WARS: China slaps US with massive £3billion import tariffs in retaliation for steel
+https://www.express.co.uk//news/world/940227/trade-war-china-slaps-usa-trump-import-tariffs-steel-tax
+ 09:41, Mon, Apr 2, 2018 
+  GETTYTRADE WARS: Xi has retaliated against Trump's USAPresident Xi Jinping has retaliated against Donald Trump by hitting the USA with tariffs on popular imports like pork and wine.The trade war row comes after the US President hit Beijing with steel and aluminium duties totalling $60 billion last month.The move will “safeguard China’s interests and balance”, according to Beijing.President XI plans also to place 15 percent tariffs on nuts, fresh and dried fruit, as well as rolled steel bars. Related articles   'Act responsibly!' Tusk tells Trump trade wars are BAD – US will LOSE   China braced for TRADE WAR as it signals US products it could punish Some experts warned China could tax US tech companies like Apple next - which would force big American firms to raise their prices to compensate.But Donald Trump has reacted bullishly to the news that China has ramped up its efforts in a trade war with America.The imposition of tariffs is due to China’s theft of foreign intellectual property - and a historical trade imbalance between the two nations.Mr Trump insisted “trade wars are good,” and that it will be “easy” for the USA to beat China.  GETTYTRADE WARS: Trump says it'll be "easy" to winChina has a large surplus with the US and for that reason has much more downside if a trade war escalates.The President tweeted last month: “When a country (USA) is losing many billions of dollars on trade with virtually every country it does business with, trade wars are good, and easy to win.“Example, when we are down $100 billion with a certain country and they get cute, don’t trade anymore-we win big. It’s easy!”American authorities have already announced plans to further place tariffs on Chinese imports. China readies for World War 3: Pictures show commandoes in EXTREME drills Tue, March 27, 2018Chinese commandos take part in extreme anti-terror military drills in Korla, Xinjiang Uygur Autonomous Region of China. Play slideshow  VCG via Getty Images1 of 12Commandos carry equiptment as they march in an extreme training exercises  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    A tit-for-tat trade war between the two economic superpowers has been developing for some time - and could jeopardise growth in global markets.Donald Trump has also warned the European Union they too could face tariffs if they do not open up their market.The EU is famously protectionist, ratcheting up tariffs against often less prosperous non-EU countries.Prime Minister Theresa May has tried to use her influence to oppose the erection of trade barriers in Europe and America, as has Trade Secretary Liam Fox.

@@ -1,0 +1,21 @@
+Fears crude oil price to be victim of US and China TRADE WAR as Bejing threatens tariffs
+https://www.express.co.uk//news/world/975679/china-us-trade-war-crude-oil-price-beijing-tariffs-donald-trump-xi-jinping
+ 03:01, Mon, Jun 18, 2018 
+  Chinese authorities have promised retaliatory tariffs against Trump (Image: GETTY )On Friday, China threatened a response after Donald Trump announced tariffs on more than $50billion (£37.68billion) worth of Chinese goods coming into the US.The tariffs, expected to be on US energy products could crash the US energy and fossil fuel markets.One expert has called the threatened energy tariffs “a big development” in international trade relations.Matt Smith, director of commodity research at ClipperData, said: “This is a big deal. Related articles   Fifa set to make £4.6billion thanks to Chinese boost    China accuses Trump of launching TRADE WAR  “China is essentially the largest customer for US crude now, and so for crude it’s an issue, let alone when you involve refined products too.“This is obviously a big development.”Bernadette Johnson with American energy consultancy Drillinginfo says tariffs will increase prices for other petroleum products including propane and liquefied natural gas.She said: “The constant back and forth about the tariffs creates a lot of market uncertainty that makes it harder to sell cargoes or sign long-term trade deals.” Justin Trudeau heads to China for official visit Wed, December 6, 2017Visiting Canadian Prime Minister Justin Trudeau and Chinese Premier Li Keqiang signed three trade agreements on December 4 as Ottawa tries to diversify commercial ties amid tough NAFTA negotiations with Washington Play slideshow  AFP/Getty Images1 of 14Justin Trudeau walks during a review of Chinese paramilitary guards with China's Premier Li Keqiang during a welcome ceremony at the Great Hall of the People in Beijing  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Speaking on Friday, China confirmed they would be arranging tariffs, but said they wanted to avoid a trade war.The Commerce Ministry said: “China does not want a trade war.“We will immediately launch tariff measures that will match the scale and intensity of those launched by the United States.“All economic and trade agreements reached by previous negotiations will be nullified at the same time.”China is currently the world’s biggest buyer of US oil.   They import an estimated 363,000 barrels of American crude oil every day.They also take in about 200,000 barrels of other petroleum products each day including propane.The US has been encouraging countries to buy oil for them, rather than Iran, and is currently exporting a record two million barrels of crude every single day.China is also the world’s largest importer of Iranian oil.In the first quarter of 2018, they were purchasing around 650,000 barrels each day from the country.

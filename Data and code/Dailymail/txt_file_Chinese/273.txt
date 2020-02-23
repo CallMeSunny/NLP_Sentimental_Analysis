@@ -1,0 +1,224 @@
+Golden girl! Lais Ribeiro poses with $2million Victoria's Secret Fantasy Bra backstage at VS Fashion Show in Shanghai
+https://www.dailymail.co.uk/tvshowbiz/article-5097269/Lais-Ribero-poses-Fantasy-Bra-VS-Shanghai.html
+ 06:12 BST, 20 November 2017 
+Some of the best and most famous models rocked the runway for one of the biggest lingerie events of the year.But none shined brighter than Lais Ribeiro at the Victoria's Secret Fashion Show in Shanghai in China.The 27-year-old Brazilian beauty turned heads as she was the one who wore the $2 million Victoria's Secret Fantasy Bra.         It's mine: Lais Ribeiro posed backstage at the Victoria's Secret Fashion Show in Shanghai, China, on Sunday with the $2 million VS Fantasy Bra she would wear on the runway
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Lais_Ribeiro'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Be pretty in pink like Lais in a Victoria's Secret robe
+
+
+
+
+Victoria's Secret Fashion Show 2017 robe
+Buy it here now!
+
+
+
+Visit site
+
+
+
+She is wearing this years fantasy bra so it is no surprise that Lais has a huge smile on her face. The model joined the rest of the Victoria's Secret girls backstage to be pampered to perfection ahead of the show.
+The gang were seen wearing these pretty in pink Fashion Show 2017 robes that feature a floral embroidery that, alongside the kimono style cut, gave off that Eastern inspired aesthetic. 
+Not only is the robe comfy but it also opts for that secy vibe which at a Victoria's Secret show is totally unavoidable. 
+Shop the look now at the Victoria's Secret website for £116.18 and steal the girls backstage style for yourself. Or browse from our best finds in the carousel below from Reclaimed Vintage, Agent Provocateur and even Missguided.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Missguided pink Kimono robe
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Reclaimed Vintage 'Inspired' kimono with belt at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Fleur of England robe at MATCHESFASHION.COM (now reduced to £239)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Agent provocateur classic dressing gown
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Lais_Ribeiro', FFFtype: 'inline', fff: true}});
+        }
+    
+
+This year the Mouawad-designed Fantasy Bra weighs more than 600 carats and is handset with diamonds, yellow sapphires, and blue topaz. The metal is 18 karat gold.   RELATED ARTICLES  Previous 1 Next       'Thick thighs save lives': Ashley Graham takes a jab at the...    She's got some front! Heidi Klum flashes her cleavage in a...    Wonder in white! Karolina Kurkova enchants in ivory dress...    'You've all earned it'! Former Victoria's Secret star...    
+
+Share this article
+Share
+23 shares
+
+ The Champagne Nights Fantasy Bra took nearly 350 hours to make and hand-set with almost 6,000 gemstones.                 Wow: The 27-year-old Brazilian beauty got to wear the lingerie handset with diamonds, yellow sapphires, and blue topaz; she showed if off a few days ago on social media         $2 million bra: The Champagne Nights Fantasy Bra took nearly 350 hours to make and is made from 18 karat gold and contains almost 6,000 gemstones       Victoria's Secret is holding its annual event in China for the first time and it has not come without it's fair-share of controversy.Top model Gigi Hadid pulled out of walking in it amid rumors Chinese authorities denied her an entry visa.The 22-year-old model did not reveal why she was pulling out but it came after she made an eye-slant joke on social media back in September.         Say cheese: Ribeiro also snapped some selfies ahead of the main event         Fun times: She also posed for photos backstage as well with fellow VS Angel Adriana Lima as both sported matching flower-themed pale pink bath robes       Although there was no mention of Gigi having issues with her visa, Chinese fans have been demanding that she be denied entry into the country because of her 'racist' video.  Fashionista also reported on Tuesday that four models - Julia Belyakova, Kate Grigorieva and Irina Sharipova from Russia and Dasha Khlystun from Ukraine - had allegedly been denied visas, according to Instagram fan accounts.               Prep: Angels Jasmine Tookes, left, and Martha Hunt, right, seemed in great spirits as they got ready for their runway show         Ready to go: Lily Aldridge flashed a peace sign as she hung out backstage in her dressing gown and pink flip flopsIt was also recently reported that Katy Perry was originally slated to perform but was ultimately banned from it with Harry Styles, the former One Direction bandmember replacing her.The reason for the 33-year-old singer's exclusion seems to be because of a 2015 concert in Taiwan - which dispute's Beijing's claim that its land belongs to China - she carried around a Taiwanese flag and wore a dress covered in sunflowers.The year before, Taiwanese anti-China protesters had chosen the sunflower as the symbol for their cause because they are seen as a symbol of hope.An insider told Page Six that Perry 'was initially granted a visa to perform at the VS show in Shanghai, then Chinese officials changed their minds and yanked her visa.The Victoria's Secret Fashion show was taped for broadcast on November 28 on CBS.         Hello boys: Bella Hadid made sure to show off her assets as she was snapped by a backstage photographer         Clothes horse: Stella Maxwell curled up in her chair as she was primped and coiffed                Sultry pose: Karlie Kloss simpered for the camera         Swansong: Alessandra Ambrosio was in good form ahead of what may be her last Victoria's Secret show  

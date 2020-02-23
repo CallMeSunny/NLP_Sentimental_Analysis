@@ -1,0 +1,21 @@
+Donald Trump to STRIKE North Korea with ‘LARGE PACKAGE’ to cripple despot regime
+https://www.express.co.uk//news/world/922811/Donald-Trump-strikes-North-Korea-with-new-sanctions-Kim-Jong-un-USA-Pyongyang
+ 05:25, Fri, Feb 23, 2018 
+   Reports have claimed that Donald Trump is lining up a “large package” of sanctions against the isolationist kingdom.Donald Trump is set to announce the sanctions today that has been labelled “the largest package yet” by a senior administration official.Since levelling sanctions on Kim Jong-un last year, it appears that China has started to cut its trade to North Korea.Donald Trump has previously emphasised that Xi Jinping needs to cut off the trade to the hermit kingdom as a way of crippling the nation and forcing it to give up its aggressive nuclear weapons program.  GettyDonald Trump is set to announce the sanctions today Related articles   Time travel SHOCK: Agent from 2043 warns of North Korean WW3 in 2019   North Korea PANIC as paranoid Kim appoints EAVESDROPPING POLICE force Beijing’s trade with North Korea recently fell to its lowest level since at least June 2014.Although China remains the despot regime’s largest trading partner, trade was slashed 52 per cent form the year-earlier period and 31 per cent month over month.In January, trade between Beijing and Pyongyang came in at $215.97million.The Asian superstate’s exports to Kim Jong-un racked up to a total of $168.88million last month. 'Donald Trump' and 'Kim Jong-un' face-off amid North Korea nuclear threat Sun, November 19, 2017About 700 demonstrators protested in Berlin, Germany against the current escalation of threat of nuclear attack between the United States of America and North Korea Play slideshow  Getty Images1 of 10An activist pretends to punch another wearing a mask of U.S. President Donald Trump next to a model of a nuclear rocket  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    This is a significant drop from the $257.73 that was recorded in December 2017.China is set to release data on Saturday that will detail is dealings with North Korea and explain which shipments were affected by the sanctions.In December Xi Jinping imported no iron ore or lead from Pyongyang and exported no oil products bar what is being called a small amount of jet fuel.   Meanwhile, it was confirmed that the rogue state is sending Kim Yong Chol to the closing ceremony of the Winter Olympics in South Korea.The move could be a desperate attempt for the Kim regime to play nice with the world to help restore its battered economy.The North Korean official has been blamed for the sinking of a navy ship from the South in 2010.  GettyChina is set to release data on Saturday that will detail is dealings with North Korea  GettyDonald Trump has previously emphasised that Xi Jinping needs to cut off North Korea tradeKim Yong Chol is the vice-chairman of the North's ruling Workers' Party's Central Committee.He will lead a high-level delegation at the closing ceremony to the sporting event on Sunday.More to follow…

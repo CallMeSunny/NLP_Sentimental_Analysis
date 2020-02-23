@@ -1,0 +1,21 @@
+Donald Trump squares up to Chinese President as pair discuss North Korea nuclear threat
+https://www.express.co.uk//news/world/876885/Donald-Trump-China-Beijing-news-President-Xi-North-Korea-trade-video
+ 13:38, Wed, Nov 8, 2017 
+   Donald Trump could be seen joking with the Chinese leader as the world leaders walked with their partners in Beijing.  The US President was given a guided tour around the Forbidden City, which was the Chinese imperial palace, by President Xi and his wife. In the footage, the US President appears to point at the Chinese President as the pair joke before the tour continues. President Xi and Mr Trump also appear to share another awkward moment as the US President is stopped and urged to take a photo with his wife Melania.   SKYNEWSDonald Trump news: US President meets Chinese counterpart to discuss North Korea Related articles   North Korea has been 'weaponised' by China and Trump must react   Donald Trump Beijing: President to say 'get tough on North Korea' Donald Trump’s meeting with the Chinese President could being tense after the billionaire spent much of his Presidential election campaign targeting China for the way it takes American’s jobs. Mr Trump has also criticised the United State’s trade relations with China on a number of occasions.Last week the President branded the US-China trade deficit “embarrassing” and “horrible”. During his election campaign, Mr Trump suggested the Asian giant deliberately devalued its currency to increase the deficit even further.    The two world leaders are also set to discuss the key issue of North Korea while President Trump is in Beijing, for two days, as part of his mammoth 12-day East Asia tour. Speaking in Seoul yesterday, Mr Trump used some of his toughest rhetoric against Kim Jong-un’s hermit kingdom. He said: “The world cannot tolerate the menace of a rogue regime that threatens it with nuclear devastation. All responsible nations must join forces to isolate the brutal regime of North Korea-to deny it any form of support.“America does not seek conflict or confrontation, but we will never run from it. History is filled with discarded regimes that have foolishly tested America’s resolve. Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “Anyone who doubts the strength or determination of the United States should look to our past and you will doubt it no longer. We will not permit America or our allies, to be blackmailed or attacked. We will not allow American cities to be threatened with destruction.“We will not be intimidated and we will not let the worst atrocities in history be repeated here on this ground we fought and died so hard to secure.”During his trip to Asia President Trump is aiming to present a united front to stand up against North Korea’s dictator.

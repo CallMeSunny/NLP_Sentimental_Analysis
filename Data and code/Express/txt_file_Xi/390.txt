@@ -1,0 +1,38 @@
+US warship 'carries out threatening manoeuvres near Chinese islands' after Beijing warning
+https://www.express.co.uk//news/world/864849/USA-China-warship-south-china-sea-Beijing-Xi-Jinping-Donald-Trump-North-Korea-Kim-Jong-un
+ 02:53, Wed, Oct 11, 2017 
+ The US is currently seeking China’s help to end North Korea’s missile and nuclear programmes.But despite the push for diplomacy Donald Trump’s administration have risked causing outrage in Beijing after sailing near islands claimed by the eastern superpower in the South China Sea.Three US officials have confirmed the USS Chafee, an Arleigh Burke-class guided-missile destroyer, passed the Paracel islands to challenge "excessive maritime claims" in the region.US military officials have long argued the region should be open for other nations to travel through, while China, Taiwan and Vietnam all claim the islands belong to them.  GETTYUS military officials have long argued the region should be open for other nations to travel throughRelated articles   Donald Trump WARS with Erdogan as US snub Turkish visas   WORLD WAR 3: Trump 'prepared by generals for North Korea strike' China has described previous US decisions to sail through the waters as behaviour that “threatened the sovereignty of the South China Sea countries”.Last month Chinese foreign ministry spokesman Lu Kang said: “For some time now, some countries have used the pretext of freedom of navigation to bring their planes and fleets near the South China Sea."Actually, I think this is behaviour that has threatened the sovereignty of South China Sea countries.”Meanwhile, in August Fan Changlong, a vice chairman of China's powerful Central Military Commission, told the chairman of the US Joint Chiefs of Staff Joseph Dunford, that mutual trust mechanisms between the two militaries had continued to improve. Incredible images of Japan's LARGEST warship Mon, March 13, 2017Japan plans to dispatch its largest warship on a three-month tour through the South China Sea beginning in May, three sources said, in its biggest show of naval force in the region since World War Two Play slideshow  AFP/Getty Images1 of 5Japan Maritime Self Defense Forces helicopter carrier Izumo (L) anchors at its Yokosuka Base in Kanagawa prefecture  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYThe USS Chaffee passed the Paracel islands to challenge 'excessive maritime claims'He added: “But wrong actions on the Taiwan issue, the United States deploying the THAAD system around China, US ships and aircraft's activities in the South China Sea, the United States close-in surveillance in the sea and air near China have had a large, negative influence on bilateral military ties and mutual trust.”However, the course charted by the latest US vessel to cross the waters was more cautious than those that came before it.Unlike in August, when a US Navy destroyer came within 12 nautical miles of an artificial island built up by China in the South China Sea, officials said the destroyer sailed outside the range of the islands.Twelve nautical miles mark internationally recognised territorial limits – with former missions within that range making clear the US does not respect China’s claims in the region.The Pentagon did not comment directly on the operation but said the US carried out regular freedom-of-navigation operations and would continue to do so.  GETTYThe US is currently seeking China’s help to end North Korea’s missile and nuclear programmes Putin's troops amass on North Korea border Thu, September 28, 2017Photos captured some of the troops patrolling the top of Zaozyonara Hill, a meeting point between Russia, North Korea and China Play slideshow  Yuri Smityuk/TASS1 of 9Russian border guards on patrol on the top of Zaozyornaya Hill at the Khasan crossing point on the Russian-North Korean border in the tri-border area where the boundaries of Russia, China and North Korea meet  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    It comes as the White House confirms Donald Trump has been briefed by his generals on options to respond to North Korean "aggression”.In a statement, the White House said: "This morning President Donald Trump met with members of his national security team to receive a briefing from Secretary of Defence James Mattis and Chairman of the Joint Chiefs of Staff General Joseph Dunford.“The briefing and discussion focused on a range of options to respond to any form of North Korean aggression or, if necessary, to prevent North Korea from threatening the United States and its allies with nuclear weapons.After the meeting, the US flew two supersonic bombers over the Korean peninsula, and US Pacific command confirmed the USS Tuscon – a nuclear submarine – is present in the region.Related articles   WORLD WAR 3: North Korea could be PARALYSED by ‘blackout bomb’  WORLD WAR 3: Donald Trump moves NUCLEAR SUBMARINE to Korea

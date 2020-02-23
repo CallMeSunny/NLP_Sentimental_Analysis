@@ -1,0 +1,240 @@
+NHS cyber attack ‘only just beginning’ as hackers use ‘malware atomic bomb’ to turn hijacked machines into infectious ‘zombies’
+https://www.thesun.co.uk/https://www.thesun.co.uk/news/3547001/nhs-cyber-attack-computers-hospitals-latest/
+13th May 2017, 4:18 pm
+"THIS is only the beginning" an expert has warned, as he likened infected computers to "zombies" who will keep spreading the ransomware virus which nearly brought the NHS to its knees.
+Alleged hacker Lauri Love said the "top of the range cyber weapon", believed to have been stolen from the NSA by sinister hackers the Shadow Brokers, said he expected the virus to spread across the globe.
+PA:Press Association23 A huge cyber attack plunged the NHS into chaos and took down thousands of systems worldwide
+23 Emma Simpson took her son Sebastian to a Barts Health hospital for an X-ray on his broken toe and was told systems were down
+PA:Press Association23 Patrick Ward from Dorset whose heart operation scheduled today was cancelled because of a NHS cyberattack
+Home Secretary Amber Rudd said this afternoon that all but six of the 48 hospital trusts hit by the virus are now running as normal.
+But Love, who is accused of stealing US data in an unconnected case, told Sky News: "I'm sad to say that this is probably only just beginning; administrators are in for a very difficult weekend.
+“We should expect to see this in almost every country in the world.
+“If you’ve been infected, not only have your files been encrypted and you’re being held to ransom, but your machine is being used as a zombie to attempt to affect other machines on the internet.”
+Despite Love's warning, one Brit blogger appeared to stop the virus in its tracks - by accidentally discovering a way to halt it spreading.
+The anonymous "hero" found that by registering a simple website name for less than a tenner, he caused the malware to "exit" every time it infected a new machine.
+Follow our guide to check you're not at risk from the superbug and find out how to protect your computer.
+It comes as the NHS was slammed by a top minister for failing to protect computers from the massive cyber attack.
+
+Europol is working with countries hit to rein in the threat, help victims and track down the perpertrators.
+Hundreds of operations have been cancelled and patients turned away from A&E at hospitals across the UK, while Sunderland's Nissan plant was hit last night.
+Home Secretary Amber Rudd today slammed the NHS and said it was "disappointing" it had failed to update its systems, which she claims Heath Secretary Jeremy Hunt had ordered health trusts to do.
+Some NHS trusts are understood to be still using the outdated operating system Windows XP, which Microsoft stopped supporting in 2014.
+Others may have failed to install a "critical" software update in March which would have protected them against the virus, experts warned.
+EPA23 Home Secretary Amber Rudd, pictured outside Downing Street last week, is due to attend a Cobra meeting after slamming the NHS for failing to update its systems
+Hackers using malware "stolen from the NSA" crippled 45 NHS trusts and caused disruption across at least 45,000 computer networks in 99 countries in the unprecedented global attack yesterday.
+The tools used to carry out the hack - dubbed a superweapon - are thought to be a surveillance tool developed by the US's National Security Agency to spy on terrorists and enemy states.
+The "exploit", called EternalBlue, was stolen and dumped online by the sinister Shadow Brokers last month.
+A Brit tech blogger has been praised as a "hero" after he managed to halt the spread of the virus by accident.
+But he urged people to update their operating systems to ensure they are protected, amid fears the virus could still cause chaos.
+Prime Minister Theresa May thanked NHS staff for working overnight to make sure patient records hadn't been affected.
+The massive security breach has sparked concerns over countries hoarding intelligence for offensive purposes instead of alerting tech companies to potential flaws.
+The NHS is predicted to reel for weeks with delays and disruptions.
+
+Home Secretary Amber Rudd told Sky News that Health Secretary Jeremy Hunt had ordered trusts to move off XP, which most had done.
+She said no patient data had been stolen, but the government didn't yet know who launched the attack or whether it was directed by a foreign government.
+Malwaretech23 A map shows the spread of the virus, which has now infected computers in 99 countries
+She told BBC Radio 4's Today programme the virus wasn't directly targeting NHS and "feels random".
+Just a day before Friday's attack a doctor gave a chilling warning that hospitals "will almost certainly be shut down by ransomware this year".
+Ms Rudd will chair a Cobra meeting at 2.30pm this afternoon.
+Dr Krishna Chinthapalli, a neurology registrar at the National Hospital for Neurology and Neurosurgery in London, made the prediction in an article in the British Medical Journal.
+How a Brit tech blogger accidentally found a way to stop the virus spreadingA BRIT blogger has been dubbed an “accidental hero” after he found a way to halt the global spread of the WannaCry virus.
+The 22-year-old, who runs malwaretech.com, registered the domain name which the virus tries to contact when it infects a new target.
+The virus has a security feature – which experts suspect is an emergency stop button included by the hackers – which means it only spreads if it can’t connect with that address.
+If it does connect, it shuts itself down immediately, reports thedailybeast.com.
+But the hacker didn’t register the domain name for the address, so MalwareTech swooped in and registered it himself for just £8.29.
+He has since been praised for dramatically slowing the spread of the virus, although he warned others hackers only need to change some code before they can start again.
+He tweeted: “I will confess that I was unaware registering the domain would stop the malware until after I registered it, so initially it was accidental."
+He urged people to patch their systems to protect themselves.
+Ryan Kalember, of Californian security firm Proofpoint, told The Guardian: "They get the accidental hero award of the day."
+
+The Home Secretary said she expected NHS trusts to modernise systems after the attack, which has affected 45 NHS organisations.
+In December, 90 per cent of NHS trusts were reportedly still using the ageing operating system Windows XP - which Microsoft stopped supporting in 2014.
+Ms Rudd said: "Windows XP is not a good platform for keeping your data as secure as the modern ones, because you can't download the effective patches and anti-virus software for defending against viruses."
+She said the CQC does cyber checks on hospitals, adding: "I think that after this experience, I would expect them all to move forward with modernising."
+Ms Rudd insisted the UK is a world leader in cyber security, saying: "So far, all we have seen is patients inconvenienced, some hospitals, some doctors making changes to their daily life.
+"But the fact is no data has yet been accessed and the NHS are brilliantly managing to weave through this disruption."
+And for those computers running newer systems, Microsoft reportedly provided a free software update to provide protection in March.
+Ross Anderson, of Cambridge University, told The Guardian the “critical” software patch may not have been installed across NHS computers.
+Sky News23 Anthony Brett, who was expecting to have an operation to treat his cancer, but was frustrated to find it had been cancelled
+He said: "If large numbers of NHS organisations failed to act on a critical notice from Microsoft two months ago, then whose fault is that?"
+He told The Telegraph it was the "sort of thing for which the secretary of state should get roasted in Parliament."
+Europol said today the global cyber attack was on an "unprecedented level".
+It comes a day after US President Donald Trump signed an executive order targeting the government's vulnerability to cyber threats.
+A major operation has been launched by the National Cyber Security Centre in response to the massive attack.
+
+Twitter23 Trusts across the country were affected by the large scale attack
+Among the patients affected was Anthony Brett, 50, due to have a stent put in his liver for cancer treatment at St Bartholomew's Hospital in London on May 12, who was told his records couldn't be accessed.
+He said: "There are so many corporations out there they could be getting money from, but to do it to the NHS that does so much good for people, it's just disgusting.
+"They should be hung drawn and quartered."
+And a 61-year-old man due to go under the knife for major heart surgery after months of waiting was left distraught when it was cancelled at the eleventh hour due to the hack.
+
+WHICH TRUSTS ARE AFFECTED?A LIST of NHS trusts who have fallen victim to the attack so far:
+Northumbria Healthcare
+North Cumbria Hospitals
+Morecambe Bay Hospitals
+Blackpool Hospitals
+Southport Hospital
+East Lancashire Trust
+Barts Health
+East and North Hertfordshire
+Derbyshire Community Health
+University Hospitals North Midlands
+North Essex Partnership University FT
+London North West Healthcare Trust
+York Hospitals
+East Cheshire Trust
+Aintree University Hospitals
+The Royal Liverpool and Broadgreen Hospitals Trust
+Liverpool Community Trust
+United Lincolnshire Hospitals
+James Paget University Hospital FT
+Basildon And Thurrock University Hospitals NHS Foundation Trust
+Mid Essex Hospital Services NHS Trust
+Colchester Hospital University NHS Foundation Trust
+George Eliot Hospital NHS Trust
+Wrightington, Wigan And Leigh NHS Foundation Trust
+Cheshire and Wirral Partnership NHS Foundation Trust
+Nottinghamshire Healthcare NHS Trust
+Burton Hospitals NHS Foundation Trust
+Birmingham Community Healthcare Trust
+Sherwood Forest Hospitals
+Ipswich Hospital
+West Herfordshire Hospitals
+Barnsley Hospital
+Central Manchester University Hospitals
+
+As well as the computer admin systems, services crucial to front-line work including X-rays, test results and doctor's bleep systems were affected.
+However, there are no reports of the hack compromising vital systems such as life support machines.
+Some NHS trusts were unable to carry out emergency MRI and CT scans as doctors reverted to using pen and paper amid the chaos.
+NHS England declared a major incident in the wake of the attack.
+One doctor tweeted minutes after the attack: "Massive NHS hack cyber attack today. Hospital in shut down. Thanks for delaying emergency patient care & endangering lives. A******s."
+Who are the Shadow Brokers and what is EternalBlue?The Shadow Brokers are a group of hackers who emerged last August when they leaked some of the US NSA’s hacking tools online, sparking alarm worldwide.
+These included “exploits” used to take control of networks through firewalls, anti-virus software Microsoft products.
+One of these tools is EternalBlue, which targets a vulnerability in Microsoft Windows.
+The cyber gang stole the tool - which the NSA developed to spy on terrorists and enemy states - in April.
+The bug was dumped online just after Donald Trump ordered an airstrike in Syria, leading some to believe the Shadow Brokers have links to the Russian government.
+EternalBlue is the exploit which has been used to cripple the NHS and other computer systems in 99 countries.
+The hackers used EternalBlue to spread a ransomware virus called WannaCry, which is known as a computer “worm” because it replicates itself to rapidly spread between computers.
+
+ 
+Trust staff: we are aware of the national cyber attack - DO NOT open any emails that have “Clinical Results” in the title or similar.— East Kent Hospitals (@EKHUFT) May 12, 2017
+
+
+EPA23 Emergency vehicles have been diverted as operations have been postponed in the wake of the attack
+Staff described computers going down one by one as the devastating attack took hold, as experts now say they warned of vulnerabilities in the systems for months.
+Prime Minister Theresa May said yesterday evening the massive cyber attack was part of a wider international attack.
+She added there was no evidence patient data has been compromised.
+Earlier in the day, the same ransomware hit Telefonica - the owner of O2 - and other huge organisations in Spain.
+Nissan's Sunderland plant has been hit by the attack, while Renault confirmed its French sites had been forced to cease production.
+Cyber attacks have been reported in 99 countries had been reported, including Italy, Portugal, Russia, Vietnam, Kazakhstan and Taiwan.
+Intelligence services in Romania said they intercepted an attempted cyber attack on a government institution likely to have come from the cybercriminal group known as Fancy Bear.
+And Russia's Interior Ministry also came under attack, as well as courier firm FedEx.
+China's Xinhua news agency said some of its schools and universities had been hit.
+Even Germany's main train operator Deutsche Bahn appeared to have been attacked as images of a train timetable with the hacker's warning message appeared on social media.
+
+Health Secretary Jeremy Hunt was briefed by the National Cyber Security Centre as Scottish First Minister Nicola Sturgeon chaired a resilience meeting following the attack.
+Scotland has seen 11 out of 14 health boards affected by the attack where those behind it demanded a bitcoin ransom in what is believe to be the biggest ransomware outbreak in history.
+Computers in thousands of locations were locked by a programme that demands payment of $300 (£230) in bitcoin - ransom notes in 30 different languages were created according to a security expert.
+Pictures posted on social media showed screens of NHS computers with images demanding payment saying: "Ooops, your files have been encrypted!"
+It adds: "Maybe you are looking for a way to recover your files, but do not waste your time."
+MOST READ IN NEWSDYING WISH Single mum loses fight with cancer after asking family 'Look after my boys' ExclusiveROO'S FURY Wayne Rooney livid after bro filmed looking pally in pub loo with Tommy Robinson ZAPPED TO DEATH Toddler killed after putting phone charger in mouth while plugged into wall 'RAPE' RAP Oritse Williams' manager admits touching 'zombified' girl as 'star raped her' COT CLOTS Celebs' pics of babies sleeping in unsafe conditions 'fuelling cot death rise' WarningMOB JUSTICE Furious crowds strip female ‘shoplifters’ naked, batter them and cut their hair 
+They warned the sum would be doubled if it was not paid within three days.
+Head of communication at Wirex, the world's biggest bitcoin debit card company, Imran Khan, said the fact that the hackers have demanded payment in bitcoin may be their undoing, due to the technology working behind it.
+At least 10 payments of about 300 US dollars had been made to the hackers bitcoin accounts by the evening but despite the public transaction it cannot be seen who made the payments - one address had already been paid more than $150,000, Chris Doman told Sky News.
+NHS Incident Director Dr Anne Rainsberry says patients should still visit A&E in an emergency, but to "use the NHS wisely while we deal with this major incident which is still ongoing".
+It is thought the ransomware may have infiltrated IT systems through emails with 'Clinical Results' in the subject line.
+A tweet from East Kent Hospitals earlier yesterday afternoon seemed to suggest these emails were the cause of the problems there.
+Getty Images23 Prime Minister Theresa May said yesterday evening the massive cyber attack was part of a wider international attack
+Ambulances were diverted from a number of hospitals where conditions were described as "primitive", after the systems were targeted.
+The BBC reports nurses at the Royal London Hospital were unable to print identity tags to go around the wrists of newborn babies.
+GP practices, pharmacies and universities are also thought to have been affected by the attack.
+This is not the first time the NHS has been hit by a cyber attack but it is the first of this scale.
+Former MI6 director Nigel Inkster said attacks like this one have become "increasingly common" while other experts warned the NHS is likely to fall victim again in the future.
+A Microsoft spokesman told Sky News customers running free antivirus software and who have Windows Updates enabled are protected from ransomware attacks.
+
+Have you been affected by the NHS cyber attack? Contact Ellie Cambridge on 0207 782  4518 or email ellie.cambridge@the-sun.co.uk
+
+Corbis23 A representation of bitcoin - the digital currency demanded by the hackers in ransom
+Theresa May's full statement said: "We are aware that a number of NHS organisations have reported that they have suffered from a ransomware attack.
+"This is not targeted at the NHS, it's an international attack and a number of countries and organisations have been affected.
+"The National Cyber Security Centre is working closely with NHS digital to ensure that they support the organisations concerned and that they protect patient safety.
+"And, we are not aware of any evidence that patient data has been compromised.
+"Of course it is important that we have set up the National Cyber Security Centre and they are able to work with the NHS organisations concerned and to ensure that they are supported and patient safety is protected."
+UKIP's health spokesman Suzanne Evans called for those behind the attack to feel the "full force of the law" and Dave Prentis, general secretary of the UNISON union said underfunding was to blame.
+Whistleblower Edward Snowden tweeted his views on the global attack to highlight making sure there are not other vulnerabilities in hospital software.
+In light of today's attack, Congress needs to be asking @NSAgov if it knows of any other vulnerabilities in software used in our hospitals.— Edward Snowden (@Snowden) May 12, 2017
+
+
+EPA23 GP practices, pharmacies and universities are also thought to have been affected by the attack which has taken down multiple hospital trusts
+EPA23 It is now thought about 40 hospitals have been affected by the cyber attack
+Some of the trusts and hospitals affected include North Cumbria, Morecambe Bay hospitals, Blackpool, Barts Health in London, Colchester, Greater Manchester and Derbyshire.
+York Teaching Hospital NHS Foundation Trust, which runs York and Scarborough hospitals, confirmed its computers were affected by the widespread attack.
+As staff were leaving work from Hampshire Hospitals they reportedly saw a message on their computers requesting they "power off all pc's that are not being used" and report any sightings of the virus message to the servicedesk.
+A spokeswoman for Blackpool Victoria Hospital pleaded for patients in the area to only attend A&E in life-threatening emergencies, and asked for patience in other departments, which were running slower than usual.
+Our A&E is open for critical or life-threatening situations requiring medical attention, such as loss of consciousness, heavy blood loss...— Colchester Hospital (@ColchesterNHS) May 12, 2017
+
+
+Twitter23
+twitter23 Pictures showing empty A&Es have been posted on social media
+Twitter23 Ambulances were being diverted and patients urged to call NHS 111
+What is ransomware? Cyber hack software that has crippled the NHSRansomware is a virus which takes over a device (or computer) and freezes its files.
+Hackers use it to hold the recipient to ransom, asking for money in return for access to their documents.
+The ransomware is spread by accidentally clicking a bad link.
+It’s often shared in an email, or in some cases hackers could booby-trap a website they know employees will visit, like a government portal.
+In the case of the NHS, the virus could block access to patient data or operation schedules.
+As hospital bosses are left frantically trying to access the corrupted files, hackers will step in to ask for money in return.
+Professor Alan Woodward, visiting Professor of Computing, University of Surrey, said: “The flaw it appears to be exploiting means that it acts as a ‘worm’ i.e. once inside a network it seeks out and affects any susceptible computer it can find on the network.
+"The only sensible way to tackle it is to ‘pull the plug’ so that it can’t spread any more until you can isolate the affected machines and work out a remediation plan."
+Security experts always advise against paying a ransom, as hackers will often destroy the files anyway.
+Criminal gangs are known to send out thousands of these emails, called phishing scams, in the hope that just a few will click on the link.
+To protect yourself, visit the Action Fraud website
+
+Colchester Hospital warned A&E is only open for "critical or life-threatening situations requiring medical attention, such as loss of consciousness, heavy blood loss".
+A Barts spokesman said it was experiencing "major IT disruption" and delays at all four of its hospitals, The Royal London, St Bartholomew's, Whipps Cross and Newham.
+He said: "We have activated our major incident plan to make sure we can maintain the safety and welfare of patients.
+"We are very sorry that we have to cancel routine appointments, and would ask members of the public to use other NHS services wherever possible."
+We have activated our major incident plan to make sure we can maintain the safety and welfare of patientsBarts spokesman
+A source at Whipps Cross Hospital in London said: “It’s madness. We’ve had to cancel appointments and operations.
+“We can’t get blood results or even do X-rays."
+Members of staff at The Royal London Hospital were told not to touch their computers following the attack, one employee said.
+Handwritten signs at the hospital's entrance in east London warned patients of the situation: "The emergency department has no IT facilities, there are significant delays occurring."
+Derbyshire Community Health Services NHS Foundation Trust, which sees 4,000 patients a day across Derbyshire and parts of Leicestershire, said all of its IT systems had been "shut down".
+East and North Hertfordshire NHS also confirmed they experienced a “major IT problem, believed to be caused by a cyber attack”.
+Why would you cyber attack a hospital and hold it for ransom? The state of the world 😂 pic.twitter.com/e6h6yNrBBB— If.ra (@asystoly) May 12, 2017
+
+
+23 Warning screen that appeared on the NHS homepage after the cyber attack
+They added in a statement: "Immediately on discovery of the problem, the trust acted to protect its IT systems by shutting them down; it also meant that the trust’s telephone system is not able to accept incoming calls.
+“The trust is postponing all non-urgent activity for today and is asking people not to come to A&E - please ring NHS 111 for urgent medical advice or 999 if it is a life-threatening emergency.
+“To ensure that all back-up processes and procedures were put in place quickly, the trust declared a major internal incident to make sure that patients already in the trust’s hospitals continued to receive the care they need.”
+Twitter23
+23 Hospitals and trusts are warning patients of the attack on their websites
+NHS Digital said: “A number of NHS organisations have reported to NHS Digital that they have been affected by a ransomware attack which is affecting a number of different organisations.
+"The investigation is at an early stage but we believe the malware variant is Wanna Decryptor.
+"At this stage we do not have any evidence that patient data has been accessed.
+"We will continue to work with affected organisations to confirm this."
+
+23 The widespread attack plunged the NHS into chaos
+Twitter23 Groups have said the attack has come as "no surprise"
+Shadow Health Secretary Jon Ashworth said the hack "highlights the risk to data security within the modern health service and reinforces the need for cyber security to be at the heart of government planning".
+Brian Lord, former deputy director of GCHQ Cyber and Intelligence, said the attack was "inevitable".
+He told The Sun Online: "Hopefully, this is a wake up call. Until basic cyber hygiene is taken seriously, these attacks will continue to happen at this scale with an impact disproportionate to the nature of the attack."
+Last November, hackers warned they were setting their sights on the NHS by targeting life-saving medical equipment in a bid to extract huge ransoms.
+Gordon Morrison, director of government relations at Intel Security, told The Sun: “Criminals recognise that MRI machines, oncology departments, machines that are providing medical services, medical analytics, are all linked to legacy devices.
+“They will know that and they will exploit that. If there is money to be made by crippling a machine, they will do that.”
+23 A number of hospitals are reporting problems with their IT systems
+Morrison said hackers typically attack a hospital by including a virus in a spam email, either as a link or attachment.
+Speaking at the King’s Fund Annual Conference in Central London, he added: “This is malware that infects you, encrypts as much information as it can, and then demands [money] to free it.”
+Security consultant Tony McDowell said Russian hackers were the likely “prime suspect” and accused them of “posturing”.
+Twitter23 The hackers have been slammed on social media for targeting the NHS
+Twitter23 The attack affected patients who were turned away from A&E
+Mr Inkster told Sky News the full story will take some time to emerge.
+But, he said: "This highlights a number of points, one is just how vulnerable patient data has become," he warned.
+"It's one most valuable commodities on the internet.
+"Secondly to be blunt, there are some real issues with NHS trust cyber security many trusts, in excess of 40 are using Windows XP software, which have not been supported by Microsoft two to three years."
+He said in the aftermath, patients deserve to know more about what is done with their medical and personal information.
+
+We pay for your stories! Do you have a story for The Sun Online news team? Email us at tips@the-sun.co.uk or call 0207 782 4368.
+
+ 
+

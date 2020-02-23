@@ -1,0 +1,217 @@
+Kate Upton showcases new baby bump in form-fitting dress with hubby Justin Verlander at Maxim party
+https://www.dailymail.co.uk/tvshowbiz/article-5979081/Kate-Upton-showcases-new-baby-bump-form-fitting-dress-hubby-Justin-Verlander-Maxim-party.html
+ 08:23 BST, 22 July 2018 
+She announced less than a week ago that she is expecting her first child.And Kate Upton had her bump on full display at the Maxim Hot 100 Experience in LA on Saturday night.The 26-year-old mom-to-be looked stunning in a figure-hugging, dark multi-colored sequinned dress.Scroll down for video          Mom-to-be: Kate Upton had her bump on full display at the Maxim Hot 100 Experience in LA on Saturday nightThe model accentuated a clearly visible baby bump with a tighly cinched belt above it, high on her waist.She tied her long blonde hair back to show off a pair of drop earrings.The Michigan-born beauty rocked a towering pair of strappy heels, the likes of which she will get limited use out of over the coming nine or so months.               Gorgeous: The 26-year-old mom-to-be looked stunning in a figure-hugging, dark multi-colored sequinned dress         Parents: She was joined at the event by her babydaddy and groom of more than six months, professional baseball player Justin Verlander         On show: The model accentuated a clearly visible baby bump with a tighly cinched belt above it, high on her waist
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Kate_Upton'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sparkle like Kate in a Temperley London sequin midi dress
+
+
+
+
+Temperley London high neck sequin dress
+Shop the designer at NET-A-PORTER.COM
+
+
+
+Visit site
+
+
+
+Temperley London's collections have been awash with glittering sequins for most seasons now and, just like us, it appears Kate Upton cannot get enough of this shining trend either.
+The model was attending the Maxim Hot 100 party with her husband and made sure to show off her baby bump in true statement style. As put together by Jamie Mizrahi, she's wearing a custom multi-coloured sequin dress by the British designer that features a high neck and ombré like pattern. 
+A dress just like Kate's is perfect for an evening event when you want to look your best. And although this one isn't on sale, you can shop the current collection of diva-esque dresses by clicking (right). Alternatively, opt for shining styles with our edit below and channel the glitz with Asos, DVF and more.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asos Design high neck sequin midi dress (now reduced to £23)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+V by Very striped sequin dress (now reduced to £45.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo sequin high neck power shoulder bodycon dress (now reduced to £13)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Diane von Furstenberg long-sleeve crew neck sequin dress (now reduced to £652)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Kate_Upton', FFFtype: 'inline', fff: true}});
+        }
+    
+
+She was joined at the event by her babydaddy and groom of more than six months, professional baseball player Justin Verlander. The 35-year-old looked sharp in a light grey checked suit and white button-up shirt. Despite Kate's not-to-be-sniffed-at 5'10" and lofty shoes, her 6'5" athlete hubby towered over her.                Ruff night: Kate met a fan in the form of a pretty husky         Big news: She revealed her pregnancy news less than a week agoThe Houston Astros pitcher came straight to the party from work, where he'd had a productive day hammering the LA Angels 7-0.Also at the party was Tinashe, who looked ravishing in a cleavage and tummy-baring sheer red crop top and matching skirt.Brazilian model Daniela Braga rocked a sexy backless short black dress, with silver detailing at the trim, encrusted with gems.         Red hot: Also at the party was Tinashe, who looked ravishing in a cleavage and tummy-baring sheer red crop top and matching skirt              Goddess: Radio host Kerri Kasem emulated a sideboob-flashing Greek goddess in a fabulous flowing white gown         Sexy: Actress Alyson Stoner wore a sexy tight leather dress with cutaway sides              Fab: Brazilian model Daniela Braga rocked a sexy backless short black dress, with silver detailing at the trim, encrusted with gemsActress Alyson Stoner wore a sexy tight leather dress with cutaway sides.Radio host Kerri Kasem emulated a sideboob-flashing Greek goddess in a fabulous flowing white gown.There was a fair share of sexy guys on hand too, in the forms of Nick Viall and Fabio Lanzoni.              Hot stuff: There was a fair share of sexy guys on hand too, in the forms of Nick Viall and Fabio Lanzoni         Busy day: The Houston Astros pitcher came straight to the party from work, where he'd had a productive day hammering the LA Angels 7-0

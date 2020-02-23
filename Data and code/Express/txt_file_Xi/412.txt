@@ -1,0 +1,21 @@
+China accuses Trump of launching TRADE WAR and promises STARK RESPONSE to US tariffs
+https://www.express.co.uk//news/world/975076/china-accuses-donald-trump-trade-war-american-president-trade-tariffs
+ 03:04, Sat, Jun 16, 2018 
+  Donald Trump, and Chinese President Xi Jinping (Image: GETTY )Just days after the Republican firebrand announced trade restrictions on some of the US's closest allies, including EU states and Canada, it was confirmed America would impose tariffs of 25 percent on $50billion worth of Chinese goods.In a statement yesterday, the President said American trade with China “has been very unfair for a very long time,” and insisted the new rules were designed to punish China for the "theft" of American intellectual property.US restrictions will target China’s technical industries, including aerospace, robotics, and auto engineering.In response, the Chinese government have promised to retaliate with similar tariffs. Related articles   TRADE WAR: Trump could throw world into chaos over China and EU tar...   Merkel could hit back at Trump’s tariffs with attack on Amazon, Air... The Commerce Ministry said: “China does not want a trade war.“We will immediately launch tariff measures that will match the scale and intensity of those launched by the United States.“All economic and trade agreements reached by previous negotiations will be nullified at the same time.”China also called on the world to “firmly safeguard” the interests of the people. Justin Trudeau heads to China for official visit Wed, December 6, 2017Visiting Canadian Prime Minister Justin Trudeau and Chinese Premier Li Keqiang signed three trade agreements on December 4 as Ottawa tries to diversify commercial ties amid tough NAFTA negotiations with Washington Play slideshow  AFP/Getty Images1 of 14Justin Trudeau walks during a review of Chinese paramilitary guards with China's Premier Li Keqiang during a welcome ceremony at the Great Hall of the People in Beijing  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The government went on: “In this day and age, launching a trade war is not in the interest of the world.“We call on all countries to act together to firmly stop such an outdated and backward move, and to firmly safeguard the common interest of all mankind.”Beijing’s tariffs on US goods will start on July 6 - the same day as Trump’s announced restrictions - and will apply to agricultural products as well as cars.Trump has warned if Beijing follow through with the retaliations, there will be another round of restrictions placed on Xi Jinping's superstate.   The threat of a trade war does not look good for international markets, as The Dow Jones fell by nearly 200 points on Friday after the new rules were announced.Other countries are also worried about the world markets, as Germany’s central bank cut its forecast on Friday.It said: “An escalating global trade dispute or widespread rises in import tariffs would have a marked negative impact on Germany’s export oriented economy."

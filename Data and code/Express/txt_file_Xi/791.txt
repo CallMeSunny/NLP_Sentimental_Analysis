@@ -1,0 +1,21 @@
+Karate Kate: Duchess of Cambridge meets Jackie Chan during Chinese president visit
+https://www.express.co.uk//celebrity-news/613636/Duchess-of-Cambridge-Kate-Middleton-Catherine-Jackie-Chan-Chinese-president-visit
+ 14:53, Wed, Oct 21, 2015 
+  PA/GETTYKate Middleton met Jackie Chan as part of the Chinese president's State Visit to the UK The 33-year-old met the actor and martial arts expert as part of the Chinese president, Xi Jinping’s, visit to the UK.President Zi and his wife Peng Liyuan were joined by the Duke and Duchess of Cambridge and Jackie at Lancaster House in central London this afternoon. Related articles   Pippa Middleton cuts glum figure in first sighting since split...   Lady in Red: But was Kate’s dazzling dress a craven nod too far to... They met to discuss the cultural collaborations between the UK and China, including those in film, TV and theatre.The royal party watched exhibitions and demonstrations by Poldark, BBC Earth, Sherlock, and the Society of London Theatre.  GETTYThe actor was present at an event to celebrate the cultural collaborations between the UK and China   PA The Duchess looked quite impressed to be stood beside the Hollywood star They also posed beside famous props from British television, including a TARDIS and Dalek from Doctor Who, before meeting Jackie.Looking lovely in a plum coloured laced dress, Kate beamed with joy as she stood beside the Rush Hour star.After posing with the Duke and Duchess of Cambridge, the Hollywood legend happily stopped for selfies with other guests.He praised the State Visit, saying: "I think it really helps for the culture exchange. Right now China is one of the bigger markets."Collaboration really helps me to create new ideas." Kate Middleton Duchess of Cambridge pictures Mon, July 16, 2018Kate Middleton, the Duchess of Cambridge in pictures. Play slideshow  1 of 100  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+       The royals and the head of state also saw an Aston Martin, London Routemaster and an iconic black cab.Aston Martin has unveiled a £50 million deal with China Equity to develop its zero-emission RapidE sports car.London Taxi Company owner Geely, a Chinese firm, has also announced a further £50 million investment to launch a new fleet of zero emission-capable black cabs.Meanwhile, British bus builder Alexander Dennis Limited is to join forces with Chinese firm BYD, which built the prototype bus on display, to build 200 next-generation buses over the next 10 years.  GETTYCatherine wowed in a lace dress 

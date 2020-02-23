@@ -1,0 +1,21 @@
+Gold prices rise as fears of stock market crash take hold
+https://www.express.co.uk//finance/city/788752/Gold-prices-Dow-Jones-stock-market-crash-Trump-Fed
+ 16:04, Thu, Apr 6, 2017 
+  GETTYGold prices have jumped amid fears of a crashBritain's top stock market the FTSE 100 fell by around 0.5 per cent on Thursday after losses in Asia and on Wall Street overnight. At the same time, gold values have pushed higher to sit at $1,254 (£1,003) - now up from around $1,200 (£960) just one month ago. The precious metal is traditionally a safe haven for cash in times of market turmoil and downturns. Experts have predicted prices could now hit $1,300 (£1,040) if fear continues to rise over sky-high stocks. Related articles   French election 2017: Rising chance of Le Pen win puts markets on edge   Scotland's economy DIVES in final months of 2016   BloombergGold prices have been rising since March   It comes as investors were last night spooked by the American central bank. The US Federal Reserve signalled it is set to start withdrawing measures to support markets put in place at the height of the financial crisis. Minutes from the policymaker's most recent meeting showed policymakers discussing how to cut back its money-printing measures that pushed its balance sheet to $4.5trillion. So-called Quantitative Easing has helped boost stock markets in recent years - and a reversal could trigger a reversal. Share prices have also been more recently propelled to record highs by promises of tax cuts and increased state spending under Mr Trump's presidency. However, faith in the US president has started to waver in recent weeks after he failed to get his healthcare bill signed off by Congress. Related articles   Six warning signs stock markets could be heading for a CRASH    ‘BE PREPARED’ ECB fires warning to Europe's most debt-ridden states  First 100 days of President Trump Mon, June 12, 2017President Donald Trump is making a significant impact on global politics during his first term. Play slideshow  REUTERS1 of 23President Donald Trump arrives at Newark International airport  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Now all eyes are on what is set to be a strained meeting between Mr Trump and Mr Xi. Kathleen Brooks, research director at City Index Direct, said: "The Fed engaged in a detailed discussion about how to shrink its $4.4trillion balance sheet at its meeting last month, and also pointed out the high valuations of US stock markets. "This has led to a risk-off tone as we approach 48 hours full of key event risks."Markets will be looking for any tension between President Trump and China’s President Xi, any sign of discord could be enough to trigger significant declines in global risk assets."

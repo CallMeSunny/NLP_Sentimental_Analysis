@@ -1,0 +1,21 @@
+Pound v US dollar: GBP exchange rate positive despite latest China tariff threat
+https://www.express.co.uk//finance/city/943394/Pound-US-dollar-exchange-rate-China-tariff-threat
+ 10:33, Mon, Apr 9, 2018 
+  GETTYThe pound US dollar exchange rate remains largely positive this morningMarkets are currently waiting in anticipation for a more detailed response from China to the latest threat of tariffs from the US.US President Donald Trump has recently asked economic advisors to consider targeting an extra $100bn in Chinese goods.White House Chief Economic Advisor Larry Kudlow has downplayed these threats, however.He stated that the US President is simply trying to get China’s attention and that, thus far, Beijing has not wanted to “come round and talk in earnest”. Related articles   Pound v US dollar: GBP exchange rate worsens after services sector PMI   Pound v US dollar: GBP static as Trump considers new $100bn tariffs Mr Kudlow said, talking about China’s alleged use of US intellectual property and its high barriers to trade: “Look, we have had to go in and fire a shot across the bow."China’s behaviour, it’s 20 years now, it’s more than unfair trade practices. Its illegal trade practices.”President Trump has also taken to Twitter insisting that Chinese President Xi Jinping will take down China’s trade barriers because “it’s the right thing to do” whilst also predicting a “great future for both countries”.On the data front, things could warm up by Wednesday, with the UK’s trade balance, industrial production, manufacturing production and construction output readings for February all due at out.The NIESR gross domestic product estimate for March could also prove significant, with markets concerned that the reading could worsen in light of the damage caused to the UK’s services sector (making up around 80 per cent of GDP) by the recent severe storms.US consumer price inflation readings for March are also due on Wednesday, with markets expecting a sizable acceleration from 2.2 per cent year-on-year to 2.4 per cent and a rise from 1.8 percent to 2.1 per cent in the core reading (excluding food and energy prices).This rise could prompt a hawkish response from the US Fed.Moreover, the US Federal Open Market Committee (FOMC) meeting minutes for March are due on Wednesday. How to get the best exchange rate Sun, July 15, 2018Exchange rate: How to get the best deal on your holiday money. Play slideshow  Getty Images1 of 8How to get the best exchange rate  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+       The transcripts of which could provide a better insight into whether the US Fed was perhaps intending on moving for four rate hikes this year, rather than three, back in the last month.Ultimately, the first half of this week is likely to be dominated by US-China trade negotiations.Any signs of escalation from either side would be liable to spook the markets and drive demand away from the ‘Greenback’.Any signs of agreement would be liable to put the pound US dollar exchange rate under renewed pressure.

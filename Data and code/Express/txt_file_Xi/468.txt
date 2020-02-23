@@ -1,0 +1,21 @@
+North Korea THREAT: Trump needs to be TOUGHER with China to defeat Kim Jong-un
+https://www.express.co.uk//news/world/897538/North-Korea-news-update-Donald-Trump-Kim-Jong-un-China-World-War-3
+ PUBLISHED:  09:27, Fri, Dec 29, 2017 
+   North Korea’s threat is too great for China to fail to comply with UN trading sanctions and Donald Trump needs to be tougher with Xi Jinping in order to defeat Kim Jong-Un.Former US NATO Ambassador Nicholas Burns told CNBC News that Donald Trump needs to ask more of China in 2018.Mr Burns said: “Some people think 2018 is going to be a year of decisions where the administration might choose to use military force to try to deal with North Korea nuclear problem.  GETTYNorth Korea's threat can only be diminished if Donald Trump is tougher on China  Keep the Chinese focused on what they said they’re going to do and have them do itNicholas Burns“I think that’s a possibility, but I think the greater probability is that we’ll see a continuation of the sanctions effort. More pressure by President Trump on Xi Jinping for China to do more to restrict Chinese trade with North Korea. “And I think the administration is still looking for an opening towards negotiations because the risks of a war are so great of developing an even greater war in the Korean peninsula, I think the administration will be very sensitive about that.”China denied breaking any UN sanction by selling oil to North Korea but considering its past failure to conform with UN sanctions, it would be fair for the US to question China's compliance, said Mr Burns.   Mr Burns added: “That’s what the Trump administration has to do, and for the President particularly with Xi Jinping, keep the Chinese focused on what they said they’re going to do and have them do it. “But also, ask the Chinese to do more because it’s not in the interest of China to see this terrible problem of the North Korean peninsula heat up.”In an article for the New York Times, US Secretary of State Rex Tillerson hinted that the Trump administration might be more aggressive against China in general and intellectual property rights and other trade disputes. US and South Korea meet for winter drill on North Korea's doorstep Wed, December 20, 2017The winter training exercise originally was designed to prepare for possible North Korea attacks and is annually held by soldiers of South Korea's and the U.S. Marine Corps Play slideshow  AFP/Getty Images1 of 12A South Korean Marine aims his rifle on a snowy hill during a joint winter drill with US Marines in Pyeongchang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Trump's  administration held off in 2017 to pressure China on trade because they needed Xi Jinping’s help with North Korea. “That may change in the next few months, so that bears watching as well”, said Mr Burns.He added: “It’s going to be one of the most important early determinants in January and February, where the administration is going. We are seeing a lot more talk from the administration about the need to get tough with China.”

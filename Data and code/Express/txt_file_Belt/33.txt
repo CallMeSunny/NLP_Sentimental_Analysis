@@ -1,0 +1,21 @@
+China accused of setting ‘debt trap’ for developing nations with loans they CAN'T repay
+https://www.express.co.uk//finance/city/895670/china-developing-countries-loans-Sri-Lanka-Djibouti
+ 13:18, Fri, Dec 22, 2017 
+  GETTYLoans from Chinese President Xi Jinping's administration seen as unrealistic The Belt and Road network, unveiled in 2013 to expand maritime and land infrastructure systems through Europe, the Middle East and Asia, currently has 68 countries involved. It includes re-opening the old Silk Road to connect Britain with Asia.But as a large number of member countries are emerging economies in desperate need of investment, they are more than happy to take on substantial loans from China.However, increasing concerns have arisen as less wealthy countries take on large loans from China to build the infrastructure - but with no real hope of paying them back.This could lead to the country handing the essential asset back to the Chinese. Related articles   South Korea opens fire on Chinese ships after they CHARGE at patrols  China hits back at Donald Trump amid claims Beijing is challenging USA   China’s move has been dubbed “debt-trap diplomacy”.Brahma Chellaney, professor of strategic studies at the New Delhi-based Center for Policy Research told CNBC: “Just as European imperial powers employed gunboat diplomacy, China is using sovereign debt to bend other states to its will.“Because China chooses its projects according to their long-term strategic value, they may yield short-term returns that are insufficient for countries to repay their debts.”As the world’s second largest economy, China holds political leverage over governments and could see them swap the debt for equity which expands China’s global footprint by pushing a number of countries in to debt servitude. Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Chellaney, a former adviser to India's National Security Council, pointed to Sri Lanka, which, unable to pay back its loan from China, gave its Hambantota port to state owned China Merchant Port Holdings in a $1.1billion deal that many have deemed an erosion of sovereignty. And Djibouti, on the Horn of Africa and is also part of Belt and Road agreed to lease one of its military bases to Beijing for $20million in 2016. This became the first overseas post for China’s armed forces.China has also received a natural gas pipeline in Turkmenistan due to the initiative.Kenya is currently under threat of loosing its busy port of Mombasa, the gateway to East Africa, to China.

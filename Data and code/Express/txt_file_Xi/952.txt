@@ -1,0 +1,21 @@
+CBI tells MPs NOT to put all focus on Brexit in order to have strong 2018
+https://www.express.co.uk//finance/city/897820/Confederation-of-British-Industry-CBI-2018-Carolyn-Fairbairn-Brexit-One-Belt-One-Road
+ 14:17, Fri, Dec 29, 2017 
+  GETTYCarolyn Fairbairn, director-general of CBI believes the country should focus on 2018 not BrexitCarolyn Fairbairn, director-general of CBI sent out a year-end letter to all its members which outline priorities businesses should take for 2018. She described 2017 as a “jaw-dropping, roller-coaster” year but wishes to take back control in 2018.Mrs Fairborn said: “From our politicians we need unity, clarity and certainty, not a different opinion every day.“Politics will need to work on business timescales if we are to get the right result for the country.” Related articles   Brexit Britain: Salaries increase as economic output rises   Business leaders call for terms of Brexit transition deal by March   She has warned that the UK must be prepared for next year and not be left behind by the changing world. She added: “While the UK is consumed with Brexit, China is building a global infrastructure through One Belt, One Road while other nations are seizing the opportunities of the fourth industrial revolution.”China’s One Belt,One Road initiative is a development strategy proposed by China's president Xi Jinping that focuses on connectivity and cooperation between Eurasian countries. Recently the initiative came under fire as other countries accused China of offering loans to poorer countries which they know they cannot pay back. Brexit deal agreement in full: Read the report published Fri, December 8, 2017Read the full 7,000-word agreement on the Brexit deal Play slideshow  EPA1 of 17Here is the 15 page Brexit deal in full  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    This results in the country handing over an asset to China. Like Djibouti leasing one of its military bases to Beijing for $20million in 2016. This became the first overseas post for China’s armed forces.The CBI which represents 190,000 UK businesses believe that the UK must tackle its skill shortages problem, develop infrastructure and promote innovation in the coming year. The CBI is attempting to tackle all three of these problems. The organisation will be campaigning this year for better careers advice and people under the age of 16 to be given at least four chances of trying their hand at different fields of work.A focus will also be put on technical skills as the group wishes to help provide better technical education, apprenticeships and reselling adults.They will also be working on commercialising research out of UK universities, in an attempt to improve the UK’s poor productivity.Also the CBI in a bid to promote infrastructure is applying pressure to such projects as the expansion of Heathrow and the HS2 rail link.

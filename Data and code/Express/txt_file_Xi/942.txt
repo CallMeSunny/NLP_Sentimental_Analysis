@@ -1,0 +1,21 @@
+Ivanka Trump ‘will follow father Donald Trump as US President by 2032’
+https://www.express.co.uk//news/world/907676/ivanka-trump-donald-trump-us-president-jared-kushner-election-air-force-ivana
+ 05:01, Sun, Jan 21, 2018 
+  GETTYIvanka Trump could eventually become US President, it has been claimedSpeculation that Ms Trump may one day become US President has intensified as she accompanied her father on Air Force One to Pittsburgh campaigning for tax cuts .White House insiders have also claimed she is expected to one day run for office, according to reports.Meanwhile, her proud mother Ivana has boasted that the US can expect Ivanka to run for President but will have to 15 years until around 2032.Ivana Trump – who was married to the US President from 1977 to 1992 – claims in her book Raising Trump that the former businessman only won the election because people liked Ivanka. Related articles   Ivanka Trump posts photo with Donald Trump joined by surprising guest   Ivanka Trump channels Melania with father Donald Former model Ivanka, who is married to Jared Kushner, is her father’s right-hand-woman, working as an advisor to the former mogul.One source said: “Whenever she invites people, they all want to come see her in Washington.“They love it in Washington. The kids love it. They are in it for the long haul.”Since her father’s election Ivanka has carried out important international trips and met with high-profile foreign officials – breaking from the normal role of 'First Daughter'. Ivanka Trump in pictures Wed, August 1, 2018Ivanka Trump is Advisor to President Trump and the US First daughter. She is the eldest daughter of Donald Trump and former model Ivana Trump. Play slideshow  Getty1 of 100Ivanka Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    She sat with Chinese President Xi Jinping and his wife Peng Liyuan at a state dinner, and her daughter Arabella sang a song in Mandarin for the Chinese officials.She also visited India and Japan in the past year.In addition, as an advocate for women’s rights, Ivanka spoke a at the G20 head-of-state summit in July.In his recent a controversial book The Fire and Fury Michael Wolff also claimed that if “the opportunity arose, she'd be the one to run for president”.  GETTYIvanka Trump has carried out various important international tripsHowever, the writer cited no direct sources for this assumption.Ivanka Trump has never officially confirmed ambitions to be president, she did not rule out the possibility in an interview with Cosmopolitan magazine.When posed with the question, she said: “I do not think so, but I have learned in life to never say never! It is too limiting!"

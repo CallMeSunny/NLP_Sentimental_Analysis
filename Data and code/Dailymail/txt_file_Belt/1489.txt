@@ -1,0 +1,224 @@
+Selena Gomez wows as she displays her cleavage in low-cut red leather dress as she joins the stars at the UNICEF Ball 
+https://www.dailymail.co.uk/tvshowbiz/article-3396729/Selena-Gomez-smiles-broadly-flashes-abs-peekaboo-jumpsuit-spotted-looking-glum-leaving-Golden-Globes.html
+ 01:57 BST, 13 January 2016 
+Selena Gomez was certainly dressed to impress on Tuesday night.The singer looked sensational as she donned a plunging red leather dress as she joined the stars at the UNICEF Ball at the Beverly Wilshire Four Seasons Hotel in Los Angeles.The 23-year-old flashed her ample cleavage and a hint of leg in the distinctive gown, which featured a cut-out pattern on the front.See news and style updates on Selena Gomez as she wows in a tight leather dress          Eye-catching: Selena Gomez looked ravishing as she went along to the UNICEF Ball in Los Angeles on Tuesday
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Selena_Gomez'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go hell for leather like Selena in Louis Vuitton
+
+
+
+
+Louis Vuitton Resort 2016 lambskin dress
+Red hot!
+
+
+
+Visit site
+
+
+
+We were just beginning to get over the glamour of the Golden Globe Awards, when along came the UNICEF Ball. 
+Mariah Carey, Nicole Kidman, Jennifer Connelly, Heidi Klum, Miranda Kerr and the very dapper David Beckham were all there, and since the event was presented by Louis Vuitton, there was of course a whole of LV on the blue carpet. 
+Selena Gomez really sent temperatures in her red hot leather dress, which is from the Resort 2016 collection. You might think that once you've seen one awards season gown you've seen them all, but the zip front, ruffle neckline and monogram cut out detailing makes this dress very unique. 
+Click the link (right) to find out more. But be warned - Selena's lambskin dress will set you back a whopping £7100! So if you want to get the look on a budget, browse our edit below. You can't go too far wrong with this little red dress from Asos, or the rich burgundy hue of this Reiss dress is super chic!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Gucci leather wrap dress at Net-a-Porter (now reduced to £1190)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Reiss leather dress at John Lewis (now reduced to £245)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos red leather dress (now reduced to £72)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Stouls leather midi dress at Farfetch (now reduced to £725.39)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Selena_Gomez', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The Good For You singer appeared confident in the eye-catching look, smiling and striking a pose as she arrived at the gala.Selena's distinctive gown - designed with a definite punky vibe - featured frilly shoulder straps and a front zip, and she cinched in her waist with a knotted belt.   RELATED ARTICLES  Previous 1 Next       Dapper David Beckham steals the show as he picks up...    Ravishing in red! Jennifer Connelly dazzles in a shimmering...    All she got for Christmas was blue! Mariah Carey shows off...    Legs eleven... out of ten! Miranda Kerr flaunts her long...    
+
+Share this article
+Share
+1.7k shares
+
+ The actress added three gold rings on her left hand, and played up her lovely features with a smoky eye.She finished her look with her raven tresses worn loose and tumbling in an unfussy style over her leather-clad shoulders.                      Striking look: The leather-clad star, 23, showed off her ample cleavage in the plunging number, which fell to the floor in dramatic style         Taking the plunge: The skin tight dress featured a front zip and tied belt         Peek-a-boo: The racy, unique dress included a cross-shaped cut-out pattern on the skirt, allowing her to show just a hint of legSelena joined the likes of Mariah Carey, Nicole Kidman, Heidi Klum, Michelle Rodriguez and man of the hour, honoree David Beckham at the star-studded event.David was being honoured with the charity's Humanitarian Leadership Award during the ceremony, for his work helping children through his Seven Foundation. The gala for the global children's charity raised over $2.5m, and it also marked the launch of Louis Vuitton for UNICEF, a new initiative and partnership between the organisation and the luxury fashion house.It will help to support children affected by conflict, disease, natural disasters, and other situations that threaten their safety and well-being.Earlier on Tuesday, Selena smiled as she flashed her abs as she stepped out in Studio City.         Turning on the charm: She added to her punky look with a smoky eye, her raven locks worn loose and unfussily styled         Hell for leather: She flashed her sideboob as she posed at the charitable ballThe singer and actress was spotted grabbing lunch with a pal, revealing her toned arms and tum, in a peekaboo jumpsuit.On Monday, she attended the Golden Globes with her film The Big Short.  The former Disney star looked relaxed in the halterneck top which flattered her cleavage, and voluminous slightly see-through pants.She showed off her natural beauty, make-up free with round-framed sunglasses shading her eyes. The Spring Breakers star left her long, dark brunette locks to hang naturally loose with a side parting - tucked behind one ear.          Happy days: Selena Gomez smiled as she flashed her abs as she stepped out in Studio City, California, on Tuesday         Abs-flash: The singer and actress was spotted grabbing lunch with a pal, revealing her toned arms and tum, in a peekaboo jumpsuit       Clutching her phone, the Good For You hit maker added platform-soled sandals as she radiated happiness. She shared a moment from the Golden Globes on Sunday evening where she was chatting with Brad Pitt. She captioned the picture: 'Just discussing #TheBigShort @agentoh,' referring to the movie both actors were in.          New heights: Clutching her phone, the Good For You hit maker added platform-soled sandals as she radiated happiness         Showbiz pals: She shared a moment from the Golden Globes on Sunday evening where she was chatting with Brad Pitt       The Monte Carlo star, who recently celebrated reaching 60 million Instagram followers, was later spotted leaving the CAA after party looking ready to call it a night. The Hands To Myself singer stunned for the night in a pale pink off-the-shoulder pleated dress by J. Mendel. Her ex-boyfriend Justin Bieber has been romancing model Hailey Baldwin, 19, in St Barts recently.          Home time: The Hands To Myself singer stunned on Sunday night in a pale pink off-the-shoulder pleated dress by J. Mendel as she was spotted leaving the CAA afterparty behind Gerard Butler, looking ready to call it a night

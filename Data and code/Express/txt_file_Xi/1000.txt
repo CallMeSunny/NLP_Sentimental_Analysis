@@ -1,0 +1,21 @@
+Trump will BACK DOWN over 'expensive' military action against North Korea, says expert
+https://www.express.co.uk//news/world/787515/Donald-Trump-back-down-expensive-military-action-North-Korea-China
+ 22:50, Mon, Apr 3, 2017 
+   John Nilsson-Wright, a senior lecturer at Cambridge University, insisted that the US President will demand China does more to stand up to North Korea.Mr Trump had urged China to increase pressure on the regime in Pyongyang to deter the threat of North Korea. The academic told talkRADIO that China could have done more in the past.He said: “They don’t want to see North Korea collapse, they don’t want to see a flood of refugees come across their border.   GETTYAn academic insisted that the US President would back down over his North Korea threat  Related articles   Trump vows to 'SOLVE' North Korea & threatens China to deal with Kim   'We continue to wage war' ISIS threaten Trump and issues 'KILL LIST' “Importantly, they don’t want a power vacuum filled by the South Koreans and their American allies. “They also of course worry about their own economic interests. Chinese banks that deal with North Korea make money out of those interests.“One of the things that Americans are thinking about is possibly introducing secondary sanctions. In other words, North Korea has almost been sanctioned to the limit. “If you really want to put pressure on the North Koreans you’ve really got to get the third parties, who are working with the North Koreans, that includes Chinese banks.”Chinese president, Xi Jinping, is set to visit Trump’s Florida resort this week as the two leaders are expected to discuss the growing threat from Kim Jong Un’s nuclear programme.    America and South Korea prepare for war against North Korea Tue, April 11, 2017U.S. and South Korean marines participate in the endurance exercise in temperature below minus 20 degrees celsius under a scenario to defend the country from any possible attacks from North Korea. Play slideshow  1 of 22  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Trump doesn’t want to have to contemplate military actionJohn Nilsson-WrightPresident Trump has claimed that if China do not step up and apply pressure to North Korea then the US might possibly turn to military action.Mr Nilsson-Wright added that a war with North Korea would be “catastrophic” for the American President and insisted he will pressure China to do more. He added: “So I think what Mr Trump is trying to do is to warn the Chinese that this is in the offing, if China does not follow through and do something. “Trump of course wants China to do more, what he doesn’t want to have to do, even though he has been talking about it, is to contemplate military action.“The cost of that would be catastrophic.”

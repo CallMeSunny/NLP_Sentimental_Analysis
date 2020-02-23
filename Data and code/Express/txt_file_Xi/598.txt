@@ -1,0 +1,21 @@
+North Korea CHALLENGED: South Korea blasts tune you might recognise through the DMZ
+https://www.express.co.uk//news/world/880237/North-Korea-World-War-3-South-Korea-Kim-Jong-un-music-challenge-korean-dmz-video
+ 14:02, Thu, Nov 16, 2017 
+   This is the moment South Korea appeared to try to get under the skin of North Korea with famous spaghetti western tune blasted over loudspeaker toward the rogue state.Footage on Twitter shows the demilitarised zone (DMZ) flooded with the notes of the ominous The Good, The Bad and the Ugly Theme.The theme song has been often used in popular media to convey a sense of impending doom ahead of a film or TV stand-off scene.  GETTY•TWITTER•AL JAZEERANorth Korea news: South Korea blast spaghetti western theme tune across DMZNorth Korea had been previously "attacked" with the notes of popular South Korean K-pop hits to drown out propaganda and in retaliation for Kim Jong-un's nuclear tests.It comes as tension between Pyongyang and Seoul continues to rise due to North Korea's refusal to halt its nuclear proliferation programme.North Korea's leader had been engaged in a fierce war of words with US President Donald Trump, who recently undertook a tour of Asia to gather support from the USA's Asian allies in an attempt to stop Kim Jong-un's aggressive rhetoric.Speaking at the White House, President Trump hailed his trip to the region and said it had allowed him to convince China – North Korea's only ally – to back UN sanctions on Pyongyang.    Korean Demilitarized Zone: The world's most dangerous border Tue, November 7, 2017Established by the provisions of the Korean Armistice Agreement to serve as a buffer zone between North Korea and South Korea Play slideshow  AFP/Getty Images1 of 10A South Korean tank of the 8th Mechanized Infantry Division takes part in a live-fire exercise at a training ground in Cheorwon, near the demilitarized zone (DMZ)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He said his visit allowed him to "unite the world against the nuclear menace posed by the North Korean regime – a threat that has increased steadily through many administrations and now requires urgent actions".Mr Trump reiterated that time to deal with North Korea is "running out" and "all options remain on the table".Tensions in Asia prompted Chinese President Xi Jinping to send his head of international liaison Song Tao to meet their rogue ally in the aftermath of Mr Trump's visit.The Kim Jong-un mouthpiece Korean Central News Agency (KCNA) said: "Song Tao, head of the International Liaison Department of the Central Committee of the Communist Party of China, will soon visit the Democratic People's Republic of Korea as a special envoy of Xi Jinping."It is unclear what the Chinese envoy’s agenda will be in North Korea as China is said to be growing impatient with the Kim Jong-un regime and the US President’s “warmongering”.

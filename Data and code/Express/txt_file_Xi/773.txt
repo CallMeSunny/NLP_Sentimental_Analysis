@@ -1,0 +1,21 @@
+'Tipping point for NUCLEAR WAR' North Korea threatens to spark WW3 after US bombing drill
+https://www.express.co.uk//news/world/826620/North-Korea-Donald-Trump-Kim-Jong-un-Donald-Trump-nuclear-war
+ 07:43, Mon, Jul 10, 2017 
+   The hermit state reacted furiously after two US supersonic bombers performed live-fire drills in South Korea in a show of military strength.State-run newspaper Rodong newspaper described the region as the "world's biggest tinderbox" and warned: "Don't play with fire on a powder keg."Yesterday's drill was designed to "sternly respond" to recent missile launches by North Korea. Related articles   US jets in live-fire drills in response to North Korea nuclear threat   Donald Trump says he will be victorious over North Korea But the propaganda rag branded it a "dangerous military gambit of warmongers who are trying to ignite the fuse of a nuclear war on the peninsula".It added: "The US, with its dangerous military provocation, is pushing the risk of a nuclear war on the peninsula to a tipping point."A small misjudgment or error can immediately lead to the beginning of a nuclear war, which will inevitably lead to another world war."  GETTYNorth Korean despot Kim Jong-un threatened to spark a nuclear war North Korea celebrates the launch of new intercontinental ballistic missile Fri, July 7, 2017Kim Jong-un launched a sick celebration of the successful test launch of the country's first intercontinental ballistic missile. Thousands thronged to Kim Il-sung Square in capital city Pyongyang for displays of dancing and fireworks Play slideshow  REUTERS1 of 21Army personnel and people gather at Kim Il Sung Square in Pyongyang o celebrate the successful test-launch of intercontinental ballistic rocket Hwasong-14  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYKim hit out at the US and South Korea's bombing drill yesterdayDonald Trump's administration and the North's regime under leader Kim Jong-un have exchanged hostile rhetoric for months.Tension further escalated after North Korea's test-launch of an intercontinental ballistic missile (ICBM) last week.The North has staged five nuclear tests and has made a significant progress in its missile capability under Kim, who took power in 2011.  GETTYDonald Trump's administration and the North's regime under leader Kim Jong-un have exchanged hostileMr Trump yesterday told Chinese President Xi Jinping that the United States will stop North Korea "one way or the other". He said: "I appreciate the things that you have done relative to the very substantial problem that we all face in North Korea, a problem that something has to be done about."It may take longer than I'd like, it may take longer than you'd like. But there will be success in the end one way or the other."

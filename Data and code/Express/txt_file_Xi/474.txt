@@ -1,0 +1,38 @@
+'They do NOTHING for us' Donald Trump threatens China for inactivity over North Korea
+https://www.express.co.uk//news/world/834681/donald-trump-threatens-china-north-korea-nothing-xi-jingping-kim-jong-un
+ 00:44, Sun, Jul 30, 2017 
+   The hermit state has carried out two missile blasts within the space of a week, and despite China publicly condemning Pyongyang, Mr Trump’s patience appears to have worn thin.In two separate tweets, Mr Trump said: “I am very disappointed in China. Our foolish past leaders have allowed them to make hundreds of billions of dollars a year in trade, yet...  GETTYTrump has tweeted about his anger of China Related articles   Donald Trump's controversial travel ban FINALLY implemented   Donald Trump embroiled in ANOTHER sexism scandal  North Korea visitor captures secretive state with illegal selfies Fri, July 28, 2017A visitor to North Korean used the ingenious technique of appearing to take selfies of himself in order to record his trip without attracting the attention of the autocratic regime’s feared security services. Play slideshow  mediadrumworld.com1 of 9At a Pyongyang underground station, the deepest subway system on earth  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     We will no longer allow this to continueDonald Trump“...they do NOTHING for us with North Korea, just talk. We will no longer allow this to continue. China could easily solve this problem!”Mr Trump’s tweets come after North Korea’s ICBM launch on Friday, which is reportedly capable of hitting mainland US cities.In retaliation to the provocative launch, the US and South Korea conducted a surface-to-surface missile blast into the Sea of Japan just hours later.Mr Trump said: “The United States will take all necessary steps to ensure the security of the American homeland and protect our allies in the region.”   TWITTERThe US President expressed his anger via Twitter  TWITTERDonald Trump's tweet comes after the sacking of Reince PriebusDonald Trump has also condemned China’s growing trade links with the the hermit state.Earlier this month, Mr Trump tweeted: “Trade between China and North Korea grew almost 40 per cent in the first quarter. “So much for China working with us — but we had to give it a try!”In February, Beijing announced a ban on North Korean coal imports after the assassination of Kim Jong-un’s brother, Kim Jong-nam – yet a staggering 90 per cent of North Korea’s trade is carried out with China.The United Nations and imposed a series of strict sanctions on North Korea but that does not appear to have deterred Pyongyang as it continues to carry out nuclear and missile tests.North Korean state media KCNA quoted Kim Jong-un after their most recent missile launch, where he boasted about the capabilities of his military arsenal.The communist dictator is quoted as saying: "The test-fire reconfirmed the reliability of the ICBM system, demonstrated the capability of making a surprise launch of the ICBM in any region and place any time, and clearly proved that the whole US mainland is in the firing range of the DPRK missiles.”North Korea's launch came just one day after the 64th anniversary of the armistice that ended the Korean War. First 100 days of President Trump Mon, June 12, 2017President Donald Trump is making a significant impact on global politics during his first term. Play slideshow  REUTERS1 of 23President Donald Trump arrives at Newark International airport  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The missile is believed to have flown for 45 minutes before landing less than 200 miles away from the coast of Japan, according the nation's chief cabinet secretary Suga.According to officials, North Korean leader Kim Jong-un ordered the launch at 11.41pm local time (2.41pm BST).China, the North’s main ally, said it opposed the “launch activities that run counter to Security Council resolutions and the common wishes of the international community”.   GETTYDonald Trump had tried to woo Xi JinpingNorth Korea’s missile launch has also been blasted by Boris Johnson, who said the UK would “confront the growing threat” posed by Pyongyang.The Foreign Secretary said: "The UK strongly condemns North Korea's second test of an intercontinental ballistic missile and calls on the regime to immediately stop all activity that breaches UN Security Council resolutions."The UK will stand alongside our allies and partners as we confront the growing threat North Korea poses to regional and international security. Once again North Korea shows no regard for its international obligations."We urge the DPRK regime to put the well-being of its own people ahead of the illegal pursuit of nuclear and ballistic missile programmes." 

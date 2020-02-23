@@ -1,0 +1,21 @@
+Barcelona news: Incredible Lionel Messi transfer plan - £621m fee, close friends involved
+https://www.express.co.uk//sport/football/915427/Barcelona-News-Lionel-Messi-Transfer-Fee-La-Liga-Deal
+ 00:00, Wed, Feb 7, 2018 
+   The Argentina international has forged a reputation as one of the world’s best ever players, collecting five Ballon d’Or awards during his time at the Nou Camp.And his signature is coveted by managers across the globe, with Manchester City boss Pep Guardiola thought to be one of a select few in with a chance of ever prising him away from Barcelona.Messi was last week named as the most popular footballer in China, beating off competition from Cristiano Ronaldo, Anthony Martial, Paul Pogba and Wayne Rooney.The latest reports from Spain suggest an outrageous transfer plan has been hatched to take the 30-year-old to the Far East with the help of a couple of his close friends. Related articles   Barcelona news: Lionel Messi warned team-mate would cause ‘problems'   Barcelona news: Lionel Messi makes major decision on future  Barcelona new boy Yerry Mina meets Lionel Messi in training Fri, January 12, 2018Yerry Mina met the Barcelona squad in training – and fans can't believe how big their new centre back is... Play slideshow  FC Barcelona1 of 10Yerry Mina was a towering presence as he met his new Barcelona team-mates  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    According to Mundo Deportivo, Hebei China Fortune are determined to secure Messi’s services and are prepared to pay his £621m (€700m) buyout clause to do so.The Chinese Super League side are aware that the Rosario-born ace will not just determine where his future lies based on the money on offer though.And that’s apparently why they’ve already signed his Argentina team-mates Lavezzi and Mascherano over the past couple of years.Those deals were struck, with Mascherano moving from Barcelona last month, in order to convince Messi that Hebei is the place for him to continue his career.  GETTYHebei China Fortune want to lure Barcelona star Lionel Messi to the Far East     GETTYLionel Messi is close friends with Hebei China Fortune stars Ezequiel Lavezzi and Javier MascheranoMundo Deportivo indicate the financial side of the deal could be supported by huge companies linked to Hebei China Fortune, as well as the country’s government.Messi’s global stardom means his arrival would not just be a sporting boost but would also align with president Xi Jinping’s desire to substantially increase football participation in the country.Chinese conglomerate Tencent Holdings Limited have got wind of Hebei China Fortune’s fresh plan for Messi, despite his refusal to join them last year.And it now seems it will only be a matter of time before an eye-watering £621m bid is launched to reunite Messi with Lavezzi and Mascherano.

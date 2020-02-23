@@ -1,0 +1,21 @@
+Teed off! Chinese leaders echo Chairman Mao in crackdown on 'elitist golf clubs'
+https://www.express.co.uk//news/world/762974/China-golf-clubs-crackdown-ruling-communist-party-elitist
+ PUBLISHED:  16:00, Sat, Feb 4, 2017 
+  GETTYChinese golfers enjoying a round at  Mission Hills Resort Haikou in Haikou, Hainan Province, ChinaLocal authorities have profited from selling land for courses but they are seen as venues for shady deal-making between the elite and politicians.In 2015, the Communist Party banned its 88 million members from joining golf clubs in an anti-corruption drive which also targeted banquets and lavish gift-giving.The order forbids members from indulging in golf, extravagant eating, extra-marital sex and other corrupt practices.Central authorities had decreed a nationwide freeze on new golf courses in 2004 when there were fewer than 200 across the whole of China. Related articles   China ‘getting ready for war’ over Donald Trump hostility   Horrific moment a ZEBRA viciously attacks zookeeper dragging him away   GETTYPlay under way on a Shanghai golf courseThe ban was meant to conserve farmland and water supplies but it was largely ignored and the number of courses more than tripled as businessmen sensed big profits could be made.Developers built courses under the guise of public parks or other projects - often with approval of local officials - but the ruling Communist Party realised the scale on which the rules were being flouted and are now getting tough. In a statement issued last week, the National Development and Reform Commission (NDRC) said it had demanded the closure of 111 of China’s 683 golf courses. Operators had voluntarily closed a further 11.  GETTYA golfer in ShanghaiThe NDRC said the courses were taken to task for illegally building on arable land or nature reserves, extracting groundwater in prohibited areas and other planning violations.It also ordered an additional 18 courses to return illegally occupied land and stopped further construction on 47 others sites.Golf courses were located in all of the China’s provincial-level regions except Tibet.  GETTYGolfers tee off at a course in China Yulin Dog Meat Festival in China : Heartbreaking latest pictures Wed, June 20, 2018An estimated 11,000 cats and dogs are due to be slaughtered for the annual Yulin Dog Meat Festival in China Play slideshow  AFP/Getty Images1 of 21Puppies are seen in a cage at a dog meat market in Yulin, in China's southern Guangxi region  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Many boast world-class fairways and an emerging crop of young players but expensive club memberships mean that only a tiny minority take part.Notorious Chinese despot Mao Tse Tung condemned golf as a "sport for millionaires" and current leader Xi Jinping appeared to continued the assault on the sport.

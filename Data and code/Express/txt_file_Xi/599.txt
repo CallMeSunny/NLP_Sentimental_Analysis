@@ -1,0 +1,21 @@
+‘Be RESPONSIBLE!’ China orders South Korea to lay off North Korea with THAAD warning
+https://www.express.co.uk//news/world/878398/north-korea-news-china-south-korea-thaad-missile-world-war-3
+ 16:42, Sat, Nov 11, 2017 
+   A flurry of missile tests from North Korea this year have raised the likelihood of South Korea using the US-built Terminal High Altitude Area Defence (THAAD) anti-missile system – something China has vehemently opposed.The installation of the THAAD system has angered China for years and the dispute has even spilled over into trade, hurting South Korean business interests in the country.China believed the system's powerful radar could be used to look inside its territory. South Korea and the United States have repeatedly said THAAD only serves to defend against the growing missile threat from North Korea.  Related articles   Putin and China agree to CRUSH North Korea nuclear risk    South Korea and China bury differences after a year of standoff    GETTYNorth Korea news: China and South Korea are gradually restoring ties Now, a meeting between Chinese president Xi Jinping and his South Korean counterpart Moon Jae-in appears to have strengthened relations between the countries.The pair agreed to deal with the ongoing North Korean crisis peacefully by strengthening strategic talks on all levels, according to presidential spokesman Yoon Young-chan.Xi urged South Korea to take a "responsible attitude on THAAD that stands the test of history", adding that it would be "new beginnings and a good start”.  TASSThe two leaders met during a summit in Vietnam, which was also attended by Trump and PutinThe Chinese leader also encouraged South Korea to resume dialogue with North Korea and re-engage with them for reconciliation and de-nuclearisation.President Trump’s exchange of threats and insults with Pyongyang has done nothing to curb regional tensions and with South Korea and China suited either side of the hermit state, it is in their interests not to push for military action.It is feared the thawing tensions between South Korea and China could outrage tyrannical North Korean leader Kim Jong-Un who may launch a deadly nuclear strike at any time. First images of THAAD missile launch test Thu, July 13, 2017Explosive first images show Terminal High Altitude Area Defence (THAAD) defence system shooting down an intermediate-range ballistic missile (IRBM). Play slideshow  Missile Defence Agency1 of 5 Air launch intermediate range ballistic missile target  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The agreement is a positive move for relations in the region, however it is likely to spark a fire under North Korea dictator Kim Jong-Un - who viewed China as its only ally in his self-inflicted war of words with the South Korea “puppet force” and the US.Bong Young-shik, an expert on regional relations at South Korea’s Yonsei University, said: “China’s economic retaliation only pushed Korea closer into the trilateral alliance between Japan and the US.“Xi Jinping is seeking to have an acceptable exit ramp from deteriorating bilateral relations with Seoul.”

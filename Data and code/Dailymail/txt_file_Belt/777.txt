@@ -1,0 +1,224 @@
+From TOWIE to WAG: Amy Childs dating Bournemouth footballer and fellow Essex native Adam Smith
+https://www.dailymail.co.uk/tvshowbiz/article-2774776/Amy-Childs-romantically-linked-footballer-fellow-Essex-native-Adam-Smith.html
+ 11:33 BST, 30 September 2014 
+After enjoying success as a reality TV star and businesswoman, it appears that WAG be the next notch on her belt.Former TOWIE star Amy Childs, 24, is dating former England Under-21 footballer Adam Smith, 23, who currently plays for Bournemouth in the Championship.A source has confirmed to MailOnline that the photogenic pair met at a bar in their native Essex and have since been on a series of dates.Scroll down for video               Budding romance: Amy Childs has been romantically linked to Bournemouth footballer Adam Smith
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Amy_Childs'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get your wiggle on in a figure-hugging dress like Amy
+
+
+
+
+Amy Childs Chloe dress
+Ruched and fabulous!
+
+
+
+Visit site
+
+
+
+Another day another dress. Amy Childs loves to show off that figure doesn't she? But we don't blame her. Her curves are the best in TOWIE. And when you have a whole collection of your own designs, why wouldn't you rock a new one everyday?
+This is the Chloe dress (not to be mistaken for an actual Chloe dress), and comes in a variety of colours. Tthe asymmetric shoulder keeps it ultra chic, whilst the side ruching is a clever contouring trick, pulling the focus into the smallest part of your waist. 
+Amy loves little wiggle dresses like this. Pencil length is a great cut on her, and we imagine a lot of you women out there too. If you have curves to show off, this frock is an excellent option. 
+We aren't mad keen on those white heels she has teamed it with - a red shoe would be daring and interesting - but we can forgive her on the grounds of looking gorgeous in this nude colour. 
+You can buy this dress right now from Amy's website, or check out some other options we've found below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Michelle Keegan Loves Lipsy One Shoulder Bodycon Dress at ASOS
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo.com Sasha cross over asymmetric hem dress (now reduced to £10)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Miss Guided wrap mini dress (now reduced to £14.99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Bailey44 Ski Bunny Dress at Shopbop.com
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Amy_Childs', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The romance is Amy's first since denying speculation that she had a fling with cricketer Darren Gough, whose marriage collapsed soon after they filmed reality show The Jump together.   RELATED ARTICLES  Previous 1 2 Next       'Marriage feels pretty damn great!' Smitten George Clooney...    'Your behaviour has been so disrespectful and very...      'I'm overcome with emotion': Kimberley Walsh shows off new...    
+
+Share this article
+Share
+
+ While Amy and Adam both hail from Essex, they'e also fans of fashion of selfies, with the sportsman regularly sharing snapshots of himself on his Instagram page.He's also quite attached to his adorable fluffy pooch Ted, with whom he's seen snuggled up in several photographs.         Man's best friend: The handsome sportsman is very close to his adorable fluffy pooch, Ted         The ex factor: Amy has previously dated fellow TOWIE star Kirk Norcross and model David Peters       Things have been decidedly quiet for redhead Amy on the dating front since she first shot, with fellow TOWIE star Kirk Norcross and model Davd Peters being her confirmed exes.Shortly after the collapse of her year-long romance with David, Amy insisted she hadn't given up on finding true love.'I can't wait to get married,' she told Reveal last year, adding: 'Not yet though, in a couple of years.         Ab-solutely fabulous: The footballer has shown off his rippling abs on his Instagram account'I've always wanted a big wedding and want all my family there - because I love my family - but I just wouldn't have the time at the moment.'I've got so much coming up this year work-wise that I couldn't cope with it!'MailOnline has contacted representatives for Amy Childs and Adam Smith for comment.         He's got big goals: Adam formerly played on the England Under-21 squad        

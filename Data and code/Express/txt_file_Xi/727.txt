@@ -1,0 +1,21 @@
+Donald Trump warns Kim Jong-un US will DEAL with North Korea if China fails to
+https://www.express.co.uk//news/world/791549/Donald-Trump-North-Korea-Kim-Jong-un-China-World-War-3
+ 14:32, Thu, Apr 13, 2017 
+   Officials in North Korea have already warned nuclear war could break out at any minute thanks to the "extremely tense" situation on the Korean Peninsula.The US sent a navy strike group towards the Western Pacific in a show of force, with North Korea retorting with warnings of a nuclear attack in retaliation to any show of aggression.And now Mr Trump has waded even further into the row, which many claims put the rival nations at the brink of war.  REUTERSDonald Trump warned the US would deal with North Korea Related articles   North Korea and China: A history of their relationship   North Korea chemical weapons: What is sarin? Can Kim Jong-un use it?   REUTERSNorth Korean dictator Kim Jong Un has warned of nuclear attacks  TWITTERMr Trump warned he would take on North Korea  TWITTEROfficials in North Korea have already warned nuclear war could break out at any minuteThe US President tweeted earlier today: "I have great confidence that China will properly deal with North Korea. If they are unable to do so, the US, with its allies, will! USA."He later added: “Things will work out fine between the USA. and Russia. At the right time everyone will come to their senses & there will be lasting peace!”Mr Trump has already vowed to “take on” North Korea during a press conference with Nato Secretary General Jens Stoltenberg. Forbidden photographs depict the true North Korean army Wed, April 12, 2017While tourists are able to visit North Korea as part of a controlled tour group, they are asked by their handlers to never take photographs of soldiers. These pictures taken by photographer Eric Lafforgue show the reality of military service in the secretive state Play slideshow  ERIC LAFFORGUE/EXCLUSIVEPIX MEDI1 of 26Soldiers enjoy a ride at the funfair in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The President spoke about his blossoming relationship with Chinese leader Xi Jinping but insisted he would not wait for China as he vows to deal with North Korea.He said: "President Xi wants to do the right thing. We had a very good bonding, I think we had a very good chemistry together, I think he wants to help us with North Korea."We talked trade, we talked a lot of things, and I said the way you’re going to make a good trade deal is to help us with North Korea.“Otherwise we’re just going to go it alone, that’ll be all right too, but going it alone means going with lots of other nations."  REUTERSTrump insisted he would not wait for China as he vows to deal with North KoreaThe news comes as the hermit state’s chubby dictator Kim Jong-Un was pictured grinning from ear to ear - despite the threats of war surrounding him.Jubilant images of the chubby dictator Kim Jong-un released today show he is all smiles as he cuts the ribbon during an opening ceremony of a newly constructed residential complex in Pyongyang.The series of brightly coloured photographs show cheering crowds full of gleeful faces as the bloated despot takes to the stage for the celebrations.

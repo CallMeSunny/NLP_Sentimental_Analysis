@@ -1,0 +1,21 @@
+China sends first ‘unbreakable’ message from space satellite to earth
+https://www.express.co.uk//news/world/839286/china-sends-unbreakable-code-space-satellite-to-earth-quantum-key-distribution-technology
+ 08:20, Thu, Aug 10, 2017 
+  GETTYChina sends first ‘unbreakable’ message from space satellite to earthChina launched the world's first quantum satellite last August, to help establish “hack proof” communications, a development the Pentagon has called a “notable advance”. The official Xinhua news agency said the latest experiment was published in the journal Nature on Thursday, where reviewers called it a “milestone”. The satellite sent quantum keys to ground stations in China between 400 and 745 miles away at a transmission rate up to 20 orders of magnitude more efficient than an optical fibre, Xinhua cited Pan Jianwei, lead scientist on the experiment from the state-run Chinese Academy of Sciences, as saying.  Related articles   Woman faces 150 years in jail for smuggling technology China   China eyes Mars colonisation as it sets up 'simulation village'  Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “That, for instance, can meet the demand of making an absolute safe phone call or transmitting a large amount of bank data,” Mr Pan said. Any attempt to eavesdrop on the quantum channel would introduce detectable disturbances to the systemPan Jianwei - Lead scientistAny attempt to eavesdrop on the quantum channel would introduce detectable disturbances to the system, Pan said. “Once intercepted or measured, the quantum state of the key will change, and the information being intercepted will self-destruct,” Xinhua said. The news agency said there were “enormous prospects” for applying this new generation of communications in defence and finance.  GETTYThe Pentagon called China’s development a ‘notable advance’  GETTYA quantum satellite launches from China's northwest Gansu province on August 16, 2016China still lags behind the United States and Russia in space technology, although President Xi Jinping has prioritised advancing its space programme, citing national security and defence. China insists its space programme is for peaceful purposes, but the US Defence Department has highlighted its increasing space capabilities, saying it was pursuing activities aimed at preventing adversaries from using space-based assets in a crisis.

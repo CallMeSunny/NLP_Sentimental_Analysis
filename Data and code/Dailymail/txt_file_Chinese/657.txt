@@ -1,0 +1,39 @@
+China's richest man - real estate developer Wang Jianlin - invests in Hollywood through Sony Pictures
+https://www.dailymail.co.uk/money/markets/article-3804590/China-s-richest-man-real-estate-developer-Wang-Jianlin-invests-Hollywood-Sony-Pictures.html
+ 21:55 BST, 23 September 2016 
+         Making movies: China's richest man Wang JianlinChina's richest man Wang Jianlin has signed an agreement to invest in Sony Pictures through his business Wanda – in yet another signal of the nation's voracious appetite to invest overseas.Wanda, which owns a chain of cinemas in China, hopes to 'highlight the China element' in the films in which it invests. The company also wants to boost its influence in the global film industry.For Sony Pictures, the deal will give it a greater platform to promote its productions through Wanda's cinema infrastructure.It is not real estate developer Jianlin's first foray into Hollywood. The 61-year-old, who is worth about £23billion, financed the Oscar-winning movie Spotlight and, in January, Wanda bought a controlling stake in film studio Legendary Entertainment for £2.7billion.   RELATED ARTICLES  Previous 1 Next       Shares in Twitter soar by a fifth as report claims that...    Stock market boss warns Brexit could cause financial...    Have you made a profit from the Brexit bounce? Three months...    Avocado and coconut water prices hit a high and are set to...      Share this article Share 12 shares   In a second Asian deal this week, United Photovoltaics Group, a Chinese solar-farm operator, is to buy six solar plants in the UK for up to £30million.The listed firm will buy them from Luxembourg's Notus Investments. The Chinese government is a major shareholder in United PV. 
+    #fiveDealsWidget .dealItemTitle#mobile {display:none}
+    #fiveDealsWidget {display:block; float:left; clear:both; max-width:636px; margin:0; padding:0; line-height:120%; font-size:12px}
+    #fiveDealsWidget div, #fiveDealsWidget a {margin:0; padding:0; line-height:120%; text-decoration: none; font-family:Arial, Helvetica ,sans-serif}
+    #fiveDealsWidget .widgetTitleBox {display:block; float:left; width:100%; background-color:#B11B16; }
+    #fiveDealsWidget .widgetTitle {color:#fff; text-transform: uppercase; font-size:18px; font-weight:bold; margin:6px 10px 4px 10px; }
+    #fiveDealsWidget a.dealItem {float:left; display:block; width:124px; margin-right:4px; margin-top:5px; background-color: #e3e3e3; min-height:200px;}
+    #fiveDealsWidget a.dealItem#last {margin-right:0}
+    #fiveDealsWidget .dealItemTitle {display:block;  margin:10px 5px; color:#000; font-weight:bold}
+    #fiveDealsWidget .dealItemImage, #fiveDealsWidget .dealItemImage img {float:left; display:block; margin:0; padding:0}
+    #fiveDealsWidget .dealItemImage {border:1px solid #ccc}
+    #fiveDealsWidget .dealItemImage img {width:100%; height:auto}
+    #fiveDealsWidget .dealItemdesc {float:left; display:block; color:#e22953; font-weight:bold; margin:5px;}
+    #fiveDealsWidget .dealItemRate {float:left; display:block; color:#000; margin:5px}
+    #fiveDealsWidget .dealFooter {display:block; float:left; width:100%; margin-top:5px; background-color:#e3e3e3  }
+    #fiveDealsWidget .footerText {font-size:10px; margin:10px 10px 10px 10px;}
+    @media (max-width: 635px) {
+        #fiveDealsWidget a.dealItem  {width:19%; margin-right:1%}
+        #fiveDealsWidget a.dealItem#last {width:20%}
+    }
+    @media (max-width: 560px) {
+        #fiveDealsWidget #desktop {display:none}
+        #fiveDealsWidget .widgetTitleBox {background-color:#e3e3e3; }
+        #fiveDealsWidget .widgetTitle {color:#000}
+        #fiveDealsWidget #mobile {display:block!important}
+        #fiveDealsWidget a.dealItem {background-color: #fff; height:auto; min-height:auto}
+        #fiveDealsWidget a.dealItem {border-bottom:1px solid #ececec; margin-bottom:5px; padding-bottom:10px}
+        #fiveDealsWidget a.dealItem#last {border-bottom:0px solid #ececec; margin-bottom:5px; padding-bottom:0px}
+        #fiveDealsWidget a.dealItem, #fiveDealsWidget a.dealItem#last  {width:100%}
+        #fiveDealsWidget .dealItemContent, #fiveDealsWidget .dealItemImage {float:left; display:inline-block}
+        #fiveDealsWidget .dealItemImage {width:35%; margin-right:1%}
+        #fiveDealsWidget .dealItemContent {width:63%}
+        #fiveDealsWidget .dealItemTitle {margin: 0px 5px 5px; font-size:16px}
+        #fiveDealsWidget .dealItemContent .dealItemdesc, #fiveDealsWidget .dealItemContent .dealItemRate {clear:both}
+    }
+   EDITOR'S DEALS OF THE WEEK     Current account     Current account Best switching incentive  £175 to switch and stay      Cash Isa deal     Cash Isa deal Best buy one-year fixed rate cash Isa 1.62% AER interest      Broadband deal     Broadband deal  Low cost package broadband deal  £18 for 18 months     Credit card     Credit card Balance transfer offer 0% for up to 29 months     Stocks & shares Isa     Stocks & shares Isa 12 months no management fee ISA rules and T&Cs apply. Capital at risk.       For current account rewards and interest conditions may apply eg. using provider's full switching service, min deposits and direct debits. For savings, access maybe limited, min/max deposits may apply. See T&Cs.  Representative example:  If you spend £1,200 at a purchase interest rate of 18.95% p.a. (variable) your representative rate will be 18.9% APR (variable).       

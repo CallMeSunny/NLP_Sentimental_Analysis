@@ -1,0 +1,38 @@
+Donald Trump warns 'MAJOR CONFLICT' is 'ABSOLUTELY' possible with North Korea
+https://www.express.co.uk//news/world/797630/donald-trump-major-conflict-north-korea-kim-jong-un-young-age-united-states-president
+ 02:06, Fri, Apr 28, 2017 
+   The former business tycoon said: "There is a chance that we could end up having a major, major conflict with North Korea. Absolutely.”"We'd love to solve things diplomatically but it's very difficult.”President Trump also saluted Kim Jong-un for taking over the North Korean regime at just 27-years-old in a shocking reversal of his repeated criticism of the tyrannical dictator.  GETTYTrump has warned a diplomatic solution to the North Korean tensions is 'very difficult' Related articles   Chinese troops along North Korean border ‘on HIGH ALERT’    North Korean troops carrying 'FAKE WEAPONS during military parades' Trump said: "He's 27 years old. His father dies, took over a regime. So say what you want but that is not easy, especially at that age."I'm not giving him credit or not giving him credit, I'm just saying that's a very hard thing to do. As to whether or not he's rational, I have no opinion on it. I hope he's rational.” Donald Trump's most memorable tweets as president Fri, April 21, 2017Donald Trump's most memorable tweets since elected as President of the United States Play slideshow  REUTERS1 of 22Donald Trump tweets his way through presidency  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    As Trump prepares for his 100th day in office on Saturday, the President had kind words to say about his Chinese counterpart Xi Jinping and confirmed the two leaders were working together to try to quell the North Korean threat.Trump said: "I believe he is trying very hard. He certainly doesn't want to see turmoil and death. He doesn't want to see it.“He is a good man. He is a very good man and I got to know him very well.  GETTYTrump, who spent the day with the Argentine president, has praised Chinese leader Xi Jinping He's 27 years old. His father dies, took over a regime. So say what you want but that is not easy, especially at that ageDonald Trump"With that being said, he loves China and he loves the people of China. I know he would like to be able to do something, perhaps it's possible that he can’t.”Meanwhile, the President has rejected the Taiwanese president’s suggestion that the two leaders could hold another phone call as Trump looks to develop close ties with China.Trump’s phone call with president Tsai Ing-wen in December angered Beijing, who consider neighbouring Taiwan to be a renegade province. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The US leader added: "My problem is that I have established a very good personal relationship with President Xi."I really feel that he is doing everything in his power to help us with a big situation. So I wouldn't want to be causing difficulty right now for him.""So I would certainly want to speak to him first."

@@ -1,0 +1,55 @@
+Chinese television 'CUTS OUT' during Trump speech in which he blasts 'unfair' relationship
+https://www.express.co.uk//news/world/877326/Donald-Trump-China-Xi-Jinping-USA-Asia-South-Korea-North-Korea-Japan-TV-Beijing
+ 05:17, Thu, Nov 9, 2017 
+   The interruption came during the speech in which the US President was praising the country.The Republican firebrand stated that he gave China “great credit” for taking advantage of the US with regard to trade.The coverage reportedly cut out when Trump was discussing Chinese manufacturing of Fentanyl and other synthetic opioids.During the speech, he declared: “Right now, unfortunately, it is a very one-sided and unfair relationship.  GETTYChinese TV cut out during Donald Trump’s address to the nation Related articles   Donald Trump looking at whole range of North Korea MILITARY OPTIONS   Trump confronts North Korea and promises to solve 'ALL world problems' “But I don’t blame China.“After all, who can blame a country for taking advantage of another country for the benefit of its own citizens? I give China great credit.“But in actuality I do blame past administrations for allowing this out of control trade deficit to take place and to grow. Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “We have to fix this because it just doesn’t work. It is just not sustainable.”The President also praised the “warm and gracious” Xi Jinping before turning matters to the North Korean nuclear threat.He said: “We must act fast, and hopefully China will act faster and more effectively on this problem than anyone.   “China can fix this problem easily and quickly and I am calling on China and your great president to hopefully work on it very hard.“I know one thing about your president: if he works on it hard it will happen.“There is no doubt about it.” Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Technical issues were also present in North Korea yesterday as Pyongyang TV was shut off ahead of Donald Trump’s speech Seoul.The photos of Pyongyang television show a blank screen, highlighting the control that despot leader Kim Jong-un has over the hermit kingdom.During the speech in the South Korean capital, the President labelled North Korea a “menace threatening the world with nuclear devastation”.   The President attacked the regime of despot leader Kim Jong-un and called on “all responsible nations” to come together to halt the nuclear threat from the rogue state.He said: "The world cannot tolerate the menace of a rogue regime that threatens it with nuclear devastation.“All responsible nations must join forces to isolate the brutal regime of North Korea-to deny it any form of support. Thousands of demonstrators protest Trump's visit to South Korea Tue, November 7, 2017Thousands of South Korean protesters gathered in front of the US Embassy in Seoul ahead of President Donald Trump's visit to the country on Tuesday. Demonstrators marched with signs, sang songs, and choreographed dances Play slideshow  AFP/Getty Images1 of 23Demonstrators embrace during a peace rally in Seoul  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “The North Korean regime has pursued its nuclear and ballistic missile programmes in defiance of every assurance, agreement and commitment it has made to the United States and its allies.“It’s broken all of those commitments.“After promising to freeze its plutonium programme in 1994 it repeated the benefits of the deal and then immediately continued its illicit nuclear activities.Chinese TV cuts out of @POTUS remarks temporarily, saying "unfortunately we lost the feed."— Steve Herman (@W7VOA) November 9, 2017“In 2005 after years of diplomacy the dictatorship agreed to ultimately abandon its nuclear programmes and return to the treaty on non-proliferation, but it never did and worst it tested the very weapons it said it was going to give up.”Trump emphasised that the US refuses to be “blackmailed or attacked” and sent a stern warning to Pyongyang that previous regimes that have failed to comply with American rhetoric have been “discarded”.He added: “America does not seek conflict or confrontation, but we will never run from it.  GETTYThe Republican firebrand stated that he gave China 'great credit' for taking advantage of the US“History is filled with discarded regimes that have foolishly tested America’s resolve.“Anyone who doubts the strength or determination of the United States should look to our past and you will doubt it no longer.“We will not permit America or our allies, to be blackmailed or attacked. We will not allow American cities to be threatened with destruction.  GETTYThe interruption came during the speech in which the US President was praising the country“We will not be intimidated and we will not let the worst atrocities in history be repeated here on this ground we fought and died so hard to secure.”Trump also stated that the “three largest aircraft carriers in the world are appropriately positioned" to defend themselves in the event of a provocation from the rogue state.”The USS Nimitz, USS Ronald Reagan and USS Theodore Roosevelt all find themselves tasked with keeping tabs on any future provocation attempts from the hermit kingdom - it is the first time three US carrier strike forces are operating in the Pacific for a decade.

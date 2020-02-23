@@ -1,0 +1,38 @@
+'China must be prepared to TOPPLE Kim Jong-un or WE'LL do it', former US chief claims
+https://www.express.co.uk//news/world/801577/World-War-Three-North-Korea-Kim-Jong-Un-China-Donald-Trump-USA-Xi-Jinping-Condoleezza-Rice
+ 01:10, Mon, May 8, 2017 
+   Condoleezza Rice, who served as Secretary of State during George W. Bush’s administration, claimed China were too concerned about causing the “collapse” of dictator Kim Jong-un.Ms Rice claimed Beijing must be prepared for “instability on their border” as the US will intervene if the People's Republic of China do not.She added that “in order to deal with” the warmongering North’s strides towards a nuclear missile capable of striking the US “you have to change the Chinese calculus”.Ms Rice said: “I think that's what the administration's trying to do.  GETTYCondoleezza Rice called on China to prepare for the end of the Kim regime Forbidden photographs depict the true North Korean army Wed, April 12, 2017While tourists are able to visit North Korea as part of a controlled tour group, they are asked by their handlers to never take photographs of soldiers. These pictures taken by photographer Eric Lafforgue show the reality of military service in the secretive state Play slideshow  ERIC LAFFORGUE/EXCLUSIVEPIX MEDI1 of 26Soldiers enjoy a ride at the funfair in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Related articles   NORTH KOREA: Hawaii BEGS for emergency plans amid nuclear bomb fears  Kim Jong-un vows to wipe the US 'OFF THE FACE OF THE EARTH'“They’re worried most about the collapse of the regime, and their long border and instability on their border."But you have to say to them, even if you have to take very tough steps that might ultimately collapse the regime, you have to take steps because we will if you don't.“And I think that's the message that you're starting to see.”  GETTYMs Rice served during the George W. Bush administration  GETTYTrump has taken a hardline stance against the hermit kingdomMs Rice claimed that Kim Jong-un was “reckless, maybe even a bit unstable”, and warned that the secretive state attempting to develop nuclear capabilities must be a red line for President Trump.She said: ”That cannot be countenanced by any American President.“I don't care who's in the White House."It comes as North Korea threatened to turn the White House to ashes with a nuclear strike as Kim Jong-un’s regime warned the days of the US are “over”. Kim Jong-un flexes his military muscles Mon, May 15, 2017North Korean leader Kim Jong-un inspecting military detachments on two islets in waters off the country's southwest front. Play slideshow  REUTERS1 of 16North Korean leader Kim Jong Un inspects the long-range strategic ballistic rocket Hwasong-12 (Mars-12)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYKim Jong-un has threatened to strike the US with a nuclear tipped intercontinental ballistic missileIn a scathing 2,000-word editorial published by Kim Jong-un’s state media agency KNCA, Pyongyang condemned President Trump’s decision to dispatch naval forces to the Japan Sea and promised victory for the DPRK.The editorial read: “This is a stern warning to the US imperialists and their stooges running amuck for aggression and war moves.“The world will clearly witness how the crime-woven history of the US imperialists will be over, how the despicable remaining days of the South Korean puppet forces will come to an end and how national reunification, the cherished desire of the Korean nation, will be achieved.”

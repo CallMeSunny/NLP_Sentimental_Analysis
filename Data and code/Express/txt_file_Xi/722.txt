@@ -1,0 +1,21 @@
+Labour activist jailed for 4 1/2 years for pro-democracy protests
+https://www.express.co.uk//news/world/826035/China-Labour-activist-jailed-pro-democracy-protests-human-rights
+ 15:42, Fri, Jul 7, 2017 
+  GETTYA Chinese court on Friday jailed a labour activist for 4-1/2 years Police in the southern city of Guangzhou detained Liu Shaoming in May 2015 and he was arrested soon after on a charge of “inciting subversion of state power”, said a Hong Kong-based advocacy group, the Network of Chinese Human Rights Defenders. Liu will appeal against Friday's decision by Guangzhou's Intermediate Court, his lawyer, Wu Kuiming, said. “He's already been detained for two years ... the sentence is too heavy,” he said. “He is innocent ... he hasn't committed any crime.”  Related articles   China throws out Bo Xilai appeal   Despairing parents take son to COURT to force him to get a job Liu's son and wife were in court when the decision was handed down, Wu added. Wu said Liu spoke briefly in the courtroom, maintaining his innocence and saying authorities had misinterpreted his writings on the overseas democracy movement and his involvement in the Tiananmen protests of 1989 in Beijing. Liu had shared these writings over various social media and online channels in 2014 and 2015, rights groups said.   GETTYHe has already spent more than two years in detention on a subversion charge   Telephone calls to the court in Guangzhou went unanswered.  He's already been detained for two years ... the sentence is too heavyWu KuimingWestern countries have expressed repeated concerns about a widening campaign under President Xi Jinping to quash dissent among activists, rights lawyers, journalists, academics and others. “All that Liu Shaoming is guilty of is the legitimate exercise of his freedom of expression,” said William Nee, a China researcher at rights group Amnesty International.   GETTYNobel Peace laureate and dissident Liu Xiaobo is battling late-stage liver cancer“He is a prisoner of conscience and must be immediately and unconditionally released,” he said in a statement. Liu had campaigned through the years on issues such as labour rights, besides helping to found “Labour Defence Volunteers”, a group to assist blue-collar workers in southern China, rights groups said.  Hong Kong handover: 20 years on in pictures Fri, June 30, 2017Hong Kong is marking 20 years since the territory was handed from Britain to China. Play slideshow  REUTERS1 of 18Troops shout as they prepare for the arrival of Chinese President Xi Jinping (unseen) at the People's Liberation Army (PLA) Hong Kong Garrison as part of events marking the 20th anniversary of the city's handover from British to Chinese rule, in Hong Kong  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYThere has been international concern over China's human rights abusesElsewhere in China, Nobel Peace laureate and dissident Liu Xiaobo is battling late-stage liver cancer after being released on medical parole. Liu's deteriorating condition has stoked international concern and is expected to throw a spotlight on China's rights abuses as Xi attends a summit of the Group of 20 nations in Germany. 

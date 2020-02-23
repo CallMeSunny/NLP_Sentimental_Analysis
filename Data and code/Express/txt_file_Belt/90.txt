@@ -1,0 +1,21 @@
+'Trump's affection for UK very strong' Republican says UK 'front of queue' for trade deal
+https://www.express.co.uk//news/uk/805230/Governor-of-Mississippi-Phil-Bryant-tells-Nigel-Farage-front-queue-free-trade-deal-Trump
+ 14:20, Tue, May 16, 2017 
+   The Governor of Mississippi Phil Bryant insisted the US President held a “very strong” and “personal affection” towards Britain.Speaking to Nigel Farage on his LBC show, the politician said he believed the UK was “at the front of the queue” for a trade deal.When asked about the European bloc being made a priority, Mr Bryant said: “I don’t think that’s going to happen.“I don’t want to speak for the President but I can tell you his affection for and support of Great Britain is very strong.  LBCPhil Bryant remained positive about a UK-US free trade deal much to Nigel Farage's excitement Related articles   UK should secure trade deal with America by OCTOBER, says Brexiteer   Donald Trump defends 'right' to share intelligence secrets with Russia     I can tell you his affection for and support of Great Britain is very strongPhil Bryant“We’ve heard him talk about it again and he understands the importance of Europe and the EU but this is I think a personal affection and belief that a stronger Great Britain means a freer, more prosperous world.”The former Ukip leader then asked if the UK would soon be walking away with an agreement with the US by the time Britain breaks free from the EU in 2019 “if Mrs May gets this right”.Mr Bryant replied: “I would say again, it would surprise me if the President’s not eager to put that deal together.“He talks about free trade deals all the time and I would imagine this would be at the front of the queue.” Brexit Negotiations: Britain's sternest enemies Tue, April 4, 2017According to a new index, the EU27 countries fall into three groups: hard-core, hard and soft. These are the countries with the highest scores which indicate a fairly strong opposition to Britain’s position Play slideshow  AFP/Getty Images1 of 7France has the highest score in the index at 32.5  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYNigel Farage on the campaign trail with Donald Trump last yearAn excited Mr Farage then responded and said: “Good, that’s the sort of language I want to hear!”The comments come after the former US President Barack Obama said Brexit Britain would be “at the back of the queue” for a free trade deal.Mr Farage took a swipe at the former leader and said: “President Obama said the United Kingdom would be at the back of the queue and we didn’t like that very much.“Actually, to be fair – he helped the Brexit campaign.”

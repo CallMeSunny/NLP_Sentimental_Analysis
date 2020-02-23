@@ -1,0 +1,224 @@
+What a jean-ius! Bella Thorne shows some skin as she poses for racy photos in a denim bikini top and striped trousers
+https://www.dailymail.co.uk/tvshowbiz/article-3661452/Bella-Thorne-shows-skin-poses-racy-photos-denim-bikini-striped-trousers.html
+ 02:44 BST, 27 June 2016 
+She doesn't have millions of social media followers by accident.   And Bella Thorne continued to grab the attention of her fans on Sunday by posting a series of stylish and sexy tum-flashing pictures to her Instagram and Snapchat accounts.The 18-year-old shared an Instagram photo of herself sporting a flirty, triangle denim bikini top paired with striped, high-waist jeans, as she struck a pose beside a brick wall.         What a jean-ius! Bella Thorne kept her fans glued into her social media channels on Sunday by posting a series of stylish and sexy tum-flashing snaps, including this flirty Instagram snap
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Bella_Thorne'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Style up some stripes in Bella's jeans from Topshop
+
+
+
+
+Topshop striped mom jeans
+Snap up a pair now!
+
+
+
+Visit site
+
+
+
+There are so many jeans trends it can be hard to know where to start.
+Long gone are the days when the only style to be seen in was a pair of Levi's 501s... Now we've got to choose from distressed, cropped, boyfriend, flared, mom, skinny, high waist, embellished and the list goes on.
+Well add striped jeans to it too as we've spotted Bella Thorne looking pretty fly in this pair from Topshop. We love the vintage mom fit and turn ups and of course the blue on blue pinstripes.
+They make a great change from the classic denim washes we're used to so why not give your collection an update in time for summer? They'll look cute with cropped tops and sneakers or add heels and a slinky camisole top for night. 
+Click (right) to buy them now or check out the other stripey styles in our edit below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET SOME JEANS LIKE BELLA'S
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Topshop striped mom jeans
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Pull & Bear striped jeans at Asos (now reduced to £19)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Paige striped jeans at Luisaviaroma.com
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Publish striped jeans at Revolve
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Bella_Thorne', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Showing off the results of her well-earned, gym-honed waistline, Bella's jeans were cinched at the waist with a small black belt.   RELATED ARTICLES  Previous 1 Next       Beach babe! Bella Thorne strips down to a teeny weeny bikini...    Oversharing! Bella Thorne shares sexy beach side snap...but...    
+
+Share this article
+Share
+
+ Bella also had a sexy and edgy black jacket worn delicately over her shoulders, and finished off the look with a pair of glossy ankle boots.                 Flashing the flesh! The 18-year-old's denim, triangle bikini top put her gym-honed physique on full show          Mirror, mirror: Thorne struck a pose in front of a floor length mirror The redhead had her wavy locks partially pinned back, and accessorized the look with neon green tint sunglasses, a silver choker necklace, along with her beloved VSA headband.'Was feelin it with my bunny ears today :) (you can barely see them in this photo but I promise they are there),' she reassured fans in the caption, adding the hashtags, '#ootd' and '#vintage'. The actress also flashed a little bit of underboob as she took a mirror selfie in the same outfit for Snapchat, giving a pouty and flirty expression in the camera.          Earning her fashion stripes: The Duff actress' blue striped blue jeans cinched at her waist         Added extras! Bella's outfit was complete with a silver choker necklace and of course, a pair of bunny earsBella has just returned from England after attending the wedding of her boyfriend Gregg Sulkin's brother - a trip which was no doubt a refreshing change of pace from her hectic work schedule. The star will be seen later this year in the horror movies The Babysitter, along with Robbie Amell and Samara Weaving, and Keep Watching with Ioan Gruffud.She also stars in the comedy Boo! A Madea Halloween with Tyler Perry and the romantic drama Midnight Sun with Patrick Schwarzenegger.          Meanwhile: Bella has just returned from England after attending the wedding of her boyfriend Gregg Sulkin's brother - a trip which was no doubt a refreshing change of pace from her hectic work schedule 

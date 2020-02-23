@@ -1,0 +1,224 @@
+Ferne McCann catches the eye in teal green dress and designer belt as she attends potty training book launch without infant daughter Sunday
+https://www.dailymail.co.uk/tvshowbiz/article-6882881/Ferne-McCann-catches-eye-teal-green-dress-designer-belt.html
+ 18:29 BST, 3 April 2019 
+She may well have been absent, but Ferne McCann’s infant daughter wasn’t far from the mind as her mother celebrated potty training expert Amanda Jenner’s book launch on Wednesday afternoon.The former TOWIE star, 28, caught the eye in a teal green satin dress as helped Jenner celebrate the publication of her Potty Training Magic Book in London.A stylish Gucci belt gave the look an elegant designer flourish, while a fitted black blazer was tastefully draped across her shoulders.         Looking good: Ferne McCann caught the eye in a teal green satin dress as helped Amanda Jenner celebrate the publication of her Potty Training Magic Book in London on Wednesday Knee-length leather boots added to the look, while a smart black leather handbag proved to be her only notable accessory.     RELATED ARTICLES  Previous 1 Next       Harry Baron having a girlfriend was 'creepy', one co-star...    Patsy Kensit EXCLUSIVE: Star's male drinking companion who...    Kara Tointon tends to her baby son as she is seen for the...    Mario Falcone sparks fury while rowing with trolls over...    
+
+Share this article
+Share
+11 shares
+
+ Drawing further attention to her features, the TV personality applied her make-up generously from a rich colour palette. Ferne may well have been hoping to get some tips from potty expert Jenner, with absent daughter Sunday celebrating her first birthday last November.          Distinctive: A stylish Gucci belt gave the look an elegant designer flourish, while a fitted black blazer was tastefully draped across her shoulders
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Ferne_McCann'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slip into something slinky like Ferne in a dress by Souki Belair
+
+
+
+
+Souki Belair 'Roux' dress
+Get it here!
+
+
+
+Visit site
+
+
+
+Ferne McCann was spotted out and about in London donning a chic outfit, which included a silky dress from her own brand, Souki Belair. 
+The reality star is well accustomed with showcasing her own designs, so we weren’t surprised to see her in this gorgeous dress. Created in a universally flattering teal hue, it incorporates a cowl neckline and subtle polka dot print. 
+As Ferne shows, this dress effortlessly teams with a biker jacket and boots, while working equally well with barely-there heels and a clutch. Fancy trying it out? Click (right) to bag it now. 
+Alternatively, check out the competition from high street brands, such as Topshop and Missguided, below. Shop now and thank us later!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Topshop satin slip dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo slip dress (now reduced to £16.72)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Your Wardrobe satin slip dress at SilkFred
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missguided satin dress (now reduced to £17.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Ferne_McCann', FFFtype: 'inline', fff: true}});
+        }
+    
+
+                     Finishing touches: Knee-length leather boots added to the look, while a smart black leather handbag proved to be her only notable accessory         Don't mind me: Drawing further attention to her features, the TV personality applied her make-up generously from a rich colour palette Ferne's attendance comes after the second series of her ITVBe reality show First Time Mum, which ended in February, was warmly received by fans. While the show mainly documented Ferne's day-to-day struggles and triumphs as a single mum to daughter Sunday, it also showed the star as she debated whether to return to the dating scene. The TV personality has also started embracing the single life following her split from former boyfriend Arthur Collins, Sunday's father, in 2017 .           In good company:Ferne may well have been hoping to get some tips from potty expert Jenner, with absent daughter Sunday celebrating her first birthday last November Collins is currently serving a 20-year jail term for an acid attack at an east London nightclub after being found guilty of five counts of grievous bodily harm and nine of actual bodily harm. Ferne has since been linked to Love Island star Charlie Brake and former TOWIE co-star Liam ‘Gatsby’ Blackwell.  In a bid to reemerge on the dating scene, the TV personality agreed to go on a second date with co-star Gatsby, four years after their first, during an episode of First Time Mum.Hardcore TOWIE fans will remember they enjoyed a brief flirtation, with the aspiring rapper treating Ferne to a helicopter date on the reality show in 2015.       

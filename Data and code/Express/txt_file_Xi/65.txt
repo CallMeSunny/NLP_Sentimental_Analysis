@@ -1,0 +1,21 @@
+Man City boss hopes he won't be rolling out the red carpet twice ahead of Sevilla clash
+https://www.express.co.uk//sport/football/613391/Manchester-City-boss-Manuel-Pellegrini-red-carpet-Sevilla-Champions-League-Xi-Jinping-news
+ 00:02, Wed, Oct 21, 2015 
+  GETTYMan City boss Manuel Pellegrini will play host to Xi Jinping and Sevilla this weekManuel Pellegrini must hope it is the only time the red carpet is rolled out to foreign visitors this week.The City manager appeared irritable yesterday, especially prickly when poked and prodded about his side's continued inability to turn the Etihad into a fortress when the focus shifts from Premier League to Champions League.Sevilla are the latest team seeking to leave the arena with something to show for their endeavour and Pellegrini's record of three wins against Europe's elite in nine home games offers them plenty of encouragement.  GETTYPresident of China Xi Jinping will be at the Etihad as part of his trip to Britain on FridayLast month's defeat to Juventus before a crowd that rarely whips up a frenzied atmosphere on European nights has maintained the pattern and not only complicates progress from Group D, but threatens to have far-reaching repercussions.Had City been more assured at The Etihad in each of the last two seasons, they would have given themselves a better chance of topping the standings and thus avoiding Barcelona, who have accounted for their demise at the last 16 stage in consecutive campaigns.So while Pellegrini gathered his squad together at training yesterday ostensibly to offer a pep-talk about Sevilla's strengths, he must also have felt inclined to spell out some home truths about tactical discipline and ruthlessness even if he was reluctant to discuss matters in public. Premier League's highest paid managers Tue, October 13, 2015Express Sport have compiled a list of the Premier League's highest paid managers Play slideshow  Getty Images1 of 9Alan Pardew: The Crystal Palace manager is set to pocket £1.5m per season after the Eagles boss was reported to have doubled his salary when he moved to Selhurst Park in 2014  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Express Sport

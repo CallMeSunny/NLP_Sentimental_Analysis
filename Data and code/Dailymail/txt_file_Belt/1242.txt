@@ -1,0 +1,225 @@
+But WHY-MCA? Perrie Edwards channels The Village People in a leather cap and a fringed jacket in smoking-hot selfie
+https://www.dailymail.co.uk/tvshowbiz/article-3609029/Perrie-Edwards-channels-Village-People-leather-Bakerboy-cap-fringed-jacket-smoking-hot-selfie.html
+ 16:58 BST, 25 May 2016 
+Perrie Edwards may be still serve as the fourth member of Little Mix, but she dressed more like one sixth of The Village People on Wednesday.Sporting a biker-chic leather Bakerboy cap, choker, fringed jacket and nose ring, the 22-year-old musician looked like she was about to belt out the famous YMCA anthem in her garbs.Against the odds, blonde bombshell Perrie managed to make the image look super-sexy as she captured a smoking hot selfie from the car.Scroll down for video          But why? Perrie Edwards channeled The Village People in her latest Instagram snap as she went hell for leather on Wednesday Perrie had just returned from the Get Weird tour with fellow girlband members Jesy Nelson, Jade Thirlwall and Leigh-Anne Pinnock.   RELATED ARTICLES  Previous 1 Next       Moving on? Mollie King enjoys a low-key lunch date with a...    Braless Neelam Gill shows off her endless legs in slinky...    On the case! Chloe Ferry collapses on top of her luggage as...    Sam Faiers looks glum after sharing 'heated exchange' with...    
+
+Share this article
+Share
+18 shares
+
+ Back on UK soil, the four-piece have completed dates in Australia, Japan & South-East Asia in recent weeks. Zayn Malik's ex-fiancee is still the only single member of the group and is expected to return home to see family as the singers enjoy some time off.              Leather-clad: Perrie (left) resembled biker Eric Anzalone (right), a member of The Village People         Young man, young man: The Village People were an American disco group well known for their on-stage costumes depicting masculine cultural stereotypesOn the boys front, Perrie recently explained why she might be having trouble meeting someone new after Zayn, explaining that she suffers from nerves when she meets someone men.She told Female First: 'When I like someone I get verbal-diarrhoea! It's just so embarrassing but I can't stop, I always put my foot in it.'Gal pal Jesy, meanwhile, may be tempted to descend further into 'recluse' territory after admitting that she prefers a little 'peace and quiet' following her engagement to Jake Roche.          Sexy: Blonde bombshell Perrie can make most outfits look sexy, even so
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Perrie_Edwards'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crop it in Perrie's pick from Topshop
+
+
+
+
+Topshop cropped ribbed cami
+Shop it here
+
+
+
+Visit site
+
+
+
+She's out in Japan with her Little Mix bandmates on yet another leg of their world tour and Perrie Edwards is looking smokin' hot!
+Although she has always been tiny, all that dancing and performing has no doubt helped achieve Perrie's toned tum which she was keen to show off in this cropped camisole.
+One of the high street brands Perrie turns to time and time again for her basics is Topshop and she once again chose a piece from the store. This simple white ribbed top is a bargain at just £6 and is a perfect  easy pick to have in your wardrobe this summer as it'll go with pretty much everything. 
+Keen to bulk your basics? Click right to bag her top now.
+There are of course plenty of pieces similar to this all over the high street, Topshop isn't your only option. See the line up below for an array of alternatives.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asos crop top with v neck in chunky rib (now £6)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+New Look ribbed crop top
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Forever 21 ribbed knit cami top
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Forever 21 ribbed crop top
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Perrie_Edwards', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Jesy told Now magazine this week: 'I feel that as I’m getting older I’m becoming a little recluse. I love the girls to pieces but because I’m the older one in the group I just feel like I’m turning into an old woman. I love peace and quiet.'The brunette has had to duck out of recent concerts, including a gig in Singapore because she tore a ligament during a vigorous dance routine at the Malaysian capital.In March, the group had to cancel two shows in Belfast, which were later rescheduled, after Jesy came down with a mysterious illness.                 Stage stars: Perrie and her Little Mix bandmates (from left) Jesy Nelson, Leigh-Anne Pinnock and Jade Thirlwall have just returned to the UK from the Get Weird tour

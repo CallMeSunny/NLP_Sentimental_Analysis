@@ -1,0 +1,21 @@
+Donald Trump jets off to Asia for crucial five-nation tour in bid to SMASH North Korea
+https://www.express.co.uk//news/world/875102/Donald-Trump-asia-tour-North-Korea-latest-news
+ 13:26, Fri, Nov 3, 2017 
+   President Trump’s tour of Japan, South Korea, China, Vietnam and the Philippines from Friday to November 14 will take him out of Washington for ten days. The US leader's main priority will be to discuss Kim Jong-un's warmongering regime with China as well as key US allies Japan and South Korea. The last time a US president was in Asia for so long was in late 1991 and early 1992, when President George HW Bush became ill at a Japanese state dinner.President Donald Trump flew on Friday morning to Hawaii, stopping for a briefing on US military forces in the Pacific and a visit to Pearl Harbor.  GETTY Donald and Melania Trump jet out to Asia Related articles   BREAKING: Donald Trump and Vladimir Putin to meet to discuss WW3    Germany's EU bill to soar as Merkel counts cost of life without UK  President Trump’s tour of Japan, South Korea, China, Vietnam and the Philippines from Friday to November 14 will take him out of Washington for ten daysHe will now visit Japan and South Korea in search of a united front against North Korea before going to Beijing, where he will push Chinese President Xi Jinping to get tougher with Pyongyang.The US leader will attend the Asia-Pacific Economic Cooperation summit in Danang, Vietnam, make a state visit to Hanoi and end his trip with the Association of South East Asia Nations summit in Manila.Earlier today it emerged President Trump may be meeting Russia's Vladimir Putin to discuss Kim's secretive state when he is in Vitenam.   REUTERS Trump is keen to discuss the threat of North Korea with his allies in Asia  Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    North Korea have continued to test nuclear weapons over the past few months, with its most recent test being its most powerful. The test took place on September 3 at the Punggye-ri Test Site which registered as a 5.7 magnitude earthquake by the South Korean government. Threats between the rogue state and the US have continued after a senior diplomat from Pyongyang warned the United States to take the threat of a possible atmospheric nuclear test over the Pacific Ocean should be taken “literally”.President Trump is set to travel to Asia in his bid to urge countries to continue applying pressure on the rogue state and its nuclear programmes. The US has deployed nuclear bombers to the Pacific ahead of the Asia tour.

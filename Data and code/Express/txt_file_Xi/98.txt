@@ -1,0 +1,21 @@
+Trump vs Xi? US warship provokes Beijing by sailing within 12 miles of China-claimed reef
+https://www.express.co.uk//news/world/809007/Donald-Trump-Xi-Jinping-US-warship-Beijing-12-miles-China-Spratly-Islands-Mischief-Reef
+ 02:09, Thu, May 25, 2017 
+   The USS Dewey sailed close to the Mischief Reef, one of the Spratly Islands in the South China Sea - an area where China has routine territorial disputes with its neighbours.An anonymous US official claimed that this was part of the Defence department's "freedom of navigation operations". Related articles   Trump in talks with China's Xi Jinping over 'menace of North Korea'   Donald Trump HAILS China's 'gentleman' Xi Jinping amid new alliance  Discover the disputed islands of the South China Sea Wed, May 10, 2017Among the islands at the heart of territorial disputes in the South China Sea. Play slideshow  Getty Images1 of 6Subi Reef at Spratly Islands: Subi Reef has transformed from a single building and cranes on an artificial sand bank to what looks look a forward operating base with its own town.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Washington’s strategy is designed to contain and influence China if possibleJames Petras, International expert and authorThe Trump administration's decision to launch this operation comes as the Republican leader attempts to seek China's cooperation in reigning in North Korea's nuclear and missile programmes.However, an international expert claimed the US President is only using his feud with North Korea to launch a surprise attack on China.  GETTYDonald Trump has provoked Xi Jing by launching aggression against attackersqJames Petras said: "Washington’s strategy is designed to contain and influence China if possible, and in extreme basis for launching a nuclear attack on China.“I think the pretext of attacking North Korea is simply an excuse to build up US military capabilities for a nuclear attack.”President Trump was previously full of praise for his Chinese counterpart, branding Mr Xi a "gentleman" who wants to "do the right thing".  GETTYMelania Trump bonding with Jinping's wife Peng Liyuan  GETTYPresident Trump's policies are now postponed until further noticeBut this operation, which is America's latest effort to counter Chinese regulation of the strategic waters, is likely to anger Mr Xi.In May last year, a Chinese Foreign Ministry spokesperson reportedly said that while ships have a right to travel in international waters, military ships are a different matter.But, US Pentagon spokesman Captain Jeff Davis insisted last week that the US will continue to assert their "international rights to navigate in waters".He said: “We did last year, freedom of navigation assertions against 22 different countries all over the world. Many of those countries are friends and allies. It’s not about one country. It’s not about one body of water.“We will continue to do them. But we don’t intend certainly to tell you about them in advance, and we do tell you about them after."

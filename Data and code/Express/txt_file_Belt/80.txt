@@ -1,0 +1,38 @@
+World War 3: North Korea vows it WILL advance nuclear weapons despite test site collapse
+https://www.express.co.uk//news/world/873904/north-korea-kim-jong-un-pyongyang-world-war-3-nuclear-test-site-punggye-ri-collapse
+ 03:40, Wed, Nov 1, 2017 
+   At least 200 people were killed after a tunnel at North Korea’s Punggye-ri facility collapsed, according to reports that emerged yesterday.Foreign experts had earlier warned a collapse was likely, highlighting the danger of a cloud of radioactive fallout escaping from the site and spreading across "an entire hemisphere".Kim Jong-un’s puppet media, the Korean Central News Agency, has announced that it will “dynamically advance on the road of triumph” as it bolsters it nuclear weapons to “put a imperialists' outrageous nuclear threat and blackmail”, according to the state-controlled Uriminzokkiri website based in China.Referring to North Korea by its acronym, KCNA said: “The DPRK will dynamically advance on the road of triumph, firmly preserving its independent line in any storm and stress, no matter how desperately the enemies move to check it.  GETTYNorth Korea has pledged it will advance its nuclear weapons programme 'on the road of triumph' Related articles   Is North Korea’s nuclear dream OVER after tunnel death disaster?   North Korea name Trump a bluffing 'nuclear war maniac' “The US is running wild in a bid to hold in check the advance of the DPRK for perfecting its state nuclear force.“The DPRK had access to its self-defensive nuclear deterrent and has bolstered it up rapidly by tightening its belt in order to put a definite end to the US imperialists' outrageous nuclear threat and blackmail and pave an avenue to independent development and eternal prosperity.”Around 100 people were killed when an unfinished tunnel collapsed at Kim Jong-un's main nuclear testing site.Another 100 people subsequently died while attempting to rescue the first group of entombed workers.  GETTYNorth Korea has conducted six nuclear tests at the Punggye-ri facility The DPRK will dynamically advance on the road of triumph, firmly preserving its independent line in any storm and stressKorean Central News AgencyPunggye-ri was the site of North Korea’s sixth-ever nuclear test on September 3. They tested a huge 100-kilotonne explosive which was around seven times as powerful as the bomb dropped on Hiroshima during WW2.This test is believed to have badly destabilised the mountainside based facility with China later issuing a dire warning to Kim about the state of the nuclear testing site.They said a cloud of nuclear fallout could spread across "an entire hemisphere" if the facility collapsed.The Chinese Academy of Sciences’ Institute of Geology and Geophysics warned: “China cannot sit and wait until the site implodes. Inside Kim's secret army: North Korean military laid bare in smuggled-out pictures Thu, January 11, 2018The true face of Kim Jong un’s army has been laid bare in shocking new images smuggled out of North Korea Play slideshow  Pen News1 of 21A female soldier on duty in high heels  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    "Our instruments can detect nuclear fallout when it arrives, but it will be too late by then.“There will be public panic and anger at the government for not taking action.”The latest announcement comes as Kim Jong-un and Donald Trump continue to engage in a war of words amidst repeated missile tests and military drills near the Korean Peninsula.Kim Jong-un’s mouthpiece has claimed the region “is on the threshold of a nuclear disaster and no one knows at what time a thermonuclear war will break out”.Last month KCNA said: “The US reckless military gambling against DPRK may lead to its total destruction. North Korea celebrates nuclear test Thu, September 7, 2017North Korea held a mass celebration for the scientists involved in carrying out its largest nuclear blast to date, with fireworks and a mass rally in Pyongyang Play slideshow  AFP/Getty Images1 of 17Korean People's Army (KPA) soldiers cheer during a mass celebration in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “The DPRK is ready to counter the war of aggression with a war of justice and cope with the enemy's dagger with a sword and his rifle with an artillery piece.“It is the invariable stand of the Korean army and people and their permanent mode of counteraction.”KCNA also lashed out at reports that the Trump administration is considering deploying smaller tactical nuclear weapons to the region.It added: “This sheds light on the sinister scenario to provoke a nuclear war by all means so as to totally destroy the DPRK and exterminate the population of the north.“Now, the Korean Peninsula is on the threshold of a nuclear disaster and no one knows at what time a thermonuclear war will break out.”

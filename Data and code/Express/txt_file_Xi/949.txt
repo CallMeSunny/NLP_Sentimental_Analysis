@@ -1,0 +1,21 @@
+Brigitte Macron wears Chinese colour of good luck as she visits China with Emmanuel
+https://www.express.co.uk//life-style/style/901661/brigitte-macron-emmanuel-news-pictures-china
+ 09:39, Mon, Jan 8, 2018 
+  ReutersBrigitte Macron news: The French first lady wore red, the Chinese symbol of good luck, in ChinaBrigitte Macron, 64, made a style statement in a bold red coat for her trip with Emmanuel Macron, 40.Red symbolises good luck in China, so Brigitte was obviously hoping to sprinkle some positive energy on her trip with her choice.She paired the coat with an entirely black outfit, a decision which highlighted the red even more.A pair of skintight leather trousers covered her slim legs - an rare decision  for Macron, who tends to favour mini skirts and dresses. Related articles   How to blow dry hair like Brigitte Macron - get her bun   Brigitte Macron and Turkish First Lady Emine Erdogan meet  Brigitte Macron news: French President's wife wears red to visit China with husbandOn top, she wore a black jumper, and fighting the biting cold, a black Louis Vuitton scarf wrapped around her neck.The French first lady completed the look with a pair of red leather gloves, black Christian Louboutin ankle boots, and a red and black woven handbag.Her hair was perfectly coiffed, the thick blond locks styled to come down around her face.Brigitte opted for her signature smokey eye makeup and nude lipstick.  AFP/Getty/ReutersBrigitte Macron news: Emmanuel and his wife are in China for three days France's First Lady Brigitte Macron in pictures Tue, July 17, 2018Brigitte Macron is a former high school teacher and the wife of the French politician Emmanuel Macron. See her most recent pictures. Play slideshow  REUTERS•Getty1 of 100France's First Lady Brigitte Macron in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      AFP/GettyBrigitte Macron news: The couple have seen the famed Terracotta Army in XianHer husband complemented her in a completely black outfit.The couple are in China in what has been seen as a snub to Theresa May by the Chinese government, as the UK PM is not due to visit for another two weeks.Macron hopes to use this week's visit to China to boost Beijing's ties with Paris, and take over from the UK as China's closest ally in Europe.Mr Macron's first official visit to China is aimed at boosting the global influence of both countries - as France looks to move out of Germany's shadow, and China from the US.  ReutersBrigitte Macron news: The Macron's also took in the Great Mosque     ReutersBrigitte Macron news: The Macron's are hoping to boost trade between China and FranceThe UK had long been seen as China's closest partner in Europe - but since Brexit and the election of Mr Macron, China has increasingly looked to France.Emmanuel is the first by the leader of a European country since Xi Jinping secured his grip on power at the communist party congress in October.So far, the couple have seen the famous terracotta warriors, the Big Wild Goose Pagoda, and the Great Mosque of Xian.Their trip continues this week, and will total three days.

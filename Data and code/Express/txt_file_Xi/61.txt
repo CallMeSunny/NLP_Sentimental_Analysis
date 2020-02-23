@@ -1,0 +1,21 @@
+China DOMINANCE: All-powerful Xi Jingping will rule China for DECADES
+https://www.express.co.uk//news/world/870365/President-Xi-Jingping-Chairman-Mao-Tse-tung-Chinese-politics-leadership
+ 18:04, Tue, Oct 24, 2017 
+   The party unanimously passed the amendment to include “Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era” as one of its guiding principles at the end of its week-long congress.It will announce its new Standing Committee, the apex of power in the country, around midday on Wednesday.The current committee is made up of seven people.Whether President Xi was able to have his name “crowned” in the party constitution had been seen as a key measure of his power, elevating him to the level of previous leaders exemplified by Mao Tse-tung Thought and Deng Xiaoping Theory.   GETTYPresident Xi Jinping now officially ranks alongside Chairman Mao in Chinese politics Related articles   China's battle against smog and Taiwanese independence continues   China prepared to wage war on North Korea   GETTYMao was the former Chairman of the Communist Party of ChinaNo other leader has had an eponymous ideology included in the document while in office since Chairman Mao.Deng's name was added after his death in 1997. President Xi's more recent predecessors, Jiang Zemin and Hu Jintao, both had the party constitution amended to include their guiding thoughts, but without their names directly attached.Jiang had his “Three Represents” embracing private entrepreneurs written in, while Hu, Xi's immediate predecessor, had his economic doctrine of “scientific development” included.  GETTYChina's ruling Communist Party enshrined President Xi Jinping into its constitution today Hong Kong handover: 20 years on in pictures Fri, June 30, 2017Hong Kong is marking 20 years since the territory was handed from Britain to China. Play slideshow  REUTERS1 of 18Troops shout as they prepare for the arrival of Chinese President Xi Jinping (unseen) at the People's Liberation Army (PLA) Hong Kong Garrison as part of events marking the 20th anniversary of the city's handover from British to Chinese rule, in Hong Kong  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    President Xi has rapidly consolidated power since assuming party leadership in late 2012 and then the presidency the next year.The party gave President Xi the title of “core” leader a year ago, a significant strengthening of his position ahead of the congress, which is held once every five years. 

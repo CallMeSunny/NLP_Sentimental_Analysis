@@ -1,0 +1,439 @@
+Bar Refaeli covers up her svelte frame in a camouflage green jacket and skinny jeans as she continues fashion shoot in Marbella 
+https://www.dailymail.co.uk/tvshowbiz/article-2924496/Bar-Refaeli-continues-fashion-shoot-Marbella.html
+ 10:29 BST, 24 January 2015 
+With several years under her belt as one of the world's most coveted models, Bar Refaeli now boasts days at work that more closely resemble vacations.The Israeli beauty, 29, was spotted in picturesque Marbella, Spain, putting on her best poses for a photographer as she modelled on the beach for a new Mango fashion campaign on Friday.With the deep blue sea providing a stunning backdrop, Bar covered up her svelte frame in a camouflage green jacket, which she wore over a loose-fitting striped T-shirt.Scroll down for video          Another day at the office: Bar Refaeli was spotted at a fashion shoot for Mango in Marbella, Spain, on Friday
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Bar_Refaeli'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channel a laid-back vibe like Bar Refaeli
+
+
+
+
+Mango t-shirt
+Not yet available - shop similar style here
+
+
+
+Visit site
+
+
+
+She's a model that never fails to stun and she looked as drop-dead gorgeous as ever here as she posed up a storm in Marbella.
+Working her magic for a new Mango campaign, Bar Refaeli worked some new pieces for the brand which sadly, aren't available to buy just yet, but at least we've all got something to look forward to hey?
+The vibe was laid-back cool, with ripped off-duty jeans, biker boots, khaki jacket and loose striped tee.
+While the look isn't available to buy, if you click to the right, Mango has a similar striped tee up for grabs, so you can work Bar's look before it's even on the shelves.
+Or shop our alternatives below that start at just £10 from Asos.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asos cropped boyfriend t-shirt with roll sleeve in stripe
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Petit Bateau cream cotton stripe top at Avenue 32
+
+
+Visit site
+
+
+
+
+
+
+
+
+
++ People striped t-shirt at Farfetch (now £75.35)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Mango striped jersey t-shirt
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Bar_Refaeli', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Bar rounded out her casual ensemble with black ripped skinny jeans and a pair of matching boots.   RELATED ARTICLES  Previous 1 2 Next       PICTURE EXCLUSIVE Cheryl Fernandez-Versini steps out for the...    Girls just want to have fun! Taylor Swift and the Haim...      Glamorous in green! Ellie Goulding covers up her chic black...    
+
+Share this article
+Share
+
+ She arrived on the set with her wavy ombré tresses worn in a bun, before letting them out to rest on her shoulders.Earlier in the day, Bar - who famously dated Leonardo DiCaprio - proudly displayed the body that catapulted her to fame in a completely different outfit.         Smart: The Israeli beauty initially wore her wavy ombré tresses in a bun when she arrived on the set              Undercover: Bar covered up in a green camouflage jacket as she prepared for her day at work         Letting her hair down: The 29-year-old soon let her hair down as she sat on an upholstered chair              It's in her jeans! The star donned a pair of black skinny jeans, which featured large rips at the knees         Natural beauty: Bar went light on the make-up for her shoot as she sat beside the sea
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Bar_Refaeli'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channel a laid-back vibe like Bar Refaeli
+
+
+
+
+Mango t-shirt
+Not yet available - shop similar style here
+
+
+
+Visit site
+
+
+
+She's a model that never fails to stun and she looked as drop-dead gorgeous as ever here as she posed up a storm in Marbella.
+Working her magic for a new Mango campaign, Bar Refaeli worked some new pieces for the brand which sadly, aren't available to buy just yet, but at least we've all got something to look forward to hey?
+The vibe was laid-back cool, with ripped off-duty jeans, biker boots, khaki jacket and loose striped tee.
+While the look isn't available to buy, if you click to the right, Mango has a similar striped tee up for grabs, so you can work Bar's look before it's even on the shelves.
+Or shop our alternatives below that start at just £10 from Asos.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asos cropped boyfriend t-shirt with roll sleeve in stripe
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Petit Bateau cream cotton stripe top at Avenue 32
+
+
+Visit site
+
+
+
+
+
+
+
+
+
++ People striped t-shirt at Farfetch (now £75.35)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Mango striped jersey t-shirt
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Bar_Refaeli', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Natural wonder: She strolled though her stunning surroundings as she made her way around the set         Centre of attention: She spoke with the crew as she sat on her carefully positioned chairHer lean and slender frame was highlighted thanks to a dazzling pinstriped jumpsuit, which was embellished with black, white and yellow sequins.The sexy number also flashed a hint of her cleavage with its plunging neckline.Standing tall, Bar wore her sleek golden-tinted mane loose and swept back from her face, while she accentuated her striking facial features with bronze eyewear and a touch of blusher.         Hard at work! Bar looked absolutely sensational as she pulled some of her best poses         Posing up a storm! Her lean and slender frame was highlighted thanks to a dazzling pinstriped jumpsuit, which was embellished with black, white and yellow sequins         Showing some flesh: The sexy number also flashed a hint of her cleavage with its plunging neckline              A vision: The 29-year-old model wore her sleek golden-tinted mane loose and swept back from her face, while she accentuated her striking facial features with bronze eyewear and a touch of blusher       She added a touch of glamour to the proceedings with a chunky silver chain necklace.Meanwhile, the blonde beauty cut an immaculate figure when she attended the STYLIGHT Fashion Influencer Awards in Berlin, earlier in the week.The Sports Illustrated model was in Germany to be part of Berlin Fashion Week, which has already attracted a host of stars including Katie Holmes and Liz Hurley.         Bold and fierce: She added a touch of glamour to the proceedings with a chunky silver chain necklace              Doing her thing: The blonde beauty cut an immaculate figure when she attended the STYLIGHT Fashion Influencer Awards in Berlin, earlier in the week          'I think Rihanna is amazing': Bar was recently asked about her former flame Leonardo DiCaprio rumoured love interestOn Monday, Bar was asked by TMZ what she thought of her ex-boyfriend Leonardo's new rumoured love interest, superstar Rihanna.'I think Rihanna is amazing,' she said. 'She must be everyone's type.'Neither Leonardo nor Rihanna have spoken out about their relationship, either to confirm or deny the host of rumours.           Taking a break? The model was pictured sitting down beside the sea in between shoots         Low-key: Bar was later spotted walking around in a chic black breezy dress and flat sandals

@@ -1,0 +1,21 @@
+India and Pakistan tensions at BOILING POINT as spat over China trade sparks WAR fears
+https://www.express.co.uk//news/world/804783/India-Pakistan-China-Kashmir-conflict-One-Belt-Road-trade-violence-Xi-Jinping-Russia
+ 14:44, Mon, May 15, 2017 
+  GETTYChina's Xi Jinping risks sparking conflict between India and Pakistan with new trade plansChina’s ambitious trade and infrastructure policy, know as ‘Belt and Road’, is seeking to open up trade routes in Pakistan-occupied Kashmir.But India lays claim to some of the land, and tensions have simmered in the region for generations. Related articles   Four die in Kashmir market shooting   Mosque blast kills Muslim leader China’s £40 billion project, which would also encompass parts of Russia, Kazakhstan and Armenia, are seen as an affront to Indian sovereignty.Eswar Prasad, professor at Cornell University, said: “India is concerned that Belt and Road disguises China's territorial ambitions, including strengthening its claims on parts of northeastern India that it claims as its own territory.”  GETTYViolence regularly erupts in the hotly disputed regionSamir Saran, vice president of the New Delhi-based Observer Research Foundation, said it would “destroy any chance of a peaceful settlement of the Kashmir dispute”.He added: “In effect, Pakistan and China are suggesting that it is conceivable Kashmir can be segregated into separate units that merit unique economic, political and military engagement.”Pratyush Rao, senior South Asia analyst at Control Risks, said: "The optics of China funding projects in territory that Delhi deems to be disputed is likely to be seen as highly provocative in India.“The Modi government is likely to react by fast-tracking hydro-power projects in Indian-administered-Kashmir, that could in turn impact water flows downstream into Pakistan and trigger new water disputes." Indian protests end with purple rain Mon, June 10, 2013 Indian police officers detain Kashmiri government employees during a protest. Play slideshow  1 of 7Protesters were sprayed with the dyed water in an effort to quell disruption in India.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    India refused to send a delegation to a Chinese conference on the topic last weekend, where President Xi Jinping promised around £90billion to finance projects.China is likely to try to strong-arm the Indians, however, who are in urgent need to an infrastructure boost.Victor Gao, chairman of the China Energy Security Institute, said: “It will be wise for Indian leaders to think hard about OBOR and join as early as possible.” Related videos   Militants kill 17 soldiers in India-administered Kashmir   Villagers protest as tensions rise in Kashmir   Kashmir: 17 soldiers killed by militants at Indian army base China and India have been at loggerheads consistently before, with Beijing vehemently opposing India’s desire to become a member of the 48-nation Nuclear Suppliers Group.Also, the Dalai lama visited Arunachal Pradesh in April - the religious leader is despised by Beijing and India’s acceptance of him did not go unnoticed.

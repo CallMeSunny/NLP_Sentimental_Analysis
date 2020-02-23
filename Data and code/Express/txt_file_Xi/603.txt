@@ -1,0 +1,21 @@
+Terrifying Future of war: China's next cruise missiles will use ARTIFICIAL INTELLIGENCE
+https://www.express.co.uk//news/world/702007/China-using-ARTIFICIAL-INTELLIGENCE-next-generation-cruise-missiles
+ 17:00, Fri, Aug 19, 2016 
+  GETTYChina is a self-proclaimed world leader in AI technologyA senior designer from China’s Aerospace and Industry Corp revealed the company was developing AI to revolutionise the way wars are fought in the future. Wang Changqing said: “We plan to adopt a 'plug and play' approach in the development of new cruise missiles, which will enable our military commanders to tailor-make missiles in accordance with combat conditions and their specific requirements.”He said the missiles would be equipped with a high level of automation, similar to the technology that allows a drone to fly, gather intelligence and lock onto a target with little human intervention. Related articles   SHOCK REPORT: War between US and China would plunge world into chao...   China's FURY over USA's anti-missile defence system in South Korea China is a self-proclaimed world leader in AI technology and engineers have been working on it in military technology for several years. AI has been successfully used in medicine, robotics, stock trading and scientific discovery, but until now has not been extensively used in military technology.Mr Changqing said the new technology would “allow commanders to control them in a real-time manner, or to use a fire-and-forget mode, or even to add more tasks to in-flight missiles”. The Torch Festival of China Sat, July 30, 2016The Torch Festival of China is one of the main holidays of the Yi people of southwest China. People will burn torches, hold beauty contest and animal fighting competitions, play wrestling and pole climbing during the celebration of Torch Festival Play slideshow  Getty Images1 of 14The Torch Festival of China in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Chinese President Xi Jinping has made the modernisation of China’s army a priority.In July the communist leader said reforms to the country’s huge armed forces would enable China to win in future wars.He said: “We should put together economic and defence development, modernise the army to make it contemporary and standardised.  GETTYChinese President Xi Jinping has made the modernisation of China’s army a priority  GETTYThe Chinese increased defence spending by 7.4 per cent last year   “We should comprehensively promote the military reform to create an army that will be disciplined and able to win.”The Chinese increased defence spending by 7.4 per cent last year, hitting £151bn in 2015. That compares with America’s £420billion and Britain’s total defence bill of £39billion.

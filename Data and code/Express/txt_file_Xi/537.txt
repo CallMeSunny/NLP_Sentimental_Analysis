@@ -1,0 +1,21 @@
+North Korea and South agree to hold SUMMIT on April 27 - will Trump attend?
+https://www.express.co.uk//news/world/938638/North-Korea-South-Korea-agree-summit-April-27-Panmunjom-peace-talks-Donald-Trump-USA
+ 23:32, Thu, Mar 29, 2018 
+  GettyThe two Asian nations had agreed to hold a summit earlier this monthThe two Asian nations had agreed to hold a summit earlier this month.It is unknown what will be discussed at the summit or if Donald Trump will attend.Following Kim’s recent meeting with Xi Jinping in Beijing, Donald Trump declared that he had received word the leader of the hermit kingdom was looking forward to their meeting.He tweeted: “Received message last night from Xi Jinping of China that his meeting with Kim Jong-un went very well and that Kim looks forward to his meeting with me. Related articles   North Korea SHOWDOWN: Kim to FACE OFF with South Korea president in...   Here's how Trump and Kim need to negotiate to avoid nuclear war “In the meantime, and unfortunately, maximum sanctions and pressure must be maintained at all cost!”Donald Trump said on Thursday he may hold up a trade agreement reached this week with South Korea until after a deal is reached with North Korea on denuclearisation.He said: "I may hold it up until after a deal is made with North Korea."You know why? Because it's a very strong card. And I want to make sure everyone is treated fairly.” Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Senior US officials have expressed concerns privately that Seoul is the weak link in the US-Japan-South Korean alliance and could be too quick to seal a deal with North Korea.Trump agreed this month to accept an invitation to meet with North Korean leader Kim Jong-un.South Korean officials have said the meeting would take place by the end of May, after a North-South summit in April.Mr Trump added: "We're moving along very nicely with North Korea. We'll see what happens. Certainly the rhetoric has calmed down just a little bit.”

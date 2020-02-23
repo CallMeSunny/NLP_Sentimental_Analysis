@@ -1,0 +1,38 @@
+Who will win the South Korean election? How will the new president deal with Kim Jong-Un?
+https://www.express.co.uk//news/world/802053/South-Korea-Election-North-Korea-Kim-Jong-un-Donald-Trump-USA-Moon-Ahn-Hong
+ 02:47, Tue, May 9, 2017 
+   The approach to the tyrannical north’s brutal dictator is high on the agenda as the Kim regime refuses to change course from its warmongering ways.And South Korea’s alliance with the US is on the line as the nation looks at how to deal with tensions on the Korean peninsula.  GETTY(From left to right) Mr Hong, Mr Moon and Mr Ahn could lead the nation in very different directions Related articles   WW3: 'China MUST stop North Korea’s Kim Jong UN' US official claims   NORTH KOREA: Kim Jong-un will speed up nuclear plot to defy US & Trump Who could win the presidential election?The frontrunners are the left-leaning Moon Jae-in, centrist Ahn Cheol-soo and conservative Hong Joon-pyo.Mr Moon, who was narrowly defeated in the 2012 election and looks likely to win following exit polls, is standing for the Democratic Party on a peace-seeking platform.The People’s party was established by Mr Ahn, a Doctor and IT tycoon, in a similar move to Emmanuel Macron’s En Marche! which has seen his support surge.Meanwhile the Liberty Korea Party’s Mr Hong is billed as “Korea’s Trump” following his outspoken comments and accusations of sexism. Explosive images as South and North Korea test their deadly power Tue, May 2, 2017South Korea and US military held the integrated live fire exercise amid tensions over nuclear issues in the Korean Peninsula Play slideshow  AFP/Getty Images1 of 13South Korean K1A2 tanks fires live rounds  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    How do they want to deal with Kim Jong-un?Moon Jae-in has broken away from the political norm of confronting Pyongyang, pledging to open a dialogue with Kim Jong-un and visit the North Korean capital to discuss rising nuclear tensions while backing continued sanctions.Centrist Mr Ahn also backs communications with their northern neighbour but has called for a stronger buildup of the nation’s military defence to stand up to the tiny tyrant.Meanwhile Hong Joon-pyo has called for “armed peace” in keeping with the nation’s traditional stance – and blasted his opponents for being too soft on the warmongering hermit kingdom.  GETTYCentrist Ahn Cheol-Soo has claimed he will connect with Trump over their university ties Kim Jong-un flexes his military muscles Mon, May 15, 2017North Korean leader Kim Jong-un inspecting military detachments on two islets in waters off the country's southwest front. Play slideshow  REUTERS1 of 16North Korean leader Kim Jong Un inspects the long-range strategic ballistic rocket Hwasong-12 (Mars-12)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Will they stay allied with the US?While none of the candidates seem likely to break away from the US altogether, yet the Trump-like Mr Hong has voiced the strongest support for the US administration.He has even spoken admirably of the Republican firebrand’s shock victory, claiming “Trump became President despite biased news media” in a bid to drum up support amid his own swirling controversies.But he has also vowed to speak with Chinese president Xi Jinping before approaching the US leader.Centrist Ahn Cheol-soo has claimed he will connect with President Trump over their university ties – with both attending the Wharton Business School of the University of Pennsylvania.  GETTYConservative Hong Joon-Pyo has been the 'Korean Trump'Despite his plan to engage with the former business mogul, he has come out strongly in opposition to any preemptive strike from the US military.But while both the centrist and conservative candidates back the Trump administration and their supply of hi-tech weaponry, Moon Jae-in has hit out at Washington and turned their decision to deploy a THAAD missile defence system into a hot button issue.Mr Moon has previously claimed he would never “kowtow to the Americans”, and wrote in a book published earlier this year it was time for South Korea to “say no to the Americans”.And it is believed the left-leaning frontrunner could cause frictions with the US, potentially threatening their long-standing alliance.  GETTYLeft leaning Moon Jae-In has spoken out against South Korea's close US tiesWhy is there an election?In a dramatic fall from power, president Park Geun-hye became South Korea's first democratically elected leader to be thrown out of office and into a prison cell in March.She is accused of colluding with a friend, Choi Soon-sil, to pressure big businesses to contribute funds to foundations that backed her policy initiatives and faces a possible life sentence.Park's removal from office capped months of paralysis and turmoil over the corruption scandal that also landed the head of the Samsung Group, South Korea's largest “chaebol”, or family-run conglomerate, in detention and on trial.She and Choi, who is already in custody and on trial, deny any wrongdoing.

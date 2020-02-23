@@ -1,0 +1,38 @@
+US ready 'to launch PREEMPTIVE STRIKE if North Korea threatens NUCLEAR weapons blast'
+https://www.express.co.uk//news/world/791792/us-prepared-preemptive-strike-north-korea-nuclear-weapons-launch-donald-trump-kim-jong-un
+ 00:00, Fri, Apr 14, 2017 
+  GETTYTrump is reportedly prepared to strike North Korea if the hermit state threatens a nuclear testDonald Trump has deployed two destroyer vessels close to the Korean peninsula, with each capable of shooting Tomahawk cruise missiles - the same weaponry used to strike an airbase in Syria last week.Heavy bombers are also positioned in Guam, a small island in the Western Pacific, while the USS Carl Vinson strike group has already been diverted to the area as the world braces for another North Korean nuclear launch. Related articles   President Trump vows to TAKE ON North Korea WITHOUT China if necessary   Merkel wants to find peaceful resolution to North Korea tensions  Secretive images revealed as North Korea prepares for war Wed, April 5, 2017A look at North Korea's firepower as it pursues its nuclear and ballistic missile programs in defiance of the United States and its allies. Play slideshow  AFP/Getty Images1 of 30People watch a television news showing file footage of a North Korean missile launch, at a railway station in Seoul  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    In recent years, barbaric dictator Kim Jong-un has launched nuclear tests to coincide with ‘the Day of the Sun’, an annual public holiday in North Korea to commemorate the birth of the country’s founder, Kim Il-sung.Pyongyang has already warned of an upcoming “big and important event” and with the Day of the Sun set to be celebrated on Saturday April 15, the world is bracing itself for another test launch.The Pentagon has declined to comment on the claims, stating it does not discuss future operations "nor publicly speculate on possible scenarios."Dana White, a Pentagon spokeswoman, said in a statement: ”Commanders are always considering a full range of options to protect against any contingencies."Our commitment to the defence of our allies, including the Republic of Korea and Japan, in the face of potential threats, remains steadfast."  GETTYThe despotic leader is believed to be preparing another nuclear test launchSatellite images have revealed “unusually high levels of activity” at Kim Jong-un’s Punggye-ri nuclear test site.Experts say the images could mean a nuclear test is “imminent” as US Secretary of State Rex Tillerson calls for North Korea to destroy its nuclear arsenal. The pictures Kim Jong-un WANTS you to see of inside North Korea Wed, April 12, 2017Fascinating photographs depict life inside North Korea as Kim Jong-Un wants you to believe Play slideshow  EPA1 of 18A North Korean student swings on a bar in a school in Pyongyang, North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYDonald Trump and Chinese president Xi Jinping have discussed ways to quell the North Korean threatThe news comes just hours after President Trump launched the US’s biggest non-nuclear bomb on an ISIS stronghold in Afghanistan.The GBU-43 bomb weighs 21,600 pounds, is 30 feet long and contains 11 tons of explosives.Former US intelligence officer Andrew Peek suggested the use of the bomb was a “creative way to threaten North Korea”, adding that it “was not meant for Afghanistan”. 

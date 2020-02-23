@@ -1,0 +1,21 @@
+President Trump set to travel to Brussels for NATO talks in May after Tillerson 'SNUB'
+https://www.express.co.uk//news/world/782248/president-trump-nato-talks-brussels-may-25-tillerson-snub-china-russia
+ 02:41, Wed, Mar 22, 2017 
+  GETTYTrump will travel to Europe for Nato talks in MayThe meeting, planned for May 25, is set to be held in Brussels and comes after Trump vowed to force other members to increase their financial input to the military alliance.US Secretary of State Rex Tillerson recently proposed new dates for a Nato meeting amid plans to skip talks scheduled for April 5-6. Related articles   Trump’s election ‘could spell the end of NATO’ claims former chief   Trump brands NATO ‘OBSOLETE’ for failing to deal with terror threats A White House statement said: "The president looks forward to meeting with his NATO counterparts to reaffirm our strong commitment to Nato, and to discuss issues critical to the alliance, especially allied responsibility-sharing and Nato's role in the fight against terrorism.”The statement added that the President is set to welcome Nato Secretary General Jens Stoltenberg to the White House on April 12 to discuss "how to strengthen the alliance to cope with challenges to national and international security”.  GETTYTrump's pledge to put 'America First' could have consequences for the US contributions to NatoMr Tillerson’s decision has reportedly unsettled European leaders and raised questions over US commitment to the alliance.Instead of meeting fellow Nato ministers, Mr Tillerson plans to stay in the US to attend Trump’s meeting with Chinese president Xi Jinping before visiting Russia later in April. 11 things you need to know about NATO Tue, February 14, 2017NATO - The North Atlantic Treaty Organization is an intergovernmental military alliance based on the North Atlantic Treaty which was signed on 4th April 1949. The organization constitutes a system of collective defence whereby its member states agree to mutual defence in response to an attack by any external party. Play slideshow  Getty Images1 of 11Every member country, no matter how large or small, has an equal say in discussions and decisions. Photo shows: Signing the North Atlantic Treaty which marked the beginning of NATO, 1949.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    US officials have been quick to distance themselves from Trump’s campaign rhetoric surrounding Nato, given his repeated criticisms of the alliance.In January, he told former Cabinet minister Michael Gove: "I said a long time ago that Nato had problems. Number one it was obsolete, because it was designed many, many years ago.   “Number two the countries aren’t paying what they’re supposed to pay.“We’re supposed to protect countries, but a lot of these countries aren’t paying what they’re supposed to be paying, which I think is very unfair to the United States.”At the moment just the US, Britain, Greece, Poland and Estonia are spending the minimum target of two per cent of their GDP on defence, despite a commitment in 2014 from all 28 Nato members to reach the two per cent spending target by 2024.

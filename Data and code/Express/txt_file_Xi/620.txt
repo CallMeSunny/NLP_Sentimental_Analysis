@@ -1,0 +1,38 @@
+Donald Trump takes AIM at China and lashes out at North Korea in latest tweets
+https://www.express.co.uk//news/world/749528/President-Trump-slams-China-North-Korea-ally-nuclear-bomb-threat-Jong-Un-trade-deal
+ 06:44, Tue, Jan 3, 2017 
+  GETTYTrump slammed China, Xi Jinping pictured, for failing to act on North Korea's Jong-UnHours after the billionaire slapped down Kim Jong-Un’s boastful claims that North Korea had almost finished testing nuclear weapons which could reach the US, Trump decided to publicly disgrace China for failing to act on their ally’s spiritless behaviour.Trump tweeted: “China has been taking out massive amounts of money & wealth from the US in totally one-seed trade, but won’t help with North Korea. Nice!” Related articles   North Korea 'close to testing' long-range intercontinental missile   Predictions for 2017: Eight events that will shape the world this year  Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Just moments before, the President-elect took aim at North Korea for attempting to develop nuclear weapons to be used against the US.The Republican business tycoon tweeted: “North Korea just stated that it is in the final stages of developing a nuclear weapon capable of reaching parts of the U.S. It won't happen!”   In his New Year’s address, Kim Jong-un toyed with global nuclear war fears as he claimed his nuclear ICBM weapon was “in its final stages of testing”.The North Korean leader told his brainwashed nation that the weapon would make their country a “military power of the east that cannot be touched even by the strongest enemy”.Although North Korea is said be greatly exaggerating their military power, a US expert warned leaders to take Jong-un's threats seriously.Melissa Hanham, a senior research associate at the Middleburg Institute of International Studies at Monterrey, California said they have made considerable progress. Trump's Cabinet Picks Tue, December 13, 2016President-elect Donald J. Trump has began announcing cabinet-level positions, here's the latest list of appointments Play slideshow  1 of 17  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Ms Hanham added: “The bottom line is Pyongyang is much further along in their missile development than most people realise.“The liquid engine test was astounding. For years we knew that North Korea had a Soviet R-27 missile engine design. They re-engineered the design of that engine to double its propulsion.”“2016 marked the year North Korea truly ramped up their WD programme. I think we’re going to see a [ICBM] flight test in 2017.”  GETTYThe 70-year-old billionnaire and avid Twitter user is due to take office on January 20Trump has previously hinted that he will take a hard-line with despot Kim, who has said he would make the communist leader “disappear” and also branded him a “maniac”.But he later said he would be willing to invite the "influential" North Korean leader to Washington for talks over hamburgers.

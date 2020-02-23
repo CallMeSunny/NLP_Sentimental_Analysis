@@ -1,0 +1,21 @@
+Merkel ‘does NOT trust military action’ to find peaceful resolution to Korean tensions
+https://www.express.co.uk//news/world/791319/angela-merkel-germany-peaceful-resolution-north-korea-donald-trump-china-kim-jong-un
+ 02:30, Thu, Apr 13, 2017 
+  GETTYAngela Merkel has offered her view on the North Korean tensionsThe German chancellor told local media: "I don't put my trust in military means, but rather in political pressure being exerted on North Korea from different sides."If China and the United States do that together, it won't be without consequence.” Related articles   Trump expects ‘GREAT FRIENDSHIP’ with Chinese president Xi Jinping   Kim Jong-un watches military contest as North Korea prepares for war Despite previously staying quiet on the issues surrounding North Korea, the German leader has now spoken out amid increasing tensions between the hermit state and the international community.Mrs Merkel reiterated the Chinese president’s call for a peaceful resolution to the rising tension on the Korean peninsula amid fears Kim Jong-un could be set to launch another nuclear missile.  GETTYAngela Merkel met with Donald Trump in Washington last month President Trump spoke with his Chinese counterpart on the phone on Wednesday evening as they look to work together to deal with the threat from North Korea.The phone call comes just a week after the pair met face-to-face in Florida – yet tensions between Washington and Pyongyang have threatened to boil over in recent days.Mr Trump has previously promised to take unilateral action against Kim Jong-un’s hermit kingdom if China was not willing to reign in their neighbour and ally.  GETTYNATO Secretary General Jens Stoltenberg alongside President Trump earlier on Wednesday The US President tweeted: “North Korea is looking for trouble. If China decides to help, that would be great. If not, we will solve the problem without them! USA.”The Republican has since deployed the USS Carl Vinson strike force to the Korean peninsula earlier this week. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Speaking alongside Nato Secretary General Jens Stoltenberg at a joint press conference on Wednesday, Mr Trump reiterated his plans to tackle the North Korea tensions without China if necessary.He said: "President Xi wants to do the right thing. We had a very good bonding, I think we had a very good chemistry together, I think he wants to help us with North Korea."We talked trade, we talked a lot of things, and I said the way you’re going to make a good trade deal is to help us with North Korea, otherwise we’re just going to go it alone, that’ll be all right too, but going it alone means going with lots of other nations."

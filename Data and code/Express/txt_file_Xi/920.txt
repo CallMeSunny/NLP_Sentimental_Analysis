@@ -1,0 +1,38 @@
+Will Meghan Markle meet Donald Trump and Melania on their official UK trip?
+https://www.express.co.uk//life-style/life/977485/meghan-markle-donald-trump-melania-news-visit-uk-latest-london-queen
+ 10:26, Thu, Jun 21, 2018 
+   Donald Trump President of the Unites States is set to visit the UK this summer.The president will come to Britain with his wife Melania Trump in a long anticipate trip.He will also meet the Queen, as is customary on visits of foreign heads of state.When previous leaders have visited the country the event has been marked with a state banquet.The royals have thrown state banquets for the visit of President of China, Xi Jinping, Singapore’s President Tony Tan, former US President Barack Obama and the Spanish royals. Related articles   Royal Ascot Ladies Day LIVE: Meghan Markle may join Queen   Will Prince William be at Ascot with Kate Middleton today  Meghan Markle to meet Donald Trump and Melania on president’s UK visitKate Middleton, 36, the wife of Prince William, also 36, attended all these banquets.If the royals throw a state dinner for the Trump’s it is likely Meghan would be invited to attend as Prince Harry’s wife.However, this might cause for some awkwardness among the guests.The LA-born former-actress has criticised Donald Trump in the run up to his election.She hinted she would leave the US if the president was elected, telling Larry Willmore on the Nightly Show in 2016: “It's really the moment that I go, we film Suits in Toronto and I might just stay in Canada. Meghan Markle's best fashion moments in pictures Sat, July 28, 2018Meghan Markle style: The Duchess of Sussex's best looks in pictures. Play slideshow  Getty1 of 65Meghan Markle style: The Duchess of Sussex's best looks  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      Meghan Markle: Duchess to meet Donald Trump and Melania on president’s UK visit (Image: GETTY)"I mean come on, if that's reality we are talking about, come on, that is a game changer in terms of how we move in the world here.”She also called Donald Trump divisive, especially for female voters, adding: "I think it was in 2012, the Republican Party lost the female vote by 12 points.“That's a huge number and with as misogynistic as Trump is and so vocal about it, that's a huge chunk of it.”However, there seems to be no hard feelings on Donald Trump’s part.Although he was not invited to their wedding Donald Trump said of Meghan Markle in an Piers Morgan in January this year: “I want them to be happy. I really want them to be happy. They look like a lovely couple.”   Meghan Markle: Donald Trump President of the Unites States is set to visit the UK this summer (Image: GETTY) Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      Meghan Markle: If the royals throw a state dinner for the Trump’s Meghan would be invited (Image: GETTY)He maintained his warn sentiments even after Morgan reminded him of Meghan’s claims the President is “misogynistic”.Trump replied: "Well, I still hope they’re happy."Melania Trump and Prince Harry have previously met at the Invictus Games in 2017. Melania beamed as she met the redheaded Prince on her first solo trip.Meghan Markle attended Royal Ascot 2018 this week. Harry seemed to stare in awe at his new bride as she smiled and waved at the crowds in a friendly manner.

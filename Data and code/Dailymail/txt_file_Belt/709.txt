@@ -1,0 +1,223 @@
+Michelle Keegan cuts a glamorous figure in striped top and wet-look leggings as she enjoys romantic date night with husband Mark Wright
+https://www.dailymail.co.uk/tvshowbiz/article-6688209/Michelle-Keegan-cuts-glamorous-figure-enjoys-romantic-evening-husband-Mark-Wright.html
+ 15:12 BST, 10 February 2019 
+He recently denied claims he was set to move back to the UK permanently.But Mark Wright, 32, has made the most of his time at home with wife Michelle Keegan, 31, as the couple went on a romantic date to Sheesh restaurant in Chigwell, Essex on Saturday evening.The Our Girl actress looked sensational their night out, donning a monochrome, striped shirt with a black belt and long, puffed sleeves.         Couple: Michelle Keegan, 31, went on a romantic date with husband Mark Wright, 32, to the Sheesh restaurant in Chigwell, Essex on Saturday eveningThe TV star paired it with black leather-inspired trousers and added height to her frame with a pair of matching heels.Showing off her sun-kissed glow, Michelle styled her brunette locks into an updo and completed her look with a black handbag.   RELATED ARTICLES  Previous 1 Next       EastEnders' Clair Norris drives fans wild with a glamorous...    Mel Owen realised son Hunter was just like his dad: same...    Toy Story 4 Super Bowl trailer introduces new characters...    Michelle Keegan turns blonde she shares behind the scenes...    
+
+Share this article
+Share
+
+ Mark looked dapper in a black and navy bomber jacket which he paired with a black t-shirt and matching slim-fitting jeans.The pair looked in high spirits as they posed for a photo with the owner of the restaurant towards the end of the evening.              Romance: The pair looked in high spirits as they posed for a photo with the owner of the restaurant towards the end of the evening
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Michelle_Keegan'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Style stripes like Michelle in a blouse from her own collection
+
+
+
+
+Michelle Keegan bardot blouse at Very
+Shop the star's style!
+
+
+
+Visit site
+
+
+
+Michelle Keegan stepped out in style for a date night with her hubby in Essex. Opting for an elegant black and white look, the actress had us all instantly in awe. 
+We particularly loved that unique blouse. With a flirty bardot neckline, statement balloon sleeves and a flattering belted waist, Michelle's top is a must buy!
+It's from her very own collection at Very. She's really outdone herself with this glamorous offering. Grab yours (before they're gone!) by clicking right 
+If you're inspired to take on the stripe trend, make sure to check out the carousel below for our roundup of lookalikes. Pair yours with skinny jeans and high boots for an effortless evening look.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Pieces wrap blouse at Asos(now reduced to £12)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Damsel in a Dress stripe blouse at John Lewis & Partners (now reduced to £49)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Apricot bardot top (now reduced to £10)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Shein stripe top (now reduced to £10.99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Michelle_Keegan', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Mark and Michelle tied the knot in May 2015, having first met in Dubai in 2012. Mark recently denied claims he quit his presenting gig with US television show Extra to start a family with his other half.With the former TOWIE star permanently out in Los Angeles to present Extra and his wife previously flying all over the globe for Our Girl, the coupe have had a long distance relationship.However, a spokesperson for Mark told the MailOnline the reality star-turn-presenter had no plans to quit his job in the States to have children.The Daily Star alleged a source told them: 'He is heading home and the next step will be when to start a family.'         Career: Mark recently denied claims he quit his presenting gig with US television show Extra to start a family with his other half (pictured in May 2018)       Mark previously opened up on how the couple make their long distance love work.  Speaking exclusively to MailOnline, he said: 'Don't listen to the rulebook, the rulebook will say "long distance can't work', there's no way this couple are going to work," it's bulls**t.'At each other's feet every day doesn't work, it depends on the couple, if you love each other you make it work. I wouldn't suggest going months and months without each other, make it work, put it into your schedule, make sure you see each other enough, it keeps the heart fonder.'Speaking of his move stateside, Mark admitted that he does find it difficult being away from his friends and family.'I miss them every day when I'm not with them. It's something I have to think about in the future, how long I want to be away from them for.'         Mark said of their long-distance relationship: 'Don't listen to the rulebook, the rulebook will say "long distance can't work', there's no way this couple are going to work," it's bulls**t' (pictured in January 2019) 

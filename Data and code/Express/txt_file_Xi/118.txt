@@ -1,0 +1,21 @@
+Donald Trump 'using North Korea as a decoy to launch NUCLEAR strike against China'
+https://www.express.co.uk//news/world/801592/Donald-Trump-North-Korea-decoy-launch-nuclear-strike-China-Xi-Jinping-Peng-Liyuan
+ 04:43, Mon, May 8, 2017 
+   The US President is reportedly disguising Washington’s defence strategy – which features an attack against Beijing – with a plan to curb North Korean nuclear aggression.International expert and author James Petras said Donald Trump is using America's hostile situation with North Korea to prepare his army and initiate a surprise attack on China.  GETTYDonald Trump is reportedly preparing to strike his Chinese ally and "friend" Xi Jinping Related articles   Russia & Iran ‘will respond WITH FORCE’ after Trump ‘crossed the line'   Donald Trump HAILS China's 'gentleman' Xi Jinping amid new alliance  North Korea v USA explosive latest pictures Wed, September 20, 2017Images depict how tensions have escalated between North Korea and the United States. Kim Jong-Un boasted of North Korea's ability to strike any target in the US after a second ICBM test that weapons experts said could even bring New York into range - in a potent challenge to President Donald Trump Play slideshow  AFP/Getty Images1 of 45North Korea's intercontinental ballistic missile (ICBM), Hwasong-14 being lauched at an undisclosed place in North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Petras said: “Washington’s strategy is designed to contain and influence China if possible, and in extreme basis for launching a nuclear attack on China.“I think the pretext of attacking North Korea is simply an excuse to build up US military capabilities for a nuclear attack.”Dane Chamorro, senior partner and head of ASEAN (Asian) at Control Risks, told CNBC the former business tycoon has been indirectly hostile to President Xi.Although the 70-year-old has been full of praise for his Chinese counterpart, Mr Chamorro said the US President wanted to scare Beijing when he launched 59 Tomahawk missiles to attack Syria.The expert said President Trump wanted to indirectly tell President Xi: “There’s a new sheriff in town, I’m a little unpredictable and bad things will happen, things that you don’t like unless you get Kim 3.0 under control.”  GETTYMelania Trump bonding with Jinping's wife Peng LiyuanReferring to President Xi, in front of Nato Secretary General Jens Stoltenberg, Mr Trump said last month: “I do not know Putin but I do know this gentleman.”He added: “I’ve spent a lot of time with him over the last two days and he is the President of China. You were there, most of you were there and it was quite an interesting period of time.“President Xi wants to do the right thing. We had a very good bonding, I think we had very good chemistry together.”

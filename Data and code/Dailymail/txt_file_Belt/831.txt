@@ -1,0 +1,19 @@
+Utah leads the nation in church attendance with half of all residents attending services every week - while New Englanders steer clear of the pews 
+https://www.dailymail.co.uk/news/article-2960188/Which-states-attend-church-New-map-answer.html
+ 14:20 BST, 19 February 2015 
+Utah is more religious than any other American state with more than half its residents claiming to attend church services every week, a study shows.It beats the entire 'Bible Belt' of the South, and far outstrips the Northeast, where church attendance is the lowest in the country.Mississippi, Alabama, Louisiana and Arkansas complete the top five, as Vermont trails last.         Religious map of America: This is a visualization of data showing how many people attend church once a weekAccording to a survey by Gallup, 51 per cent of Utahns attend church at least once a week.The figures are likely a result of the fact that 59percent of the state self-identifies as Mormon, the faith that boasts higher levels of church attendance than any other religion in the US.The South owes its high level of church attendance to sizable black and Protestant populations, the study authors report. With just 17percent of self-proclaimed weekly churchgoers, Vermont came last in the list, closely followed by New Hampshire (20 per cent), Maine (20 per cent), and Massachusetts (22 per cent).    RELATED ARTICLES  Previous 1 Next       All aboard the Siberian Express! Subzero conditions return...    'He's a truthful man': Allison Williams comes to the defense...    EXCLUSIVE: Lady Gaga and her new fiancé buy secret mountain...    
+
+Share this article
+Share
+
+           HIGHEST CHURCH ATTENDANCE   Utah - 51%Mississippi - 47%Alabama - 46%Louisiana - 46%Arkansas - 45% South Carolina - 42%  Tennessee - 42%Kentucky - 41% North Carolina - 40% Georgia, Texas, Oklahoma (tie) - 39%          LOWEST CHURCH ATTENDANCE   Vermont - 17%New Hampshire - 20%Maine - 20%Massachusetts - 22%Washington - 24%Oregon- 24%Hawaii - 25%Colorado - 25%Connecticut - 25%Alaska - 26%              Mormon: Utah owes its high level of regular church attendance to the fact that most residents are Mormon (Salt Lake City pictured)Connecticut is also in the bottom 10, along with Washington, Alaska, Colorado, and Hawaii, where less than a quarter of residents go to church regularly. Gallup interviewed 177,030 American adults between January and December 2014, asking: 'How often do you attend church, synagogue or mosque -- at least once a week, almost every week, about once a month, seldom or never?'According to the report, the question was chosen as a barometer to reflect each person's 'underlying religiosity'.          more videos           1   2   3                   Watch video  Theresa May insists Conservatives are the real Brexit Party       Watch video  Two window washers trapped on a swinging lift on top of Oklahoma tower       Watch video  Richer Sounds shows you the range of products they offer       Watch video  Motorist runs over a police officer after she pulled him over           Watch video  British Major General Chris Ghika: 'No increased threat from Iran'       Watch video  Shaman Durek explains his teachings and philosophy       Watch video  Adorable goat learns to ride on his pony best friend’s back       Watch video  James Charles stays quiet at LAX amid YouTube drama           Watch video  Excited pup ran over a mile to see his friends at doggy daycare       Watch video  Kerri-Anne Kennerley unleashes on Bill Shorten       Watch video  Child dragged down stairs during violent handbag robbery       Watch video  Worst Airbnb? Tourist explains shock over container 'hotel'          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-29', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+      

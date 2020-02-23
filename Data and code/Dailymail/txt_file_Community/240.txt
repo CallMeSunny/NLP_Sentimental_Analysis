@@ -1,0 +1,218 @@
+Kelly Rowland goes hell for leather in a biker jacket to Kanye West's concert in Los Angeles
+https://www.dailymail.co.uk/tvshowbiz/article-3904240/Kelly-Rowland-goes-hell-leather-biker-jacket-Kanye-West-s-concert-Los-Angeles.html
+ 06:50 BST, 4 November 2016 
+She was a product of Destiny but that doesn't mean Kelly Rowland can't use a little Yeezus in her life.The singer was spotted arriving to Kanye West's final show at the Los Angeles Forum in Inglewood on Thursday night.And the Destiny's Child hitmaker, 35, made sure to show some of her fashion edge as she strolled into the packed house.Scroll down for video          She was a product of Destiny but that doesn't mean Kelly Rowland can't use a little Yeezus in her life (the singer was spotted heading into Kanye West's show at the LA Forum on Thursday)       Wearing a leather biker jacket and skintight jeans, Kelly looked ready for a night of hip hop revelry.Completing her attire was a pair of platform boots as she carried a small clutch. Also in attendance for the concert was Lenny Kravitz, Pete Wentz and Meagan Camper.         She's got some bite: The Destiny's Child hitmaker, 35, made sure to show some of her fashion edge as she strolled into the packed house         Yeezus here she comes! Wearing a leather biker jacket and skintight jeans, Kelly looked ready for a night of hip hop revelry
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Kelly_Rowland'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stomp into winter in a pair of platform boots like Kelly's
+
+
+
+
+Vetements Black Leather Platform Boots at Ssense
+Rise up
+
+
+
+Visit site
+
+
+
+As Kelly Rowland showed while attending a Kanye West gig in Los Angeles, this winter's ankle boots are raising the bar. Pun intended. Hers, which are a highly covetable style from French label Vetements, are built with a two-inch platform and feature a five-inch heel.
+If you fancy stomping high above the pavement make sure your pair, like Rowland's, is cut slim on the ankle. With a boot like this it is important to create a slim silhouette or the leg could be swallowed by this statement-making shoe. 
+While this ex-Destiny's Child's member styled hers with jeans and a biker jacket we think it could look just as stylish and beguiling with a pretty little dress. 
+While the Vetements boots are available to buy online now they bear a hefty price tag. For a more affordable solution look to Office and A.F. Vandervorst.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Office Lioness Platform Ankle Boots
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+A.F.VANDEVORST  platform ankle boots
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Jil Sander Leather platform ankle boots at Net-A-Porter
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Topshop HERCULES Platform Boots
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Kelly_Rowland', FFFtype: 'inline', fff: true}});
+        }
+    
+
+While Bob Saget and Usher were also seen arriving to the Saint Pablo tour stop.Meanwhile, the songstress is set to complete her album later this year and is currently filming a Lifetime movie with Meagan Good.Additionally, Kelly and pal Sheika Daley are working on a makeup-line called F.A.C.E. (For All Created Equal). She's also currently writing a book.         Staying alert: Usher was seen carrying a coffee into the show         No Fall Out here: Pete Wentz and Meagan Camper made their way in as wellIn an interview with Billboard, Kelly summed up her many projects.'My goal in my life is whenever I do these business ventures, I like to collaborate with women, so for my book, I’m actually working with my doctor.' 'I’m very, very excited. So, music, book, movie, makeup –– 2017 is my year,' she noted.         Ready to rock: Lenny Kravitz looked cool as ever in his poncho 

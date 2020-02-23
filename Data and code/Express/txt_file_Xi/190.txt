@@ -1,0 +1,21 @@
+World on the EDGE as North Korea launches ANOTHER ballistic missile
+https://www.express.co.uk//news/world/788010/north-korea-launches-ballistic-missile-kim-jong-un-china-xi-jinping-donald-trump
+ 00:00, Wed, Apr 5, 2017 
+   The missile was fired from the Sinpo region at 10.40pm GMT (6.10am local time) on the communist nation’s east coast and landed into the sea off the Korean peninsula, South Korean military officials confirmed.Seoul said the launch of the medium-range ballistic missile was designed to mimic an attack on their territory from the hermit nation.South Korea’s national security council has announced they will hold an emergency meeting following the latest act of aggression.  GETTYNorth Korea is believed to have launched another ballistic missileThe rocket is believed to have flown around 37 miles before crashing into the sea. Specific details about the type of projectile were not immediately available.The launch comes just 48 hours before Donald Trump is set to meet Chinese leader Xi Jinping. Related articles   Kim Jong-un ready to launch NUCLEAR test 'AT ANY MOMENT'   North Korea increases maximum penalty for watching foreign films   REUTERSNorth Korea has refused to scale down on its military testingKim Jong-un has been slammed by the US President in recent months for persistent missile tests and apparent reluctance to give up his nuclear weapons ambitions.Donald Trump has urged China to put pressure on Pyongyang to scale down its military activities – but the US President added it was “totally” possible for the US to tackle Kim without their help. America and South Korea prepare for war against North Korea Tue, April 11, 2017U.S. and South Korean marines participate in the endurance exercise in temperature below minus 20 degrees celsius under a scenario to defend the country from any possible attacks from North Korea. Play slideshow  1 of 22  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Despite a raft of UN sanctions being imposed on North Korea, the reclusive state has carried out two nuclear weapons tests since January 2016.Kim Jong-un is also thought to be developing an intercontinental ballistic missile (ICBM) which could hit the US – and threatened to carry out a test-launch at any given moment.  GETTYDonald Trump has said he is not afraid to tackle North Korea Well if China is not going to solve North Korea, we will. That is all I am telling youDonald TrumpThe Republican said: “China has great influence over North Korea. And China will either decide to help us with North Korea, or they won’t."If they do, that will be very good for China, and if they don’t, it won’t be good for anyone.”He added: “Well if China is not going to solve North Korea, we will. That is all I am telling you.”

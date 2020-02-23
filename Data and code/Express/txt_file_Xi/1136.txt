@@ -1,0 +1,38 @@
+REVEALED: China to make first contact with ALIEN Life using world's largest dish
+https://www.express.co.uk//news/science/877765/China-contact-Alien-Life-radio-signals-space-exploration-SETI-UFO
+ 05:00, Fri, Nov 10, 2017 
+  GETTYChina is confident it will be the first to make contact with Alien LifeLast year China cemented itself as a space exploration powerhouse by firing its space laboratory Tiangong 2 into low Earth orbit, becoming only the third nation, after the US and Russia, to independently get people into space.The nation has also has had dozens of suspected-paranormal encounters including claims of a UFO sighting over the Great Wall of China last week.Now the emboldened ‘space superpower’ has vowed it will be the first to make contact with alien life pouring billions of pounds into space exploration and the world’s largest radio dish to detect signals from other galaxies.Speaking about the Tiangong 2 mission President Xi Jinping, said that the project would "enable China to take larger and further steps in space exploration, and make new contributions to building up China as a space power”. Related articles   NASA ‘solves’ baffling mystery of ‘alien megastructures’   SHOCK CLAIM: Footage of possible ‘REAL alien found on dark web' The 500-metre Aperture Spherical Telescope (FAST) is almost twice as wide as the America’s Arecibo Observatory in Puerto Rico, making it the largest in the world, if not the universe.Liu Cixin, one China’s top researchers into alien life, described the dish as looking “like something out of science fiction”.But Mr Liu, who has written a great deal about the risks of the first contact, warns that the “appearance of this Other” might be imminent and could result in our extinction.In one of his books, he said: “Perhaps in ten thousand years, the starry sky that humankind gazes upon will remain empty and silent.“But perhaps tomorrow we’ll wake up and find an alien spaceship the size of the Moon parked in orbit.” Proof of aliens? These are signs that 'prove' we are not alone Wed, August 16, 2017MIND-BLOWING signs that aliens exist. Play slideshow  Getty Images1 of 13The Crop Circles are often believed to be created by aliens, as there is no proper explanation behind this phenomenon.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Other leading experts into Alien Life including astrophysicist Andrew Siemion, the director of the Search for extraterrestrial intelligence (SETI) research centre at Berkley University have also been impressed by FAST.Radio transmissions are forbidden near the dish in a bid to stop human sources interfering with any signals coming from alien sources.China’s latest five-year plan pledges to increase spending on research and development to £913billion ($1.2trillion)—at least 2.5 per cent of its gross domestic product – with deep Space exploration at the forefront.The plan was adopted in March 2016 and will see it through to 2020 and this latest radio observatory is not going to be China’s last as the country reportedly plans to put one on the dark side of the moon.These latest development follow an investigation into mysterious “UFO-like” pieces of metals fell from the sky and blasted into the ground near several villages in central China.  GETTYChina's Aperture Spherical Telescope (FAST) is almost twice as wide as the US' Arecibo Observatory    Perhaps tomorrow we’ll wake up and find an alien spaceship the size of the Moon parked in orbitLiu CixinThe pieces created large burning creators which baffled scientists.A villager called Mr Zhang told local media that there was a "deep noise" from the sky at around 1pm on the day.He said he then saw something rapidly falling towards the mountain. You will never guess who believes in aliens and UFOs Mon, March 13, 2017According to these celebrities aliens and UFOs are among us. Play slideshow  Getty Images1 of 10William Shatner: is a UFO believer, saying, 'There is no doubt that there is life out there; the mathematics of it lead you to that absolute conclusion. In my mind, there is no doubt that the universe teems - with life in all its form'  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The villager added: "It made a loud bang when it hit the ground. Then it started burning. The dry grass nearby was quickly set aflame."One commentator said: "The ring looks like the door of a UFO cabin."Videos of bizarre portals and floating cities in the skies above China have also repeatedly been shared online further fuelling the nation’s fascination with the paranormal.

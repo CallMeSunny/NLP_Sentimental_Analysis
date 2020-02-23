@@ -1,0 +1,21 @@
+Winnie the Pooh movie BANNED in China: Is it because he looks like their president?
+https://www.express.co.uk//entertainment/films/998748/Winnie-the-Pooh-movie-Christopher-Robin-BANNED-in-China-he-looks-like-president-Xi-Jinping
+ 02:25, Sat, Aug 4, 2018 
+  Winnie the Pooh banned in China? (Image: FS)The latest wholesome Disney family film has been refused a release in China.What possible offense could the beloved teddy bear cause anyone, especially an entire country?No official explanation has been given but The Hollywood Reporter has just broken a story linking the release blockage to the ruling communist party – and specifically its leader Xi Jinping.Apparently Winnie has become a symbol of rebellion and opposition, used to mock the president. There was a similar furore some years ago when social media wags compared Vladimir Putin to Dobby the House Elf from Harry Potter. Related articles   Avengers Infinity War end credit scene: WATCH here plus Captain Marvel   Avengers 4 deaths: BAD news about one popular hero NOT shown on screen  BANNED: 17 classic books that were just TOO much Thu, April 23, 2015Imagine facing prison just for reading a book! As it's World Book Day, we're taking a look at some well-known novels that have been banned. Play slideshow  Getty Images1 of 16James Joyce's 'Ulysses' was banned in the UK and the USA until the 1930s on account of its sexually explicit content  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The Hollywood Reporter said: “A source pinned the blame on China's crackdown on images of the Winnie the Pooh character, which is featured in a central role in Christopher Robin.“Last summer, authorities began blocking pictures of Winnie the Pooh on social media given that the character has become a symbol of the resistance in China with foes of the ruling Communist Party, namely Chinese leader Xi Jinping. Bloggers have drawn comparisons between the pudgy bear and Xi, which has put the country's censors in overdrive.”Judge for yourselves in the two pictures below.To Western audiences this may seem hard to fathom, but another major US media giant has already fallen foul of the Winnie the Pooh ban.  Winnie the Pooh banned in China because he looks like the president? (Image: FS)  Did China ban Winnie the Pooh because he looks like Xi Jinping? (Image: GETTY)THR added: “In June, Chinese authorities blocked HBO after Last Week Tonight host John Oliver mocked Xi's sensitivity over being compared to Winnie the Pooh.”It is a blow to Disney, especially after very poor performances by both The Last Jedi and Solo: A Star Wars Story.In the broader terms, though, China has already started to restrict the growing wave of Western blockbuster releases in order to protect its own homegrown movei industry.This latest movie to fall foul of the clampdown stars Ewan McGregor as the adult Christopher Robin, opposite Hayley Atwell as his wife.   US audiences can judge just how offensive the bear is as it opens there today.UK audiences will have to wait a little longer for one of our more treasured literary characters, and newly elected political agitator, to hit screens later this month.CHRISTOPHER ROBIN IS OUT NOW IN THE US AND IN THE UK ON AUGUST 17

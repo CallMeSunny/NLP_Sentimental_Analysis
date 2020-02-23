@@ -1,0 +1,21 @@
+Did he just do THAT? Cameron slaps bottom of minister during banquet at Buckingham Palace
+https://www.express.co.uk//news/politics/613856/Chinese-state-visit-David-Cameron-slaps-minister-bottom-state-banquet
+ 11:00, Thu, Oct 22, 2015 
+  TWITTERDavid Cameron hitting Hugo Swire at the state banquetBut not, it seems, the Prime Minister, who slapped the bottom of a fellow Cabinet minister in a playful exchange in front of visiting dignitaries, including the Chinese President.David Cameron was caught on camera nudging Hugo Swire to grab his attention as he walked past him. Related articles   David Cameron has defended the economic need for a Chinese state visit   'That's his ex-wife, who is an ex-prostitute' Who were Corbyn and... The foreign office minister, also an Old Etonian, promptly spun around, put his arm around the PM, and the pair walked off talking.The candid clip was captured by TV cameras and later shared by ITV journalist Chris Ship on Twitter.Interesting way David Cameron greeted his foreign minister @HugoSwire tonight at Buckingham Palace pic.twitter.com/K1oDZtNud1— Chris Ship (@chrisshipitv) October 20, 2015It showed the PM relaxed and in good spirits despite the importance of the occasion.Guests at the banquet on Tuesday evening dined on West Coast turbot and Balmoral venison.  TWITTERDavid Cameron with Hugo SwirePresident Xi Jinping stayed in the Belgian Suite at the Palace, which is reserved for visiting heads of state.The Duke and Duchess of Cambridge also attended the dinner, with Kate Middleton wearing a striking red dress in a nod to the national colour of China. Related articles   China gives £30bn to Britain to seal 'golden relationship' and...   Busy day for kung fu Kate: Duchess meets Jackie Chan during... Today, Mr Cameron will entertain the president at his Buckinghamshire country retreat as the focus shifts to China's role on the world stage on day three of the Chinese president's state visit.Mr Xi and wife Peng Liyuan will bid a formal farewell to the Queen and Duke of Edinburgh at Buckingham Palace, where they have been staying since arriving on Monday evening, before the president joins the Duke of York for a series of visits.   The couple will then head to Chequers where they will dine with Mr Cameron and wife Samantha.Extremism is expected to be high on the agenda for the bilateral between the president and Prime Minister at the country residence.  GETTYForeign Office minister Hugo Swire David Cameron stands down as MP Mon, September 12, 2016David Cameron has served as Prime Minister since 2010 and leader of the Conservative Party since 2005. We take a look at his political career in pictures. Play slideshow  Getty Images1 of 103Prime Minister David Cameron with his wife Samantha leave 10 Downing Street for the last time after speaking to the press to visit Buckingham Palace to formally tender his resignation to the Queen on July 13, 2016  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    

@@ -1,0 +1,21 @@
+WW3 tensions as Russia unites with China for terrifying war games on Europe's border
+https://www.express.co.uk//news/world/833241/Russia-China-World-War-Three-Vladimir-Putin-Baltic-Sea-conflict-defence
+ 11:16, Wed, Jul 26, 2017 
+ The superpowers are taking part in the terrifying war games amid growing fears of an all-out global conflict.Three Chinese and 10 Russian warships began practising live-fire combat against submarines and other warships yesterday.China has sent one of its most modern warships – the Type 052D destroyer Hefei – to the Baltic Sea for the exercise.Related articles   Putin unleashes terrifying nuclear sub with power to blast 20 missiles The vessel, which entered service in 2015, carries cruise missiles, anti-aircraft missiles and torpedoes.The drills are being led by a joint command in Baltiysk, Russia.The two countries pledged to ramp up their military co-operation during President Xi Jinping's visit to Moscow earlier this month.  GETTYChinese sailors at a military port at Baltiysk, Russia China and Russia hold first Joint Naval Drill in the Baltic Sea Wed, July 26, 2017 Play slideshow  Getty Images1 of 10A Chinese warship operates a live-fire drill during the Joint Sea 2017 in Baltic Sea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYA helicopter flies over China's missile destroyer Hefei Russia and China have always acted together at times of troubleAlexander FominRussia's deputy Defence Minister Alexander Fomin said: "Russia and China have always acted together at times of trouble and harsh tests."These days, the first phase of a large-scale Russian-Chinese naval exercise is underway in the Baltic Sea."Our seamen are training together to rebuff threats on high seas."These maneuvers will continue in the water areas of the Sea of Okhotsk and the Sea of Japan in autumn."  GETTYA Chinese warship operates a live-fire drill yesterdayYu Manjiang, commander of the Chinese fleet, added: "The joint naval exercises between China and Russia have been regularly held since 2012."They enhance both navies' cooperation and mutual trust."China is a great power, and it's natural that every move will attract world attention. But there's no need to hide or avoid anything."  GETTYRussia's Steregushchiy-class corvette on the Baltic SeaA NATO spokesman described the drills as "an example of China's growing military capabilities and its increasingly significant global role".The joint United States European Command added: "We are closely tracking Russian exercises with other participants like China."While we support their rights to train in international commons, we expect all nations adhere to international norms and laws."Related articles   Russian foreign minister jokes Trump and Putin ‘had MORE G20 meetings'  Juncker to retaliate ‘in days’ against US sanctions on Russia  Donald Trump’s son-in-law Jared Kushner denies Russia links

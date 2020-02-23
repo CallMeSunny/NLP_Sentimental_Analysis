@@ -1,0 +1,21 @@
+Melania Trump shows off EVERY curve in figure-hugging red dress to meet Chinese President
+https://www.express.co.uk//life-style/style/789022/melania-trump-chinese-president
+ 08:33, Fri, Apr 7, 2017 
+   Red is the national colour of China, and no doubt Melania chose the dress for the occasion for this reason.The square neck dress clung to Melania’s famous curves although it did have a demure below-the-knee hemline.The dress featured red embellished flower detailing too.Melania paired the dress with a pair of floral court shoes and no jewellery, other than her engagement ring.  AFP/GettyMelania's red dress clung to every curve - but did have a demure hemline Related articles   Melania Trump First Lady portrait - what her crossed arms REALLY say   Melania Trump meets Queen Rania - who is best dressed? She kept her hair in its usual bouncy blow-dry style, and opted for minimal makeup to keep her look fresh.Donald complemented his wife with a red tie and classic navy suit.Earlier in the day, Melania oozed glamour as she stepped off the plane at the airport in west palm beach, Florida.She wore a black, low-cut dress with white applique detail, which looked stunning as the First Lady stepped off the plane.  AFP/Getty/ReutersMelania Trump opted for red to meet the Chinese President - as did husband Donald Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     She added a pair of black heels and some sunglasses - channeling Jacqueline Kennedy Onassis.Black is some what of a signature colour for the First Lady of the United States.The 46-year-old former model accentuated her waist with a patent, wide belt with a silver square buckle.She wore a deep smokey eye to accentuated her features, and a pretty pink, nude lip.     AFP/GettyFirst Lady Melania joined Donald Trump to meet Chinese President Xi Jinping and his wife Peng LiyuanMelania had come from Washington, where she had been supporting her husband.President Donald Trump joined Vice President Mike Pence, as he delivered remarks during an event at the White House.Melania wasn’t the only member of the First Family to flash a bit of chest this week.Ivanka Trump - Donald Trump’s daughter - wore a sheer blouse at the White House with her husband Jared Kushner yesterday.

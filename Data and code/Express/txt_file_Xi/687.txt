@@ -1,0 +1,21 @@
+Theresa May's secret weapon: 'Handsome' husband Philip charms China on Brexit trade visit
+https://www.express.co.uk//news/world/913293/brexit-news-theresa-may-husband-philip-may-china-trade-visit
+ 17:47, Thu, Feb 1, 2018 
+   Beijing has been bowled over by Mr May with newspaper columns fulsome in their praise for the unassuming 60-year-old.After the the couple’s arrival in the country, where Mrs May is on a mission to woo the Chinese ahead of Brexit, a number of news organisations focused on her partner of more than 30 years.The Xinhua News Agency said: “Like most female leaders' husbands, the 'First Gentleman' is known for his modesty.” Popular news website the Paper said Mr May was "very low-key” and “preferred to stay away from the media and the public eye."  GETTYTheresa and Philip May visit the Forbidden City in Beijing Related articles   Brexiteer explains why Liam Fox's China deal will end Remoaners   May’s Brexit BREAKTHROUGH: China vows UK will have MORE Beijing access     He is a very handsome gentlemanSina WeiboThe Sina Weibo social media platform described the PM’s husband as "a very handsome gentleman."Mrs May has also won fans on her official visit to China with student fun Beijing admitting to being big admirers of "Auntie May" with one of them praising her for "having a good sense of fashion."The Prime Minister met Chinese President Xi Jinping with whom she hopes to strike a post-Brexit free trade deal as his nation remains on course to become the world’s biggest economy.Britain sends just 3 percent of its exports of goods and services to China with the annual value of UK-China trade is about £59bn, much less than the £148bn in trade between Germany and China.  GETTYTheresa and Philip May enjoy a traditional dance displayMrs May told the Chinese president: "The links between us go beyond trade. I'm very pleased with the people-to-people links we have been able to build on in education and in culture too."Also, as you say, we are both significant players on the world stage of outward looking countries."And as we both sit together as permanent members of the Security Council of the United Nations, there are global challenges which we both face, as do others in the world."As you say, there are areas in which we can work together."  GETTYTheresa May and Xi Jinping In pictures: Theresa May visits China Wed, January 31, 2018Theresa May and her husband Philip May arrive in Wuhan for her three-day visit to China. Play slideshow  EPA1 of 29British Prime Minister Theresa May speaks during a joint press conference with Chinese Premier Li Keqiang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Stating that he was looking forward to building on the success of the UK-China relationship, Mr Xi quoted Shakespeare, saying: "What's past is prologue."Mrs May said once Britain leaves the EU, it will be free to strike its own trade deals and pointed to the joint trade and investment review which will now take place with China as the first step towards delivering ambitious future trade arrangements.They also discussed the environment and China's Belt and Road Initiative to improve overland transport links to Europe and the West.

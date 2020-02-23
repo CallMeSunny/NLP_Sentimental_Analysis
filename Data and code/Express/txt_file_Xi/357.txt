@@ -1,0 +1,38 @@
+Trump military ‘damaged trust with China by deploying missiles to strike North Korea’
+https://www.express.co.uk//news/world/842223/China-US-North-Korea-Xi-Jinping-Donald-Trump-King-Jong-un-missile-military-THAAD
+ 06:53, Thu, Aug 17, 2017 
+   Beijing military officials accused the US of having large, negative influence on military trust with China through “wrong” actions – including arms sales to Taiwan and the deployment of the THAAD missile system, which serves as a deterrent to North Korea.Fan Changlong, a vice chairman of China's powerful Central Military Commission, told the chairman of the US Joint Chiefs of Staff Joseph Dunford, that mutual trust mechanisms between the two militaries had continued to improve.He added: “But wrong actions on the Taiwan issue, the United States deploying the THAAD system around China, US ships and aircraft's activities in the South China Sea, the United States close-in surveillance in the sea and air near China have had a large, negative influence on bilateral military ties and mutual trust.”THAAD, the Terminal High Altitude Area Defence anti-missile system the US has deployed in South Korea, is one of the nation’s main deterrents against the warmongering ways of Kim Jong-un.  GETTYChina claim the THAAD system will do nothing to ease tension with North Korea Related articles   NORTH KOREA: Guam PANIC as emergency ‘danger warning' issued on radio    WORLD WAR 3: China and Russia to force Trump to 'hit the brakes' But China claims the system will do nothing to ease tension with North Korea, and say its powerful radar affects its own security.Tensions have run high between the world's two largest economies since the election of Donald Trump as the 45th President of the US.The Republican firebrand, who is yet to fulfil his promise to brand China a currency manipulator after his election, caused outrage when he acknowledged the nation of Taiwan which Beijing claims as a wayward province.The nation has also been angered by US patrols near Chinese who claimed islands in the disputed South China Sea and continued US arms sales and support for self-ruled Taiwan. US Marines and Japanese troops take part in joint exercise – in pictures Wed, August 16, 2017US marines and Japanese tanks are taking part in a military exercise on Japan's northern island of Hokkaido as tensions reach breaking point on the Korean peninsular Play slideshow  AFP/Getty Images1 of 23Soldiers from Japan's Ground Self-Defense Force take part in a field drill with US Marines during joint military exercises with  in Eniwa, Hokkaido prefecture  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYTensions have run high between the world's two largest economies since the election of Donald TrumpBut the Trump administration also has reservations about Beijing’s approach, expressing concern about what it calls unsafe intercepts of US aircraft by the Chinese air force and a lack of transparency in military spending.It comes as China and Russia unite in a bid to force Kim Jong-un and Donald Trump to “hit the brakes” after a month of provocative rhetoric.Chinese foreign minister Wang Yi laid down a stark warning as he called on Russia to unite with the eastern superpower to prevent an “August crisis”.His comments are believed to be a reference to the July Crisis, the name given to the series of events which triggered the start of World War One.  GETTYChina and Russia have united in a bid to force Kim Jong-un and Donald Trump to 'hit the brakes' First images of THAAD missile launch test Thu, July 13, 2017Explosive first images show Terminal High Altitude Area Defence (THAAD) defence system shooting down an intermediate-range ballistic missile (IRBM). Play slideshow  Missile Defence Agency1 of 5 Air launch intermediate range ballistic missile target  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Speaking with Russian foreign minister Sergei Lavrov, Mr Wang said: “The most important task for the US and North Korea is to ‘hit the brakes’ on their mutual needling of each other with words and actions, to lower the temperature of the tense situation and prevent an ‘August crisis’.”He added the two nations should work together and not allow anyone to "stir up an incident on their doorstep”.Sergei Lavrov responded by calling for tensions on the Korean peninsula to be “peacefully resolved”.He said: “A resolution of the North Korea nuclear issue by military force is completely unacceptable and the peninsula’s nuclear issue must be peacefully resolved by political and diplomatic methods."

@@ -1,0 +1,21 @@
+CHINA CRACKDOWN: Police storm church and arrest Christians for holding Sunday service
+https://www.express.co.uk//news/world/883147/Christian-police-arrest-church-service-China-christianity-Xi-Jinping
+ 22:32, Wed, Nov 22, 2017 
+  GETTY Christians were arrested during their Sunday church service Police officers and officials stormed the small house church in the Guangdong province, where they held 13 Christians. Zhai Lili, who provided the church venue, has not been released and her whereabouts remain unknown after she was handed an administrative detention sentence. China Aid, a Christina human rights organisation, said police confiscated Bibles and other Christian materials, amid a crackdown on churches by the communist regime. A spokesman for China Aid said: “During a Sunday morning worship service at Qingcaodi Church on November 5, a team of police officers and religious affairs bureau personnel invaded a small house church and accused those gathered there of holding religious services at unapproved sites.  Related articles   BREAKING: Massive earthquake of 5.0 magnitude rocks Brit holiday de...   MAPPED: Best and worst towns to avoid stamp duty after Budget 2017   GETTY Xi Jinping's regime has launched a major crackdown on religion During a Sunday morning worship service at Qingcaodi Church on November 5, a team of police officers and religious affairs bureau personnel invaded a small house churchChina Aid“They then confiscated Bibles and other Christian materials belonging to the church and brought 13 Christians to the Xincheng Police Station. “There, they were questioned and forced to stay until their information was entered into the database and transcripts of their interrogation were filled out.” It comes after local Pastor Li Wanhua of Fengle Church was summoned to the police station after his home was raided and they confiscated Bibles and Christian poetry. Authorities held him for nearly four hours.  Stunning Religious Festivals around the World Thu, March 2, 2017Our selection of the most visually stunning religious festivals from around the world. Play slideshow  1 of 11  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+         GETTY Police confiscated bibles from the churchgoers Xi Jinping’s Chinese Communist Party has launched a major crackdown on religion in recent months in an attempt to oppress religious freedom and exercise control.Churches not sanctioned by the government have been put under surveillance with hundreds of Christians arrested for disturbing public order for offences such as holding bible study groups and displaying crucifixes outside their homes. There have been reports of churchgoers being banned from praying, singing hymns, crosses removed from buildings and people arrested for attending church services. 

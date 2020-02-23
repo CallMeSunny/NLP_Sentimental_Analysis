@@ -1,0 +1,21 @@
+North Korea will carry out nuclear weapons test when Kim Jong-un 'SEES FIT', minister says
+https://www.express.co.uk//news/world/791823/north-korea-conduct-nuclear-test-sees-fit-han-song-ryol-kim-jong-un-donald-trump-china
+ 04:37, Fri, Apr 14, 2017 
+   Han Song Ryol said the situation on the Korean peninsula is now in a “vicious cycle” and also accused President Trump of “making trouble” with “aggressive” tweets.He said: "Trump is always making provocations with his aggressive words.  GETTYNorth Korea appears to be ignoring warnings from the international community over nuclear weapons Related articles   China BEGS for calm as 'North Korea prepares for nuclear test'   US & North Korean war could 'break out by MISTAKE because of Trump' "It's not the DPRK but the US and Trump that makes trouble."Earlier this week, the US leader tweeted that North Korea was “looking for trouble”, and vowed to take on the hermit state alone if necessary as tensions near breaking point.  GETTYDonald Trump and Chinese president Xi Jinping have discussed ways to quell the North Korean threat Han said Pyongyang will refuse to “keep its arms crossed” amid fears of a preemptive US strike.Experts believe a North Korean nuclear test could be conducted at any time and satellite images have revealed “unusually high levels of activity” at Kim Jong-un’s Punggye-ri nuclear test site.In recent years, barbaric dictator Kim Jong-un has launched nuclear tests to coincide with ‘the Day of the Sun’, an annual public holiday in North Korea to commemorate the birth of the country’s founder, Kim Il-sung. Secretive images revealed as North Korea prepares for war Wed, April 5, 2017A look at North Korea's firepower as it pursues its nuclear and ballistic missile programs in defiance of the United States and its allies. Play slideshow  AFP/Getty Images1 of 30People watch a television news showing file footage of a North Korean missile launch, at a railway station in Seoul  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYSome experts have suggested a nuclear launch may be timed to coincide with the 'Day of the Sun'Pyongyang has already warned of an upcoming “big and important event” and with the ‘Day of the Sun’ set to be celebrated on Saturday April 15, the world is bracing itself for another potential nuclear launch.Tensions between the two countries were exacerbated after President Trump sent a US Navy strike force to the Korean peninsula in a show of strength against the communist nation.

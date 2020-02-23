@@ -1,0 +1,21 @@
+Trump meets Putin: US and Russia face to face just a day after Putin's meeting with China
+https://www.express.co.uk//news/world/878013/trump-russia-putin-handshake-asia-tour-vietnam-apec
+ 15:32, Fri, Nov 10, 2017 
+   Donald Trump and Vladimir Putin greeted each other at the APEC summit in Vietnam, where they shook hands and exchanged a few words.The US president then sent a warning to his Asian rivals, telling them America would no longer tolerate bad trade deals. Mr Trump approached Russia's leader at a photo session in the Vietnamese city of Danang. He gave him a friendly slap on the shoulder and held a brief discussion.   GETTYDonald Trump and Vladimir Putin in Vietnam todayIt comes amid contrasting reports the two are set for a formal meeting - something Washington denies but the Kremlin states is a possibility. Kremlin spokesman Dmitry Peskov said the two leaders would meet "one way or another". Mr Putin's spokesman said: "For now there is no clarity. Contradictory information has been coming from our American colleagues. Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “The meeting will happen on the sidelines one way or another.”While Washington is denying a meeting will take place, the Kremlin said they understood one was likely. Mr Trump sent a strong warning to Asia-Pacific countries at the summit today, telling them America will no longer tolerate unfair trade deals.  GETTYDonald Trump and Vladimir Putin in Vietnam this eveningHaving just concluded a state visit to China, Trump said the United States was ready to make a bilateral deal with any country in the Indo-Pacific region - but only on the basis of "mutual respect and mutual benefit".He blasted the World Trade Organization and multilateral trade deals, and some analysts expect tougher action may be imminent from the White House to fight bilateral trade imbalances with China exacerbated by Beijing's state-led economic model.   It came after Mr Trump visited China to discuss future trade deals. He was given a state welcome and stated following the visit he did not hold China's deals with the USA against them - despite claiming they were unfair. He Tweeted: "I don’t blame China, I blame the incompetence of past Admins for allowing China to take advantage of the U.S. on trade leading up to a point where the U.S. is losing $100's of billions. How can you blame China for taking advantage of people that had no clue? I would've done same!“My meetings with President Xi Jinping were very productive on both trade and the subject of North Korea. He is a highly respected and powerful representative of his people. It was great being with him and Madame Peng Liyuan!”

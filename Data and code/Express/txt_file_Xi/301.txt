@@ -1,0 +1,38 @@
+North Korea and China: A history of the relationship between the two nations
+https://www.express.co.uk//news/world/791486/north-korea-china-timeline-history-relationship-kim-jong-un
+ 12:17, Thu, Apr 13, 2017 
+   The US President said that he had a “very productive” phone call with Chinese President Xi Jinping as tensions grow between America and North Korea.Kim Jong-un is reportedly ready to launch a nuclear weapons test as soon as Saturday, with satellite images showing that its Punggye-ri test site is “primed and ready”.The news comes after Donald Trump warned that an “armada” is on its way to join the US Navy aircraft carrier that was deployed in the Korean peninsula earlier this week.North Korea has promised to retaliate to the show of force with a “powerful show of arms”. Related articles   North Korea nuclear test site MAPPED – where is Pungyye-ri?   North Korea: How many nuclear weapons does Kim Jong-un have? Mr Trump said: "We have a very big problem in North Korea. And, as I said, I really think that China is going to try very hard, and has already started.”China and North Korea have been allies since the end of the Second World War, but the relationship has cooled since Kim Jong-un came to power in 2011.Mr Xi is said to take a dim view of Kim’s leadership and nuclear weapons programme, and the two men have never met face-to-face – although Mr Xi has met his South Korean counterpart.Nonetheless, China remains North Korea’s only major ally and a major supplier of its supplies. With diplomatic relations at a 70-year low, here is a look back at North Korea and China’s history.  GETTYKim Jong-un is developing illegal nuclear weapons Forbidden photographs depict the true North Korean army Wed, April 12, 2017While tourists are able to visit North Korea as part of a controlled tour group, they are asked by their handlers to never take photographs of soldiers. These pictures taken by photographer Eric Lafforgue show the reality of military service in the secretive state Play slideshow  ERIC LAFFORGUE/EXCLUSIVEPIX MEDI1 of 26Soldiers enjoy a ride at the funfair in Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    1948 – North Korea is established on September 9, with Kim Il-sung installed as its supreme leader.1949 – Chairman Mao proclaims the People’s Republic of China on October 1 after communist victory in the Chinese Civil War. Five days later Chinese Premier Zhou Enlai writes to North Korea stating his desire to establish diplomatic relations.1950 – China enters the Korean War in support of Pyongyang, sending troops to the Korean peninsula to fight against the South and its ally, the US-led United Nations Command.1953 – Following the end of the Korean War, China provides extensive economic support to Pyongyang.1961 – Zhou and Kim sign the Sino-North Korean Mutual Aid and Cooperation Friendship Treaty to promote peaceful cooperation in culture, economic and technology. The treaty is automatically renewed every 20 years, with the current version in effect until 2021.WHO ARE NORTH KOREA'S ALLIES?  GETTYChinese President Xi Jinping has called for a 'peaceful' resolution to the US-North Korea conflict2003 – North Korea withdraws from the Nuclear Non-Proliferation Treat (NPT), an agreement designed to prevent the spread of nuclear weapons. China joins the six-party talks (along with North and South Korea, Japan, Russia and the US) which aim to find a peaceful resolution to Pyongyang’s rogue nuclear programme.2006 – Kim Jong-il launches North Korea’s first nuclear weapons test.2009 – Chinese President Hu Jintao and North Korean leader Kim Jong-il declare a “year of friendship” to mark 60 years of diplomatic relations between the two communist states.2013 – China’s foreign ministry releases a statement declaring that it “resolutely” opposes North Korea’s latest nuclear test.2016 – After North Korea’s fourth nuclear test, China says that it “firmly opposes” Pyongyang’s actions. "We strongly urge the DPRK side to remain committed to its denuclearisation commitment, and stop taking any actions that would make the situation worse," said foreign ministry spokeswoman Hua Chunying, using North Korea’s official name – the Democratic People’s Republic of Korea.IS CHINA ON NORTH KOREA'S SIDE NOW? America and South Korea prepare for war against North Korea Tue, April 11, 2017U.S. and South Korean marines participate in the endurance exercise in temperature below minus 20 degrees celsius under a scenario to defend the country from any possible attacks from North Korea. Play slideshow  1 of 22  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    February 2017 – Pyongyang accuses China of “dancing to the tune of the US” after Beijing banned coal imports imports from North Korea after bowing to UN sanctions to put pressure on Kim Jong-un’s programme.March 2017 – Beijing reportedly orders more than 150,000 troops including medics to the North Korean border amid fears that citizens could flee the hermit state if the US sends an airstrike. China is said to be preparing for a possible influx of refugees as tensions escalate between Washington and Pyongyang. Chinese President Xi Jinping has called for a “peaceful” resolution to the dispute as China and the US flex their military muscles.

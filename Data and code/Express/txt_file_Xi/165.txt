@@ -1,0 +1,21 @@
+Why is Winnie-the-Pooh banned in China?
+https://www.express.co.uk//news/world/829586/Winnie-the-Pooh-ban-China-why-President-Xi-Jinping-Communist-Party-censorship
+ 12:21, Mon, Jul 17, 2017 
+  GETTYWinnie-the-Pooh has been banned from social media sites in ChinaMentions of Winnie-the-Pooh have been removed from China’s Twitter-like social media platform Weibo, as the honey-loving bear falls victim to China’s notorious internet censorship laws.Post bearing the Chinese characters for Winnie to Pooh were stick permitted on the platform this morning, but comments referencing “Little Bear Winnie” resulted in “illegal” content warnings.Animated gifs of the AA Milne character have been taken off messaging app WeChat, although user-generated images are still available. Related articles   China unveils technology to create SUPER-HUMANS    China unveils technology to create SUPER-HUMANS using dog clones  No official explanation has been given for the ban, however the “bear of very little brain” has previously been compared to the Chinese President Xi Jinping.In 2013, a similar ban on the children’s character was imposed after a photograph of President Xi and former US President Barack Obama was compared to an image of Pooh and his friend Tigger. Then in 2014, a picture of the Chinese leader shaking hands with Japanese Prime Minister Shinzo Abe was compared to a drawing of Pooh and the donkey Eeyore. #Chinese government blocks meme that compares Xi Jinping to Winnie the Pooh and #Obama to #Tiger! pic.twitter.com/HsP0RQ03DA— Alfredo Medellín (@AlfredoMedelln) June 16, 2013   A year later, a collage of Mr Xi standing through the roof of a parade car paired with an image of a Winnie the Pooh toy car was branded “China’s most censored photo” of 2015.Weibo users have already started testing the censorship imposed by the government. “Poor little Winnie. What did this adorable honey-loving bear ever do to provoke anyone?" one Weibo user wrote, according to Sky.Qiao Mu, assistant professor of media at Beijing Foreign Studies University told the Financial Times that “the Winnie issue is part of a trend”. Weird and wonderful collections Thu, January 21, 2016Take a look at these collections from all around the world. From PEZ collections, to a man from Delaware with a Bat cave, to a woman in Wisconsin with the largest Winnie the Pooh collection. Play slideshow  IKEA1 of 27Weird and wonderful collections  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYXi Jinping has previously been compared to Winnie-the-Pooh“Historically, two things have not been allowed: political organising and political action.“But this year a third has been added to the list: talking about the president.”The removals come as the Chinese Government steps up its clamp-down on politically-sensitive online material ahead of the Communist Party’s 19th Party Congress.The twice-a-decade meeting takes place this autumn and will see elections for China’s top politicians. 

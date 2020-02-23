@@ -1,0 +1,21 @@
+Kim Jong-un FINISHED? North Korean leader could face America, Japan AND China
+https://www.express.co.uk//news/world/793309/North-Korea-Kim-Jong-un-America-Donald-Trump-Mike-Pence-Japan-Shinzo-Abe
+ 04:02, Wed, Apr 19, 2017 
+  GETTYIf China gets on board with Japan and America it could finish North KoreaMr Pence met with Shinzo Abe and promised “iron clad” alliance between the two countries as well as agreeing China needs to take a greater role in bringing stability to the divided region.The two confirmed during a working lunch that China's role was important in dealing with North Korea, and they needed to work on China to take on a bigger role, Japanese Deputy Chief Cabinet Secretary Koichi Hagiuda told reporters.Donald Trump has previously said if China will not step up to the mark then he will have to deal with the threat posed by North Korea. Related articles   North Korea denies human-rights abuse inside Kim's prison camp network   Trump WILL NOT be happy! North Korea uses CHINESE trucks for missiles China has long supported the North, but it has had a tumultuous relationship over the years and there is a feeling that, in the face of strong international pressure, President Xi Jinping may finally seek to depose the Kim regime.It comes just days after Mr Pence said: “The era of strategic patience is over and while all options are on the table, President Trump is determined to work closely with Japan, with South Korea, with all our allies in the region and with China to achieve a peaceable resolution and the denuclearisation of the Korean peninsula.“We appreciate the challenging time in which the people of Japan live with increasing provocation across the Sea of Japan. We are with you 100 percent.” Related videos   Pence warns North Korea: 'Do not test Trump's resolve'    US pushing ever 'closer to nuclear war' claims North Korean ambassador   North Korea's aid is 'DWINDLING' over nuclear threats North Korea attempted to conduct its sixth nuclear missile test in the last few days, but the device exploded roughly five seconds after launch - with some claiming the US hacked into Kim Jong-un’s missile system.The isolated nation’s Vice Foreign Minister Han Song-Ryol told the BBC that missiles would be tested on "a weekly, monthly and yearly basis". US Army soldiers prepare for WAR against North Korea Fri, April 14, 2017The US military's largest non-nuclear bomb killed dozens of Islamic State militants as it smashed their mountain hideouts, Afghan officials said April 14, ruling out any civilian casualties despite the weapon's destructive capacity. The GBU-43/B Massive Ordnance Air Blast bomb dubbed the 'Mother Of All Bombs' hit IS positions in Achin district in eastern Nangarhar province Play slideshow  1 of 11  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    But in the same breath, North Korea’s representative to the United Nations, Kim In Ryong, accused the US of creating “a situation where nuclear war could break out an any time”.Mike Pence is currently in the middle of a 10 day trip to Asia.

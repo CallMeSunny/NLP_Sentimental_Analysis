@@ -1,0 +1,21 @@
+Donald Trump reveals hope for a 'constructive relationship' in letter to Chinese president
+https://www.express.co.uk//news/world/764992/donald-trump-xi-jinping-us-china-constructive-relationship-foreign-ministry-taiwan-letter
+ 03:00, Thu, Feb 9, 2017 
+   The President thanked his Chinese counterpart for congratulating him on taking over the Oval Office last month, and wished China a prosperous Year of the Rooster.China’s Foreign Ministry have not yet commented on the letter.  GETTYTrump's letter to Xi Jinping has given fresh hope for improved relations between the two countries Related articles   China warns of instability if US meddle in East China sea affairs   China foreign minister warns US not to engage in conflict While the two leaders have not spoken since Trump took office last month, Xi was one of the first leaders to congratulate the Republican tycoon after he won the US Presidential election in November.Last week, the Foreign Ministry in Beijing claimed China and the US remain “in close touch” amid hopes of renewed relations between the two powers. Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Speaking in Australia, Chinese Foreign Minister Wang Yi appeared to quell any fears of a deterioration in ties between Beijing and Washington.He said: "There cannot be conflict between China and the United States, as both sides will lose and both sides cannot afford that."It is important to firmly commit to an open world economy.  GETTYThe two leaders are widely expected to meet soon"It is important to steer economic globalisation towards greater inclusiveness, broader shared benefit in a more sustainable way."Trump’s election victory prompted early fears for the US-China relationship after he claimed he could not understand why the US should continue to abide by the ‘One China’ policy.  GETTYTaiwan President Tsai Ing-wen congratulated Trump on his election win, prompting outrage in ChinaHe told Fox News: “I don’t know why we have to be bound by a ‘One China’ policy unless we make a deal with China having to do with other things, including trade.”Despite early concerns, Trump’s letter to Xi suggests the relations are back on track.

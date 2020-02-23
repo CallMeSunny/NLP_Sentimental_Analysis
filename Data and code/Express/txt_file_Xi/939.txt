@@ -1,0 +1,21 @@
+Kate Middleton wears military style red coat for final day of royal tour in Norway
+https://www.express.co.uk//life-style/style/913541/kate-middleton-news-pictures-royal-tour-norway
+ 09:40, Fri, Feb 2, 2018 
+   Kate Middleton, 36, and Prince William, 35, are in Norway on the final day of their four day royal tour.Keeping warm in the cold Norwegian winter, Kate wore a maroon coat and thick black tights.The coat was military in style, with 10 brass buttons running down the front and two posts on the sides.She wore a pair of black gloves with a bow to cover her hands, and held a small black Mulberry clutch.  PA/WENNKate Middleton news: The Duchess chose a military style coat for her final day in Norway Related articles   Kate Middleton news: Duchess wears bluefor first day in Norway   Kate Middleton looks ethereal in Norway and wears the Queen’s bracelet  Kate Middleton news: Duchess of Cambridge wears military coat for final day of royal tour in NorwayShe wore the same black court shoes she stepped out in yesterday.The Duchess also sported a pair of drop earrings which could be seen nestling in her bouncy blow dried hair.Keeping her makeup simple, Kate opted for a sweep of blusher and heavy mascara.For their final day in Norway, Kate and Wiliam will visit a school, a ski jump, and a ski museum before heading home.  WENN/PAKate Middleton news: The Duchess looked stylish in a red coat in Norway today Kate Middleton and Prince William's royal tour of Sweden and Norway in pictures Fri, February 2, 2018The Duke and Duchess of Cambridge meet the Swedish and Norwegian royal families during their royal tour of Sweden and Norway. See all the pictures here. Play slideshow  PA1 of 100The Duke and Duchess of Cambridge before meeting junior ski jumpers from Norway's national team  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      PAKate Middleton news: The Duchess met waiting crowds in Norway  PAKate Middleton news: Kate and William will return to the UK todayLast night, the Duchess stunned in an Alexander McQueen gown. She also wore the Queen's bracelet, which was a wedding gift from Prince Philip.The blush pink floor-length gown had a cape and extravagant silver embellishment on the shoulders.The custom-made dress is not available to buy, but dresses cost in the region of £2,500 from the UK brand.Kate also wore the Queen’s wedding gift bracelet from Prince Philip, along with the matching earrings created by the romantic 96-year-old when he married the Queen, 91.  PAKate Middleton news: The Duchess carried a small black clutchbag as she met with the Norwegians  WENNKate Middleton news: The Duchess' hair looked perfectly coiffed for her walkabout in NorwayThis is not the first time Kate Middleton has worn the Queen’s wedding gift from Prince Philip. Kate wore the bracelet at her first state banquet of Chinese president Xi Jinping and his wife Peng Liyuan in October 2015.The Queen most recently wore the piece to pose for her Diamond Jubilee photograph.The large diamond bracelet was a fitting wedding gift for a member of the royal family, as it was made from the same diamonds as the Queen’s engagement ring.

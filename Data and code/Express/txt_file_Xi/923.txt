@@ -1,0 +1,21 @@
+SHOCK as politician calls for Putin to be PRESIDENT FOR LIFE by ripping up constitution
+https://www.express.co.uk//news/world/957609/Vladimir-Putin-Ramzan-Kadyrov-president-for-life-ripping-up-constitution
+ 06:49, Thu, May 10, 2018 
+   The Kremlin is exploring plans which would allow Putin to remain in office for another 12 years, which some individuals believe would see Putin become a virtual “President for life”.Chechen leader and strongman Ramzan Kadyrov who is accused of human rights abuses, commented on the plans, saying: “While the current President is in good health, we should not think about any other head of the state.“There is President Putin, this is it.“This is my personal opinion and I am not going to change it.“There is no alternative to Putin nowadays.  GETTYRamzan Kadyrov has called for Putin to remain President of Russia for the foreseeable future Related articles   Moment Vladimir Putin rescues war veteran from burly bodyguard   Vladimir Putin’s ‘girlfriend’ makes rare public appearance   GETTYMr Putin was re-elected in March 2018 for his fourth term as President, winning 77% of the vote While the current president is in good health, we should not think about any other head of the stateRamzan Kadyrov“Of course we have decent people but if we want the best, there is no-one better than Putin.“I don’t see him.“This is why I think that we can make a decision to prolong the rule of the head of state, not limit it to two terms.”Mr Kadyrov looks set to pass the motion in the Chechen Parliament, which would then pass to the Russian Parliament in Moscow.Putin was elected in March 2018 for his fourth term as Russian President, winning 77% of the vote.   However the election caused controversy as Mr Putin’s main political rival and anti-corruption campaigner Alexei Navalny was barred from standing due to a conviction in a fraud case.Mr Navalny called on his supporters to boycott the election, stating: “The procedure that we’re invited to take part is not an election.“Only Putin and the candidates he has hand-picked are taking part in it.“Going to the polls right now is to vote for lies and corruption.”The Russian leader will be inaugurated for his fourth term on Monday, and will be 71 years old when his new term comes to an end in 2024. Putin protests: Chaos erupts after Putin announced President for another six years Mon, May 7, 2018Russia's election results spark backlash, after President Putin survives another six years. Play slideshow  EPA1 of 10Liberal opposition rally in Moscow  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    If new plans to extend his term are passed in the Russian Parliament, Putin would be 77 when he finally leaves office.Putin has been the leader of Russia since 2000, and became Prime Minister between 2008 and 2012 in order to avoid constitutional limits on presidential terms.He was reinstated as President in 2012, while Dmitry Medvedev took over the role of Prime Minister once again.Commentators have likened the proposed plans to constitutional changes made in China, which removed the two-term limit on the presidency and effectively allow Xi Jinping to remain President for life.

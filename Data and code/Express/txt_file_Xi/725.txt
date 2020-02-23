@@ -1,0 +1,21 @@
+Chinese military launch missiles and test weapons close to North Korea amid WW3 fears
+https://www.express.co.uk//news/world/802520/China-military-launch-missiles-test-weapons-North-Korea-Bohai-Sea-WW3-Donald-Trump
+ 01:13, Wed, May 10, 2017 
+   The military drills were carried out in the north-eastern Bahai Sea and were labelled “successful” by Chinese officials.According to reports, Chinese President Xi Jinping is overseeing a sweeping modernisation of the country's military. Related articles   WW3: 'China MUST stop North Korea’s Kim Jong UN' US official claims   Trump 'using North Korea as a decoy to launch NUCLEAR strike on China'   GETTYChina test weapons near North Korea's borders in a show of strengthPresident Xi is said to be emphasising technological innovation and naval capability as he seeks to project an image of power in the face of the South China Sea dispute.Yesterday's drills were initiated to increase the country's “operational capability” so they can effectively deal with future national security threats, officials claimed.Michael Hirson, Asia director of Eurasia Group, believes Chinese authorities are starting to lose their patience with North Korea. Kim Jong-un flexes his military muscles Mon, May 15, 2017North Korean leader Kim Jong-un inspecting military detachments on two islets in waters off the country's southwest front. Play slideshow  REUTERS1 of 16North Korean leader Kim Jong Un inspects the long-range strategic ballistic rocket Hwasong-12 (Mars-12)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Hirson said on CNBC: "We're seeing some incremental steps that the Chinese may be in favour of doing more. I think China is signalling to both sides, to the US that China is doing more, that China is acting in good faith to head off a crisis in North Korea."Primarily they're telling the US that ultimately China feels the only solution in North Korea is one that involves diplomacy and getting North Korea to the table."But Bethany Allen-Ebrahimian, an assistant editor at Foreign Policy, maintained that China is and has always been careful in handling the situation of North Korean.Explaining the chaotic relationship between the two nations, Ms Allen Ebrahimian said: ”China fears that harsher sanctions may destabilise its northern neighbour, which could potentially send millions of refugees over the border.  GETTYA North Korean soldier reads close to the Chinese border amid WW3 tensions"But recent missile tests — and growing international pressure — have only narrowed Beijing’s options."Yesterday, North Korea’s ambassador to the UK fuelled war fears as he said the communist nation will go ahead with their own nuclear tests.Insisting that Kim Jong-un is not afraid of the US, Ambassador Choe II said his nation is “fully ready to respond” to any military threats from President Trump.

@@ -1,0 +1,21 @@
+Top US Senator calls on Donald Trump to ’engage in DIRECT NEGOTIATIONS’ with Kim Jong-un
+https://www.express.co.uk//news/world/789705/Donald-Trump-North-Korea-Kim-Jong-un-Edward-Markey-direct-negotiations-China
+ 06:02, Sun, Apr 9, 2017 
+   Edward Markey, a Senator from Massachusetts, compelled the President to make the unprecedented diplomatic step as part of a proposed joint effort with China to reduce North Korea’s nuclear threat.Mr Markey outlined his plan in a letter sent to Trump the night before his first meeting with Chinese President Xi Jinping, which suggested the US should commit to direct talks with the despotic nation in exchange for a pledge from China to greatly increase sanctions agains Pyongyang if they fail to cooperate. Related articles   US missile strike on Syria was WARNING to North Korea   US Navy strike group moves towards North Korea as war fears grow He wrote: “The coordinated initiative could force North Korea to make real demilitarisation concessions, while providing a win for both China and the United States.The Senator pointed out that China had unsuccessfully urged the US to negotiate directly with North Korea for years, and argued that it was now the time to ask Xi to “tighten the screws” with economic sanctions.Mr Markey added: “But in return, the United States must do something that the Chinese want us to do, which is to engage in direct negotiations with Kim.”   GETTYThe call comes amid rising tensions in North KoreaDirect negotiations with Kim’s government would mark a dramatic departure from Barack Obama’s policy on the secretive state. One White House official, however, said Trump would not rule anything out when dealing with Pyongyang.The official said: “The clock has now run out and all options are on the table.”   GETTYMr Markey said negotiations could increase leverage over the nationMr Markey’s proposal comes amid rising tensions between the US and North Korea.Kim’s military fired a ballistic missile into the sea of the Korean Peninsula this week, the latest in a series of weapons drills.  GETTYRex Tillerson responded succinctly to the latest weapons drills from North Korea Tourist’s astonishing holiday snaps from INSIDE North Korea Wed, April 5, 2017Inside North Korea: Tourist’s astonishing holiday snaps of Democratic People's Republic of Korea (DPRK) go viral. Play slideshow  Imgur•Getty1 of 29Tourist’s astonishing holiday snaps from INSIDE North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    In a 23-word statement, US Secretary of State Rex Tillerson gave a succinct response to the exercise.He said: “North Korea launched yet another intermediate range ballistic missile. “The United States has spoken enough about North Korea. We have no further comment."

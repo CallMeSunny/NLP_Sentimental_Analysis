@@ -1,0 +1,21 @@
+Pound US dollar exchange rate: GBP hits worst levels of 2018 against USD
+https://www.express.co.uk//finance/city/960540/Pound-US-dollar-exchange-rate-GBP-USD-worst-levels
+ 11:57, Wed, May 16, 2018 
+  GETTYThe pound to US dollar exchange rate is currently at around $1.349The pound has mainly being affected by comments from Bank of England (BoE) Deputy Governor Ben Broadbent.Speaking on Tuesday, Mr Broadbent said: “[We will not] spoon feed [markets].“Our communication is mainly addressed to the wider public.“[The City of London’s] job is to put themselves in our shoes. We all have the same data.” Related articles   Pound v US dollar: GBP making steady advance against USD   Pound v US dollar: GBP tight as UK wage growth overtakes inflation The central bank has largely come under criticism because of the recent BoE interest rate decision.Before the event, policymakers suggested that a May interest rate hike was likely, and the pound strengthened accordingly.Over the course of April, however, UK economic data was disappointing and the pound ultimately crashed when interest rates were left on hold once again.While forward guidance from the BoE is likely to continue, Mr Broadbent’s comments suggest that there could be less consideration over whether it matches up to the final decision. [The City of London’s] job is to put themselves in our shoes. We all have the same dataBen Broadbent, Bank of England (BoE) deputy GovernorIn turn, this risks future interest rate decisions having an amplified effect on the value of the pound because of trader doubts about the validity of forward guidance.Over in the US, the US dollar’s recent rally has slowed amid uncertainty about the effects of a US and China trade war.Recent forecasts suggest that China might be better placed to weather a prolonged economic conflict, while the US could experience job losses and slowing growth.Reflecting on a meeting with Chinese President Xi Jinping, British Ambassador to China Barbara Woodward said: “[Mr Jinping] said everyone would lose out, but he felt that the party had the levers and the country had the resilience to come out the other side, in better shape than the US.” How to get the best exchange rate Sun, July 15, 2018Exchange rate: How to get the best deal on your holiday money. Play slideshow  Getty Images1 of 8How to get the best exchange rate  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+       hile UK data is lacking for the rest of the week, the pound US dollar exchange rate could be pressured lower this afternoon if the US industrial and manufacturing reports show an increase in output.The US is also set to publish building permits and housing starts figures.

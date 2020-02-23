@@ -1,0 +1,224 @@
+Love Island's Cally Jane Beech looks stylish in a jumper dress she parties with WAG Anouska Santos
+https://www.dailymail.co.uk/tvshowbiz/article-6561959/Love-Islands-Cally-Jane-Beech-looks-stylish-jumper-dress-parties-WAG-Anouska-Santos.html
+ 12:32 BST, 6 January 2019 
+Love Island's Cally Jane Beech was among the revellers at the owner of BooHoo.com's birthday party at Rosso Restaurant in Manchester on Friday night.The model, 27, looked stunning in a green, off the shoulder mini-dress that she accessorised with a black belt for a stylish finish.The TV star completed the look with a black handbag, a gold necklace and matching hooped earrings.         Stunning: Cally Jane Beech, 27, was among the revellers at the owner of BooHoo.com's birthday party at Rosso Restaurant in Manchester on Friday nightAttending the event with her friend Anouska Santos, Cally added size to her frame with strappy heels and styled her locks into an updo.Anouska, who is the girlfriend of Manchester United Ace Luke Shaw, was also suitably stylish for the evening, donning a white mini-dress with a dot detail and a dark green bomber jacket.   RELATED ARTICLES  Previous 1 Next       I'm A Celeb's Noel Edmonds SLAMS report he's moving to New...    Brooklyn Beckham's model girlfriend Hana Cross bears a...    Tamara Ecclestone sizzles in satin slip dress and sheer...    Angelina Jolie looks radiant in a cream bandeau and midi...    
+
+Share this article
+Share
+
+ Turning heads in a pair of snake skin boots, she let her blonde locks hang loose down her shoulders.Earlier in the evening, the pals went to a diner before the party where they relaxed with some milkshakes.         Pals: Attending the event with her friend Anouska Santos, Cally added size to her frame with strappy heels and styled her locks into an updo
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Cally_Jane_Beech'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steal Cally's style in a khaki sweater dress by PrettyLittleThing
+
+
+
+
+PrettyLittleThing sweatshirt
+Shop it here!
+
+
+
+Visit site
+
+
+
+The fashion world is obsessed with all things oversized and off-the-shoulder, so why not follow in Cally Jane's footsteps and channel the trend via a PrettyLittleThing sweater dress.
+The former Love Island star was living her comfiest life earlier this week when she stepped out wearing an oversized sweater dress by PrettyLittleThing teamed with an Off-White belt and snake print lace-up heels.
+We love this look for a night spent on the dance floor as the oversized fit teamed with a waist-cinching belt means that this party look is as comfy as it is trendy!
+Make it yours now by clicking the link to your right. Dress it up, a la Cally, or wear with white kicks and a leather jacket for an off-duty AM look.
+Alternatively, peruse our carousel below for similar styles from the likes of Missguided, Femme Luxe, Ports 1961 and Sandwich Clothing.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Missguided sweater dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Femme Luxe sweater dress (now reduced to £13.99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Sandwich Clothing sweater dress at Amazon
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Ports 1961 sweater dress at Farfetch (now reduced to £180)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Cally_Jane_Beech', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The outing comes after Cally was left shaken after being involved in a car accident.She told her Twitter followers that she suffered injuries after the 'horrid' car accident which occurred while she was in the car with her daughter Vienna, one.The reality star urged her followers to exercise caution on the roads before speaking to OK! Online about her mild injuries yet confirmed her daughter is fine.               Friends: Anouska, who is the girlfriend of Manchester United Ace Luke Shaw, was also suitably stylish for the evening, donning a white mini-dress with a dot detail       She wrote to her 100K followers: 'Guys please go careful on the roads just had horrid car accident n I'm shook I beg u all go careful I'm one of the lucky ones #feelingblessed. Finally home n in bed, not that I'm guna be able to rest, wat a day.'Speaking to OK!, Cally stated: 'We're OK, it was me and Vienna.''There was a quick traffic build up on the motorway and the sun was low, and by time I saw the car slammed on was too late.'Vienna was fine – I have few mild injuries, but just thankful wasn't a whole lot worse. I feel very blessed, but very shook up.'         Mishap: Last summer, Cally was left shaken after being involved in a car accident but confimed both she and daughter Vienna, one, were fine

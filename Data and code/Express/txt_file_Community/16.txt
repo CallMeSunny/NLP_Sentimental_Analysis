@@ -1,0 +1,21 @@
+Burberry sales head off east
+https://www.express.co.uk//finance/city/987681/Burberry-sales-china-asia-fashion-retail-luxury-paris-jackson-cara-delevingne
+ 09:15, Thu, Jul 12, 2018 
+  Paris Jackson and Cara Delevingne wearing Burberry at the Burberry February 2018 show in London (Image: Getty Images for Burberry) We had far fewer Chinese tourists coming to the UK and Europe. They were shopping more in Asia.Burberry chief financial officer Julie BrownThe luxury brands group, whose fashions are worn by the likes of Cara Delevingne and Paris Jackson, said sales in the 13 weeks to June 30 were up 3 per cent on last year.A weaker performance in the UK and Europe was offset by growth in Hong Kong, Korea and Japan as currency movements led to Chinese consumers switching to Asian markets.Burberry chief financial officer Julie Brown said Chinese clientele "will move depending on currency.“We had far fewer Chinese tourists coming to the UK and Europe. They were shopping more in Asia. Related articles   Royal wedding 2018: Will Burberry design Meghan's wedding dress?   Melania Trump wears Burberry trench coat as she arrives in Brussels  Celebrities in Burberry Mon, February 20, 2017Burberry fashion show is upon us, so we are taking a look at the celebs who can't get enough of the famous brand. Play slideshow  Burberry1 of 17Romeo Beckham models for Burberry  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “It’s a new way of communicating. We can expect to have more periodic product drops that would be more exciting, and sometimes unexpected by consumers.”Marco Gobbetti, Burberry’s chief executive, said: “While we know it will take time to achieve our ambitions, our progress to date and the energy in and around the company give me confidence for the future.”Shares fell 85p to 2016p.

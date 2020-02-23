@@ -1,0 +1,55 @@
+Top 10 biggest political RISKS facing the world in 2017 - Eurasia Group
+https://www.express.co.uk//news/world/750570/2017-risks-top-10-biggest-political-dangers-world-this-year-forecast-predictions
+ 12:45, Thu, Jan 5, 2017 
+  KNS/AFP/Getty America's Donald Trump, North Korea’s Kim Jong-un and an image of Turkey's Recep Tayyip Erdogan  Top 10 political risks facing 2017 Thu, January 5, 2017We are heading into “geopolitical recession” and face 10 major political risks this year, according to a new forecast. Play slideshow  Getty Images1 of 101. Donald Trump’s independent America: Mr Trump’s pledge to put ‘America first’ marks a break with the notion that the US should promote democracy, civil rights and rule of law around the world.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+       Donald Trump’s ‘America first’ vision and North Korean aggression are among the risks identified by global consultancy the Eurasia Group. Eurasia’s new report warned: “In 2017 we enter a period of geopolitical recession.“This year marks the most volatile political risk environment in the postwar period, at least as important to global markets as the economic recession of 2008.”  Related articles   Predictions for 2017: Eight events that will shape the world this year   Six things which will have a huge impact on immigration in 2017  The report said this new reality need not escalate into a ‘geopolitical depression’ that triggers major conflict between countries or a breakdown within Governments. “But such an outcome is now thinkable, a tail risk from the weakening of international security and economic architecture and deepening mistrust among the world's most powerful Governments,” it said. Here are the risks facing the world, according to the Eurasia’s Top Risks 2017: The Geopolitical Recession report. 1. Donald Trump’s independent America  Mr Trump’s pledge to put ‘America first’ marks a break with the notion that the US should promote democracy, civil rights and rule of law around the world. The report said: “With it ends a 70-year geopolitical era of Pax Americana, one in which globalisation and Americanisation were tightly linked, and American hegemony in security, trade, and promotion of values provided guardrails for the global economy.” Risks identified include China and Russia asserting themselves as an alternative to the US and more pressure on multilateral institutions like the UN.    It added: “First and foremost is the near-term chaos that comes from an absent superpower. “That's most evident in Europe, where Trump's political tilt toward Russia, his tepid support for NATO, and his alignment with like-minded and anti-establishment movements across the continent further weaken what had been the most important alliance for protection of the global order.”  President-Elect Donald Trump in pictures Tue, December 13, 2016Donald John Trump is an American businessman and politician who is President-elect of the United States as well as chairman and president of The Trump Organization Play slideshow  1 of 64  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    2. China overacts Two risks flow for the upcoming power consolidation of Chinese President Xi Jinping amid leadership turnover around the 19th Party Congress next year, Eurasia said. Its report said: “First, because Xi will be extremely sensitive to external challenges to his country's interests at a time when all eyes are on his leadership, the Chinese president will be more likely than ever to respond forcefully to foreign policy challenges. “Spikes in US-China tensions are the likely outcome. Second, by prioritising stability over difficult policy choices in the run-up to the party congress, Xi may unwittingly increase the chances of significant policy failures.”  3. A weaker Angela MerkelGerman Chancellor Angela Merkel is losing her ‘geopolitical clout’ as she prepared to stand in the German federal elections next year, the report said. The report said: “The need to appease domestic critics this year will leave her a diminished figure, impacting the quality of her leadership both at home and in the EU.” It predicted more economic and political risks in Europe next year, adding: “Europe has never needed a strong Merkel more. In 2017, she'll be unavailable for the role.”  Will German Chancellor Angela Merkel lose power in 2017?AFP Getty4. No economic reformThe report said leadership will be lacking next year with politicians avoiding economic “structural reform, undermining prospects for growth and new opportunities for investors”.It added: “The reform needle won't move in 2017. Save for a few bright spots, money won't know where to flow.”5. Technology and the Middle East Technology is likely to “exacerbates political instability” in the Middle East where Governments have been weak for decades, the report said. The forecast said: “Alienated populations can now communicate their grievances more easily. Terrorists can recruit. And new tools of communication bring together like for like.”  It also highlighted the risk of cyber-warfare with Iran’s use of cyber-attacks against Saudi Arabia and terrorists “developing new cyber-skills to challenge Middle Eastern systems”. 6. Central Banks Get Political The report said: “For the first time in decades, central banks face attack not just in emerging markets but in the US, the Eurozone, and the UK.” Kim Jong-un in pictures Sun, January 7, 2018Kim Jong-Un, The Supreme Leader of North Korea takes himself and his leadership very seriously. Play slideshow  PBS / Frontline1 of 77  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    7. White House vs Silicon Valley Mr Trump could battle Silicon Valley tech leaders who voted against him in large numbers and “have a bone to pick the new President”, the report said. It added: “Trump's political agenda leads with national security, while Silicon Valley's core ideology centers on freedom and privacy.  “Trump wants jobs, while Silicon Valley is driving workplace automation.  And while support for science was one of Obama's strengths, it's at best a second-tier priority for the Trump administration, and at worst an inconvenient truth."8. Chaos in TurkeyPresident Recep Tayyip Erdogan is expected to continue his political crackdown in the wake of the failed coup against him in July. The report said: “Voters are close to evenly split on the question of expanding the President's powers, and Erdogan will have to mount an aggressive campaign to win them over.” 9. North Korea aggressionThe political risk consultancy said: “2017 will be a big year for North Korea. That's not a good thing.” 10. South Africa political crisis The report said: “The political crisis pitting President Jacob Zuma against opponents within and beyond the ruling African National Congress (ANC) will worsen in 2017, putting the South African economy at greater risk and damaging regional stability.” 

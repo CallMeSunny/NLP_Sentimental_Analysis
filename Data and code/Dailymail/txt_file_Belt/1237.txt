@@ -1,0 +1,225 @@
+Raiding the Santa Claus-et? Rihanna borrows a festive red belt from Father Christmas as she heads to dinner at her favourite restaurant
+https://www.dailymail.co.uk/tvshowbiz/article-4054206/Rihanna-rocks-festive-leather-belt-tuxedo-jacket-dinner-favourite-restaurant.html
+ 08:33 BST, 21 December 2016 
+She's known for her outrageous sense of personal styling.But Rihanna seemed to be feeling more traditional on Tuesday night, when she borrowed styling tips from Santa Claus in a distinctive red leather belt.In the spirit of Christmas, the musician hit her favourite restaurant, Giorgio Baldi, in Santa Monica with a few festive accessories.Scroll down for video          Feeling festive: Rihanna got into the spirit of the season on Tuesday night as she paired her tuxedo jacket with a festive red belt for dinner at Giorgio BaldiWith a giant silver buckle, the thick belt certainly seemed to be the size of Jolly Old Saint Nic, since Rihanna had plenty of excess length when she used it to cinch in her own tiny waist.   RELATED ARTICLES  Previous 1 Next       So, she's staying off the naughty list! Rihanna let's Santa...    'People think I'm Sandra Bullock's assistant!': Mindy Kaling...    Going to the (hot) dogs! Rihanna and Sandra Bullock chow...    Baby it's cold outside! Rihanna rocks fur coat and chic...    
+
+Share this article
+Share
+241 shares
+
+ Rihanna wrapped it around a smart tuxedo jacket, which featured satin lapels and an androgynous, double breasted design. She also seemed to have taken inspiration from Santa in the footwear department when she completed the look with pointed patent boots that were - in this case - not so suitable for navigating the snow.               Belting it out: She's been finding some new ways to accessorise, including her boots
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Rihanna'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rock a Louis Vuitton monogram rucksack like Rihanna
+
+
+
+
+Louis Vuitton Mini Palm Springs backpack
+Get it now!
+
+
+
+Visit site
+
+
+
+Rihanna was channeling Father Christmas in an oversized crimson belt which she teamed with a double breasted blazer and ripped jeans for a night out in Santa Monica. But it was her backpack that really caught our eye! 
+Featuring the distinctive LV monogram design, this micro rucksack is instantly recognisable as being by Louis Vuitton. 
+A cute alternative to a clutch, a mini backpack is big enough to fit all your essentials in for the night like your phone, keys and lippy whilst leaving your hands free! 
+What’s more, monograms have been a big news this season with many brands bringing back their logo prints. 
+Follow the link on the right to buy Rihanna’s one, or shop around with our edit of alternatives in the carousel below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+MCM Side Stud Baby Stark Backpack at Shopbop
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+MICHAEL Michael Kors Mini Rhea Zip Backpack at Harrods
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Calvin Klein Monogram Backpack at Macy's
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Louis Vuitton Mini Palm Springs backpack
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Rihanna', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Dressed up: It was a trip to her favourite restaurant in Santa Monica              Taking inspiration: Rihanna (left) seemed to have raided Santa Claus' wardrobe (right)         Ready for Christmas: Earlier this week, the star added an 'I've been good' hat to her lookAlso seen exiting the venue on Tuesday night was Draya Michele and fiance Orlando Scandrick.Bajan beauty Rihanna has certainly been feeling in the mood for Christmas this week, after leaving a party she hosted in West Hollywood wearing a Santa's hat.On Monday night, Rihanna was paying homage to the gift-bringer in a hat that said 'I've Been Good!' determined not to see herself on 'The Naughty List,' this year.In the spirit of her own Christmas party, Rihanna dressed up for the Fenty x Puma bash at The Nice Guy.         All her belongings: She carried her essentials in a tiny rucksack         Sassy: The brunette wore her hair up in messy curls with barely a scrap of make-up on         Ho, ho, how lovely: The musician used the belt to cinch in her tiny waist         Festive feeling: The previous evening, Rihanna was getting into the festive spirit in a hatRihanna actually has been a good girl this year, most recently spending time with Prince Harry of Wales, helping to mark World Aids Day.The fashionista and the British royal teamed up during his tour of the Caribbean and even struck up quite a bond.As well as taking tests for HIV together to help raise awareness, the songstress joined the royal for a Golden Anniversary Spectacular Mega Concert at the Kensington Oval Cricket Ground.          Also in attendance: Draya Michele (right) and Orlando Scandrick (left) were also at the same restaurant that night         Cheesy grins: The duo were all smiles as they enjoyed a dinner date         Leaving together: They were arm-in-arm as they left the venue

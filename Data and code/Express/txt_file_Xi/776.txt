@@ -1,0 +1,38 @@
+Rex Tillerson applauded by Nato as US leads calls to stand up to Vladimir Putin
+https://www.express.co.uk//news/world/787122/Rex-Tillerson-Nato-Vladimir-Putin-Russia-Moscow-Kremlin-Cold-War-World-War-Three
+ 08:57, Mon, Apr 3, 2017 
+  GETTYRex Tillerson urged strength and unity in dealing with Vladimir PutinMr Tillerson reportedly received a round of applause for the comments he made at his first meeting of the defence alliance.He told foreign ministers: “The US commitment to Nato is strong and this alliance remains the bedrock for transatlantic security.“The United States is committed to ensuring Nato has the capabilities to support our collective defence. Rex Tillerson: 5 Fast Facts You Need to Know Mon, April 3, 2017Rex Tillerson, the former CEO and chairman of ExxonMobil Corporation, is Donald Trump‘s Secretary of State Play slideshow  AFP/Getty Images1 of 51. Tillerson Doesn’t Support Sanctions on Russia, Calling Them Ineffective  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Related articles   The Nato force combating Putin aggression   Germany on collision course with US over Nato spending      GETTYUS Secretary of State Rex Tillerson chats with UK Foreign Secretary Boris Johnson The president supports Nato. The US Congress supports NatoRex Tillerson“We understand that a threat against one of us is a threat against all of us, and we will respond accordingly.“The president supports Nato. The US Congress supports Nato.” Mr Tillerson had initially planned to skip the meeting in Brussels, citing a conflict with a visit to Washington by Chinese President Xi Jinping but NATO Secretary-General Jens Stoltenberg rescheduled the talks so he could attend.  GETTYRex Tillerson attends his first NATO meetingMinisters were not sure what to expect from the former chief executive of Exxon Mobil who is now working for a president who called NATO “obsolete” during his campaign.But he calmed Nato nerves by expressing unwavering support for NATO and the won plaudits for his comments on the Kremlin.One European Nato ambassador told politico.eu: “With an ovation, I mean it literally. This is not metaphorically speaking. He actually got applause.  GETTYRex Tillerson with NATO Secretary General Jens Stoltenberg 11 things you need to know about NATO Tue, February 14, 2017NATO - The North Atlantic Treaty Organization is an intergovernmental military alliance based on the North Atlantic Treaty which was signed on 4th April 1949. The organization constitutes a system of collective defence whereby its member states agree to mutual defence in response to an attack by any external party. Play slideshow  Getty Images1 of 11Every member country, no matter how large or small, has an equal say in discussions and decisions. Photo shows: Signing the North Atlantic Treaty which marked the beginning of NATO, 1949.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “He was very, very clear about the United States standing by its allies.“He said, ‘we stand by our friends, we stand by Article 5, no ifs or buts’.”

@@ -1,0 +1,225 @@
+Belt up! Halsey covers her assets with leather strap as she strikes attention-grabbing pose at iHeartRadio Awards
+https://www.dailymail.co.uk/tvshowbiz/article-4285204/Halsey-breasts-leather-strap-iHeartRadio-Awards.html
+ 08:29 BST, 6 March 2017 
+It was certainly not a case of mellow yellow.For singer Halsey got fellow attendees hot under the collar when she attended the  iHeartRadio Music Awards with just a belt covering her charms in Los Angeles on Sunday.It certainly proved to be a winning look for the busty beauty, as she ended up walking away with a trophy after her Chainsmokers collaboration won the best dance song catagory.         Strapping young lady: Halsey caused a stir in a revealing ensemble at the iHeartRadio Music Awards on SundayThe singer, real name Ashley Frangipane, looked in fine form in a yellow jacket, matching trousers and high heels.But it was the 22-year-old's daring decision to cover her ample charms with just a strap that really caught the eye.   RELATED ARTICLES  Previous 1 Next       Chest too much! Christina Milian has cleavage showdown with...    'Turning a new leaf!' Katy Perry shows off new breakup...    Maddie Ziegler wears a fun mini dress to support her mentor...    Sports Illustrated model Hunter McGrady flaunts her fabulous...    
+
+Share this article
+Share
+18 shares
+
+ It certainly caused quite the stir, with Katy Perry meandering over to take a closer look as she performed.And viewers also got a closer looked when she helped introduce a performance by Big Sean with the assistance of Joe Jonas.         Bra-vo: Her fashion forward look of covering her breasts with a belt is unlikely to catch on               Yellow fever: She donned a high-visibility look for her turn on the red carpet
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Halsey'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Say YES to yellow like Versus-clad Halsey
+
+
+
+
+Versus Versace Spring/Summer '17
+View the full collection here!
+
+
+
+Visit site
+
+
+
+American singer Halsey made quite the appearance on the red carpet at the iHearRadio Music Awards clad in this bold yellow outfit from Versus Versace's SS17 collection. 
+The current climate might not make you think of the sunshine hue but, trust us, it's THE colour of the moment, and it's time to get in on the trend, ASAP. 
+SS17 saw major flashes of yellow on catwalks from Chloe to Chanel and Parisian heavy weight Celine. If that isn't enough to prove that the tone cuts the mustard, it also looks set to stick around for next season. AW17 Fashion Week has only just come to an end, and yellow was all the rage at Balenciaga and Valentino. 
+If you've got the confidence to rival Halsey's by all means work the tone head-to-toe. Our advice? Incorporate the colour into your look but wearing one vibrant piece, paired with more neutral tones. Why not sport Boohoo's high waisted pants with a fitted grey knit and sneakers? For more of an elegant look opt for Topshop Unique's hot-off-the-catwalk wide leg trousers with a cream lace cami and leather jacket. 
+Shop our edit of the best in bright yellow below....
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET SOME LIKE THEM!
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Topshop Unique Hutton wide leg trousers
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Carmen March ruffled slim-leg pants at Net-a-Porter.com
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo Ayah high waist trousers
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+R Studio plain wide leg joggers at La Redoute
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Halsey', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Drawing the eye: It was hard not to stare at the pop beauty's adventurous jewellery         Perry excited: Katy could not resist meandering over for a closer look as she performed But she was far from the only person flaunting their wares on the pre-show red carpet.Perhaps most blatently Christina Milian was not shy about showcasing her bounteous bust as she stepped out at the Forum in Los Angeles on Sunday.However they also faced stiff compettition from Katy Perry who got over her recent split from Orlando Bloom by donning a some cleavage-flashing ensemble.         Lovely pair: She introduced a performance by Big Sean with the assistance of Joe Jonas         Do not adjust your set: Viewers surely could not believe their eyes         Tongue-lashing: She gurned as she posed up with Chainsmokers stars Alex Pall and Andrew Taggart iHEART RADIO MUSIC AWARDS WINNERS  Song of the Year:Can’t Stop the Feeling – Justin Timberlake - WINNERCheap Thrills – Sia featuring Sean PaulCloser – The Chainsmokers featuring HalseyOne Dance – Drake featuring Wizkid and KylaStressed Out – twenty one pilotsFemale Artist of the Year:Adele - WINNERAriana GrandeRihannaSelena GomezSiaMale Artist of the Year:DrakeJustin Bieber - WINNERLuke BryanShawn MendesThe WeekndBest Duo/Group of the Year:ColdplayDNCEFlorida Georgia LineThe Chainsmokerstwenty one pilots - WINNERAlternative Rock Song of the Year:Bored to Death – blink-182Dark Necessities – Red Hot Chili PeppersHeathens – twenty one pilots - WINNERRide – twenty one pilotsTrouble – Cage the ElephantAlternative Rock Artist of the Year:blink-182Cage The ElephantColdplayThe Strumbellastwenty one pilots - WINNERRock Song of the Year:Bang Bang – Green Day - WINNERDark Necessities – Red Hot Chili PeppersTake Me Down – The Pretty RecklessThe Devil’s Bleeding Crown – VolbeatThe Sound Of Silence – DisturbedRock Artist of the Year:Disturbed - WINNERFive Finger Death PunchRed Hot Chili PeppersShinedownVolbeatCountry Song of the Year:Church Bells – Carrie UnderwoodSnapback – Old DominionSomewhere On a Beach – Dierks Bentley - WINNERT-Shirt – Thomas RhettYou Should Be Here – Cole SwindellCountry Artist of the Year:Carrie UnderwoodJason AldeanKeith UrbanLuke BryanThomas Rhett - WINNERDance Song of the Year:Closer – The Chainsmokers featuring Halsey - WINNERCold Water – Major Lazer featuring Justin Bieber and MØDon’t Let Me Down – The Chainsmokers featuring DayaI Took A Pill In Ibiza – Mike PosnerLet Me Love You – DJ Snake featuring Justin BieberDance Artist of the Year:Calvin HarrisDJ SnakeFlumeMajor LazerThe Chainsmokers - WINNERHip-Hop Song of the Year:All The Way Up – Fat Joe and Remy Ma featuring French Montana and InfaredControlla – DrakeFor Free – DJ Khaled featuring DrakeOne Dance – Drake featuring Wizkid and Kyla - WINNERPanda – DesiignerHip-Hop Artist of the Year:DesiignerDJ KhaledDrake - WINNERFutureColeR&B Song of the Year:Exchange – Bryson TillerNeeded Me – RihannaNo Limit – Usher featuring Young ThugSorry – BeyoncéWork – Rihanna featuring Drake - WINNERR&B Artist of the Year:BeyoncéBryson TillerRihannaThe Weeknd - WINNERUsherLatin Song of the Year:Ay Mi Dios – IAmChino featuring Pitbull, Yandel and El ChacalDe Pies A Cabeza – Mana featuring Nicky JamDuele El Corazon – Enrique Iglesias featuring Wisin - WINNERLa Carretera – Prince RoyceYa Me Enteré – Reik featuring Nicky JamLatin Artist of the Year:Enrique IglesiasJ BalvinNicky Jam - WINNERPrince RoyceYandelBest New Rock/Alternative Rock Artist:FoalsKaleoNathaniel Rateliff & The Night SweatsRed Sun RisingThe Strumbellas - WINNERBest New Country Artist:Chris LaneChris StapletonGranger SmithKelsea Ballerini - WINNERMaren MorrisBest New Hip-Hop Artist:Chance The Rapper - WINNERDesiignerR.A.M.Kent JonesKevin GatesBest New Latin Artist:Carlos RiveraChristian DanielCNCO - WINNERIAmChinoSofia ReyesBest New R&B Artist:BellyBryson Tiller - WINNERDreezyKayla BriannaRo JamesBest New Pop Artist:Alessia CaraDayaLukas GrahamThe Chainsmokers - WINNER  

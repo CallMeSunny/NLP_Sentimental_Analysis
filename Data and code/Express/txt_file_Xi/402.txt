@@ -1,0 +1,21 @@
+China 'testing new long-range air-to-air missiles' as it ramps up defence post-Trump
+https://www.express.co.uk//news/world/759049/china-modernises-military-stealth-jets-aircraft-carriers-tests-long-range-air-missile
+ 08:30, Thu, Jan 26, 2017 
+  GETTYChina may be testing a new, long-range air-to-air missile that could take out early warning aircraftPresident Xi Jinping is overseeing an ambitious military modernisation programme that includes stealth jets and aircraft carriers. The country has also tested anti-satellite missiles. The official China Daily said the People's Liberation Army had recently posted pictures online of a J-11B fighter carrying a large, unidentified missile during drills last year. Air force researcher Fu Qianshao told the newspaper he believed the missile was designed to hit distant high-value targets, such as early warning aircraft, normally outside actual combat zones. Related articles   WORLD WAR THREE: Japan scrambles fighter jets over China planes   US sends more military aircraft to Australia   GETTYPresident Xi Jinping is overseeing an ambitious military modernisation programme   That represents an improved capability over existing Chinese missiles, which have ranges of less than 62 miles. The successful development of this potential new missile would be a major breakthroughFu Qianshao - Air force researcher“The best solution to this problem I can figure out is to send a super-manoeuvrable fighter jet with very long-range missiles to destroy those high-value targets, which are the 'eyes' of enemy jets,” Fu said. “So the successful development of this potential new missile would be a major breakthrough.” The missile may even have an actual range of 249 miles, exceeding those used by Western air forces, and dive down on targets from the stratosphere, he added.  Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYChina is undergoing military modernisation that includes stealth jets and aircraft carriersThe air force has yet to formally comment on the new missile. Chinese state media periodically report on new weapons before there is official confirmation of their existence. The military modernisation comes as China has rattled nerves around the region with increasingly assertive moves to bolster its sovereignty claims in the South China Sea and over Taiwan, which it regards as a breakaway province. China's first aircraft carrier, the Liaoning, recently sailed around the self-ruled island in what China called a routine drill, but which prompted Taiwan to scramble fighter jets and navy ships.

@@ -1,0 +1,21 @@
+Melania Trump - can YOU spot the subtle alteration the First Lady made to THIS red dress?
+https://www.express.co.uk//life-style/style/789548/Melania-Trump-red-dress-Valentino
+ 08:35, Sun, Apr 9, 2017 
+   First Lady Melania Trump turned heads as she posed for pictures on Thursday ahead of a formal dinner with her husband Donald Trump, the Chinese President Xi Jinping and his wife Madame Peng Liyuan. Melania's red dress fitted her curves wonderfully and the brunette oozed confidence but fans noticed something unusual about the frock. It's believed Melania had her little red dress made a couple of inches shorter than it comes 'off the peg'. The original £4000 red Valentino dress is intended to skim the ankle of the wearer - but Melania's hem is calf height.   GETTYMelania Trump: Donald Trump's wife appears to have altered her dress Related articles   Melania Trump First Lady portrait - what her crossed arms REALLY say   Melania Trump OOZES airport glamour with husband Donald Trump   GETTY•VALENTINOMelania Trump: The First Lady is famous for being very well dressed   Matching the dress with patterned So Kate Christian Louboutins, the First Lady looked incredible. While the dress was a couple of inches shorter it still looked fabulous, and the elegant first lady appeared to be thrilled to meet the dignitaries. A matter of hours later Melania showed her maternal side meeting children with China's first lady Peng Liyuan in Florida.The US First Lady, wife of President Donald Trump, wore a navy blue jumpsuit with a wide belt that tied at the waist.  GETTY•VALENTINOMelania Trump: There is at least three inches missing from the dress Melania Trump in pictures Sat, July 28, 2018America's First Lady Melania Trump in pictures. Play slideshow  Getty•REUTERS1 of 100Melania Trump in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Though Melania, 46, often opts for a sexy look, visiting the school she looked every inch the conservative role model.Melania was joined by Peng Liyuan, 54, who also wore a very conservative ensemble.Peng Liyuan wore a lace white long sleeved dress, covered by a white lace sleeve-less jacket with a scalloped edge.The two women smiled and waved as they greeted the children at their school. 

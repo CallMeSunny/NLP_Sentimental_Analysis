@@ -1,0 +1,21 @@
+Christopher Robin TRAILER: Ewan McGregor stars in NEW Winnie the Pooh movie – WATCH
+https://www.express.co.uk//entertainment/films/928007/Christopher-Robin-movie-trailer-Disney-Ewan-McGregor-Winnie-the-Pooh
+ 17:13, Tue, Mar 6, 2018 
+   Not to be confused with last year’s Goodbye Christopher Robin, Disney’s new live-action movie follows Winnie the Pooh’s friend all grown up.Starring Ewan McGregor in the title role, Christopher Robin, has something of Steven Spielberg’s Hook about it.The trailer opens with Christopher being asked by his boss to cut 20% of employees at his company.Forced to work the weekend, he sends his family off by themselves, while he remains in London. Related articles   Winnie the Pooh BANNED in China over meme comparing him to Xi Jinping   Goodbye Christopher Robin review: Dad’s story too much to bear   DISNEYChristopher Robin TRAILER: Ewan McGregor stars in NEW Winnie the Pooh movie – WATCH  DISNEYWinnie the Pooh is back! Disney: The voices behind your favourite characters Mon, March 13, 2017What better way to celebrate 92 years of Disney than by taking a look at the voices behind those iconic characters? Play slideshow  Getty Images1 of 25Walt Disney provided Mickey Mouse's trademark falsetto voice for almost 20 years, before his hectic schedule - and reportedly his smoker's voice - meant he could no longer continue.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He goes for a walk in the park to clear his head and work out what to do, when suddenly his old friend Winnie the Pooh appears to help.The official synopsis reads: “Christopher Robin, the little boy from the Winnie-the-Pooh stories, is now all grown up and has lost all sense of imagination.“Pooh and his friends re-enter Christopher's life to help him find it again.”Jim Cummings returns as the voice of the silly old bear, with Chris O’Dowd as Tigger, Nick Mohammed as Piglet, Brad Garrett as Eeyore, Peter Capaldi as Rabbit, Sophie Okonedo as Kanga and Toby Jones as Owl.CHECK OUT THE MARY POPPINS 2  AND WRECK-IT RALPH 2 TRAILERS  DISNEYChristopher Robin is out in August  DISNEYWinnie the Pooh has turned up to help Christopher Robin with his problemsMarvel’s Hayley Atwell plays Evelyn Robin, Christopher’s wife, while Sherlock’s Matt Gatiss is Christopher’s boss, Giles Winslow.Quantum of Solace and World War Z’s Marc Forster is on directing duties.Christopher Robin is released in UK cinemas on August 17, 2018.

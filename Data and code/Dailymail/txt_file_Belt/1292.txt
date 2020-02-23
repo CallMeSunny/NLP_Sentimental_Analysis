@@ -1,0 +1,223 @@
+TOWIE's Amber Turner sizzles in plunging crop top as she joins pal Megan McKenna for night out in Essex
+https://www.dailymail.co.uk/tvshowbiz/article-5693123/TOWIEs-Amber-Turner-sizzles-plunging-crop-joins-pal-Megan-McKenna-Essex.html
+ 23:30 BST, 4 May 2018 
+She's the supportive best friend who's always been there for her pal.And Friday night was no different for Amber Turner, who spent the evening celebrating the one year anniversary of Megan McKenna's restaurant, MCK Grill.Amber looked stunning in a figure hugging outfit combining a white crop top and a blush midi skirt, showing off her chiseled abs.         Best friends: Megan was joined by close pal Amber Turner at the restaurant's celebrations on Friday, and the two were snapped toasting their champagne glasses at the event in EssexThe 24-year-old's luscious blonde hair tumbled to her waist in loose waves and she showed of her pearly white teeth as she smiled for the cameras.   RELATED ARTICLES  Previous 1 Next       Sitting pretty! Bella Hadid shows off her lean figure in...    Love Island's Amber Davies SNAPS at fans and tells them to...    
+
+Share this article
+Share
+
+ She paired a nude glossed lip with statement eye makeup, emphasising her peepers with bronze eyeshadow and lashings of mascara. Restaurateur Megan looked every inch the glamorous professional in a navy and white flared two-piece with a tie belt to show off her svelte figure.         All smiles: The 24-year-old's luscious blonde hair tumbled to her waist in loose waves and she showed of her pearly white teeth as she smiled for the cameras
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Amber_Turner'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steal Amber's style with a nude Sorelle skirt
+
+
+
+
+Sorelle nude skirt
+Part of a two-piece!
+
+
+
+Visit site
+
+
+
+You can always count on the TOWIE girls to bring the glam to a night out and Megan McKenna and Amber Turner certainly did so last night when they paid a visit to Megan's restaurant...
+While Megan opted for a frilly two-piece, Amber kept things sleek and chic in a Sorelle bodycon-fit skirt, a crop top and a cape sleeve blazer. Courtesy of Sorelle, this nude maxi is the perfect choice for both daytime and nighttime thanks to its ability to slot perfectly into any outfit.
+Make like Amber and team yours with white aplenty in the PM and before switching your heels for kicks and your blazer for a leather jacket in the PM. Click right to snap up this skirt for yourself now!
+Alternatively, click through our carousel below to shop lookalikes from Boohoo, Jane Norman and Asos.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Boohoo nude skirt (now reduced to £7)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Jane Norman bodycon skirt at House of Fraser (now reduced to £9)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos nude two-piece (now reduced to £14)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Asos pencil skirt
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Amber_Turner', FFFtype: 'inline', fff: true}});
+        }
+    
+
+              Golden girl: Amber looked stunning in a figure hugging outfit combining a white crop top and a blush midi skirt, showing off her chiseled abs         Professional: Megan McKenna looked every inch the glamorous professional in a navy and white flared two-piece with a tie belt to show off her svelte figure         Cheeky: Playful Megan pouted for the cameras as she posed in the doorway of her restaurant in EssexMegan made a statement with her hairdo, choosing to put her caramel locks into an eleborate up-do with her hair piled onto her head.The reality star added a splash of colour as she toted a ruby handbag on one arm as she leaned against the door frame.Megan and her ex Mike Thalassitis continued to fuel rumours they were back together on Tuesday, by enjoying a romantic date night in Essex.          Cheers! The friends clinked glasses as they celebrated MCK Grill's one year anniversary         All-white: The women looked delighted as they showed off their gleaming white smiles as they posed in the doorway         Friday night feeling: Both the stars wore stiletto heels for the event in Essex, showing off their pedicures         Sisters: Megan was snapped smiling with her little sister, Millie, as they walked together in EssexThe former Love Island star, famously dubbed 'Muggy Mike', took to his Instagram story to share a number of clips of the pair dining at the TOWIE star's restaurant McK Grill, in Woodford Green.Mike first revealed he was out with Megan by sharing a snap of their starters, with the brunette seen checking her phone in the background, captioned: 'Losing my McK Grill virginity!'MailOnline has contacted both Megan and Mike's representatives for further comment.It was reported the pair were giving their romance another go last week, after their turbulent two-month relationship came to an end.         Delighted: Megan laughs as she clinks her champagne glass with her father at her Essex restaurant         I'll drink to that! Both of the glamour girls showed off their slender frames as they posed on their night out

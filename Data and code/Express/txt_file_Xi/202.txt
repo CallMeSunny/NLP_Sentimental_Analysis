@@ -1,0 +1,21 @@
+End of the International Space Station? NASA reveals DEMOLITION plans with HUGE fireworks
+https://www.express.co.uk//news/science/801305/Nasa-International-Space-Station-China-President-Xi-Jinping-Mars-Ellen-Stofan
+ 03:51, Sun, May 7, 2017 
+  GETTYThe Space Station is going to be dismantled when the funding runs outFunding for the project is due to run out and the plans have been revealed by Ellen Stofan, Nasa’s former chief scientist.She said: “The future of the ISS is a big issue for Nasa. The funding is there till 2024 but then it must start moving money to human Mars missions. Related articles   NASA ISS live stream: Watch the International Space Station over Earth   Shock video of 'large cylindrical UFO' passing ISS goes viral  It is huge, the size of a football pitch, so the overall plan is to drop it into the PacificNasa scientist“If we keep it fully funded after 2024 it will compromise the Mars budget and by 2028 it will start failing. It is huge, the size of a football pitch, so the overall plan is to drop it into the Pacific.”It is predicted that the fuel tanks and enormous modules would cause a series of fireballs as they hit explode in the atmosphere. Amazing images as U.S.-Russian crew blasts off for space station with one empty seat Thu, April 20, 2017A scaled-down, two-man U.S.-Russian crew blasted off from the Baikonur Cosmodrome in Kazakhstan for a six-hour ride to the International Space Station. A Russian Soyuz capsule carrying NASA astronaut Jack Fischer, 43, and Russian cosmonaut Fyodor Yurchikhin, 58, lifted off with a rare empty third seat Play slideshow  REUTERS1 of 16Soyuz MS-04 spacecraft carrying crew of US' Fischer and Yurchikhin of Russia blasts off to the ISS from launchpad at the Baikonur Cosmodrome  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    A more ambitious space station could replace the current one and act as a “transfer station” for missions to Mars, according to reports.Ms Stofan added: “To get to Mars we would need a transfer station. That means launching the modules for a Mars space ship and assembling them in an orbit around the moon.”   David Parker, director of human spaceflight and robotic exploration at the European Space Agency (ESA), pointed out the £300million a year cost of the ISS.He said: “Our plan is to free up this money from the mid-2020s to explore beyond low earth orbit… that will eventually mean de-orbiting the ISS.  GETTYThe Nasa scientist will be speaking about the plans at the Cheltenham Science Festival “The south Pacific is the target and it will be a huge fireworks display.”It follows reports that China are due to begin the construction of a permanently manned space station after carrying out a successful in-orbit refuelling from its Tianzhou-1 cargo spacecraft.  GETTYChina have prioritised advancing their space programThe successful five-day refuelling, directed from technicians on Earth and completed on Thursday, is a key milestone toward China's plans to begin sending crews to a permanent space station by 2022.President Xi Jinping has prioritised advancing China's space program to strengthen national security.

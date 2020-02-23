@@ -1,0 +1,21 @@
+‘Now Britain CANNOT trade with half the world’ Juncker lays into the UK over Brexit vote
+https://www.express.co.uk//news/world/768876/Now-Britain-CANNOT-trade-with-half-the-world-Juncker-lays-into-the-UK-over-Brexit-vote
+ 04:14, Sat, Feb 18, 2017 
+   Addressing the Munich Security Conference, the European Commission president stressed: “Trade deals are the remit of the EU, and Britain now cannot complete trade deals with half the world.“Those, who believe that a free trade agreement could be made within two years are fundamentally wrong.”  GETTYJuncker says Britain 'cannot complete' current trade deals Related articles   'You're delusional' Brexiteer slams Remainer over Blair speech   ‘A LOT of damage’ Juncker fears Brexit DOMINO EFFECT   Those, who believe that a free trade agreement could be made within two years are fundamentally wrong.Jean-Claude JunckerHowever, he went on to acknowledge that Britain most likely has it’s sights elsewhere - namely China.The UK is aiming to strike a free trade agreement with Beijing after leaving Brussels, with both parties keen to prove that Brexit has not affect trade ties.Britain and China have recently announced increased cooperation in a number of areas, including financial services, as Theresa May prepares to trigger Article 50.  GETTYChinese President Xi Jinping meets Theresa May at the G20 summitAccording to the Chinese news agency Xinhua, both nations are looking to work together on a number of flagship projects, including the Hinkley Point nuclear power station in Britain.Reports also suggest the two governments have embarked on a “golden area” in their relationship, with the Prime Minister signalling her intentions of a free trade agreement with the country.Downing Street has also confirmed the Prime Minister’s visit to China later this year, with the intention of developing new business links with the world’s second largest economy. Top 10 countries that want to trade with UK after Brexit Thu, February 16, 2017These are the top 10 trade partner prospects for the UK moving forward Play slideshow  1 of 11  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The UK is also attempting to agree post-Brexit trade deals with New Zealand, citing the ongoing “strong and growing” trade relationship between the countries, which is worth more than £3billion a year.Britain is New Zealand’s second largest foreign investor, and its fifth largest bilateral trading partner.   Canada is also a main contender in an early post-Brexit deal with the UK after lawmakers in the EU passed the long-awaited CETA agreement.Canadian prime minister Justin Trudeau hailed the landmark agreement, which sees the scrapping of import duties, as a “blueprint” for future trade deals.

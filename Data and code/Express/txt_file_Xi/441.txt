@@ -1,0 +1,21 @@
+South Korea launches LETHAL laser system to blast North Korean nukes in support of Trump
+https://www.express.co.uk//news/world/750875/South-Korea-launches-letha-laser-system-blast-North-Korean-support-Trump-Jinping-Geun-hye
+ 06:45, Fri, Jan 6, 2017 
+  GETTYSouth Korea announced plans to launch a laser system that can blast North KoreaThe South Korean Defence Ministry confirmed that laser technology will be secured before the end of 2017, but the full laser system will be completed by 2020 - when Trump's administration will be in full swing. Related articles   North Korea 'close to testing' long-range intercontinental missile   World War 3 fears spur construction of LAVISH nuclear bunkers    The announcement from the Korean defence officials comes days after the 70-year-old billionaire slapped down Kim Jong-Un’s boastful claims that Pyongyang was close to finishing a series of tests on nuclear weapons so powerful they could reach the US.Speaking to his brainwashed nation in a New Year's address, Jong-un said their weapons would make North Korea a “military power of the east that cannot be touched even by the strongest enemy”. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    But Trump immediately rubbished Jong-un’s claims tweeting: "It won't happen!"Hours later, the President-elect turned on Xi Jinping, the Chinese president, and publicly disgraced his nation for failing to condemn their North Korean ally’s spiritless behaviour.   Trump tweeted: “China has been taking out massive amounts of money & wealth from the US in totally one-seed trade, but won’t help with North Korea. Nice!”In response, China’s Foreign Ministry spokesman Geng Shuang said: "China's efforts are widely recognised, and we hope all sides will avoid remarks and actions to escalate the situation.”In what seems like a bid to secure a budding relationship with Trump, South Korean officials confirmed that North Korea had at least 300 drones and around 10 machines capable of conducting severe attacks, but said their weapons could rival Jong-un's.  GETTYSouth Koreans seem to be full of praise for TrumpAlthough South Korea has secured a potential trade deal with Trump, Park Geun-hye, the South Korean president, appointed a Foreign Affairs official to monitor Donald Trump’s Twitter account, paying special attention to his tweets surrounding Korea and north east Asia.South Korea’s Ministry of Foreign Affairs praised Mr Trump’s stance on North Korea and said it issued a “clear warning” to Kim Jong-un.

@@ -1,0 +1,21 @@
+Beijing backlash after Donald Trump attempts to scold China over North Korea
+https://www.express.co.uk//news/world/824316/Donald-Trump-China-North-Korea-Kim-Jong-Un-Taiwan-United-States
+ 22:12, Mon, Jul 3, 2017 
+   Mr Trump clashed with Mr Xi after the American urged him to halt the "growing threat" of North Korean dictator Kim Jong-un.The pair also discussed the United States' recent $1.4billion (£1bn) arms sale to Taiwan, which infuriated Beijing.In a statement issued after their conversation, the Chinese leader said "negative factors" have affected his relationship with Mr Trump. Related articles   Trump running out of patience with North Korea   Donald Trump tweets he would be 'delighted' to help Charlie Gard He added: "We hope the US side will appropriately handle the Taiwan problem by adhering to the one-China principle."A White House spokesman said: "Both leaders reaffirmed their commitment to a denuclearised Korean Peninsula."President Trump reiterated his determination to seek more balanced trade relations with America's trading partners."  GETTYDonald Trump clashed with President Xi during a tense phone call Unseen pictures reveal inside North Korea from China's border Tue, June 20, 2017From hired boats along the Yalu river, Chinese tourists peer into the reclusive North, marked by soldiers, meagre villages, and depleted farmlands Play slideshow  Getty Images1 of 12North Korean soldiers wait for a local ferry to cross the Yalu river north of the border city of Dandong, Liaoning province, northern China near Sinuiju, North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYThe US leader urged Xi to halt the 'growing threat' of North KoreaMr Trump and Mr Xi are expected to hold face-to-face talks at the G20 summit in Germany later this week.The US President also phoned Japanese Prime Minister Shinzo Abe.The White House said: "They reaffirmed that the US-Japan Alliance stands ready to defend and respond to any threat or action taken by North Korea."  GETTY71-year-old Trump also phoned Japanese Prime Minister Shinzo AbeJapan's Chief Cabinet Secretary confirmed the two countries and South Korea will have a trilateral summit at the G20 meeting.Yoshihide Suga told a press conference: "It's important for these three nations to show their strong unity and cooperation."Things such as strengthening pressure on North Korea or urging China to fulfill even more of a role. Things like this have been agreed on before as well."  GETTYPresident Xi was infuriated by the US selling arms to TaiwanMr Trump has repeatedly urged Mr Xi to pressure North Korea to abandon its nuclear programme.But the US leader tweeted last month that Beijing's efforts had failed.He wrote: "While I greatly appreciate the efforts of President Xi & China to help with North Korea, it has not worked out. At least I know China tried!"

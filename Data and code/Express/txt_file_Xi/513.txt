@@ -1,0 +1,21 @@
+'China look to France, NOT the UK' Shock as Macron BEATS May to key trade trip
+https://www.express.co.uk//news/world/901351/Macron-China-trade-trip-Theresa-May-Beijing-Brexit
+ 07:17, Mon, Jan 8, 2018 
+   Emmanuel Macron hopes to use this week's visit to China to boost Beijing's ties with Paris, and take over from the UK as China's closest ally in Europe.Mr Macron's first official visit to China is aimed at boosting the global influence of both countries - as France looks to move out of Germany's shadow, and China from the US.The UK had long been seen as China's closest partner in Europe - but since Brexit and the election of Mr Macron, China has increasingly looked to France.Crucially, Mr Macron will visit Beijing two weeks earlier than Theresa May, who is expected to visit at the end of January.  GETTYMacron will visit Beijing two weeks earlier than Theresa MayThe three-day visit is also the first by the leader of a European country since Xi Jinping secured his grip on power at the communist party congress in October.Barthélémy Courmont, a specialist in Chinese politics, said Beijing now see Mr Macron as a smoother way into Europe than Mrs May.He said: "It is clear in Chinese minds that France represents Europe political. china considers Germany an economic partner in Europe, and France a defence and diplomatic partner."Before Brexit China considered Britain its main interlocutor in Europe, but now the UK is of less interest." Violence erupts in France during riots against Macron's reforms Thu, November 16, 2017Violence has erupted in Nantes, France during protests against the President Emmanuel Macron’s business-friendly reform agenda Play slideshow  AFP/Getty Images1 of 15Protestors clash with riot police officers  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Before Brexit China considered Britain its main interlocutor in Europe, but now the UK is of less interestBarthélémy CourmontZhao Chen, an expert in China-Europe relations from the Chinese Academy of Social Sciences, said: "Since Britain decided to leave the EU, Germany and France are now being prioritised by China."France is now a more important partner in Europe and also in the global arena."President Xi will hope for French investment in his ambitious Belt and Road initiative, which is part of China's project to overtake US in global influence.Both China and France are also seen as two of the leading countries concerned with tackling climate change. 

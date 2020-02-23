@@ -1,0 +1,21 @@
+‘We have great chemistry’ Trump HAILS China's 'gentleman' Xi Jinping amid new alliance
+https://www.express.co.uk//news/world/791302/Donald-Trump-hail-China-s-gentleman-Xi-Jinping-amid-new-alliance-Putin-Russia-relations
+ 23:24, Wed, Apr 12, 2017 
+   The 70-year-old surprisingly snubbed Putin during a press conference, and instead hailed Mr Xi as a “gentleman” who "wants to do the right thing".Speaking in front of Nato Secretary General Jens Stoltenberg, Mr Trump said: “I do not know Putin but I do know this gentleman.”  GETTYTrump's relationship with Xi Jinping is set to blossom Related articles   Trump in talks with China's Xi Jinping over 'menace of North Korea'   President Trump vows to TAKE ON North Korea WITHOUT China if necessary  NATO meets Donald Trump months after he described it ‘obsolete’ Wed, April 12, 2017The White House says the President will use the meeting as an opportunity to reaffirm his commitment to NATO Play slideshow  REUTERS1 of 7U.S.  President Trump meets with NATO Secretary General Stoltenberg at the White House in Washington  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     It would be a fantastic thing if we got along with Putin and we got along with RussiaPresident Donald TrumpMr Trump has completely changed his perception of foreign leaders, since he became the 45th US President. During his election campaign, Mr Trump was quick to praise Putin and routinely criticised China for "using" the United States.Keen to spill the details on his time with Mr Xi in Mar-a-Lago, Mr Trump added: “I’ve spent a lot of time with him over the last two days and he is the president of China. You were there, most of you were there and it was quite an interesting period of time.“President Xi wants to do the right thing. We had a very good bonding, I think we had very good chemistry together."I think he wants to help us with North Korea, we talked trade, we talked a lot of things, and I said the way you're going to make a good trade deal is to help us with North Korea."Mr Trump's praise for the Chinese leader comes hours after his Secretary of State Rex Tillerson received a cold reception in Moscow.But the US President seemed hopeful for his wrecked Russian relationship. He continued: "Right now we're not getting along with Russia at all. We may be at an all time low in terms of relationship with Russia, this was built for a long period of time.  GETTYRex Tillerson, US Secretary of State received a frosty reception in Moscow  GETTYDonald Trump hopes he can get on with Putin in the future“But we're going to see what happens. Putin is the leader of Russia, Russia is a strong country, we've a very, very strong country. We'll see how that all works out.“I’m also going to see about Putin over a period of time. It would be a fantastic thing if we got along with Putin and we got along with Russia."

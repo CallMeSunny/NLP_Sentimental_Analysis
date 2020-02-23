@@ -1,0 +1,21 @@
+WATCH: Donald Trump takes part in AWKWARD group handshake with world leaders on Asia tour
+https://www.express.co.uk//news/world/878994/Donald-Trump-news-handshake-video-Asia-tour-North-Korea-news
+ 12:55, Mon, Nov 13, 2017 
+   Donald Trump took part in the traditional handshake at the opening of the Association for Southeast Asian Nations conference in Manila, Philippines.Stood alongside world leaders – Filipino President Rodrigo Duterte and Russian Prime Minister Dmitry Medvedev, among other – Mr Trump and his counterparts crossed arms before linking hands with one another.Hilarious photos from the meeting show Mr Trump grimacing, wrestling and laughing alongside his counterparts also taking part.The US President appeared befuddled by the master of ceremonies request to begin the “traditional” handshake.  GETTYDonald Trump takes part in awkward group handshake in Philippines“Give us your brightest smile,” the master of ceremonies said. “It’s the ASEAN handshake: right hand over left.”Russian Prime Minister Mr Medvedev, however, was less than convinced by the event, refusing to cross his arms when linking hands.As Mr Trump’s tour of Asia draws close, it has been revealed the US President has signed a staggering 37 deals worth billions while on his travels.The US Commerce Department disclosed the President signed the deals in excess of $250billion (£190billion), including with huge multinational companies such as Goldman Sachs and Boeing.  GETTYDonald Trump news: US President takes part in awkward group handshakeMr Trump's agreements with Chinese leader Xi Jinping have been praised by US Commerce Secretary Wilbur Ross, who claimed the deals show the President is able to build bilateral relationships between nations. Mr Ross said: "American businesses are the most innovative in the world and, when given access, can compete with anyone."I believe these deals can provide a solid foundation for a stronger relationship that is more free, fair, and reciprocal between the US and China."     Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Trump has also addressed the North Korea crisis, attempting to build a union of allies in Asia to combat the threat of Kim Jong-un’s ambition to build an arsenal of deadly nuclear weapons.The US President says he will make a “major” announcement on Noth Korea and the outcome of his week-long trade negotiations across Asia when he returns to the White House later this week.

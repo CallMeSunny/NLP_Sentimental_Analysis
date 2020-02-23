@@ -1,0 +1,21 @@
+Donald Trump Asia tour: Melania Trump misses the mark in frumpy striped coat
+https://www.express.co.uk//life-style/style/875654/donald-trump-asia-tour-melania-trump-japan-style
+ 08:57, Sun, Nov 5, 2017 
+  GettyMelania met with the Japanese Prime Minister's wife in TokyoDonald Trump’s Asia tour has begun in Japan, with his wife Melania Trump meeting the Japanese Prime Minister Shino Abe’s wife Mrs Akie Abe.The First Lady missed the fashion mark in an oversized wool coat with a striped pattern.It's woollen material and flower embellishment didn't flatter the 47-year-olds frame.She added some simple nude pumps and nails to the statement look.  GettyDonald Trump's Asia tour has begun in Japan with Melania Trump joining Related articles   Donald Trump Asia tour: Melania Trump STUNS in chic white dress   Trump in Asia pictures: Donald and Melania Trump in Hawaii and Asia  Melania was shown the Japanese cultured pearlsShe joined Mrs Akie Abe at the Mikimoto Ginza Main Store in Tokyo.Melania was shown the Japanese cultured pearls at a flagship pearl shop.The two women then discussed private matters away from the camera over tea and coffee.She then tweeted: "Wonderful visit w/ Mrs. Abe today! Enjoyed conversation over tea & the cultural presentation on the history of pearls.” Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GettyMelania put a fashion foot wrong in her oversized coatThe Trumps previously visitied Hawaii before starting the tour to Asia, with the First Lady stunning onlookers as she stepped out in a classic white midi dress.Her simple wrap dress showed off her toned arms with capped sleeves, and a simple black belt to accentuate her waist.She finished off the look with some snakeskin pointed stilettos whist joining her husband at the USS Arizona Memorial at Pearl Harbour.Her husband Donald Trump laid a wreath to remember those who lost their lives at Pearl Harbour.   Donald Trump's tour of Asia will include Japan, South Korea, China Vietnam and the Philippines.The ten-day tour comes at a critical time regarding Kim Jong-un's threats from North Korea.The President will be pushing for Chinese President Xi Jinping to get tougher with Pyongyang. Donald Trump will attend the Asia-Pacific Economic Cooperation summit in Danang, Vietnam, make a state visit to Hanoi and end his trip with the Association of South East Asia Nations summit in Manila.

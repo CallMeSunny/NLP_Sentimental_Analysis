@@ -1,0 +1,37 @@
+House of Fraser falls into hands of unknown Chinese firm: Buyer has no foreign assets, no track record and no one can explain who they are
+https://www.dailymail.co.uk/money/markets/article-5470587/House-Fraser-falls-hands-unknown-Chinese-firm.html
+ 00:17 BST, 7 March 2018 
+Fears are growing for the future of House of Fraser after its owner revealed plans to sell its majority stake to a little-known Chinese company.The future of the 169-year-old retailer looked increasingly uncertain last night as its Chinese owner Sanpower said it was likely to offload 51 per cent of its 89 per cent stake to a mystery Chinese leisure firm called Wuji Wenhua.If a deal is agreed it will be the fourth time House of Fraser has changed ownership in just over three decades.As the deal emerged details about the new owners were shrouded in mystery. Wuji Wenhua appears to hold no other foreign assets, and has little knowledge of the UK retail market.          Unsafe hands? House of Fraser's Chinese owner Sanpower said it was likely to offload 51 per cent of its 89 per cent stake to a mystery Chinese leisure firm called Wuji WenhuaEven House of Fraser appeared to not know who its new owners would be. The firm could not provide any details.The lack of information raises fears for the future of thousands of jobs at the department store and echoes the takeover of BHS by Dominic Chappell’s Retail Acquisitions – at the time an unknown business.   RELATED ARTICLES  Previous 1 Next       Government urged to stop hostile takeover of GKN amid fears...    How adverts on ITV shows will soon be targeted just for you:...    Why Just eat needs drivers: Food delivery firm dives more...    Firm where women earn more than men: Majestic Wine pays...      Share this article Share   The current ownership of House of Fraser by Sanpower has already proved controversial with promises of investment taking months to materialise.A spokesman for House of Fraser said: ‘This will have no impact on the day-to-day operations or strategic development of House of Fraser in the UK and Ireland. It is business as usual.’House of Fraser has faced upheavals in recent months as its buying and designer director left following disappointing sales over the crucial Christmas period.Last month, 20 House of Fraser suppliers were hit after leading credit insurers withdrew vital insurance cover for stock supplied to its stores. The cover is seen as standard in the industry and provides suppliers with protection in case the retailer cannot pay its bills.According to its latest full-year accounts, profits fell £2.1million to £25.3million in the year to January 28, 2017. Sales climbed just 0.9 per cent, dragged down by falling store sales and poor performance within its womenswear, food and travel divisions.   It comes as turmoil hits the High Street with retailers Toys R Us and Maplin crashing into administration last week, threatening a combined 5,500 jobs.Mothercare and New Look also appeared to be teetering on the brink last week as the two firms were plunged into deeper financial turmoil.Shares in baby wear retailer Mothercare plunged by 40 per cent over the course of last week after it warned of a fall in profits, a need to borrow more cash and revealed it was in talks with bankers over the terms of its loan agreements.Meanwhile, New Look was understood to be urgently seeking rent reductions from its landlords as well as considering shutting as many as 70 stores.Formerly family-owned House of Fraser was acquired by Chinese department store Sanpower for £480million in 2014 just a week after Mike Ashley’s Sports Direct took an 11pc stake in the retailer.At the time House of Fraser said it didn’t expect to see any changes for its 7,300 staff. According to its annual results, House of Fraser employs 4,900 across 59 stores. The company’s pension scheme is running at a surplus of £25million having been £21million in deficit the year before.Sanpower said Wuji Wenhua’s experience in the leisure sector would help House of Fraser increase its presence overseas.‘We are very proud of our continued stake in the 169-year-old House of Fraser brand, and we are supportive of the excellent leadership team at House of Fraser and its plans to transform the brand,’ a spokesman for Sanpower said. 
+    #fiveDealsWidget .dealItemTitle#mobile {display:none}
+    #fiveDealsWidget {display:block; float:left; clear:both; max-width:636px; margin:0; padding:0; line-height:120%; font-size:12px}
+    #fiveDealsWidget div, #fiveDealsWidget a {margin:0; padding:0; line-height:120%; text-decoration: none; font-family:Arial, Helvetica ,sans-serif}
+    #fiveDealsWidget .widgetTitleBox {display:block; float:left; width:100%; background-color:#af1e1e; }
+    #fiveDealsWidget .widgetTitle {color:#fff; text-transform: uppercase; font-size:18px; font-weight:bold; margin:6px 10px 4px 10px; }
+    #fiveDealsWidget a.dealItem {float:left; display:block; width:124px; margin-right:4px; margin-top:5px; background-color: #e3e3e3; min-height:200px;}
+    #fiveDealsWidget a.dealItem#last {margin-right:0}
+    #fiveDealsWidget .dealItemTitle {display:block;  margin:10px 5px; color:#000; font-weight:bold}
+    #fiveDealsWidget .dealItemImage, #fiveDealsWidget .dealItemImage img {float:left; display:block; margin:0; padding:0}
+    #fiveDealsWidget .dealItemImage {border:1px solid #ccc}
+    #fiveDealsWidget .dealItemImage img {width:100%; height:auto}
+    #fiveDealsWidget .dealItemdesc {float:left; display:block; color:#004db3; font-weight:bold; margin:5px;}
+    #fiveDealsWidget .dealItemRate {float:left; display:block; color:#000; margin:5px}
+        #fiveDealsWidget .footerText a:hover{text-decoration: underline;}
+        #fiveDealsWidget .footerSmall{font-size:10px; padding-top:10px;}
+    @media (max-width: 635px) {
+        #fiveDealsWidget a.dealItem  {width:19%; margin-right:1%}
+        #fiveDealsWidget a.dealItem#last {width:20%}
+    }
+    @media (max-width: 560px) {
+        #fiveDealsWidget #desktop {display:none;}
+        #fiveDealsWidget #mobile {display:block!important}
+        #fiveDealsWidget a.dealItem {background-color: #fff; height:auto; min-height:auto}
+        #fiveDealsWidget a.dealItem {border-bottom:1px solid #ececec; margin-bottom:5px; padding-bottom:10px}
+        #fiveDealsWidget a.dealItem#last {border-bottom:0px solid #ececec; margin-bottom:5px; padding-bottom:0px}
+        #fiveDealsWidget a.dealItem, #fiveDealsWidget a.dealItem#last  {width:100%}
+        #fiveDealsWidget .dealItemContent, #fiveDealsWidget .dealItemImage {float:left; display:inline-block}
+        #fiveDealsWidget .dealItemImage {width:35%; margin-right:1%}
+        #fiveDealsWidget .dealItemContent {width:63%}
+        #fiveDealsWidget .dealItemTitle {margin: 0px 5px 5px; font-size:16px}
+        #fiveDealsWidget .dealItemContent .dealItemdesc, #fiveDealsWidget .dealItemContent .dealItemRate {clear:both}
+    }
+   TOP DIY INVESTING PLATFORMS     Low cost portfolios     Low cost portfolios Cheap funds fee   £1.50 fund dealing      Free fund dealing     Free fund dealing Wealth 50 Investment ideas     Fees back in trades     Fees back in trades £22.50 quarterly fee Good for big pots     Great service     Great service Free fund dealing £7.50 share dealing     Model portfolios     Model portfolios Free fund dealing Tools and fund ideas       > Compare the best investing platform for you        

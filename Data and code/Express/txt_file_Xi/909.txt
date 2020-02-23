@@ -1,0 +1,21 @@
+Royal News: Queen hid behind bush at Buckingham Palace to avoid meeting hideous diplomat
+https://www.express.co.uk//news/royal/981977/the-queen-news-nicolae-ceausescu-state-visit-queen-elizabeth-royal-news
+ 05:37, Wed, Oct 3, 2018 
+   The international pariah Communist dictator Ceausescu visited the UK in 1978 for four days.The Queen ostensibly welcomed the Romanian leader at London’s Victoria Station and was later pictured sitting beside him in a state Landau carriage to Buckingham PalaceThe honour of riding in the Queen’s carriage is expected as part of a full state visit but according to royal author Robert Hardman who wrote ‘Our Queen, the monarch tried to avoid meeting him other than when necessary.While walking her dogs in the Palace gardens, the Queen spotted Ceausescu and his wife Elena heading in her direction. Related articles   Meghan Markle defended over Queen ‘faux pas’   Lady Colin Campbell under fire for lurid claims about Queen and Philip The Queen decided the best course of action was to hide behind a bush rather than attempt polite conversation, Her Majesty told a lunch guest some years later, Mr Hardman said.Ceausescu and his wife were tried and convicted of economic sabotage and genocide in a trial lasting just one hour in 1989.The pair was immediately executed by firing squad.Ceausescu served concurrently as the general secretary of the Romanian Communist Party, the president of Romania and the president of the state council from 1974 to 1989.  The Queen sitting beside Romanian leader Nicolae Ceausescu in a state Landau carriage (Image: GETTY)  The internationally unpopular Communist dictator Ceausescu visited the Queen in 1978 (Image: GETTY)Before his trial in 1989, Ceausescu ordered his military forces to open fire on protesters killing and injuring dozens.The Queen over her 66 year reign has met with dozens of state leaders including Chinese President Xi Jinping, King Abdullah of Saudi Arabia, Russian President Vladimir Putin and former US president George W Bush.Next month Her Majesty will meet Donald Trump during his first official trip to the UK since he became US President, however, it will not be a full state visit. Queen Elizabeth II in pictures Tue, July 3, 2018The latest pictures of Her Majesty the Queen. Play slideshow  PA1 of 100Queen Elizabeth II attends a reception for 603 (City of Edinburgh) Squadron, Royal Auxiliary Air Force  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    A full state visit has been put off to a later following concerns of mass protests by critics of Mr Trump.Amnesty International has already announced “thousands” of its supporters will protest during his visit.The US President will be joined by his wife Melania Trump when he arrives on July 13.  The Queen once hid behind a bush to avoid a guest, a royal author has said (Image: GETTY)

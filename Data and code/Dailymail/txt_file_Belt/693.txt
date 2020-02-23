@@ -1,0 +1,223 @@
+Carol Vorderman, 57, looks effortlessly chic in figure-skimming cream suit during The One Show appearance
+https://www.dailymail.co.uk/tvshowbiz/article-6366701/Carol-Vorderman-57-looks-effortlessly-chic-figure-skimming-cream-suit-One-Show.html
+ 09:59 BST, 8 November 2018 
+She's lauded with praise over her incredibly youthful appearance. And Carol Vorderman, 57, continued to showcase her age-defying look as she appeared on Wednesday's The One Show.The former Countdown host cut a stylish figure as she donned a striking cream blazer which accentuated her narrow midriff with waist belt detailing.          Walk on: Carol Vorderman, 57, continued to showcase her age-defying look as she appeared on Wednesday's The One Show opposite show host Alex Jones and fellow guest Peter Andre
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Carol_Vorderman'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belt up like Carol with a tie-waist blazer by Mango
+
+
+
+
+Mango white belted blazer
+Now sold out
+
+
+
+Visit site
+
+
+
+Carol Vorderman suited up for an appearance on The One Show, looking the epitome of chic in the matching white set.
+At first we thought this elegant duo must be the work of a top designer, but it's actually by none other than Mango! Don't you just love the high-street sometimes?!
+It's the flattering belted blazer we can't get enough of, which works to cinch in the waist and create a  figure-enhancing  silhouette. 
+Carol's exact jacket has now sold out, but head to the edit below where we've picked out the best doppelganger designs for you, including a new season style from Mango, plus more hero pieces from SheIn, Boohoo and Missy Empire. Just team with wide-leg white trousers to emulate Carol's chic style!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Mango unstructured bow blazer (now reduced to £34.99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+SheIn belted blazer
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo belted blazer (now reduced to £14.40)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missy Empire 'Erica' belted blazer
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Carol_Vorderman', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The TV star layered the crepe blazer over a baby pink shirt and teamed it with a matching pair of wide-leg trousers that highlighted her posterior.Continuing her glamorous display, she worked her tresses into a sleek straight style and a smokey eye.    RELATED ARTICLES  Previous 1 Next       Richard Madden hilariously reveals his mum has nicknamed him...    Louis Smith, 29, formally announces his retirement from...    Sadie Frost, 53, dazzles in a bronze sequinned dress as she...    Kate Moss, 44, enjoys rare date night with boyfriend Count...    
+
+Share this article
+Share
+
+ In good company, Carol appeared on the famous green couch alongside fellow guests Graeme Swan, Oti Mabuse and turtle neck-wearing Peter Andre. Carol's appearance on the BBC evening stalwart comes after she found her youthful looks the topic of conversation once more, as she appeared on Good Morning Britain on Tuesday.          Getting chic done: The TV star layered the crepe blazer over a baby pink shirt and teamed it with a matching pair of wide-leg trousers that highlighted her posterior              All in the details: The former Countdown host cut a stylish figure as she donned a striking cream blazer which accentuated her narrow midriff with waist belt detailingThe TV host had been on the ITV show to discuss this year's Pride of Britain Awards, but found herself taken aback as Piers Morgan cheekily claimed she 'looks younger now' than she did 20 years ago.The duo's playful exchange over Carol's appearance came as GMB host Piers couldn't resist complimenting his guest on her looks. He told her: 'Carol, you look very youthful.'An old photo of Carol promoting Pride of Britain's first televised ceremony in 2000 then flashed up on the screen, with Piers cheekily adding in response: 'Gosh, you look younger now.'She was seen sporting a union jack bandeau dress and a cropped hairstyle, while clutching onto a Pride of Britain award.         In good company: Carol appeared on the famous green couch alongside fellow guests Graeme Swan, Oti Mabuse and turtle neck-wearing Peter Andre              Chit chat: Peter animatedly waved his hands as he chatted to CarolBatting off his compliments, Carol remained coy and disagreed with Piers as she said: 'Do I? I don't think I do,' before joking in response to the old snap of herself: 'I tell you what, I don't think I could get into that dress!'       Carol's appearance on Good Morning Britain comes after she spoke candidly of her love life and claimed dating is no longer a priority for her.In an interview with The Mirror, she admitted that she takes a very 'realistic' approach when it comes to love - having been married twice before.She likened finding the love of your life to a fairytale from 'Disney' and claimed she had 'rarely' met a couple who have been together for more than a decade and still consider themselves to be happy.                Denim days: Show host Alex Jones donned a red jumper and black jeans'That might make me sound hard,' she said, before adding: 'But I'm just very realistic... I make the best of my life because I'm not clinging on to any dream whatsoever.'Recalling her past relationships that have broken down, Carol insisted she finds it easy to move on and doesn't expect the same person to stick around in her life.'We all change... The 20-year-old Carol is very different from the 57-year-old Carol, who is different from 40-year-old Carol. Why would I want someone to fit into each part of my life?'         Moving on: Carol's appearance on Good Morning Britain comes after she spoke candidly of her love life and claimed dating is no longer a priority for her - pictured above with Graham DuffCarol married her first husband Christopher Mather in 1985, they were married for a year before splitting in 1986. Four years later, Carol wed her second husband Patrick King - whom she shares two children, daughter Katie, 27, and son Cameron, 21, with.She and Patrick were married for 10 years, but separated in 2000. The former Countdown star then moved on with ex-beau Des Kelly, they dated for five years before announcing their split publicly in 2007.Carol went on to find love with pilot Graham Duff, who was 14 years her junior, but has remained single since their split two years ago in 2016.         Frank: Recalling her past relationships that have broken down, Carol insisted she finds it easy to move on and doesn't expect the same person to stick around in her life 

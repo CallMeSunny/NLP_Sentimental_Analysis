@@ -1,0 +1,38 @@
+UN Sanctions hammer North Korea but they stubbornly REFUSE to give up nuclear arms
+https://www.express.co.uk//news/world/838248/North-Korea-Kim-Jong-Un-USA-Donald-Trump-sanctions-China-Xi-Jinping
+ 05:32, Tue, Aug 8, 2017 
+   NORTH Korean industry is already feeling the crippling effect of Donald Trump’s tough sanctions with the value of major industries dropping by more than 30 per cent.Sanctions were implemented last weekend following North Korea's warmongering tests of two intercontinental ballistic missiles.The international community has demanded the rogue state stops all missile and nuclear tests following the launches, with many fearing the despotic Kim Jong-un's arsenal could reach the US.  GETTYNorth Korea's industry is already effected by the sanctions imposed on the weekend Related articles   N Korea threatens to teach US a ‘severe lesson’ with nuclear weapons  North Korea threatens ‘physical action’ against UN The new measures are the harshest imposed on the country, with the aim of cutting North Korea’s export revenue of £230 billion by a third.The United Nations Security Council unanimously approved a ban on North Korean exports of coal, iron, iron ore, lead, lead ore and seafood.The price of seafood in North Korea has since plummeted after the strict economic sanctions. Never-before seen pics: North Korea missile programme Wed, August 9, 2017These images contained scenes from the early years of North Korea's missile programme under Kim Il Sung, the country's founder, until the most recent ICBM test on July 4 Play slideshow  North Korea State Media1 of 187  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYTests of Intercontinental Ballistic Missiles lead to the sanctionsWhile Chinese officials are yet to outlaw the secretive states seafood trade, fresh squid sold for barely a third of their value last week.Officials fear the sanctions may not have enough impact on the hermit kingdom, with only 10 per cent of North Korea’s gross domestic product coming from trade.The tiny figure, that puts North Korea on par with China in 1960.The banks estimated that the country’s economy grew last year despite strict measures against it.  GETTYKim Jong-un watches the test firing of the rocket Mind-blowing colour pictures from America’s past war In Korea Wed, July 26, 2017Ghosts of the time America went to war in Korea have been brought back to life through the work of a British electrician. The stunning pictures show ships lined up on the shore at the Battle of Inchon and troops boarding a plane ready for a drop behind enemy lines north of Pyongyang, Korea Play slideshow  Royston Leonard / mediadrumworld1 of 13  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The war mongering state responded to the sanctions on Monday saying that it would never dismantle its nuclear and missile arsenal.North Korea is committed to a policy of simultaneous nuclear and economic development, known as the “byungjin policy”.The hermit nation also accused the US of “trying to drive the situation of the Korean peninsula to the brink of nuclear war” and warning Washington against “believing that its land is safe across the ocean”.

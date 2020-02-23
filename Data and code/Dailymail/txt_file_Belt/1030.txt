@@ -1,0 +1,220 @@
+She's still got it! Kate Moss stumbles home at 1.30am wearing sunglasses after partying hard for her 40th birthday
+https://www.dailymail.co.uk/tvshowbiz/article-2541088/Shes-got-Kate-Moss-stumbles-home-wearing-sunglasses-partying-hard-40th-birthday.html
+ 07:46 BST, 17 January 2014 
+
+
+
+She's still got it! Kate Moss stumbles home at 1.30am wearing sunglasses after partying hard for her 40th birthday By David Wilkes for the Daily Mail and Daniel Bates and Arnie Keeley and Marc Andrews   Published: 07:46 BST, 17 January 2014  |  Updated: 16:43 BST, 17 January 2014  Celebrated her milestone birthday with cocktails and champagne at the exclusive 34 restaurant in London's MayfairDowned champagne, Bellinis, mojitos, Moscow mules, vodka and wineJoined by A-list pals Naomi Campbell, Stella McCartney, Jo Wood and Sadie FrostReportedly ran up a bill of around £5,000Ordered little food, just 'starters and a few nibbles'Left 34 at 6.30pm and headed to the Dorchester Hotel on Park Lane, where she partied until 1.30am Thought to have received a classic Porsche as a gift Long-time pal Sir Richard Branson donated the use of his Necker Island, usually costing £280,000  
+
+
+         e-mail          94 View  comments    She's already got over twenty years of partying under her belt, but that didn't stop Kate Moss going hard for her 40th birthday.The model stumbled home around 1.30am, wearing sunglasses to hide her eyes, while her blonde hair looked a little dishevelled.Leaning onto a car for support as she made her way into her Primrose Hill home, it clearly was a good night for Kate.Scroll down for video        Hold steady! Kate Moss wears her sunglasses to hide her tired eyes after partying hard for her 40th birthday                      Glam rocker: The model wore her trademark leopard print coat to enjoy her birthday on Thursday night        Fun night: The model was joined by a host of famous faces including Nick Grimshaw, Naomi Campbell and Stella McCartney Quaffing champagne, vodka and cocktails with friends at the exclusive 34 restaurant in Mayfair, Kate was heard to insist: ‘I might be 40 but I still know how to party.’Her group, who included Naomi Campbell, Stella McCartney, Jo Wood and Sadie Frost screeched with high-pitched laughter as they downed champagne, Bellinis, mojitos, Moscow mules, vodka and wine – including Chateauneuf-du-Pape and Sancerre costing up to £70 a bottle.        Where's Jamie? Kate's husband didn't seem to be around to help his wife into their home                      Can't hide: Even with the sunglasses on it was clear to see Kate Moss had really gone in for her birthday          So many gifts: The model's presents were carried out by hotel staff after her party    With other guests, among  them fashion designer John Galliano, photographer Mario Testino, hairdresser James Brown, Shanghai Tang founder Sir David Tang and Radio 1 Breakfast Show host Nick Grimshaw, they ran  up a bill believed to have been around £5,000. Onlookers said they ordered very little food, only starters and a few nibbles, in two and a quarter hours at the restaurant.          Where's the party? Oh yes, I'm already at it! Kate totters out of her bash            The party's over! After a very long lunch Kate leaves the 34 Restaurant                      Steady as she goes! Kate looked as if she'd had a little too much party on her birthday          Holding on! Kate gets a helping hand as she leaves the restaurantThat might explain why Kate looked ever-so-slightly the worse for wear – and even a little wobbly on her feet – as she left at 6.30pm.The supermodel, who wore her trademark leopard print coat, high-heeled black brogues and carried a powder pink Chanel handbag, looked less polished than when she had arrived from her Highgate home at 4.15pm with husband Jamie Hince, singer and guitarist with rock band The Kills.Indeed, onlookers were struck not only by her unsteadiness on her feet but also by the fact that her short black dress did nothing to disguise the effects of ageing on her somewhat knobbly knees.Kate was overheard to say she was thinking about going to the Playboy Club.        Supermodel exit! Naomi Campbell left the restaurant dressed entirely in black                    '70s style: Naomi wore a furry jacket with flared trousers for the birthday party       Sunglasses are the one: Many of the guests wore shades as they left the party                        Black is the new 40? Like Naomi, Sadie Frost (left) and Stella McCartney (right) were dressed in darker shades        He'll need it: Nick Grimshaw carried a bottle of water as he headed home after Kate's birthday at The Dorchester    However, she and her party – which also included her mother Linda Rosina and the billionaire retail tycoon Sir Philip Green – are believed to have made their way straight on to the Dorchester Hotel in Park Lane, where China Tang is among her favourite restaurants.It remained to be seen last night whether they would have the stamina to match the infamous antics of some of Kate’s  previous birthday parties.For her 30th, she hosted a The Beautiful And The Damned party, based on the F Scott Fitzgerald novel, which was reported to have included an orgy. Three years later she indulged in a riotous 24-hour drinking and dancing party.        Early start: Nick had to be at the BBC Radio 1 studios early Friday morning, but he seemed to be full of energy despite the late night                        More celebrity guests: Topshop's Sir Philip Green (left) and former model Jo Wood (right)        Where's Tamara? Bernie Ecclestone and son-in-law Jay Rutland were spotted at The Dorchester too   Her birthday bashes seemed, until last night, to have run out of steam a little since then.When she turned 34, she planned four parties spanning 34 hours, one hour for each year of her life, only to decide to call it a day after a mere 18 hours.Last year Kate, who has an 11-year-old daughter from a previous relationship, celebrated with a low-key trip with family to her local pub. The year before she marked her 38th birthday with two relatively sedate meals attended by her nearest and dearest.           It had seemed she might be taking her own words about acting her age to heart. Kate said in an interview that she admired women like Catherine Deneuve, who has ‘such class’ and with whom she recently posed for Vanity Fair magazine.She said of the celebrated 70-year-old French film star: ‘She’s amazing, beautiful and chic and everything I want to be, also as a woman growing old gracefully and with such class.’Kate's big day began early as celebrity well-wishers sent gifts to her North London home throughout the day.          This is 40! Kate was seen celebrating her 40th birthday alongside husband Jamie Hince at 34 Restaurant in London on Thursday        The queen of the catwalk: Kate celebrated her birthday with her nearest and darest                    For the model who has everything: A classic Porsche was reported to be one the gifts Kate received, or even gave herself on her 40th            Party on! Kate left the Dorchester Hotel in London to head to her birthday lunch   
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Kate_Moss'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steal Kate's supermodel style in a leopard print coat
+
+
+
+Vintage leopard print coat
+A Mossy favourite!
+
+
+
+Kate Moss is 40 today! Happy birthday to the world's best loved supermodel.
+She's come a long way since her days as a Croydon teenager and her early shoots for The Face. And despite most models' careers being over at 30, Mossy is still going strong with campaigns for Eleven Paris, Stuart Weitzman, Kerastase and Rimmel in the last six months alone, not forgetting cover shoots for Vogue (British and Japanese) and of course her iconic story for Playboy. There's no stopping her and that's just the way we like it.
+For 26 years now Kate Moss has been inspiring devoted followers worldwide, with not only her modelling career but her innate sense of style too. She is the fashion icon to end all fashion icons and we love her. And one of the reasons why we do is that she's not afraid to be seen in the same thing more than once.
+Kate has worn this vintage leopard print coat on countless occasions and it's clearly one of her favourites. It's just got Mossy written all over it. Buying vintage faux fur is a good way to go so check out your local charity shops to go for authentic Moss style.
+Or a similar coat is just a click away. Take a look at the furry leopard print cover ups we've found on the high street below. Topshop, Dorothy Perkins and River Island are all over this classic trend and soon you can be too. So wish Kate a happy birthday by paying homage to her style!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Alice & You leopard print coat at Dorothy Perkins
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Topshop leopard print coat (now reduced to £30)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+River Island leopard print coat
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Nasty Gal Cat Skills leopard print faux fur coat
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Kate_Moss', FFFtype: 'inline', fff: true}});
+        }
+    
+
+  The birthday girl wore her hair blowdried in a voluminous Brigitte Bardot style, with her make-up naturally applied and the catwalk queen was sporting an impressive tan, courtesy of St.Tropez skin finishing expert Nichola Joss, who went to her house on Wednesday night to ensure she was bronzed and beautiful ahead of her big day. Kate was seen arriving at 34 Restaurant for the culinary celebrations alongside husband Jamie Hince, who kept a protective arm around his wife as they made their way into the eatery. Prior to Kate's big arrival, celebrity guest upon celebrity guest was seen arriving for the bash.         Sticking together: Jamie kept a protective arm around Kate as they headed inside          Centre of attention: Photographers clamoured to get a shot of the birthday girl on her big day       Still a stunner: Kate smiled for the cameras as she left her house to head to the restaurant                      House party! Kate looked thrilled and a little stunned by all the attention she was receiving outside her home          Kate and Jamie made sure they were dressed to impress for the big occasion           Kate added a pop of colour with her handbag        She also braved the weather with bare legsKate's close friends Stella McCartney, Sadie Frost and Jo Wood led the way, both wearing long coats over their dark outfits. The supermodel also showed where she got her looks from as her stunning mother Linda was photographed looking incredible as she was escorted into the restaurant by Topshop owner Sir Philip Green. Other familiar faces seen arriving at the restaurant included Kate's fashion pals, designer John Galliano and photographer Mario Testino, as well as hairdresser James Brown and Shanghai Tang founder Sir David Tang.        Wrapping it up! Sir Phill Green leaves the restaurant with an over-sized blue scarf          Ready to celebrate: Stella McCartney was seen arriving at the eatery for the bash, looking as stylish as ever and clutching a gift bag for Kate                      Back to black: Kate's close friends Sadie Frost and Jo Wood stuck to dark shades for the celebratory meal        Gifts for the birthday girl: Nick Grimshaw arrived carrying two brown paper wrapped gifts for Kate          You don't look old enough! Kate's mum Linda was escorted into the restaurant by Sir Philip GreenRadio 1's Breakfast Show host Nick Grimshaw arrived at the restaurant carrying what appeared to be two paintings for Kate, wrapped in brown paper. But as the birthday girl headed out to begin her celebrations, the steady stream of gifts kept on coming.  Kate has been enjoying a number of deliveries throughout the day from friends and the fashion industry to help her celebrate her forty years on Earth.                     Fashion friends: John Galliano (left) and Mario Testino (right) were among the highbrow guests at the bash          Keeping it under his hat: Kate's hairdresser pal James Brown wore a fetching spotted suit           Lunch date: Shanghai Tang founder Sir David Tang looked dapper in a suit for the lunch                      Guests came by foot, car and cab to help Kate celebrate the major milestone on Thursday in London  On Thursday she received a large barrel of red roses, as well as numerous other bouquets from various florists and delivery men and women.She was also sent gift bags from Hermés, Givenchy and Mulberry, and a number of bags from other fashion and beauty houses.    The veteran clotheshorse is believed to have just returned to London after enjoying a pre-birthday celebration on Sir Richard Branson's Necker Island with a select group of pals including Sadie and Fran Cutler.                          Guest Can a leopard change its spots? A number of guests wore leopard print as a tribute to Kate            Leopard in red! One of Kate's guests put a colourful twist on her leopard skin trademark                      Giftwrapped! Many of the birthday guests brought their presents with them to Kate's big bash                      Other guests like Richard Caring (left) and Bella Freud (far right with friend) kept their gifts underwraps          All in black! Naomi kept her outfit all to one colour only for Kate's birthday bash          All about Kate! Naomi left 34 Restaurant keeping a low profile and saving the spotlight for her mate Kate            Gifts galore! Kate's boot was full of loot          All bagged up! Staff from the restaurant carry Kate's goodies, including gifts from Anna Casa Interiors, out to her car               Don't rain on my parade! Kate leaves the restaurant and gets into a waiting car        Meanwhile, across town: Rebecca Adlington and Lilah Parsons were attended a retrospective of Kate Moss at the Imitate Modern Gallery           Luxury: Necker Island normally costs £280,000 a week to hire    Sadie has been tweeting about the trip but giving little away from the festivities or where she is.She tweeted pals Nick Grimshaw and Collette Cooper on Sunday, writing: '@collettecooper @grimmers hiya! Miss you guys! Love from here! Xxxxx.'         Roses are red... Florists have been delivering massive bouquets all day on Kate's birthday         Floral love: Kate was sent numerous bouquets of flowers to her home for her 40th birthdayLong-time pal Sir Richard generously donated the use of his Necker Island to Kate for the week - which usually costs £280,000.Kate is no stranger to Necker, having holidayed on the holiday often with Sir Richard, 63, and his children Sam and Holly.Necker is a popular destination for A-list stars, who are attracted by the island's privacy.           Special delivery: A man struggled to carry an incredibly large box to Kate's house on Thursday                    Designer gifts: Mulberry sent Kate a large bag, no doubt carrying one of their premium totes, and Hermes well have gifted her one of their signature scarves          Still coming: A steady stream of delivery men and women were going in and out of Kate's London homePrevious guests include Ronnie Wood, Harry Styles, Bradley Cooper, Paul McCartney and Prince Harry.Kate Winslet met her now-husband Ned RocknRoll - nephew of Sir Richard - on holiday in Necker Island back in August 2011.The couple wed in New York in December 2012, with the Oscar winner giving birth to their son Bear last month.Sir Richard bought the land in the British Virgin Islands for £189,000 in 1979.         Special delivery: A delivery man arrives with 40 silver balloons to Kate Moss's London home on Wednesday         What a treat: Designer gift bags, including one from Givenchy also arrive        

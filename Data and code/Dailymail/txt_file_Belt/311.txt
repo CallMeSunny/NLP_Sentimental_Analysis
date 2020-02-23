@@ -1,0 +1,224 @@
+'I'm more nervous on runways now' than when I was 21': Naomi Campbell, 46, admits she feels 'vulnerable' on the catwalk alongside younger models
+https://www.dailymail.co.uk/tvshowbiz/article-4184932/Naomi-Campbell-46-feels-vulnerable-catwalk.html
+ 16:50 BST, 2 February 2017 
+She has worked as a model for three decades, and was one of the original 'supermodels' alongside Linda Evangelista, Christy Turlington and Cindy Crawford.But despite her experience, 46-year-old Naomi Campbell admits she gets jittery when walking the world's runways alongside some of today's young pretenders.'I feel nervous when I walk out [onto the runway],' she tells the March issue of Town & Country magazine. 'I just try to make it down in one piece and make it back in one piece. I enjoy it, but I'm nervous.'Scroll down for video          Set to stun! Naomi Campbell sizzles in shots from the March issue of Town & Country magazine in a stunning Carolina Herrera gown 
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Naomi_Campbell'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nail your outfit like Naomi wearing Carolina Herrera
+
+
+
+
+Carolina Herrera Spring/Summer '17
+Naomi is wearing a similar navy version
+
+
+
+Visit site
+
+
+
+The one-shoulder trend is still huge news for SS17. Don't believe us? Cue Naomi Campbell wearing Caroline Herrera. 
+Naomi stunned in this blue beauty as she posed up a storm for Town and Country magazine. It's the navy version of a dress that first appeared on the SS17 runway, noticeable thanks to the draped material and twist strap.
+This elegant evening gown is a real classic although the eyelet design heels by Azzedine Alaia kept Naomi's outfit feeling fresh.
+It was a shoot full of designer pieces, in fact. Is there any other way when Naomi's involved?! The star was also pictured in a super chic monochrome gown by Lanvin, teamed with sandals by Paul Andrew.
+Want to emulate Naomi? Why not check out our carousel below. We've scoured your favourite stores to bring you a bevy of beautiful one-shoulder dresses. From Katie May to Phase Eight, we've got every budget covered in our curated edit (below). Simply click to shop!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Katie May one shoulder dress at Nordstrom
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Jane Norman one shoulder dress at Debenhams
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Phase Eight full length dress (now reduced to £65)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Roland Mouret one shoulder dress at Net-a-Porter (now reduced to £825)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Naomi_Campbell', FFFtype: 'inline', fff: true}});
+        }
+    
+
+She adds: 'Especially now. I mean, I'm 46, and these girls are 21 or 18… I don't know if it's about the age thing, necessarily, but for me there's always a vulnerability there.'Naomi began modelling after being discovered at the tender age of 16 while shopping in London's Covent Garden.   RELATED ARTICLES  Previous 1 Next       'I'd love to be with Kate Middleton!': Drew Barrymore...    Victoria Beckham shows off slim figure in chic trousers and...    
+
+Share this article
+Share
+
+ And even as she nears 50, she's still in demand as a model, posing in several stunning shots for the magazine where she shows off her enviably slim figure in midnight blue Carolina Herrera.One sultry shot shows her draped on a green velvet couch sporting towering matching Azzedine Alaia heels.            Slim and trim: Naomi flaunts her stunning figure in a Lanvin gown split to the hipAnother shot features her in a low backed Lanvin gown slit to the hip with coordinating Paul Andrew heels.The model, who has also started acting in U.S. TV fantasy series Star, also discusses her friendship with Nelson Mandela, who passed away back in 2013.  'He was always there for me, and he never judged me,' she says. 'He was very instrumental in showing me that I have the ability to help others.'He's the one who sent me to do fieldwork for his children's fund, and when I would get too emotional in the beginning he would coach me about crying in front of the kids and learning to deal with it.'         She's in fashion: Naomi Campbell is still in demand as a model aged 46        The star has continued her charity drive, setting up a fundraiser for the victims of Hurricane Katrina back in 2005. 'I was shocked seeing all these people walking around the streets of New Orleans with nowhere to go, with their homes in their bags,' she recalls. 'So I picked up the phone and called Teddy Forstmann, who owned IMG at the time, and said I needed to put together a benefit show in seven days.'         Back in te day: Naomi pictured, aged 21, on the runway for Thierry Mugler in Paris

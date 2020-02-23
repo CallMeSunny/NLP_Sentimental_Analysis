@@ -1,0 +1,38 @@
+'Must defend world security' Trump has 'largest aircraft carriers' pointed at North Korea
+https://www.express.co.uk//news/world/876830/North-Korea-Donald-Trump-Kim-Jong-un-South-Korea-Seoul-World-War-3-Pyongyang
+ 03:01, Wed, Nov 8, 2017 
+   The US President called on “all responsible nations to isolate North Korea” in his latest speech in Seoul today.During an address to the South Korean National Assembly, the President issued threats to Kim Jong-un to “not underestimate” the US as World War 3 tensions rise.Trump declared that the “three largest aircraft carriers in the world are appropriately positioned" to defend themselves in the event of a provocation from the rogue state.He went on: "I want peace through strength.  GETTYThe US President called on 'all responsible nations to isolate North Korea' Related articles   Donald Trump looking at whole range of North Korea MILITARY OPTIONS   Watch LIVE: Trump delivers 'MAJOR speech' on North Korea "North Korea is a country ruled by a cult."The more successful South Korea becomes, the more decisively you discredit the dark fantasy at the heart of the Kim regime."Kim regime seeks conflict abroad to distract from their total failure at home. Korean Demilitarized Zone: The world's most dangerous border Tue, November 7, 2017Established by the provisions of the Korean Armistice Agreement to serve as a buffer zone between North Korea and South Korea Play slideshow  AFP/Getty Images1 of 10A South Korean tank of the 8th Mechanized Infantry Division takes part in a live-fire exercise at a training ground in Cheorwon, near the demilitarized zone (DMZ)  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    "South Korea will never allow what is happening in North Korea to continue."I say to the North: Do not underestimate us and do not try us.“We will defend our common security, our shared prosperity, and our sacred liberty.The U.S., under my administration, is completely rebuilding its military, and they're spending hundreds of billions of dollars to the newest and finest military equipment anywhere in the world, being built right now. I want peace through strength! pic.twitter.com/2YXkIvRIFi— Donald J. Trump (@realDonaldTrump) November 8, 2017"We will not permit America or our allies to be blackmailed or attacked.”Trump was dubbed “the leader of the world” before he took to the podium to deliver his speech, called on other nations to join the US in isolating the hermit kingdom in an attempt to force its hand to denuclearisation.He added: "We will not let the worst atrocities in history be repeated here, on this ground we fought and died so hard to secure. Donald Trump's Asia tour in pictures Mon, November 13, 2017Donald Trump and Melania Trump embark on a 12-day trip to five different Asian nations which are Japan, South Korea, China, Vietnam and the Philippines Play slideshow  REUTERS1 of 100Thailand's PM Prayut Chan-o-Cha, Vietnam's PM Nguyen Xuan Phuc, U.S. President Trump, Philippine's President Rodrigo Duterte and Singapore's PM Lee Hsien Loong pose for a family photo during the ASEAN-US 40th Anniversary commemorative Summit in Manila  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    "The world cannot tolerate the menace of a rogue regime that threatens it with nuclear devastation. All responsible nations must join forces to isolate the brutal regime of North Korea-to deny it any form of support."The longer we wait, the greater the danger grows and the fewer the options become."The destiny of the Korean people is not to suffer in the bondage of oppression but to thrive in the glory of freedom.  GETTYThe President issued threats to Kim Jong-un to 'not underestimate' the US“If you want peace, you must stand strong at all times.”During the speech, North Korean TV was shut off in a demonstration of the power held by despot leader Kim Jong-un over his people.The photos of Pyongyang television showed a blank screen while South Korean monitors showed live footage of the President’s delivery.  GETTYDuring the speech, North Korean TV was shut off in a demonstration of the power held by Kim Jong-unThe speech came after Trump's attempt to make an unannounced visit to the heavily fortified border separating North and South Korea was aborted earlier on Wednesday when dense fog prevented his helicopter from landing, officials said.Trump tried to travel to the Demilitarized Zone (DMZ) - the doorstep of the North Korean nuclear standoff - on the final day of a 24-hour visit to ally Seoul.He was then due to fly to China, where US officials say he will press a reluctant President Xi Jinping to tighten the screws further on Pyongyang.

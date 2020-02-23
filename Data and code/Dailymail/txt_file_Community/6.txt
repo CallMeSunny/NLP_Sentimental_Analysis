@@ -1,0 +1,145 @@
+China censors John Oliver after Xi Jinping skit on Last Week Tonight
+https://www.dailymail.co.uk/news/article-5869933/China-censors-John-Oliver-criticises-Xi-Jinping-Week-Tonight.html
+ 17:07 BST, 21 June 2018 
+John Oliver has been blocked from the Chinese microblogging site Weibo after the Last Week Tonight host criticised President Xi Jinping on the HBO show.In the controversial 20-minute segment, John Oliver discussed Trump’s views on China and Xi Jinping’s statement in which he said that other countries need to learn more about China and vice versa.The comedian also focused on Xi’s removal of presidential term limits that will allow him to rule for life and his aim to clamp down on any form of dissent whatsoever.         Last Week Tonight's John Oliver has been blocked from the Chinese microblogging site WeiboChina’s ‘Belt and Road’ initiative, crackdown on corruption and censorship of the cartoon bear Winnie the Pooh, which is said to resemble Xi, were also mocked by Oliver.After this Last Week Tonight went live on Weibo, Chinese censors wiped posts about John Oliver and his show from the microblogging site and on any other sites.What did John Oliver say about China on Last Week Tonight?China’s removal of presidential term limits which has allowed President Xi to remain in power for life was described by John Oliver as the world leader going ‘out of his way to form a cult of personality’.         John Oliver discussed Xi's statement in which he said that countries need to learn about ChinaIn addition to this, the HBO presenter also spoke about China’s treatment of a Muslim minority group called the Uighurs who have long since been discriminated and incarcerated to reshape their identity.While the Chinese government blamed clashes on Islamist militants and separatists, the nation has also introduced new restrictions on the Uighur people.John Oliver also mentioned one of China’s most prominent human rights advocates and Nobel Peace Prize Laureate Liu Xiaobo, who had died after serving an 11-year prison term for subversion.         The HBO presenter spoke about China’s treatment of Muslim minority group called the UighursAs John Oliver mentioned, China have since censored social media posts about Liu, his wife still held under house arrest with heavy surveillance and suffers from depression because of this.‘Xi's crackdown on human rights is apparently the harshest crackdown since Tiananmen square. [He] has clamped down noticeably on any form of dissident whatsoever,’ Oliver said on Last Week Tonight.The host also spoke about how it is not uncommon for phrases and terms to be censored on Chinese social media as has been done for any mention or image of Winnie the Pooh after comparisons being made between the character and the President.         The host also spoke about how it is not uncommon for phrases to be censored in China‘Clamping down on Winnie the Pooh comparisons doesn’t exactly project strength. It suggests a weird insecurity,’ Oliver said. Oliver also highlighted the expansion of China’s social credit scoring system and how the country influenced economy around the world.‘Under Xi Jinping, China is becoming more authoritarian just as it has major plans for expansion on the world stage.’‘China has significant economic leverage and it has been using that to silence criticism even when criticism is very much warranted,’ John Oliver said.         ‘Clamping down on Winnie the Pooh comparisons doesn’t exactly project strength,' Oliver saidWhy was John Oliver censored?While Last Week Tonight was not officially available on Chinese television and YouTube remains blocked in China, some clips were posted on video hosting platforms such as Weibo.John Oliver’s analysis of China’s human rights abuses having ‘dystopian levels of surveillance and persecution’ for Uighurs in the western Xinjiang province resulted in attempts to publish posts with Oliver’s name returning an error message.         China censors any mention of Winnie the Pooh after comparisons made with the PresidentThe message stated that the post violated ‘relevant laws, regulations, or violates Weibo community rules.’ While searches for the TV presenter’s name were not blocked on the social media site, the Chinese name of Last Week Tonight was censored.In addition to this, the most recent comments about John Oliver were on June 14, which suggested that newer posts had been deleted. Last Week Tonight clips were still online but the most recent episode could not be found on Weibo. 
+
+
+      IN OTHER NEWS...
+    
+
+
+
+
+The Bachelorette 2019 spoilers: Hannah Brown’s final two men revealed
+
+
+
+
+
+11 innovations that increase digital inclusion for people with disabilities
+
+
+
+
+
+Friends finale 15th anniversary: 18 facts you didn’t know about the last ever episode
+
+
+
+
+
+Like a pro! Madonna’s all time top 7 live performances ahead of Billboard Music Awards show
+
+
+
+
+
+From Dr No to Mr Big: The greatest Bond villains of all time ranked
+
+
+
+
+
+A magical collaboration! Vans teases Harry Potter collection of shoes and clothes
+
+
+
+
+
+Fist fights, horse manure and purple flour: 9 times House of Commons was interrupted
+
+
+
+
+
+Everything you need to know about Meghan Markle and Prince Harry’s Royal Baby
+
+
+
+
+
+From the Golden State Killer to the Ramsey Street Rapist: 10 cold cases cracked open by DNA testing kits
+
+
+
+
+
+Avengers Assemble...in April: These TWELVE Marvel actors all celebrate birthdays this month
+
+
+
+
+
+Think carefully! Not all is as it seems on this tricky logic quiz and only the gifted can get 10/10
+
+
+
+
+
+Running out of time! Stunning gallery showcases the rarest animals on the planet for Earth Day
+
+
+
+
+
+InGINious! Aldi is launching a £10 glittery gin that tastes like PARMA VIOLETS
+
+
+
+
+
+You can now buy 'venomous' hot sauce that mimics the effect of a spider bite
+
+
+
+
+
+Egg-cellent! You can earn as much as £45 per HOUR hunting for Cadbury white Crème Eggs
+
+
+
+
+
+You Marmite want to hurry! Papa John’s is releasing a MARMITE-stuffed crust pizza but only for a short time
+
+
+
+
+
+Are YOU smart enough to score at least 10/15 on this incredibly tricky quiz?
+
+
+
+
+
+A slice of the action! Bargain deal means you can get £25 worth of Domino's for just £3.75!
+
+
+
+
+
+NHS marks National No Smoking Day with advice and tips on how to quit smoking
+
+
+
+
+
+Sainsbury’s is releasing special £5 Easter egg made entirely out of CHEESE
+
+
+
+
+
+  DM.later('bundle', function () {
+    if (!window.addedArticlesByAuthorsResizeListener) {
+      window.addedArticlesByAuthorsResizeListener = true;
+      var instances = document.querySelectorAll('[data-mol-fe-articles-by-authors]');
+
+      for (var x = 0; x < instances.length; x++) {
+        var element = instances[x];
+        DM.molFeDotDotDot.truncateTextSelector(element, '[data-dotdotdot]');
+        DM.molFeDotDotDot.addResizeTruncateListener(element, '[data-dotdotdot]');
+      }
+    }
+  });
+  

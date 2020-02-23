@@ -1,0 +1,21 @@
+'WHERE is China?' Angela Merkel furious as President keeps her waiting at G20
+https://www.express.co.uk//news/uk/826316/G20-summit-2017-Hamburg-live-Angela-Merkel-China-President-Donald-Trump-Theresa-May
+ 00:01, Sat, Jul 8, 2017 
+   Leaders gathered at a G20 meeting and were filmed by the media chatting before taking their seats to attend a meeting. Minutes before discussions were scheduled to begin, German Chancellor Angela Merkel was seen confused at where the Chinese President was. After looking around the room, Ms Merkel enquired about where President Xi Jinping had gone.   RUPTLYAngela Merkel can be seen asking where the Chinese President had gone Related articles   Hard Brexit seems very likely for Britain says Norway Prime Minister   Angela Merkel caught rolling her eyes during chat with Vladimir Putin She asked: “China is absent? “No China in this world.” Ms Merkel then took a swift look at her watch to check the time, as the seat designated for the Chinese leader remained empty. The Chinese President was later seen sauntering past the media to take his seat at the table before the meeting started.     China is absent? No China in this worldAngela MerkelMeanwhile, Donald Trump can be seen chatting to President Emmanuel Macron. The German Chancellor was spotted with a stern look on her face, clearly wanting to stick to the itinerary.Ms Merkel was also captured at the G20 summit rolling her eyes during a conversation with Vladimir Putin. At the summit in Hamburg, President Trump hailed his head-to-head meeting with the Russian President as “tremendous”. He told reporters: “President Putin and I have been discussing various things and I think it's going very well. “We've had some very, very good talks. We're going to have a talk now and obviously, that will continue. Theresa May meets Donald Trump at G20 Summit Sat, July 8, 2017Theresa May met Donald Trump for a bi-lateral meeting on the sidelines of the G20 conference Play slideshow  PA1 of 10Donald Trump and Theresa May shake hands during their bi-lateral meeting at the G20 summit  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “But we look forward to a lot of very positive things happening for Russia for the United States and everybody concerned.”Mr Trump also insisted that the UK and US will agree a “quick” trade deal after Britain has left the European Union.He added: “There are no countries [that] could possibly be closer than our two countries. I just want to say thank you very much.“We are working on a trade deal, it will be a very very big deal a very powerful deal, great for both countries.“I think that will be done very very quickly.”

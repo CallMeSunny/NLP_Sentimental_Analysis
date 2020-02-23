@@ -1,0 +1,21 @@
+North Korea threatens ‘physical action’ against UN in response to new $1BILLION sanctions
+https://www.express.co.uk//news/world/838227/north-korea-threatens-physical-action-against-UN-in-response-to-1-billion-sanctions
+ 01:08, Tue, Aug 8, 2017 
+  GETTYKim Jong-un has threatened physical action against the UN after sanctionsSanctions have been imposed due to the hermit state launching two successful tests of intercontinental ballistic missiles (ICBM), that experts say could reach US territory.A statement by The Korea Asia-Pacific Peace Committee, an agency affiliated with the Workers' Party of North Korea, said: “(Enemies) should not forget that we are ready to ruthlessly take strategic measures involving physical actions by fully mobilising our national power.”These are the eighth sanctions since 2006, when the North conducted its first nuclear test. North Korea v USA explosive latest pictures Wed, September 20, 2017Images depict how tensions have escalated between North Korea and the United States. Kim Jong-Un boasted of North Korea's ability to strike any target in the US after a second ICBM test that weapons experts said could even bring New York into range - in a potent challenge to President Donald Trump Play slideshow  AFP/Getty Images1 of 45North Korea's intercontinental ballistic missile (ICBM), Hwasong-14 being lauched at an undisclosed place in North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     The sanctions include a ban on all exports of coal, aimed at cutting the rogue state’s annual export revenue of £230 billion by a third.North Korea sells most of its coal to China, which makes up 40 per cent of its exports.Donald Trump has urged China to put pressure on North Korea to stop its missile programmes and praised President Xi Jinping for banning all imports following the recent missile tests.  GETTYICBM test in North Korea Related articles   North Korea v USA live: North Korea threatens 'revenge' on US   N Korea threatens to teach US a ‘severe lesson’ with nuclear weapons North Korea’s latest remarks come in contrast to a Chinese official’s claims that Pyongyang was softening its attitude to South Korea, a state who supported the stricter sanctions on its neighbour.China's Wang Yi said his country supported initiatives put forward by South Korea to handle tensions on the Korean peninsula and added Beijing was ready to see progress between the North and South on the issue.Wang Yi claims North Korea's foreign minister “did not entirely reject” differences in opinion voiced by South Korea.  GETTYCrowds gather in North Korea to watch report of missile launchThe South Korean leader also stressed the importance of keeping the door open to peace talks with the North if Pyongyang give up its nuclear programme.But North Korea has reiterated that it will not take its nuclear weapons off the negotiation table, pledging to stick to its policy of nuclear armament and economic development, known as the “byongjin policy”.

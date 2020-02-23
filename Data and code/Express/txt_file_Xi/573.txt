@@ -1,0 +1,21 @@
+'America and China are LAUGHING at us' EU boss admits Brexit stalemate is WEAKENING Europe
+https://www.express.co.uk//news/world/863083/brexit-negotiations-weakening-europe-britain-eu-talks-stalemate-china-america
+ 12:00, Fri, Oct 6, 2017 
+   EU Commissioner Günther Oettinger warned Brussels was being weakened by the sluggish negotiations and demanded a consclusion to negotiations by next summer.Speaking during a panel discussion in Munich, Mr Oettinger said: "During every round of Brexit negotiations, the Chinese and Americans are laughing up their sleeve.”He insisted the talks should be wrapped up by next summer at the latest and moaned it was unacceptable for Britain to “cherry pick" the benefits of membership without the responsibilities.   GETTYUS President Donald Trump and his Chinese counterpart Xi Jinping Related articles   Brexit deadlock CRISIS as UK hits back at EU’s refusal to talk trade   EU agency warned quitting UK over Brexit will spark CRISIS    GETTYStalled Brexit talks are 'weakening' Europe in the eyes of world powers During every round of Brexit negotiations, the Chinese and Americans are laughing up their sleeveGünther OettingerThe German politician, a member of Angela Merkel’s Christian Democratic union, said he not worried about any other countries wanting to leave the EU.He said: ”I do not think anyone still wants to follow the path of the British.“Ultimately Britain is on the way to becoming ‘Little England’ by leaving the European Union.”   The EU Commission and the EU Parliament have both stated there has been “insufficient progress" in the discussions with the British Government and called for the second phase of Brexit negotiations to be postponed. Meanwhile, major investors like China wait in the wings.German ambassador to China Michael Clauss said relations between Beijing and Brussels had become closer in the wake of US President Donald Trump’s criticism of Nato, his open support for Brexit and his decision to withdraw from the Paris climate change agreement.  Thu, January 1, 1970 Play slideshow  1 of   
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Clauss said: “China-EU relations have become more important recently.“We share common interests, particularly on global issues such as combating climate change, support for a strong United Nations and a free global trade system based on WTO rules.”Some observers believe the relationship is becoming a bit too close with Beijing using its power and influence to exert pressure on the EU when it comes to making key decisions affecting investment and trade.

@@ -1,0 +1,219 @@
+Tom Cruise 'set to wed British assistant girlfriend Emily Thomas'... and she bears a striking likeness to his ex-wife Katie Holmes
+https://www.dailymail.co.uk/tvshowbiz/article-3172512/Tom-Cruise-s-new-girl-Emily-Thomas-bears-striking-resemblance-ex-wife-Katie-Holmes.html
+ 22:20 BST, 23 July 2015 
+With three divorces under his belt, it’s fair to say that Tom Cruise’s love life has had more drama than the average Hollywood romance.Now it appears that the plot is about take its yet another intriguing twist – and there’s something rather familiar about the leading lady in question.According to reports in the US, the actor, 53, is getting ready to marry for the fourth time after falling head over heels for his 22-year-old British personal assistant.Scroll down for video               Remind you of someone? With dark brown hair and hazel eyes, Tom Cruise's new girl Emily Thomas (left) bears a striking resemblance to Cruise’s most recent ex-wife, actress Katie Holmes (right)Emily Thomas started working for Cruise only last year. And it’s perhaps not difficult to see what drew him to her.With dark brown hair and hazel eyes, she bears a striking resemblance to Cruise’s most recent ex-wife, actress Katie Holmes.The pair met when she was hired as Cruise’s on-set assistant for Rogue Nation, the fifth installment of his Mission Impossible franchise, due out next week. They are rumoured to have been a couple since late last year, and while this has never been confirmed, it is reported plans are already being made for them to get married.           The new woman in his life: The 53-year-old actor has been working closely with Emily Thomas, 22, seen here on the set of Mena on July 12, and is said to be gearing up to proposing         Just like Joey: Dressed down while working on the Mena set with Tom earlier this year, British assistant Emily looked markedly similar to Katie's old Dawson's Creek character, Joey Potter              Facial features: The young rumoured girlfriend of Tom has a similar-shaped face to Katie, as well as uncannily matching noses, eyes, lips and even brows
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Katie_Holmes'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stay classic with a Ralph Lauren tote bag
+
+
+
+
+Ralph Lauren soft Ricky bag
+Click to buy now!
+
+
+
+Visit site
+
+
+
+Every girl needs a signature tote bag.
+If you choose it right it can take you from the boardroom to the bar, day to night and spring to winter so make sure you invest in something classic and timeless. Katie Holmes has done just that with this chic tote bag by Ralph Lauren.
+Part of the iconic Ricky collection it's stylish, will always be on trend and has plenty of room for all your everyday essentials. Let's face it we carry our lives around in these things so we may as well ensure it looks good.
+Click (right) to take a closer look at this soft Ricky tote. At £1750 it's definitely one for those with a nice healthy accessories budget but it'll last a lifetime so the cost-per-carry becomes minimal.
+Or get the look for less with one of the fantastic totes in our edit below. New Look has a bargain buy or go somewhere in the middle with Aspinal of London's bag at John Lewis.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Topshop tote bag
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Carvela tote bag at Kurt Geiger (now reduced to £39)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Aspinal of London tote bag at John Lewis
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+New Look tote bag
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Katie_Holmes', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Found the fourth wife? Tom has been single since his very public split from Katie back in 2012         'Crush': Reports suggest Tom fell instantly for the pretty Brit and demanded that she now works solely with him on his upcoming movie rolesA source tells Star magazine, 'Tom has fallen head over heels for Emily, and she feels the same way. There's even buzz in his inner circle that he might propose!' 'Tom was so impressed with her, he made it clear he wanted her to work with him on all his upcoming projects,' it was added.In November, UsWeekly reported that he had a 'crush' on the pretty brunette. 'He's always flirting with her,' a source maintained. 'Most people on the film have noticed how into her he is.'This year they have worked together on his film Mena, about a drug runner who works as an informant for the CIA.         More than colleagues? Emily and Tom, pictured in 2014 while filming Mission: Impossible 5, are thought to be taking their relationship to the next level       Getting closer: It has been claimed that Tom has been dating Emily since the end of 2014 and they are 'smitten'         All smiles: The Top Gun star certainly looked head over heels as he was spotted out in Austria this week as they proposal speculation grew         A bond: Star magazine reported that Tom 'would only leave Emily's side long enough to shoot his scenes, then he'd be right back by her side'                Maybe this is the woman for him? Another source added, 'She's super caring with him. And as his assistant, she makes sure his every need is met''He would only leave her side long enough to shoot his scenes, then he'd be right back by her side,' said a source.Another source added, 'She's super caring with him. And as his assistant, she makes sure his every need is met.'  They have yet to show any affection in public.'He always seemed really happy when she was around and incredibly proud to have her by his side,' it was also alleged.         Mind the gap: Tom and Emily - pictured in September 2014 on the set of Mission: Impossible 5 - are a sizeable 31 years apart in age         He made the cover: The Oblivion actor on StarMena recently wrapped and soon after the two went to Morocco where, according to Star, he was scouting locations for his next Mission: Impossible movie.It was also noted that she will be working with the star when he shoots his next Jack Reacher movie. An insider claimed he may have 'popped the question' while in Morocco. A source also said they may marry in London in December.Cruise has a history of proposing soon after he meets a woman he falls in love with.He didn't waste too much time before marrying Mimi Rogers in 1987 (they divorced in 1990). And he wed Nicole Kidman in 1990 soon after he met her on the set of Days Of Thunder.Though he did wait before marrying Holmes, she got pregnant with their nine-year-old daughter Suri - now aged nine - not long after they started dating.He also has daughter Isabella, 22, and Connor, 20.His film Mission: Impossible - Rogue Nation. opens on July 31. Earlier on Wednesday, Holmes was seen on Good Morning America and Live! With Kelly And Michael promoting her TV series Ray Donovan. She did not discuss Cruise.         Moving on: Tom, pictured with Katie before the split, shares a daughter, nine-year-old Suri, with the actress                Moving on: Katie was spotted walking around in NYC with a binder, dress casual in jeans and tucked in button down shirt after coffee on Thursday         Style queen: She looked slender in denim flares for the day off

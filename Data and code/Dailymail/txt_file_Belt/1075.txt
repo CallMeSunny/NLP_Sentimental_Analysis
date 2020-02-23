@@ -1,0 +1,224 @@
+Kat Graham flaunts cleavage and legs in revealing stripy coat dress in LA
+https://www.dailymail.co.uk/tvshowbiz/article-6302133/Kat-Graham-flaunts-cleavage-legs-revealing-stripy-coat-dress-LA.html
+ 07:40 BST, 22 October 2018 
+She's famous for playing Bonnie on TV show The Vampire Diaries.And on Sunday, Kat Graham put her best foot forward in a very revealing stripy coat dress in LA.The 29-year-old appeared to be bra-less under the outfit that was fasted only with a couple of buttons and a tie belt.          Leggy look: She's famous for playing Bonnie on TV show The Vampire Diaries. And on Sunday, Kat Graham put her best foot forward in a very revealing stripy coat dress in LA
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Kat_Graham'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Earn your stripes like Kat in Fendi
+
+
+
+
+Fendi striped trench
+Now sold out
+
+
+
+Visit site
+
+
+
+Kat Graham made the sidewalk look like a catwalk as she stepped out in LA wearing a designer ensemble!
+Styled by Jennifer Mazur, Kat donned a striped dress/trench hybrid by Fendi. We love the military style gold buttons, asymmetric design and bold stripes. 
+Although you could rock this as a traditional trench, Kat was wearing it by itself, teamed simply with some towering platforms. It looked like a high fashion take on a shirt dress! 
+Sadly it  has now sold out but click right to shop the current collection where there's plenty of gems to be found.
+Or why not emulate Kat's look with the help of them edit below? Boohoo, SheIn, Tufi Duek and Mackintosh all have some fab finds that are ideal for channelling Fendi vibes.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Boohoo stripe trench coat (now reduced to £11)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+SheIn double-breasted coat
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Tufi Duek striped belted coat (now reduced to £156 at Farfetch)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Mackintosh striped trench at Farfetch (now reduced to £902)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Kat_Graham', FFFtype: 'inline', fff: true}});
+        }
+    
+
+She flashed plenty of cleavage in the coat dress that she wore with the collar up around the back of her neck.Graham stepped out in platform-soled very high brown heels and carried a brown leather briefcase.   RELATED ARTICLES  Previous 1 Next       Vanessa Hudgens buys herself a bouquet of flowers at the...    Olivia Culpo shows off her toned abs and legs as she bids...    Chloe Grace Moretz runs errands in LA in very short...    Sarah Hyland flaunts her toned midriff in a green crop top...    
+
+Share this article
+Share
+
+ The actress was made up with black mascara, rosy blush and pink lip color. She wore her bobbed hair with an uneven fringe.          Flashed cleavage: The 29-year-old appeared to be bra-less under the outfit that was fasted only with a couple of buttons and a tie belt and she wore the collar up         Added inches: Graham stepped out in platform-soled very high brown heels and carried a brown leather briefcase. She wore her bobbed hair with an uneven fringe        Since The Vampire Diaries ended last year, Graham as had parts in a string of independent movies.She appeared in the Netflix post-apocalyptic thriller How It Ends and wrapped Emperor, a drama about a freed slave that's due for release in 2019.She's also had roles in the John Travolta and Brendan Fraser vehicle The Poison Rose and Cut Throat City with Eiza González and Wesley Snipes, both of which are yet to get US release dates.She is also prepping to start shooting the action movie Decoy with Andy Garcia, Tyler Posey and Frank Grillo.         Stylish: Last week, Graham glammed up in a full-length black halter gown to attend the star-studded amdfAR Gala Los Angeles         

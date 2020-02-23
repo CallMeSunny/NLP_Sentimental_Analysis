@@ -1,0 +1,224 @@
+Love Island's Gabby Allen clashes prints in a houndstooth minidress and snakeskin boots for fashion party
+https://www.dailymail.co.uk/tvshowbiz/article-6498703/Love-Islands-Gabby-Allen-clashes-prints-houndstooth-minidress-snakeskin-boots-party.html
+ 10:44 BST, 15 December 2018 
+She's a fashionista who can rock any outfit to perfection.And Gabby Allen stunned as she took posed for Boohoo's Christmas party at the Hilton Deansgate in Manchester on Friday.The Love Island star, 26, looked the part at the fashion bash in a monochrome dogstooth minidress clinched at the waist with a black belt.          Stunning: Gabby Allen, 26, stunned in a clingy dress as she took posed for Boohoo's Christmas party at the Hilton Deansgate in Manchester on FridayGabby slipped into a pair of snakeskin thigh high boots and rocked a matching hat to perfection.   RELATED ARTICLES  Previous 1 Next       Love Island's Kendall Rae Knight turns heads in a dazzling...    Love Island's Alexandra Cane looks stunning in sparkling...    Love Island's Ellie Brown wows in plunging black dress as...    Love Island's Jack Fowler 'set to join Celebs Go Dating as a...    
+
+Share this article
+Share
+
+ The blonde beauty wore her signature crop loose and opted for plenty of bold eye makeup to highlight her perfectly scuplted brows and sultry lashes.She sported pink lips and a healthy dosage of bronzer which she wore with long earrings and a beaded handbag.             Head turner: The Love Island star looked the part at the fashion bash in a monochrome dogstooth minidress clinched at the waist with a black belt
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Gabby_Allen,Ellie_Brown'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go gaga for houndstooth like Gabby in a dress by Boohoo
+
+
+
+
+Boohoo houndstooth dress
+Shop it here!
+
+
+
+Visit site
+
+
+
+A mini Love Island reunion happened earlier this week when some of our favourite villa faces attending Boohoo's Christmas bash at the Hilton Deansgate in Manchester. 
+Gabby Allen, Ellie Brown, Alexandra Cane and Kendall Rae Knight were all in attendance and, unsurprisingly, they were all decked out in Boohoo.
+While Kendall opted for a one-shoulder jumpsuit and Alexandra reached for embellishment, Gabby channeled Clueless vibes in this houndstooth dress, teamed with over-the-knee boots and a snake print beret.
+Want to make it yours? Click (right) to snap it up now for the reduced price of just £12! Be quick though because we don't imagine it will be around for much longer...
+Alternatively, peruse our carousel of picks below for similar silver styles from Aquascutumn, Dorothy Perkins, Asos and more.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Asos houndstooth dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Annarita N Twenty 4H houndstooth dress at Yoox
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Aquascutum houndstooth dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Dorothy Perkins houndstooth dress (now reduced to £15)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Gabby_Allen,Ellie_Brown', FFFtype: 'inline', fff: true}});
+        }
+    
+
+              Style: She slipped into a pair of snakeskin thigh high boots and rocked a matching hat to perfection       The glammed up outing comes as Gabby gushed about her romance with Rak-Su's Myles Stephenson who she confirmed she was dating three months ago. She said: 'I mean he’s the first person that I’ve really thought about having a long term relationship. We’re talking about future things too.'It doesn’t feel weird talking about it, it’s not forced in any way. It’s not put on.         Happy: The blonde sported pink lips and a healthy dosage of bronzer which she wore with long earrings and a beaded handbag         Loved up: The glammed up outing comes as Gabby gushed about her romance with Rak-Su's Myles Stephenson (pictured with Love Island's Alexandra Cane and Ellie Brown)'I think there’s a lot of time, people used to say things about me and Marcel and I believe that was right at the time. But when you feel like this about someone, that’s when you know!'  Gabby previously dated fellow Islander Marcel Somerville but the pair split when he cheated on her while the couple were on a trip to Mexico.Marcel previously spoke out about the incident and apologised but Gabby looks to have found happiness with her boyband beau.          Adorable: Gabby and Myles Stephenson, 27, arrived hand-in-hand at the OK! Beauty Awards at Park Plaza Westminster Bridge in London last month

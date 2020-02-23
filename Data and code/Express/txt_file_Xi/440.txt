@@ -1,0 +1,21 @@
+Sports Quiz: Test yourself on Arsenal and City, the Open golf and Celtic's new signing
+https://www.express.co.uk//sport/football/614158/Sports-Quiz-Test-yourself-Arsenal-City-Open-golf-Celtic-new-signing
+ 12:32, Fri, Oct 23, 2015 
+To help get you through to the weekend count down those final few hours with our weekly brain cruncher.Who inspired Arsenal to victory in midweek and who could set a Rugby World Cup record tomorrow?  GETTYMesut Ozil (left) scored Arsenal's second goal in their win over Bayern Munich this weekCeltic have signed a former England striker not exactly famed for his international prowess - but can you name him?The Open Championship venue for 2019 was announced this week, while Prime Minister David Cameron enjoyed some time on the 19th hole before taking China president Xi Jinping around a Premier League ground.So, can you get all seven questions in our weekly mind melter correct? Or will you be left searching for lost balls in the rough? Football's worst haircuts Sat, April 22, 2017Express Sport has compiled a list of some of the worst haircuts in football. Play slideshow  Arsenal FC via Getty Images1 of 23Nice braids Bellerin...  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Express Sport

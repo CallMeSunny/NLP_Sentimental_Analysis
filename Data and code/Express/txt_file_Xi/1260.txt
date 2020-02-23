@@ -1,0 +1,38 @@
+THE MAGNIFICENT SIX: Royals pose for historic photo as Kate wears Princess Diana's tiara
+https://www.express.co.uk//news/royal/741487/Kate-Middleton-Princess-Diana-tiara-Jenny-Packham-gown
+ 07:53, Fri, Dec 9, 2016 
+   The Queen, Prince Philip, Prince Charles, the Duchess of Cornwall, and the Duke and Duchess of Cambridge stood for a press picture at the white tie reception for 1,500 diplomats and others at Buckingham Palace for the first time.In a sapphire and diamond tiara and bracelet, sapphire necklace and earrings  from the George VI collection, an Angela Kelly dress and the Garter sash, the 90-year-old monarch stood centre stage.The Duchess of Cambridge, 34, wore the Cambridge Lover's Knot tiara - once Princess Diana's signature piece - and a Jenny Packham dress she previously sported at the Buckingham Palace state banquet for Chinese President Xi Jinping in October last year.  PAThe Duchess of Cambridge wearing Princess Diana's signature tiara Related articles   Prince William reveals Kate enjoys adult colouring books   Princess Diana note written months before death auctioned Camilla, 69, was in a white beaded Bruce Oldfield gown with the Boucheron tiara, pearl choker and diamond earrings. She also wore the The Royal Family Order and Dame Grand Cross of the Royal Victorian Order. Their menfolk - Philip, 95, Charles, 68, and William, 34, wore white tie as a Knights of the Garter with sash and knee breeaches and their medals. Charles was also wearing the Order of the Bath.It was the second year running that Kate had worn the Cambridge Lover's Knot tiara, the piece most closely associated with Princess Diana.The Queen, who inherited it from her grandmother Queen Mary, gave Diana the tiara as a present on her wedding day in 1981 and it became her most famous and most glamorous one.  PAKate wore the Cambridge Lovers' Knot tiara for the first time last yearHeavy and often difficult to wear, the piece, composed of jewels that Mary had in her collection, features swinging pearls hanging from 19 diamond arches capped with lovers' knots bows. It was designed in 1913 for Mary, George V's wife, to look like the 1818 Lovers Knot Tiara made for Princess Augusta of Hesse, the Duchess of Cambridge and wife of George III's seventh son, Prince Adolphus.Kate wore it last year to the diplomatic reception for the first time.Many had expected her to wear the Cambridge Lover's Knot Tiara on her wedding day after Prince William gave her his mother's blue-sapphire and diamond engagement ring, saying it was his way of making his mother part of the celebration. The Royal Tiaras Wed, May 2, 2018Royal tiaras throughout history: Exquisite jewels worn Kate Middleton, the Queen and Princess Diana. Play slideshow  Getty1 of 33Royal tiaras throughout history: Exquisite jewels worn Kate Middleton, the Queen and Princess Diana  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      PAThe Queen, Prince Philip, Charles, Camilla, Kate and William pose for a pictureBut instead Kate opted for the Cartier Halo tiara, bought in 1936 by the future George VI for his wife, who subsequently became the Queen Mother. On the two other occasions when she has been photographed in a tiara, the Duchess has worn another Royal Family heirloom, Princess Margaret's favourite Lotus Flower Tiara.Although the Cambridge Lover's Knot was given to Diana on her wedding day, she chose to wear her own family's heirloom, the Spencer Tiara, for the ceremony at St Paul's Cathedral.  JAMES WHATLINGKate wearing the Cambridge Lover's Knot tiara - once Princess Diana's signature pieceShe wore the Cambridge Lover's Knot for the first time at the State Opening of Parliament in November 1981 and then on many occasions afterwards at home and abroad. It was perhaps the piece most closely associated with her.But when she and Charles divorced in 1996, it was returned to the Queen.  REXKate wore a red Jenny Packham gown to the glitzy event  REXCharles and Camilla arriving for the major event in the royal calendarAt the white tie reception, the highlight of the annual diplomatic social calendar in London, the monarch meets each of the 160 heads of mission accredited to the Court of St James.In addition to ambassadors, high commissioners and their partners, around 600 foreign diplomats based in London were among the guests together with around 300 British diplomats and senior figures from commerce, education, broadcasting and the arts.  GETTYPrincess Diana wearing the Cambridge Lovers Knot tiara Kate Middleton Duchess of Cambridge pictures Mon, July 16, 2018Kate Middleton, the Duchess of Cambridge in pictures. Play slideshow  1 of 100  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Last year for the first time a television documentary crew was allowed into film a few seconds of footage of the Royal Family gathering behind closed doors before entering the ballroom.The Queen was heard saying: "If we open the doors, do you think there's anyone there?"

@@ -1,0 +1,21 @@
+WORLD WAR THREE? Japan scrambles fighter jets as Chinese military planes fly near border
+https://www.express.co.uk//news/world/752005/Japan-fighter-jets-China-planes-airspace-world-war-three
+ 14:26, Mon, Jan 9, 2017 
+  GETTY Six Xian H-6 bombers were scrambled Chinese military planes flew above the Korea Strait near the islands of Tsushima and Kusu.In response Japan flew six Xian H-6 bombers, which made a U-turn and flew back. Shaanxi Y-8 and Shaanxi Y-9 transport planes were also spotted in the area, according to reports. Related articles   PANTS TO STRIKES: Commuters flash underwear on Tube before chaos   BREAKING: Primary school EVACUATED after 'suspicious package' found   GETTY Japanese Prime Minister Shinzo Abe Chinese military planes flew above the Korea Strait near the islands of Tsushima and KusuTokyo military officials insist there was no violation of Japanese airspace.The move has been sparked by an ongoing confrontation between Japan and China over a set of small islands northeast of Taiwan – known in Japan as the Senkakus – over which both nations have territorial claims. Japan last year bought British-made military hardware to prepare for a potential confrontation with China.Antagonism between China and Japan over a contested island archipelago had the Japanese Defence Ministry chasing an injection of cash to buy a range of new weapons. Inside China's Military Superpower Sat, November 11, 2017An inside view of the Chinese military over 120 years. Play slideshow  VCG via Getty Images1 of 23Armed police soldiers lift timbers during a drill on August 24, 2016 in Chongqing, China. As the highest temperatures reached over 40 degree Celsius at 5 districts in Chongqing, officers and soldiers of an armed police crop took outdoor training  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTY Chinese President Xi Jinping Japan’s post-Second World War pacifist foreign and defence policy was reformed in 2015 to allow intervention overseas – although the move met considerable resistance with thousands taking to the streets in protest.The reform, personally advanced by Prime Minister Shinzo Abe, reversed Japan’s essentially non-interventionist constitution, allowing the army to intervene in conflicts outside the country’s borders, even if Japan is under no direct threat.More to follow... 

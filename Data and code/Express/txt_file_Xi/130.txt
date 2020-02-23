@@ -1,0 +1,21 @@
+Time to ACT: China launches WAR on ISIS after terrorists 'execute Chinese hostage'
+https://www.express.co.uk//news/world/621191/Time-to-ACT-China-launches-WAR-on-ISIS-after-they-claim-to-have-executed-Chinese-hostage
+ 04:50, Mon, Nov 23, 2015 
+  GETTYXi Jinping has launched war on terror after the alleged killing of the Chinese hostageISIS claimed this week that Chinese national, Fan Jinghui, 50 had been executed alongside Norwegian national Ole Johan Grimsgaard-Ofstad.In reaction, the Chinese president has said he would "crack down" on violent terrorist operations and join the war against Islamic State.Xi Jinping said: "China will strengthen cooperation with the international community, resolutely crack down on violent terrorist operations that devastate innocent lives and safeguard world peace and security."ISIS published two full page pictures of the men, they allegedly executed, in their propaganda publication Dabiq.The latest news has added fuel to the fire for China which saw to loss of three nationals in the Mali siege.Xi condemned the "cruel and savage" attacks by terrorists on a hotel in Mali which left 27 dead.  APChina's President Xi Jinping  IGTwo hostages who have allegedly been killed by ISIS, Fan Jinghui and Ole Johan Grimsgaard-OfstadThree Chinese executives from a railway company were killed in the siege.Xi said" “With no regard for human conscience and moral baseline, the terrorist organisation still carried out this cold-blooded and violent action.“The Chinese government strongly condemns this inhuman action and will definitely hold the perpetrators accountable." The fight against ISIS Fri, November 18, 2016The battle against ISIS militants (also abbreviated as Daesh, ISIL, IS and Islamic State) continues in the Middle East. Play slideshow  Getty1 of 183Forces battle against ISIS  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Related articles   Jihadis creeping EAST as China 'annihilates 28 members of Islamist terrorist group'  China to LAUNCH WAR on ISIS? President Xi vows to BATTLE jihadis after Paris attacksIn a statement on their website, China Railway Construction Corp said: "it is deeply saddened by the deaths of the three employees, and we express our deep condolences to the victims' families and strongly condemn the atrocities committed by the terrorists."China boasts a strong military presence and with a vast artillery and more than 2 million soldiers will pose a serious threat to the terrorists.Xi called on on the relevant departments to boost security work "outside China's borders".

@@ -1,0 +1,237 @@
+Waist not, want not! Cheryl sported the SAME Gucci belt as her beau Liam Payne as she made her post-baby public comeback at charity match
+https://www.dailymail.co.uk/tvshowbiz/article-4851464/Cheryl-sports-Gucci-belt-beau-Liam-Payne.html
+ 16:59 BST, 4 September 2017 
+He revealed his 'superwoman' girlfriend 'snapped back' into shape after giving birth to their son Bear.And while Liam Payne admitted he is regularly told off by Cheryl for sharing details of their homelife, the couple also seem to be sharing accessories.As the singer made her first public appearance at the Grenfell charity match over the weekend, she was seen wearing the exact same belt as her beau.Scroll down for video               Waist not, want not! Liam Payne admitted he is regularly told off by Cheryl for sharing details of their homelife, the couple also seem to be sharing accessoriesLiam rocked the Gucci, which sells for £240, in a racy shirtless snap aboard a boat during a recent holiday - and Cheryl sported the designer item on her red trousers, which she sported alongside an abs-flashing crop top as she attended the event with BFF Nicola Roberts.   RELATED ARTICLES  Previous 1 2 Next       'Someone tell him she dropped Cole years ago!': Cheryl...    'I have not stopped eating!' Pregnant Ferne McCann flaunts...      'We have different opinions': Kylie Jenner addresses frosty...    
+
+Share this article
+Share
+
+ Meanwhile, it was back to business for her man as he headed to Canada to continue his solo promo shows. The former One Direction star, 24, looked in high spirits as he worked the stage, provocatively grabbing his crotch.         Share and share alike: Liam rocked the Gucci, which sells for £240, in a racy shirtless snap aboard a boat during a recent holiday - and Cheryl sported the designer item on her red trousers at the charity match alongside BFF Nicola Roberts
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Cheryl'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Look red hot in Cheryl's Givenchy trousers
+
+
+
+
+Givenchy Satin-trimmed pleated cady pants
+Buy from Net-a-Porter
+
+
+
+Visit site
+
+
+
+After a while away from the spotlight, Cheryl was back with a bang this weekend in a seriously stylish, colour pop ensemble.
+She flashed her amazing post-baby abs in a raw edged cropped sweatshirt and a pair of wow-worthy wide leg trousers by Givenchy, which she cinched in with a Gucci belt. Nice work Chezza!
+The good news is you can get your hands on the style icon's exact trews! From the red hot hue, to the statement red trims, they're worth splashing out on so click right now to nab them from Net-a-Porter.
+Or be a scarlet lady like Cheryl with one of the similar designs below. Add some sass like the star with heels and a crop top, wear them to work with a buttoned blouse or give them a weekend spin with trainers and a slogan tee.  
+Whichever you go for, say hello to your new wardrobe staple...
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Gucci black GG logo belt at Browns
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+River Island red wide leg trousers
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Boohoo Emilia jersey wide leg trouser (Reduced to £9.60)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Alexander McQueen flared leaf pants at Luisaviaroma.com
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Very jersey wide leg trousers (reduced to £17.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Cheryl', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         One saucy direction: Meanwhile, it was back to business for her man as he headed to Canada to continue his solo promo shows         Work it! He was joined by a band of sexy dancers who strutted their stuff behind him as he belted out his solo materialHe was joined by a band of sexy dancers who strutted their stuff behind him as he belted out his solo material.  The performance comes Liam has revealed that he isn't planning on asking girlfriend Cheryl, 34, to marry him any time soon, as he would rather have another baby with the former X Factor judge instead. The couple welcomed their first child, son Bear, together back in March and already keen to add to their brood, Liam revealed to The Sun: 'I welcome the idea completely.'         Expanding their brood? The performance comes Liam has revealed that he isn't planning on asking girlfriend Cheryl , 34, to marry him any time soon, as he would rather have another baby with the former X Factor judge insteadQuizzed on whether he and Cheryl will be taking their relationship to the next step, now they share a family, and getting married, Liam confessed that he would be keen to have another baby instead of tying the knot. Asked which he would prefer to come first, Liam responded: 'I would probably say, if you pushed me, a baby,' referring to his son, he added: 'Bear is the best creation I've ever made.'While he is keen to become a father once more, Liam did, however, add that he and Cheryl are in no rush to welcome baby number two, as he is working on his album and set to go on tour. Liam said: 'We need some time... but we've got time, so that's OK.' The Strip That Down singer's latest comments come as Cheryl returned to the spotlight after giving birth five months ago and made her first official public appearance at the Game 4 Grenfell charity match that was held to raise money for all those affected by the Grenfell Tower fire that occurred in June. She looked sensational as she flaunted her post-baby frame in an ab-baring white crop top and high-waisted tailored red trousers while taking to the stands and meeting with fans inside London's Loftus Road stadium. Prior to her appearance, Cheryl had debuted her sensational physique, proving she has snapped right back into shape following her pregnancy, while on holiday with boyfriend in Mallorca for his birthday. She posed in a coral red bikini and patterned kaftan that was left open to reveal her honed figure underneath. Praising his girlfriend in a recent interview with MailOnline, Liam gushed: 'She is a superwoman, I can't believe it. She's done so well and she's really happy with herself at the moment.'         Showing her support: She had attended the Game 4 Grenfell charity match at London's Loftus Stadium on Saturday, flaunting her post-baby frame in an ab-baring cropped jumper         Sensational: The former Girls Aloud star had previously debuted her incredibly toned frame during a break to Mallorca with beau Liam - proving she has already snapped back into shape              Handsome star: Liam's bandmate Niall Horan has been promoting his new single in StockholmLiam also shared an insight into Cheryl's close relationship with their baby boy and admitted he is subject to a telling off from his popstar love for publicly revealing too much about their personal life. 'Cheryl was so close to Bear at the start and that mother and son bond is just the most amazing thing to behold and watch. I was nothing but learning from her at the start and she was a natural mum.'He then confessed: 'I do get a bit over-excited sometimes. I'll go home and she'll say, "What did you say that for?" But I'm just really happy with everything and life's great. 'I'm really enjoying myself and everything's really good, so I can't really complain. I just like to talk about it!' Liam and Cheryl had welcomed Bear into the world back in March, after the former Girls Aloud star had kept notoriously private about her pregnancy.               Sweet: Liam and Cheryl had welcomed Bear into the world back in March and the One Direction star has praised his love, branding her 'superwoman' when it comes to her embracing motherhood         Oops: He then confessed that he is often subject to a telling off from his popstar love for publicly revealing too much about their personal lifeIntroducing her son on Instagram days after his birth, Cheryl penned: 'On Wednesday 22nd March Liam and I became parents to an incredibly beautiful, healthy baby boy, weighing 7lb 9 and looking like a dream. Although he still doesn't have a name he is already stealing hearts.'She continued: 'We are all madly in love and overwhelmingly happy with our little arrival. Happy Mother's Day to all the mothers around the world. A day that now has a different meaning to me forever.'Liam, meanwhile, had gushed: 'My close friends and family know there are very few times when I'm left speechless... wow!'I'm incredibly happy to welcome our new baby boy into the world, it's a moment that I will never forget for the rest of my life and my favourite memory I have so far.'         Introducing their son: Cheryl and Liam both took to Instagram with a sweet photo of the One Direction star cradling baby Bear in his arms just days after his birthReferring to Cheryl, he added: 'I'm completely in awe of his incredible mother and how she has been the whole way through this, she's really made my dreams come true... he's already capturing hearts including mine. I feel very blessed.'Since then, the duo have decided against sharing photos of Bear to social media, with Liam occasionally toying fans by posting the odd photo of himself and his mini-me - taking extra care to conceal his face. As well as an adorable shot of himself and Bear sporting matching trainers, Liam recently shared another of his son's teeny hand clutching onto his as he marked turning 24, his first birthday as a father, and gushed: 'Best birthday ever'. Meanwhile, Liam has previously discussed previously his trials and tribulations as a new father and discussing nappy changing duties, he laughed: 'I'm good at the hand block – you gotta be like a ninja.         Private: The duo have decided against sharing photos of Bear to social media, with Liam occasionally toying fans by posting the odd photo of himself and his mini-me - taking extra care to conceal his face         Cute: Liam recently shared another of his son's teeny hand clutching onto his as he marked turning 24, his first birthday as a father, and gushed: 'Best birthday ever''My girlfriend gets peed on a lot. We have a laugh about it, I mean she's super chilled, so we have a laugh.'I'd never changed a nappy and the first time with Bear – I was meant to practice on a doll but I don't really carry them about, so my first time was with Bear.'And his hands-on approach has certainly impressed Cheryl, as she credited her beau for taking so well to parenthood in June.She said: 'You are the most amazing daddy and the best example for our son. The way he looks at you says it all.''Your relationship melts my heart,' she confessed. 'You are the centre of his world & We adore you.'         Loved-up: He and Cheryl, meanwhile, are often seen flaunting their relationship on social media and their 'date nights' together       It seems the former Girls Aloud star is just as smitten with boyfriend Liam too, as the duo are often seen flaunting their relationship on social media and their 'date nights' together. The couple had confirmed their romance in February 2016, after first being linked the previous December having been re-acquainted at the 2015 X Factor final.Their romance came just months after Cheryl split from ex-husband Jean-Bernard Fernandez-Versini. They had wed in a beach ceremony on the private island of Mustique in July 2014 - their divorce was finalised in October 2016.She and Liam, meanwhile, had kept coy on their relationship at first, choosing to keep fans guessing with a slew of social posts where Cheryl joked about having a 'mystery man'.The pair famously met when Liam auditioned on The X Factor in 2008 - while Cheryl was a judge and he was just 14 years of age.         Smitten: The couple had confirmed their romance in February 2016, after first being linked the previous December having been re-acquainted at the 2015 X Factor finalHe didn't get through, but returned in 2010 as a 16-year-old and progressed through to judges' houses, eventually being chosen to join One Direction. Liam had infamously winked at the Fight For This Love hit-maker during his X Factor audition and he admits he is still mocked now by his friends for doing so.He told The Sun: 'I always, always had a crush on her. I got back to school the next day and when my friends saw it they were literally ripping the p*** out of me.'However, he did joke: 'Now they can't say it didn't work. The wink is powerful, it has powers beyond its own means. I have to be careful — it's a licensed weapon in the UK.'In the same interview with the paper, Liam admitted that early on into his romance with Cheryl she had tried to cool things off with him. They have now been together for over a year and a half.          History: The pair famously met when Liam auditioned on The X Factor in 2008 - while Cheryl was a judge and he was just 14 years of age              Cheeky: Liam had infamously winked at the Fight For This Love hit-maker during his X Factor audition and he admits he is still mocked now by his friends for doing so

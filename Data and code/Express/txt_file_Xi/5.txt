@@ -1,0 +1,21 @@
+Who is the Chinese President's wife? Meet Xi Jinping's wife Peng Liyuan
+https://www.express.co.uk//news/world/755205/Chinese-President-wife-Xi-Jinping-Peng-Liyuan-China-first-lady
+ 11:13, Tue, Jan 17, 2017 
+  GETTYPeng Liyuan has accompanied her husband Xi Jinping to Davos 20§7Xi Yinping has become the first Chinese head of state to attend the conference in the Swiss Alps, and this morning opened proceedings with a speech on globalisation.He was pictured arriving in Switzerland earlier this week with his wife, the Chinese First Lady Peng Liyuan.The 54-year-old is a star in her own right and has enjoyed a lengthy career as a folk singer.  Related articles   Angela Merkel's influence CRUMBLES as EU leaders side with PUTIN   China president makes first appearance at World Economic Forum For three decades she has appeared on Chinese state TV singing songs in praise of the Communist Party.Nicknamed the Peony Fairy, Peng has won comparisons to Jackie Kennedy and former French First Lady Carla Bruni for her elegant style.She was born in Shangdong in 1962 to an opera singer mother and an academic father.  GETTYThe couple were pictured arriving in Switzerland  GETTYPeng regularly meets world leaders with her husband China's state visit to London Thu, October 22, 2015China's President Xi Jinping and First Lady Peng Liyuan are welcomed to England on a four day state visit. Play slideshow  REUTERS1 of 39China's President Xi Jinping delivers a speech as Prince Andrew listens at the China state banquet in London  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Her vocal talents landed her a place at the Shandong University of Arts aged 14, where she specialised in Chinese folk songs.At 18 years old Peng joined the People’s Liberation Army and was appointed a warrior of arts and culture. She now holds the rank Major General.She later attended the Conservatory of Music in Beijing, during which time she reportedly sent money home to her family and helped poorer students with food stamps.Aged 21, Peng performed on a New Years Eve television special watched by hundreds of millions of viewers. The appearance made her a household name, and she went on to appear on the show regularly.     GETTYPeng is an accomplished singer in her native China  GETTYShe has regularly appeared on state TV for decadesPeng met Xi in 1986 and the couple married in secret just a few months later in 1987. Only top party officials were made aware of the union for the first few years of their marriage.The couple welcomed a daughter, Xi Mingze, in 1992 who went on to study at Harvard University in the US.Since her husband became President in 2013, Peng has scaled back her singing career and has focused on philanthropic work. She is an ambassador for the World Health Organisation and spreads awareness of tuberculosis and HIV/AIDS.

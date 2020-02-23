@@ -1,0 +1,21 @@
+'UK’s part in world trade is to promote it' Economist says Brexit will LIBERATE markets
+https://www.express.co.uk//news/uk/755905/economist-warwick-lightfoot-policy-exchange-brexit-liberate-world-trade
+ 17:10, Wed, Jan 18, 2017 
+   Warwick Lightfoot, of Policy Exchange, predicted that Britain would become a “force for liberalisation” after welcoming Chinese president Xi Jinping’s endorsement of economic globalisation at the World Economic Forum in Davos, Switzerland.Speaking to France 24, the expert said: “I think the president’s speech was worthwhile in reminding us of the huge benefits of the international division of labour, which is what trade is all about.“China hasn’t always been quite as constructive in that open trading community but it’s certainly benefitted a great deal from it.  FRANCE 24•GETTYThe economist said the UK would become a "force for liberation" Related articles   'Potentially ruinous' Labour MEP harps on over Brexit speech   Ukip leader Paul Nuttall says Britain's NOT bluffing over Brexit   I hope that in the years going ahead, the United Kingdom’s part in world trade will be to promote it and certainly it will be a force for liberalisation and open marketsWarwick Lightfoot“And I hope that in the years going ahead, the United Kingdom’s part in world trade will be to promote it and certainly it will be a force for liberalisation and open markets and it will not be one looking to try and close trade down.”Mr Lightfoot said Theresa May’s speech was a reflection of the UK’s long tradition of free trade.“I think that the British Government, and all British governments really, in the post-war period have always been a reflection of Britain’s tradition of free trade,” he said.    These are the most eurosceptic countries Fri, February 24, 2017Rising disenchantment with the dealings of EU is not just confined to the UK. Play slideshow  1 of 8  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “There was an admiration in the 1930s when Britain turned towards so-called imperial protection and imperial preference, but in the main, pretty much since the 1840s, Britain has always been a free trader.“So all the reflexes that have gone into the Government’s response to the Brexit decision, and of course a significant part of the debate in the referendum, was essentially a free trade agenda.”In her landmark Brexit speech on Tuesday, the Prime Minister, who confirmed that Britain would be leaving the single market, said the UK’s membership of the EU compromised its “global ties”.She said: “It’s not simply because our history and culture is profoundly internationalist, important though that is.“Many in Britain have always felt that the United Kingdom’s place in the European Union came at the expense of our global ties, and of a bolder embrace of free trade with the wider world.”

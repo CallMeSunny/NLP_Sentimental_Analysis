@@ -1,0 +1,224 @@
+He's beneath you! Oscar-winning millionaire Eddie Redmayne snubs chauffeurs as he's spotted taking the London underground AGAIN
+https://www.dailymail.co.uk/tvshowbiz/article-3982696/Oscar-winning-millionaire-Eddie-Redmayne-spotted-taking-London-tube-proving-s-salt-earth.html
+ 15:47 BST, 29 November 2016 
+He's got an Oscar, a BAFTA and a Tony award under his belt, millions in the bank, is the star of one of this year's biggest box office smashes and used to go to Eton.Yet Eddie Redmayne is more than happy to ride public transport with everyone else when it comes to dashing around London.The 34-year-old actor was spotted taking the Bakerloo line from London's Elephant And Castle on Tuesday afternoon, looking characteristically smart and reading a newspaper.Scroll down for video          He's beneath you! Oscar-winning millionaire Eddie Redmayne is spotted taking the London tube AGAIN... proving once more that he's salt of the earthThe former student of Eton college sat crossed-legged, deep in concentration as he caught up with the news of the day, a stylish scarf slung around his neck against the November cold.This isn't the first time the star of The Theory Of Everything has been snapped among commuters.   RELATED ARTICLES  Previous 1 Next       Having a royally good time! Eddie Redmayne and wife Hannah...    'What a f***ing joke!': Outraged Coronation Street fans vent...    'I was in shock!' Emmerdale's Chris Bisson opens up about...    Look away now Millie! Chloe Lewis and Lillie Lexie Gregg...    
+
+Share this article
+Share
+1.5k shares
+
+ In July, he and his PR executive wife Hannah were spotted riding a busy Circle line carriage towards Victoria.But the circumstances were rather different - they were jammed on the train, having to stand up and dealing with the summer's heat.         Going underground: Eddie Redmayne is more than happy to ride public transport with everyone else when it comes to dashing around LondonTuesday's journey seemed a much more pleasant affair for Eddie, as he kept himself to himself on a corner seat of his carriage, which seemed rather empty.An eye-witness told the London Evening Standard at the time: 'No one could quite believe it was him so no-one bothered him at all.'Everyone was just getting on with their commute as normal. They just blended in like regular commuters.'A source close to the A-list actor added: 'He has lived in the city for years and is a proud Londoner. No amount of Oscars will change that.'Eddie currently stars in the latest instalment of the Harry Potter franchise, Fantastic Beasts And Where To Find Them, which is causing a frenzy at the box office.         Regular rider: In July, he and his PR executive wife Hannah were spotted riding a busy Circle line carriage towards Victoria         Salt of the earth: The 34-year-old actor was spotted taking the Bakerloo line from London's Elephant And Castle on Tuesday afternoon, looking characteristically smart and reading a newspaper       He even revealed to Time Out earlier in the month that the underground is one of the most productive places to learn lines.The two-time Academy Award nominee revealed that he spent a lot of time talking to himself on the tube, pretending to speak to the magical characters that appear in the film.The star, who plays the character of Newt Scamander in the movie, elaborated on the fact that the creatures in the story were added during post-production.'Sometimes we’d have almost War Horse-style puppets for the rehearsal. But it varied, and sometimes it just involved having little Pickett the Bowtruckle, who is a stick insect, and he would be on my hand.         Loved-up: Eddie Redmayne, 34, and Hannah still seemed to be in the first flushes of love as they attended the 60th Hennessy Gold Cup at Newbury Race Course on Saturday         A grand affair! Eddie mingled with Camilla, Duchess of Cornwall at Newbury Racecourse in the royal box over the weekend'I’d be on the tube in London, imagining talking to this thing, and suddenly realise I’m being stared at.’The star of The Danish Girl shot Fantastic Beasts in London - despite its New York setting - and declared that he prefers commuting to the set on the underground or on a bike.'I take the tube! What’s the other option in London?' he said. 'This morning they sent a car and it took an hour to go half a mile to get here. On the tube, it would have taken ten minutes.Over the weekend, Eddie and Hannah spent time mingling with royalty at Hennessy Gold Cup Day at Newbury Race Course and chatted away happily to the Duchess of Cornwall.Eddie looked relaxed in the royal box as he rubbed shoulders with Camilla, 69, who looked regal in an estate green tweed jacket and fur-lined hat.          Socialites! Eddie Redmayne and Hannah Bagshaw attended the Emilia Wickstead Christmas Cocktail party at the Emilia Wickstead London Flagship store on Monday
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Hannah_Bagshawe'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get it spot on in a polka dot dress by Emilia Wickstead
+
+
+
+
+Emilia Wickstead Spring 2017 Ready-to-Wear
+Shop the current collection at MATCHESFASHION.COM
+
+
+
+Visit site
+
+
+
+Emilia Wickstead's designs are just so instantly recognisable that we reckon we would have spotted Hannah Bagshawe's dress a mile away even if she wasn't at an Emilia Wickstead event! 
+She and Eddie Redmayne attended a Christmas Cocktail party at the London Flagship store, and of course Hannah was wearing a hot off the catwalk dress. This SS17 collection piece is typical of the label's aesthetic, and it's easy to see why the Duchess of Cambridge is one of Wickstead's biggest fans! 
+We love the ankle-grazing length and polka dot print on this dress, which Hannah teamed with perspex panel heels, a colour block clutch bag and a tailored coat. Unfortunately her dress isn't yet available to buy but click (right) to browse the current line at MATCHESFASHION.COM. 
+Or shop the Emilia Wickstead-esque options we've rounded up for you in the edit below. This Coast dress is top of our shopping list!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Coast dotty maxi dress (now reduced to £99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+L.K. Bennett polka dot dress at John Lewis (now reduced to £175)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+L.K. Bennett polka dot dress at Very Exclusive (now reduced to £147.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Myleene Klass for Littlewoods polka dot maxi dress (now reduced to £42.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Hannah_Bagshawe', FFFtype: 'inline', fff: true}});
+        }
+    
+
+But they were still perky on Monday as they attended the Emilia Wickstead Christmas Cocktail party at the Emilia Wickstead London Flagship store.The couple coordinated in blazers for the occasion and posed alongside Tom Hooper and lady of the night Emilia Wickstead.Eddie recently poked fun at the fact that Hannah found him attractive as a 'spotty teenager' and still does now, more than a decade later.They met while he was at Eton College and are coming up to their two-year wedding anniversary next month.They now have a four-month-old daughter Iris Mary, who Eddie recently joked they are 'just trying to keep her alive'.         Share the joke! Hannah appeared to crack up as Eddie looked on smiling 

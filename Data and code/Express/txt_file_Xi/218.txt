@@ -1,0 +1,21 @@
+Trump REFUSES to bow down to ‘One China’ until Beijing changes ‘killer’ finance policies
+https://www.express.co.uk//news/world/754091/Donald-Trump-China-Xi-Jinping-One-China-Taiwan-Chinese-US-diplomacy-inauguration
+ 03:15, Sat, Jan 14, 2017 
+   The Republican leader, who will take the oath of office in the coming week, has long criticised China’s business practices undercutting the US labour market.And the political firebrand whipped up alarm in Beijing when he took a call from the Taiwanese President Tsai Ing-wen – ignoring decades of US-Chinese diplomacy.The US has long committed to viewing the fringe state of Taiwan, which exists in proxy independence from the mainland superpower, as part of China under the ‘One China’ policy.  GETTYMr Trump has refused to commit to the diplomatic act until he sees some changes in China’s approach Related articles   Trump on the march: US takes first step in removing Obamacare   ‘Corbyn is like Farage and Trump’ says Ken Livingstone in bizarre clip But Mr Trump has refused to commit to the diplomatic act until he sees some changes in China’s approach to the US.Mr Trump said: “Everything is under negotiation, including One China.”It comes after the former property mogul stepped back from his commitment to label China a currency manipulator once he takes office – instead deciding to talk to Chinese officials first. Trump's Cabinet Picks Tue, December 13, 2016President-elect Donald J. Trump has began announcing cabinet-level positions, here's the latest list of appointments Play slideshow  1 of 17  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+      GETTYMr Trump is still concerned with China's financial practicesHe added: “I would talk to them first.“Certainly they are manipulators. But I’m not looking to do that.”Despite toning down his rhetoric and approaching the eastern superpower with diplomacy, Mr Trump is still concerned with their financial practices - particularly their approach to devaluing currency.The President-elect said: “Instead of saying, ‘We’re devaluating our currency,’ they say, 'Oh, our currency is dropping.’ It’s not dropping. They’re doing it on purpose.  GETTYMr Trump received a holiday greeting card from the Chinese leader  GETTYThe One China policy has long been a cornerstone of US-China relations“Our companies can’t compete with them now because our currency is strong and it’s killing us.”But relations may not be as frosty as initially feared after Trump’s Taiwan phone call – thanks to a festive card.The political firebrand was quick to show off “a beautiful card from the chairman” Chinese leader Xi Jinping in an interview with the Wall Street Journal.

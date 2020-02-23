@@ -1,0 +1,38 @@
+iPhone sales could be HALTED as China hits back against Trump
+https://www.express.co.uk//life-style/science-technology/732171/iphone-sales-ban-china-trump-business-tariffs-export-apple-halted
+ 15:51, Mon, Nov 14, 2016 
+  GETTYCould iPhone sales be blocked in this major Apple market?iPhone users across the world could be set to miss out on new devices, according to new warnings.Customers in one of Apple's biggest markets may face long delays or even a total ban of the company's devices such as the iPhone 7, experts have said.The move could lead to the company suffering a major decline in fortunes in China.  GETTYDonald Trump will take over as President in JanuaryState-run newspaper Global Times has warned that the Chinese government is set to respond with "countermeasures" if President-elect Donald Trump follows through on past promises.Trump pledged to introduce a 45 per cent tariff on Chinese exports to the US during his campaign as part of a bid to encourage US industry.At a rally in June, Trump told an audience that the US was already in, "a trade war. And we’re losing, badly."   The Global Times editorial said that if this war materalises, China will take, "a tit-for-tat approach"."A batch of Boeing orders will be replaced by Airbus. US auto and iPhone sales in China will suffer a setback, and US soybean and maize imports will be halted. China can also limit the number of Chinese student studying in the US."It added that, "a number of US industries will be impaired," if Trump destroys US-China relations. "Finally the new president will be condemned for his recklessness, ignorance and incompetence and bear all the consequences." iPhone 7 – In Pictures Tue, September 13, 2016The iPhone 7 is, without doubt, the best smartphone Apple has ever created. It is fast, incredibly powerful, has a much-improved camera and is now water resistant. However, it’s a shame there’s not more innovation with this two-year-old design Play slideshow  EXPRESS NEWSPAPERS1 of 12It might not have a new design but the useful updates make the iPhone 7 a worthwhile upgrade  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Chinese state media reported that President Xi Jinping spoke with Trump on a phone call on Monday, raising hopes of a close future relationship between the two countries.Xi reportedly told the president-elect that "cooperation is the only correct choice for China and the United States." The two men agreed to maintain close communication and meet "at an early date." President-Elect Donald Trump in pictures Tue, December 13, 2016Donald John Trump is an American businessman and politician who is President-elect of the United States as well as chairman and president of The Trump Organization Play slideshow  1 of 64  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Apple has suffered several issues with supply and demand of its latest devices in the past.Most recently, customers looking to get their hands on the iPhone 7 suffered major delays as initial stock sold out fast.Analysts have predicted that Apple could sell up to 100 million iPhone 7s by the end of the year, hlped significantly by the demise of the Samsung Galaxy Note 7.

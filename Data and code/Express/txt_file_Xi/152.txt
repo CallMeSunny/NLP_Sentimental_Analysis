@@ -1,0 +1,21 @@
+North Korea THREAT: Trump FRUSTRATED as China turns blind eye on Kim Jong-un's WW3 threat
+https://www.express.co.uk//news/world/897954/North-Korea-news-update-Donald-Trump-Kim-Jong-un-China-oil-export
+ 08:57, Sat, Dec 30, 2017 
+   North Korea was found to be sold oil at sea by Chinese ships and will still be able to do so if Xi Jinping doesn’t toughen up his trading relation with Kim Jong-un, according to Michael O’Hanlon.Soon after the discovery, President Donald Trump tweeted about his disappointment and frustration with China’s behaviour. Michael O’Hanlon told CNBC News that despite China denying any knowledge of oil sales to North Korea, Xi Jinping could simply be looking the other way when private Chinese businessmen trade at sea.  GETTYTrump was frustrated at the news China is still selling oil to North Korea despite UN sanctionsUS satellite images showed Chinese ships selling oil to North Korea despite the latest UN sanctions prohibiting any country to do so in an attempt to stop the rogue state’s threat of a nuclear strike. China denied knowledge of the transactions.Mr O’Hanlon said he believes Donald Trump and South Korea are telling the truth.The defence and foreign policy expert said: “I believe the United States and South Korea, partly because I believe our intelligence in general but also South Korea has no particular interest to ruining further relations with China and I think their assessment is consistent with ours and re-enforces the point.    Perhaps the Chinese Government is looking the other wayMichael O'Hanlon“Also one can imagine how the Chinese spokeswoman could be sort of finessing this issue. “She could be saying ‘there is no official Chinese policy to do this but the degree to which we clamp down on private businessman doing it, you know it’s sort of variable and a function of a lot of things including our own capacity but also our own preference to really squeeze North Korea or not at a given moment’.“The fact that she’s denying there’s any official Chinese policy to allow this kind of shipment at sea, doesn’t rule out the possibility of private Chinese ships and businessmen doing it.” US and South Korea meet for winter drill on North Korea's doorstep Wed, December 20, 2017The winter training exercise originally was designed to prepare for possible North Korea attacks and is annually held by soldiers of South Korea's and the U.S. Marine Corps Play slideshow  AFP/Getty Images1 of 12A South Korean Marine aims his rifle on a snowy hill during a joint winter drill with US Marines in Pyeongchang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He added: “Perhaps with some degree of the Government looking the other way.”China has been criticised unanimously by the United Nations for failing to comply with the Security Council’s sanctions. Despite voting in favour of the sanctions himself, Xi Jinping continues to show little cooperation in the global attempt to stop Kim Jong-un.

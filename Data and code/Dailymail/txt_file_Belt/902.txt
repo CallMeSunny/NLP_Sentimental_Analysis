@@ -1,0 +1,223 @@
+Catwalk queen Cindy Crawford, 51, shows off her model figure in skinny jeans and a camisole top in Malibu... amid claims 'her family has been scouted for KUWTK-style reality show'
+https://www.dailymail.co.uk/tvshowbiz/article-4968146/Cindy-Crawford-51-shows-supermodel-figure-Malibu.html
+ 23:35 BST, 10 October 2017 
+She's been busy mentoring her teen daughter Kaia through runway jobs at fashion weeks in New York, London, Paris and Milan lately.But Cindy Crawford made Malibu her own personal catwalk on Tuesday as she ran errands in a figure-hugging ensemble.At 51, the supermodel was a sight for sore eyes, reinforcing new claims that E! bosses have their hopes set on making a reality TV show out of the genetically-blessed Crawford clan.Scroll down for video          Model perfect: Cindy Crawford made Malibu her own personal catwalk on Tuesday as she ran errands in a figure-hugging ensemble
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Cindy_Crawford'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accessorize like an A-lister with Cindy's Chloé bag
+
+
+
+
+Chloé 'Drew' shoulder bag
+Buy it now at Net-a-Porter
+
+
+
+Visit site
+
+
+
+If there's one accessory that's essential when you're a celebrity it's the IT bag, and Cindy Crawford made sure she jazzed up her otherwise simple outfit with this season's favourite - the Chloé 'Drew'.
+Heading out and about in Malibu, Cindy teamed her jeans and cami top with the bag we've all been coveting for quite some time. We love the sleek black and gold theme of her outfit, which compliments the bag's chic design.
+This stylish shoulder bag with satchel design and iconic gold buckle detail doesn't come cheap at over £1000 but it will endure season after season. To shop it, click the link to the right and head to Net-a-Porter.
+For some more affordable alternatives, chek out our edit of black satchel styles below. Angela Valentine Handbags have a great doppelganger design currently available at Wolf and Badger!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Sophie Hulme nano envelope crossbody bag at Farfetch
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Angela Valentine Handbags at Wolf and Badger
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+& Other Stories gold chain bag
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+River Island gold tone chain cross body bag
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Cindy_Crawford', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Stylish as ever, Cindy flashed her legs with slits at the bottom of her Rosie HW X Paige Denim jeans and she wore a pair of matching black and gold flip flips that mirrored her black leather belt and gold buckle.   RELATED ARTICLES  Previous 1 Next       Taking a day off! Kaia Gerber ditches the runway glamour as...    Can I sell you a kitchen? Cindy Crawford dons two-tone dress...    Engaged! La La Land director Damien Chazelle proposes to...    Make-up free Julia Roberts cuts a casually chic figure as...    
+
+Share this article
+Share
+
+ Making sure she was fully coordinated, she slung a black leather purse on a gold chain across her body as she walked.She finished off with a black felt hat over her loose brunette tresses and a pair of large black-framed sunglasses.         Family affair! Cindy and husband Rande Gerber accompanied Kaia to all the fashion shows, where their son Presley, 18, also got jobs modeling for some of fashion's top designers  and now it's believed that E! bosses would like to base a reality TV show on the family         World class beauty: The supermodel, who's 51, looked sensational in black jeans belted at the waist and a camisole-style top with plunging neckline              Cindy's jeans were slit at the bottom and she wore a pair of matching black and gold flip flips that mirrored her black leather belt and gold buckle.The stunning beauty who's married to tequila tycoon Rande Gerber appeared to be without make-up, showing off her glowing skin. She wore a tiny gold heart on a gold chain around her neck and luxury wristwatch.She and Rande accompanied Kaia, 16, to all the fashion shows, where their son Presley, 18, also got jobs modeling for some of fashion's top designers.Now, it's believed that the brains behind Keeping Up With The Kardashians - which focuses on Kim, Khloe and Kourtney Kardashian, as well as Kris, Kendall and Kylie Jenner - are plotting a show about the Crawford-Gerbers.       A source inside E! told the National Enquirer: 'Reality TV's most famous clan, the Kardashians, may be celebrating their 10-year anniversary on E!, but spies said the network is looking for a family to replace them, and have set their sights on Cindy.'The insider continued: 'Cindy is married to George Clooney's best friend, Rande Gerber, and they have two beautiful kids together, Kaia and Presley Gerber.' A representative for Cindy Crawford has been contacted by MailOnline for comment. There's disputing the public interest in the model family, after Kaia made her Fashion Week debut at 16, this September.But the source conceded that it may an uphill struggle to get the four-piece on board, saying: 'The only problem E! has is convincing them to do the show.'          Natural style: The make-up free beauty finished off with a black felt hat over her loose brunette tresses and a pair of large black-framed sunglasses         Stepping out: Making sure she was fully coordinated, she slung a black leather purse on a gold chain across her body as she walkedCindy has been defending the decision to let Kaia embrace modeling as a career at a young age.'In some ways, I wish I could have pushed it off a year or two. But she's 16. That's how old I was when I started, which is young, but in fashion that's kind of the normal age when people start,' she explained.The veteran model added: 'The great thing for my kids is that I know a lot about that world,' Crawford said. 'I feel like: Who better to help guide them than me?'                Spitting image: She's been busy mentoring daughter Kaia, 16,at runway jobs at fashion weeks in New York, London, Paris and Milan. The teen is pictured  at the Versace show in September 

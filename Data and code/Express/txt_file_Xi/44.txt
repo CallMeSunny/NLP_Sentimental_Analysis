@@ -1,0 +1,21 @@
+Smiling North Korea leader Kim Jong-un MET with Xi Jinping during CONFIRMED China visit
+https://www.express.co.uk//news/world/938007/North-Korea-Kim-Jong-Un-visit-to-China-confirmed-talks-with-Xi-Jinping-held
+ 06:41, Wed, Mar 28, 2018 
+   China has announced that the visit took place - the despot leader is believed to have already left the Asian superstate.During the meeting with president Xi, the leader of the hermit kingdom stated that he was “committed to denuclearisation” on the Korean peninsula.He said: “If South Korea and the US respond to our efforts in good faith, build a peaceful and stable atmosphere, and adopt phased and simultaneous steps for peace, the issue of denuclearisation on the Peninsula can be resolved."The issue of denuclearisation of the Korean Peninsula can be resolved, if South Korea and the United States respond to our efforts with goodwill, create an atmosphere of peace and stability while taking progressive and synchronous measures for the realisation of peace."  TwitterChina has announced that the visit took place Related articles   North Korea may RESUME nuclear tests after Trump’s Bolton appointment   North Korea: US to send F-35 aircraft to South Korea in major warning  Kim Jong-un also confirmed that Pyongyang is willing to hold a summit with Donald Trump.The Chinese leader also expressed a willingness to keep in contact with Kim and could visit North Korea in the near future.An image has emerged of the two leaders shaking hands together in front of their respective flags.Xi Jinping is believed to have requested Kim for the visit. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The leader of the hermit kingdom made the trip with his wife.Images of the couple were shown on Chinese state television - they were shown greeting officials.The trip took place from March 25 to March 28.  TwitterThe trip took place from March 25 to March 28Kim’s visit to China is considered to be the first the leader has taken since his fathers death towards the end of 2011.The entire event was kept extremely secretive with only a sighting of the North Korean train giving any indication the trip was going ahead.China has long been heralded as the North’s sole ally and biggest trading partner.The Asian superstate was seemingly targeted as the key to diffusing tensions with North Korea by the US who has pushed for Xi Jinping to cripple the hermit kingdom with sanctions.US Defence Secretary James Mattis had previously offered a qualified confirmation of the rumours by stating that it “kinda looked like” the trip had taken place.Kim Jong-un’s father, Kim Jong-il met with then Chinese leader Jiang Zemin back in the year 2000 - at the time the visit was seen as a reaffirmation of the close ties between both nations.

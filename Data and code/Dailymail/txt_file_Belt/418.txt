@@ -1,0 +1,254 @@
+Just kicking back: Victoria Beckham looks VERY relaxed in karate-inspired outfit as husband David and Vogue's Anna Wintour support her at NYFW
+https://www.dailymail.co.uk/tvshowbiz/article-3784056/A-black-belt-fashion-Victoria-Beckham-shows-kooky-karate-inspired-ensemble-ahead-New-York-Fashion-Week-show.html
+ 15:07 BST, 11 September 2016 
+She has successfully made the transition from pop star to fashion designer.And Victoria Beckham proved she has the style supremo job nailed as she showcased her Spring/Summer 2017 collection at New York Fashion Week on Sunday, while sporting a loose-fitting karate-inspired ensemble for the show.The 42-year-old Spice girl-turned-pop star wore a baggy white shirt with stone-coloured trousers and a thick black belt tied around her slender hips as she was followed by husband David and her son Brooklyn. Scroll down for video                     She's a star! Victoria Beckham has successfully carved made the transition from pop star to fashion designer 
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Victoria_Beckham'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belt up in a statement pair of trousers like Victoria
+
+
+
+
+Victoria Beckham SS17 trousers
+Victoria in Victoria Beckham!
+
+
+
+Visit site
+
+
+
+Victoria Beckham is obsessed with trousers. It's official. In the last week we've seen her in a new pair everyday, from tailored and chic, to relaxed and loose. And these ones, made from what looks like linen, are brand new, and from her spring summer 2017 collection. 
+Being the designer, Victoria gets to wear pieces from a new collection whenever she wants, and she chose to wear these trousers on her way to her catwalk show during New York Fashion Week. 
+Now that's a preview we like! 
+This stone colour featured a lot in the new collection, mainly through the boots that went with almost every look. We love that she's teamed these with this stripe shirt. It's a casual-cool outfit that any woman can emulate. 
+Every woman needs a good pair of trousers in her wardrobe, and even though you can't buy these now, you can shop her current collection by clicking on the right, or choose from one of the pairs we've found below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET  A PAIR LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Jigsaw linen wrap front trousers
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Topshop cropped Wide Leg Trouser
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Parallel Lines Tailored Trousers With Wrap Front at ASOS
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Mango Soft fabric trousers
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (true) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Victoria_Beckham', FFFtype: 'inline', fff: true}});
+        }
+    
+
+With New York Fashion Week underway, it is imperative any Big Apple fashionista is dressed flawlessly - something Victoria seemed to abide by.As she unveiled the forthcoming collection from her self-titled brand, she was in comfortable yet stylish garb, rocking the loose look with aplomb.   RELATED ARTICLES  Previous 1 Next       TOWIE's Megan McKenna flaunts killer pins in tropical silk...    Leggy display! Mel B flaunts a lot of flesh in sexy side...    'Feeling loved this morning!' Victoria Beckham receives...    
+
+Share this article
+Share
+
+ Victoria allowed the loose garments to hang off her slender frame with the white button-down shirt bunching at the sleeves and then tucked into her sarong-style pants.She completed the look with the black sash style belt which coordinated with her flat sandals - a shocking look for a woman famed for her love of heels.          A brief smile! Anna Wintour looked impressed with the show as she cracked a rare smile                      Handsome support: David was the perfect addition to the audience as he threw his support          Last men (and woman) standing: As the show kicked off, the entire audience were seen sitting down save for an extremely stoic looking Brooklyn, David and Anna                     All white: Many of the dresses were simple in theme and even void of colour          Stunning: The venue was nothing short of beautiful as the guests drank in the stunning views               Greeting the ladies: David was on the charm offensive as he greeted the front row          All the fash pack! The group were looking forward to the show ahead Pride of place in the front row was David, who could not stop smiling as he watched on with pride at his wife's latest work. Anna, famed for being notoriously hard to please, was beaming as she watched the collection - implying she had given Victoria a much-desired thumbs up. The fashion powerhouse wore a chic blue and white gown as she sat on the front row while wearing her trademark bob in a chic blowdry. As the show kicked off, the entire audience were seen sitting down save for an extremely stoic looking Brooklyn, David and Anna.  As ever the collection was stunning with extremely loose silhouettes on dresses as well as a mustard-coloured three-piece coord with just a bra beneath.           Her supporters: Brooklyn, David and Anna were engrossed in the show as they watched on                      Intense stares: The collection was rich with colour blocking and many ensembles boasted extremely similar styles or hues         All good? Anna, famed for being notoriously hard to please, was beaming as she watched the collection - implying she had given Victoria a much-desired thumbs up                     Sensational: Victoria debuted her first collection of dresses to a dubious industry in 2008. With only 400 dress made for the first season, the former pop star didn't aim to highBackstage at the launch, Victoria told Vogue: 'I really feel I've come into my own this season. This is how I want to dress now.  It's looser, much more effortless, more comfortable. I wanted the clothes to look like they'd just been thrown on.'Victoria debuted her first collection of dresses to a dubious industry in 2008. With only 400 dress made for the first season, the former pop star didn't aim to high.However, she blew the fashion world away with her sleek, feminine, well-made designs, easily recognisable as 'Brand Beckham' thanks to signature additions such as a zipped-up back.                     Feeling green: Alongside the flowing slips crushed velvet was also a key part of the collections         Fashion fun: David and Anna were engrossed in chat as they awaited the clothes along the runway               Earning their stripes: The models looked fabulous as they walked the runway           more videos           1   2   3                   Watch video  Jeremy Meeks and Andreea Sasu stuns on the red carpet at Cannes       Watch video  Stormi interrupts Kylie Jenner promoting her skin care line       Watch video  Blac Chyna opens up and tells all on her plastic surgeries       Watch video  Susanna Reid's mum angrily lambasts Piers Morgan over text on GMB           Watch video  MAFS' Ines Basic shows off her new porcelain veneers       Watch video  Mick Jagger's still got the moves after major heart operation       Watch video  Matilda Brown welcomes baby boy with MKR's Scott Gooding       Watch video  Alessandra Ambrosio wears breathtaking red ensemble at Cannes           Watch video  Isaac Kappy accuses Seth Green and James Gunn being pedophiles       Watch video  'I wanna be as famous as Marilyn Monroe': Gemma Collins in LA       Watch video  Katie Price shows off dazzling teeth during trip to Turkish dentist       Watch video  Elton John and Taron Egerton perform emotional duet at premiere          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-87', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+     Her shows soon became one of the hottest seats at New York Fashion Week, where she has shown two collections a year ever since. This year, figures filed at Companies House show that the turnover from the her and David's joint incomes totalling £65.8 million.Victoria's clothing range and related activities made £34.5 million, overtaking David for the first time, with his income bringing in £17.2 million.The business has boomed since opening in 2008, with her first store opening on London's Dover Street in 2014.She is set to open a space in Hong Kong next year, and is hoping to follow with stores in Dubai, New York and Miami.                     Striking: She is set to open a space in Hong Kong next year, and is hoping to follow with stores in Dubai, New York and Miami          more videos           1   2   3                   Watch video  Jeremy Meeks and Andreea Sasu stuns on the red carpet at Cannes       Watch video  Stormi interrupts Kylie Jenner promoting her skin care line       Watch video  Blac Chyna opens up and tells all on her plastic surgeries       Watch video  Susanna Reid's mum angrily lambasts Piers Morgan over text on GMB           Watch video  MAFS' Ines Basic shows off her new porcelain veneers       Watch video  Mick Jagger's still got the moves after major heart operation       Watch video  Matilda Brown welcomes baby boy with MKR's Scott Gooding       Watch video  Alessandra Ambrosio wears breathtaking red ensemble at Cannes           Watch video  Isaac Kappy accuses Seth Green and James Gunn being pedophiles       Watch video  'I wanna be as famous as Marilyn Monroe': Gemma Collins in LA       Watch video  Katie Price shows off dazzling teeth during trip to Turkish dentist       Watch video  Elton John and Taron Egerton perform emotional duet at premiere          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-94', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+     Speaking about her team to the Daily Telegraph, she explained: ‘I have a great team of people who work with me. I’m not doing this on my own.‘I think we have grown in confidence. I dress differently now to how I did then. I wear looser dresses, flat shoes. I can express myself in a different way.'I want to evolve each season. I never want to be one of those brands where people know what they’re going to see. I always want an element of surprise.'One thing I never want to do is copy what anybody else is doing. I have a signature, and it’s very important to me to stay true to that.’               Proud: David Beckham wrote a gushing message to his wife on Instagram saying he was 'very proud' of her. Meanwhile, his son Brooklyn preferred to pose cheekily with the models         Will she measure up? Victoria shared this hilarious Instagram snap of herself and one of the leggy models                     Beauties: Victoria's clothing range and related activities made £34.5 million, overtaking David for the first time, with his income bringing in £17.2 million         Nearly time! The Spice girl-turned-pop star was followed by husband David and her son Brooklyn as she headed to the show                     Unexpected: 'I want to evolve each season. I never want to be one of those brands where people know what they’re going to see. I always want an element of surprise', said Victoria              Tres chic: With New York Fashion Week underway, it is imperative any Big Apple fashionista is dressed flawlessly - something Victoria seemed to stick byEarlier in the day, when heading to the show, in true superstar style, Victoria wore huge sunglasses with a dazzling gold watch, while her beauty regimen was equally flawless with loose curls worked through her tresses and a natural make-up look. Hot on her heels of leaving the hotel was David, who opted for an extremely bizarre creased suit in a rusty brown colour, paired with his favoured baker boy cap.Brooklyn, 17, looked like a rocker in head to toe black while his long hair was wet, seemingly fresh from the shower. He clutched his camera, no doubt to snap images from his mum's show, to assist his desire to be a photographer.           Sunnies: In true superstar style, Victoria wore huge sunglasses with a dazzling gold watch, while her beauty regimen was equally flawless with a loose curls worked through her tresses and a natural make-up look              The karate kid: Victoria Beckham proved she knows how to push the style stakes as she stepped out in New York on Sunday sporting a loose-fitting karate-inspired ensemble ahead of her fashion show         Strange ensemble: Hot on her heels was David, who opted for an extremely bizarre creased suit in a rusty brown colour, while also rocking his favoured baker boy cap         Supportive son: Brooklyn, 17, looked like a rocker in head to toe black while his long hair was wet, seemingly fresh from the shower. He clutched his camera, no doubt to snap images from his mum's show, to assist his desire to be a photographer              Daddy and son: As the fashion world awaits the unveiling of her new collection, Victoria received some words of encouragement from her biggest fansAs the fashion world awaits the unveiling of her new collection, Victoria received some words of encouragement from her biggest fans.Brooklyn and the star's other three children  - Romeo, 14, Cruz, 11, and Harper, 5 - sent her a bouquet of flowers along with a touching note to calm any nerves ahead of her New York Fashion Week show on Sunday.She shared the sweet snap to her 12 million Instagram followers, which read: 'To Mummy, good luck with the show. We love you.         Hot mama: Victoria, who has been hard at work ahead of her NYFW show on Sunday, received a touching message from her children to calm any nerves         Supportive brood: The designer gushed over her adorable family, who sent her flowers as well as a good luck card ahead of the collection's big revealThe proud mother gushed over her adoring children with the caption: 'Feeling loved this morning, I love you @davidbeckham @brooklynbeckham X Kisses from NY VB #VBSS17 #NYFW'.The picture perfect family often turn out in full force to lend their support to the matriarch of the clan, with dad David and their brood usually sat in the front row of her runway shows.  Victoria ensured she got an early start on Sunday as she left her hotel to sort out the last minute preparations for the collection's big reveal. Sticking to her latest trusty style combination of a shirt and trousers, Posh Spice oozed glamour as she stepped out in the cityFlashing her decolletage whilst remaining demure, the mum-of-four donned a navy blouse with white cuffs that she rolled up to show off her toned arms.                If it aint broke! Sticking to her trusty style combination of a shirt and trousers, the 42-year-old designer oozed glamour as she stepped out in the city         Getting shirty: Flashing her decolletage whilst remaining demure, the mum-of-four donned a navy blouse with white cuffs that she rolled up to show off her toned armsTucking the garment in to highlight her slender waist, the brunette beauty also wore a pair of billowing trousers with a vertical stripe along the seams that aided in elongating her petite frame. Keeping her accessories simple, she finished off the look with a chunky gold watch, whilst she clutched a large white handbag - no doubt filled with designs and plans - with her perfectly manicured fingers.Victoria admitted last year she will read all her reviews when they come in.'I think people who say they don’t read everything are probably lying, people who say they don’t care are probably lying,' she told The Telegraph.'There’s nothing wrong with constructive criticism, and I learn from that and better myself. I’m not expecting anyone to be sycophantic in any way, I never expected that.’              Leggy lady! Tucking the garment in to highlight her slender waist, the brunette beauty also wore a pair of billowing trousers with a vertical stripe that aided in elongating her petite frame          more videos           1   2   3                   Watch video  Jeremy Meeks and Andreea Sasu stuns on the red carpet at Cannes       Watch video  Stormi interrupts Kylie Jenner promoting her skin care line       Watch video  Blac Chyna opens up and tells all on her plastic surgeries       Watch video  Susanna Reid's mum angrily lambasts Piers Morgan over text on GMB           Watch video  MAFS' Ines Basic shows off her new porcelain veneers       Watch video  Mick Jagger's still got the moves after major heart operation       Watch video  Matilda Brown welcomes baby boy with MKR's Scott Gooding       Watch video  Alessandra Ambrosio wears breathtaking red ensemble at Cannes           Watch video  Isaac Kappy accuses Seth Green and James Gunn being pedophiles       Watch video  'I wanna be as famous as Marilyn Monroe': Gemma Collins in LA       Watch video  Katie Price shows off dazzling teeth during trip to Turkish dentist       Watch video  Elton John and Taron Egerton perform emotional duet at premiere          
+  DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-147', 'channelCarousel', {
+          "activeClass" : "wocc",
+          "pageCount" : "3.0",
+          "pageSize" : 1,
+          "onPos": 0,
+          "updateStyleOnHover": true
+      });
+  });
+     But Victoria looked ready for business as she made her way to her studio in a pair of heels - a rarity now that she often favours flat shoes.  She added to The Telegraph earlier this year: 'I just can’t do heels any more. At least not when I’m working. I travel a lot. Clothes have to be simple and comfortable.'This, despite once famously saying she didn't 'get' ballerina pumps.She growled: 'I beyond hate ballerina flats. I can't walk in them. Unless they're on a ballet dancer doing ballet, I just don't get it. I love heels. I hate my feet - they are the most disgusting thing about me.'         Getting ready: Keeping her accessories simple, she finished off the look with a chunky gold watch, whilst she clutched a large white handbag - no doubt filled with designs and plans

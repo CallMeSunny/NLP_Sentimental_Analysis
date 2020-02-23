@@ -1,0 +1,21 @@
+China to increase sea and air patrols as Trump accused of ‘PROVOKING’ Beijing
+https://www.express.co.uk//news/world/824512/China-sea-air-patrols-US-accused-Beijing-USS-Strethem-South-China-Sea-Parcel-Islands
+ 11:29, Tue, Jul 4, 2017 
+  GETTYPresident Xi Jinping has called Donald Trump over what China claimed was aggressionMilitary jets were scrambled to the USS Stethem while Chinese leader Xi Jinping called US President Donald Trump.The nation has vowed to step up patrols by air and sea while Mr Xi said there are a number of “negative factors” disrupting relations between the two nations.On Sunday the USS Stethem came within 12 nautical miles of Triton Island which is claimed by China, Taiwan and Vietnam.Ever since his ascension to the White House Mr Trump has refused to steer clear of political tangles in the region.The President even agreed a $1.3billion arms sale in Taiwan, which is viewed as a renegade province of China.  GETTYThe USS Strethem: Trump in hot water over US advances towards disputed island Related articles   China warns of 'DISASTROUS consequences' if North Korea tensions flare   Donald Trump responds to 4th July North Korean missile launch   GETTYParcel Islands are disputed territories in the South China SeaMr Trump previously called his Chinese counterpart a “good man” after they met in April.Mr Xi reportedly told Trump during the phone call he expects Washington to stick to the “one China” principle, and refuse to deal with Taiwan as if it were autonomous.He said: “Xi Jinping emphasised that, since meetings with the President at Mar-a-Lago, China-US relations have achieved important outcomes.“At the same time, bilateral relations have been affected by some negative factors.”The relationship between the two is crucial now as North Korea steps up missile tests - but the South China Sea, and Trump’s wading in on it, remains an issue of contention between the pair. Related articles   US ship provokes China, Taiwan and Vietnam sailing into waters   North Korea threat the hot topic in discussions between USA and China  Bewildering photographs from inside a North Korean circus Thu, June 29, 2017From a monkey balancing on a goat, to a team of Shih Tzus playing football, North Korea is keen to show tourists their wide range of entertainment. Situated in the capital of Pyongyang the North Korean zoo and circus are regular attractions for wealthy locals and visiting Westerners Play slideshow  Barcroft Images1 of 20A monkey doing a handstand on a goat in a local animal show in Pyongyang, North Korea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    China has attempted to keep the role as peacemaker by introducing financial and trade sanctions on North Korea, but Mr Trump is calling for it to do more.After the launch of another ballistic missile, which likely hit Japanese waters, Mr Trump tweeted: “Perhaps China will put a heavy move on North Korea and end this nonsense once and for all!”Just one month ago the two nations agreed to find a lasting solution to the chaos coming from North Korea.However, analysts have claimed Mr Trump is being put off the relationship by China’s failure to reign in neighbouring dictator Kim Jong-Un.

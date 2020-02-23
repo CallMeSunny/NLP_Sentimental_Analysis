@@ -1,0 +1,38 @@
+Merkel to skip World Economic Forum for SECOND year running 'to avoid Trump questions'
+https://www.express.co.uk//news/world/749397/angela-merkel-donald-trump-davos-world-economic-forum
+ 16:40, Mon, Jan 2, 2017 
+  AFP GETTYAngela Merkel will miss this year's World Economic Forum as Donald Trump moves into the White HouseAngela Merkel is steering clear of the World Economic Forum (WEF) in Davos, a meeting expected to be dominated by debate over the looming presidency of Donald Trump and rising public anger with elites and globalisation.Mrs Merkel has been a regular at the annual gathering of political leaders, CEOs and celebrities, travelling to the snowy resort in the Swiss Alps seven times since becoming chancellor in 2005.Her spokesman said: "It's true that a Davos trip was being considered, but we never confirmed it, so this is not a cancellation.”  Related articles   Schulz 'will NOT try to oust Merkel as he fears upsetting his friend   Soros' bleak 2017 forecast: Businessman warns EU will FALL  It's true that a Davos trip was being considered, but we never confirmed it, so this is not a cancellationAngela Merkel spokesmanThis year's conference runs from January 17-20 under the banner "Responsive and Responsible Leadership". Mr Trump's inauguration coincides with the last day of the conference.It is the first time Mrs Merkel has missed Davos two years in a row since taking office over 11 years ago.   One European official suggested the prospect of having to address questions about Mr Trump days before he enters the White House might also have dissuaded Mrs Merkel.The German Chancellor's politics are at odds with the president-elect on a broad range of issues, from immigration and trade, to Russia and climate change.During the US election campaign, Mr Trump described Mrs Merkel's refugee policies as "insane".  REUTERSAngela Merkel last attended the conference in Davos in 2015 World Economic Forum meeting in Davos Thu, January 22, 2015World Economic Forum (WEF) annual meeting in Davos Jan. 21-24. World leaders including France's Francois Hollande, Germany's Angela Merkel and China's Li Keqiang will gather at the annual Davos forum, seeking to chart a path away from fundamentalism towards solidarity. The world's political and business elite gather in the glitzy Swiss ski resort with the shadow of recent attacks in France and ongoing global conflicts looming large. Play slideshow  AFP/Getty Images1 of 16A screen is pictured at the Congress Center on  the eve of the World Economic Forum (WEF) annual meeting in Davos on January 20, 2015  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The German government declined to say what scheduling conflict was preventing her from attending, nor would it say whether the decision might be linked to the truck attack on a Berlin Christmas market that killed 12 people in mid-December.Although the WEF does not comment on which leaders it is expecting until roughly a week before the meeting, the star attraction is expected to be Xi Jinping, the first Chinese president to attend.Members of President-elect's team, including former Goldman Sachs president Gary Cohn and fund manager Anthony Scaramucci, are also expected.   AFP GETTYMembers of Donald Trump's team are expected to attend The many faces of Angela Merkel Wed, May 17, 2017German Chancellor, Angela Merkel through the years Play slideshow  1 of 16  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    WEF Chairman Klaus Schwab was invited to Trump Tower last month, although the purpose of the visit was unclear.German Defence Minister Ursula von der Leyen, who was elected to the WEF board of trustees last year, is expected to attend, as are senior ministers from a range of other European countries, as well as top figures from the European Commission.

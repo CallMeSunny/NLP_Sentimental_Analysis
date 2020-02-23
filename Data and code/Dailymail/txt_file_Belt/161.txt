@@ -1,0 +1,219 @@
+Ashley Greene lets boyfriend Paul Khoury take the lead as couple hold hands after romantic dinner date
+https://www.dailymail.co.uk/tvshowbiz/article-2927846/Ashley-Greene-adds-outfit-keyhole-heads-dinner.html
+ 08:18 BST, 27 January 2015 
+She's an actress with several leading lady roles under her belt.But off-screen Ashley Greene is happy to take the backseat as she let boyfriend Paul Khoury lead the way after a dinner date on Monday evening.The stylish couple exited Craig's in West Hollywood hand-in-hand after a romantic evening at the celebrity hotspot.         Going strong: Ashley Greene was seen enjoying a Monday date night with beau Paul Khoury at Craig's in West HollywoodThe 27-year-old Twilight star looked chic as ever in a $695 My-Perfect-T gold and silver key hole blouse which she teamed with black skinny jeans and black heeled pumps. She completed the look with a generous amount of makeup, including heavy eyeliner, a smokey eye and a glossy pink lip. Her copper-brown tresses rested down around her shoulders.         Hungry: Ashley was seen arriving separately at the upscale eatery earlier in the evening
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Ashley_Greene'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bag yourself some covetable arm candy with Ashley's Alexander McQueen tote
+
+
+
+
+Alexander McQueen Legend bag
+Click to buy at LuisaViaRoma.com
+
+
+
+Visit site
+
+
+
+Some girls are all about the shoes but today we're all about bags.
+There's nothing quite as exciting as transferring all your essentials from an old scruffy tote to a brand spanking new one and at this annual time of new beginnings it's the perfect moment to upgrade.
+If in any doubt it just has to be black. Save the tan or brightly coloured for the height of summer. We're talking classic, sophisticated black that will work with any look and take you from the boardroom to the bar.
+For inspiration look to Ashley Greene who has in her possession a super smart tote by Alexander McQueen. We love the simple structured style and it's big enough to fit in everything AND the kitchen sink.
+So give your accessories an upgrade with a designer bag that won't go out of fashion by clicking the link (right). If the price tag is giving you palpitations then get the look for a lot less with our edit below. Topshop, New Look and Carvela have all got stylish totes that won't break the bank.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Topshop black tote bag
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Fiorelli black tote bag at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+New Look black tote bag
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Carvela black tote bag at Kurt Geiger
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Ashley_Greene', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Leading the way: The couple left hand-in-hand from the celebrity hotspotThe actress is one of many famous faces who have tucked into American comfort food dishes at the trendy restaurant.Indeed Kim Kardashian was also dining there on Monday night.George Clooney and Bill Clinton are regulars, and last week Adele and Jennifer Lawrence broke bread while One Direction singer Harry Styles was seated nearby.          Stylish couple: Ashley's beau of almost two years wore a grey duffle-style jacket a white T-shirt and grey jeans         So close: The Twilight star showed off her glossy coppery brown tresses as she softly grasped her boyfriends handThe couple - who have been dating for nearly two years - spent Christmas together and Paul presented her with a platinum Cartier ring in the jewelers iconic red box.Ashley, who was previously in a much publicised relationship with Joe Jonas, posted a picture of the ring to her Instagram account - along with a denial that Paul had popped the question.She captioned it: 'Merry Christmas to me!! I'm the luckiest lady that ever lived #notengaged #justinlove.'         Trendy: The actress donned a $695 top from My-Perfect-T - the Stardust Miki Blouse with skinny black jeans and chic pumpsThe rings, which are often used as wedding bands, come in a range of precious metals and prices start from £750 to over £4,400.  Ashley and Paul have been inseparable since they were introduced in the Spring of 2013. Paul is best friends with Miley Cyrus's ex Liam Hemsworth.In the November 2012 issue of Manhattan magazine, Ashley revealed what she looked for in a man.'You need someone who is going to help you make that better version of yourself,' she said.'I need someone who is strong but supportive and who loves me -- someone who isn't afraid to call me on my s**t.'          Nothing in the tank: Clearly giving the workout her all, the actress emerged from a class looking rather tired and sweaty on Friday 

@@ -1,0 +1,21 @@
+South Korea on collision course with Trump as new leader vows closer ties with Kim Jong-un
+https://www.express.co.uk//news/world/802594/Moon-Jae-in-Donald-Trump-North-Korea-China-Kim-Jong-un-Pyongyang
+ 08:19, Wed, May 10, 2017 
+  GETTYMoon Jae-in's comments are likely to anger US president Donald TrumpIn his first speech after being sworn in, Moon Jae-in vowed to "solve the security crisis" in the region.The left-winger even said he wanted to meet Kim Jong-un amid growing fears the despot could trigger an all-out nuclear war.He told the country's parliament: "I will urgently try to solve the security crisis. Related articles   South Korea could BLOCK Donald Trump's anti-missile system THAAD   Trump to host Putin aide as US and Russia aim to settle North Korea  If needed, I will fly straight to WashingtonMoon Jae-in"If needed, I will fly straight to Washington. I will go to Beijing and Tokyo and, if the conditions are right, to Pyongyang also."His comments are likely to infuriate Donald Trump.The President believes South Korea and other countries in the region should isolate – not cosy up to – Kim's hermit state.  GETTYThe new South Korean leader even said he wanted to meet Kim Jong-un All the best pictures as South Korea elects Moon Jae-in Tue, May 9, 2017Liberal politician Moon Jae-in wins South Korea's presidential election, a victory that would end nearly a decade of conservative rule and bring a more conciliatory approach toward North Korea Play slideshow  REUTERS1 of 11South Chungcheong governor An Hee-jung kisses South Korea's president-elect Moon Jae-in at Gwanghwamun Square in Seoul  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    It is unclear how willing Kim would be to meet Mr Moon.The dictator has not met any foreign leaders since replacing his father Kim Jong-il at the helm of the communist regime in 2011.Mr Moon's predecessor Park Geun-hye, who was impeached amid a corruption scandal, took a much harder stance on the North.  GETTYThe warmongering North Korean despot has never met a foreign leaderHe also said he would have "serious negotiations" with the United States and China over anti-missile system THAAD.The US deployed the controversial system in the South last month, angering China, which sees it as a threat to its security.The issue has clouded efforts to rein in North Korea's nuclear and missile programmes.  GETTYMoon Jae-in replaces Park Geun-hye, who was impeached in MarchChinese President Xi Jinping congratulated Mr Moon after his swearing-in.He said China was willing to handle disputes with South Korea "appropriately" on the basis of mutual trust and understanding.And a White House spokesman said Mr Moon's election would "deepen the enduring friendship and partnership between our two countries".

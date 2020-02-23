@@ -1,0 +1,21 @@
+Where Christmas was BANNED: China’s Christians suffer brutal crackdown over festivities
+https://www.express.co.uk//news/world/900102/Christmas-China-christian-persecution-christianity-Xi-Jinping
+ 14:07, Thu, Jan 4, 2018 
+  GETTY Christmas was banned in China Security officials sent out words of warnings to pastors and worshippers, warning them Christmas trees, Santa Claus, festive hats and any other items relating to Christmas were forbidden.In Heshan, Guangdong, authorities installed CCTV cameras inside a government-run church in a bid to monitor its Christmas festivities in a crackdown on churches by the communist regime. One church in Guangfu was even forced to relocate after suffering repeated persecution, according to China Aid, a human rights organisation. A former pastor said: “A public security agent called me and asked how we celebrated Christmas and how many people would attend, saying we must report to him.  GETTY Xi Jinping's regime has launched a major crackdown on Christianity  Related articles   Princess Charlotte starts nursery TODAY - but why is she at a diffe...   Princess Charlotte pictures: Royal prepares for first day at nursery   A public security agent called me and asked how we celebrated Christmas and how many people would attend, saying we must report to himPastor“I also heard news from other places that persecution is much more severe this year, especially recently, in Henan.”A notice published by the Anqing Municipal Public Security Bureau in Anhui province read: “All special and public places are not allowed to celebrate Christmas. “Even creating a Christmas atmosphere - such as putting up Christmas trees, Santa Claus, wearing Christmas hats, and all other items related to Christmas - is severely restricted, and all Christmas-related activities are required to be cancelled.”Meanwhile, in Zhejiang province groups of senior officials marched the streets of the province, chanting “Boycott Christmas” and “No Christmas”. Stunning Religious Festivals around the World Thu, March 2, 2017Our selection of the most visually stunning religious festivals from around the world. Play slideshow  1 of 11  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Shocked shoppers at a nearby shopping centre were horrified to witness a group of technicians tearing down a Christmas tree. One Christian in Tonghua, Jilin, said at the time: “The church gatherings in this place, especially the house churches, are not allowed, and no more than eight people can even attend separate parties. “All are scattered and secretly get together.”Xi Jinping’s Chinese Communist Party has launched a major crackdown on religion in China recent months in an attempt to oppress religious freedom and exercise control.  GETTY Officials launched a crackdown on Christmas trees, hats and Santa Claus Churches not sanctioned by the government have been put under surveillance with hundreds of Christians arrested for disturbing public order for offences such as holding bible study groups and displaying crucifixes outside their homes. There have been reports of churchgoers being banned from praying, singing hymns, crosses removed from buildings and people arrested for attending church services. 

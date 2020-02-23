@@ -1,0 +1,21 @@
+China wades into North Korea NUCLEAR CRISIS with urgent phone call to Trump
+https://www.express.co.uk//news/world/929630/north-korea-nuclear-war-usa-meeting-donald-trump-kim-jong-un-china
+ 17:51, Fri, Mar 9, 2018 
+   North Korea’s despotic leader Kim Jong-un is prepared to meet with Donald Trump, South Korea announced yesterday, setting the stage for a historic showdown.And today Chinese president Xi Jinping announced he supported the meeting in a phone call with Mr Trump.President Xi told Mr Trump he appreciates his desire to resolve the North Korea issue politically rather than militarily.Chinese state media said the pair talked by phone earlier today, hours after it was revealed Kim will meet Mr Trump face-to-ace.  GETTYNorth Korean despot Kim Jong-un has agreed to meet face-to-face with Donald Trump Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The state-run news agency said Mr Xi told Mr Trump he hopes all sides can show goodwill and avoid doing anything that may affect or interfere with the improving situation on the Korean peninsula.And he also said he hoped China and the US would continue to work together economically.Today the UN also spoke out in support of the talks.   Secretary-General Antonio Guterres’s spokesman said he is encouraged by the planned meeting.He said: “He commends the leadership and vision of all concerned and reiterates his support for all efforts towards peaceful denuclearization of the Korean peninsula in accordance with relevant Security Council resolutions.”Yesterday South Korea's National Security Office head Chung Eui-yong said Mr Trump had accepted an invitation by Kim for a face-to-face meeting.  GETTYNorth Korea news: Donald Trump and Xi Jinping spoke by telephone todayMr Trump has previously derided the North Korean leader as a "maniac," referred to him as "little rocket man" and threatened in a speech to the United Nations last year to "totally destroy" Kim's country of 26 million people if it attacked the US or one of its allies.The meeting will take place by May, South Korea said.

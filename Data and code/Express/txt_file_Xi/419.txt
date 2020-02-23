@@ -1,0 +1,21 @@
+Trump may strike North Korea BEFORE Kim Jong-un can attack US, former military chief says
+https://www.express.co.uk//news/world/788534/Donald-Trump-may-strike-North-Korea-before-Kim-Jong-un-attack-Jack-Keane-Jinping-Florida
+ 06:02, Thu, Apr 6, 2017 
+   General Jack Keane, Trump’s first choice for US Defence Secretary, applauded the US President and his Chinese counterpart for considering a “strike-first” military action against the hermit kingdom.Although Trump’s administration deems war “undesirable”, the retired military chief said Trump will not accept a nuclear launch from Kim Jong-un in any circumstance.  GETTYDonald Trump may strike North Korea before Jong-un can launch an attack, an official has claimed Related articles   North Korea WILL RETALIATE if Donald Trump 'incites confrontation'   Trump and Putin's relationship will CRUMBLE over Syria chemical attack  First 100 days of President Trump Mon, June 12, 2017President Donald Trump is making a significant impact on global politics during his first term. Play slideshow  REUTERS1 of 23President Donald Trump arrives at Newark International airport  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    General Keane said: “We’re rapidly and dangerously heading towards the reality that the military option is the only one left when it comes to getting North Korea to denuclearise and not weaponised [intercontinental ballistic missiles].“But the Trump administration cannot accept a nuclear launch.“We cannot rely on our missile-defence system to defeat it and expose the American people to a nuclear attack.“Therefore if an ICBM attack was imminent the President would have to conduct a preemptive strike.”The Chinese leader Xi Jinping is set to meet President Trump at his Mar-a-Lago residence in Florida later today.On the agenda, the two leaders are expected to discuss the growing threat from Pyongyang.   General Keane insisted that Trump has no intention to fail in “solving” North Korea.He added: “Three past presidents have sought political, economic and diplomatic steps to get North Korea to de-nuclearise but failed miserably. All three tried to leverage China but also failed.”  GETTYSouth Korea have been preparing their military for an attackYesterday, North Korean officials warned that Kim Jong-un will take “counteraction” steps against President Trump if he attempts to "deal" with the communist state.Military chiefs from the hermit state said Trump’s “reckless actions” is pushing Kim Jong-un “to the brink of war”.

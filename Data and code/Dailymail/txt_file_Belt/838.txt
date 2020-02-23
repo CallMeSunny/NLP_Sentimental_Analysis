@@ -1,0 +1,218 @@
+That must hurt! Kylie Jenner slips back into her waist trainer after indulging over Thanksgiving... but fits in a greasy breakfast first
+https://www.dailymail.co.uk/tvshowbiz/article-3336975/Kylie-Jenner-slips-waist-trainer-indulging-thanksgiving-fits-greasy-breakfast-first.html
+ 01:12 BST, 28 November 2015 
+She enjoyed a decadent Thanksgiving feast alongside her family at sister Khloe Kardashian's home. But it seems Kylie Jenner has wasted no time undoing any of the holiday seasons' damage.   On Friday, the 18-year-old Instagrammed a snap of herself posing outdoors as she donned a Waist Gang Society sweat belt, which 'keeps the belly down' and helps work up a sweat, according to the company's website.Scroll down for video          Staying in shape: Kylie Jenner Instagrammed a snap of herself on Friday following a decadent Thanksgiving feast wearing a sweat belt, which she captioned, 'Post thanksgiving in my much needed @premadonna87 @waistgangsociety new sweat belt''Post thanksgiving in my much needed @premadonna87 @waistgangsociety new sweat belt. Get yours at Whatsawaist.com happy Black Friday ;),' Kylie captioned the snap. Kylie's indulging didn't quite end at Thanksgiving.The teen also Instagrammed a snap of herself tucking into a what appeared to be a McDonald's hash brown for breakfast early Friday morning.See more of the latest news, pictures and video updates on Kylie Jenner          'Mornin'': The teen Instagrammed a snap of herself tucking into what appeared to be a McDonald's hash brown on Friday
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Kylie_Jenner'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keep up with Kylie in a Janessa Leone wool fedora
+
+
+
+
+Janessa Leone Stephen Fedora
+Buy it at Barneys New York!
+
+
+
+Visit site
+
+
+
+Kylie Jenner seems to have a penchant for leather baseball caps but in this Instagram snap she switched up her sporty headwear for a chic fedora. 
+The felt stunner was by Janessa Leone and came in a soft blue hue that was embellished with a steel band. The LA based brand is inspired by vintage pieces and counts Jessica Alba, Rosie Huntington-Whiteley and Chrissy Teigen as fans. 
+We love a good fedora as a finishing touch to a bohemian ensemble. Wear it with a flowy peasant blouse, jeans, and knee high riding boots this winter.
+Kylie's hat is up for grabs at Barneys New York (click right to buy). Or get the look for less in our edit below.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET A HAT LIKE KYLIE'S
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Ted Baker Carina Band Detail Felt Fedora at House of Fraser (now reduced to £39.20)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Oliver Bonas Fedora Hat
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Hat Attack Wool Fedora at MyTheresa
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Topshop Wide Brim Fedora Hat
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Kylie_Jenner', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Feast! Khloe Kardashian shared scenes from her festive Thanksgiving dinner on Thursday, including one of a table topped with carved ham, turkey, gravy, and other treats Kylie was fully glammed up in the shot with a face full of makeup, a glossy hairdo, and a stylish light grey hat as she sat inside a car. 'Mornin',' she captioned the snap shot. Kylie has followed in her older sister's footsteps when it comes to the waist trainer - Kim, Khloe, and Kourtney Kardashian have shared Instagram snaps of themselves sporting a torso tightening device from Waist Gang Society as well.         Grateful: Kardashian shared a gorgeous snap of her fully set up table, which encouraged readers to pay attention to everyday blessings in her touching caption         Bloomin' lovely! The reality star also shared a snap of another table, complete with bouquets of red roses and pumpkin shaped dishes       Despite the recent popularity of waist trainers, doctors have said that they can compress your internal organs and cause issues. Meanwhile, Kylie's relationship with Tyga has once again hit headlines. The couple experienced something of a rift for an undisclosed reason on Tyga's birthday last week - and now the rapper has reportedly moved out of Kylie Jenner's home.         Her family is a fan!  Kim Kardashian Instagrammed a snap of herself wearing the waist trainer in October While the pair appear to be back on track and never officially broke up, TMZ claim things are now slowing down between the pair.A source told the site: 'They've decided things would be better if they increase their personal space by living under separate roofs. 'Tyga moved out of Kylie's house last week and into a rental in the Hollywood Hills.'         Trying it out: Kourtney Kardashian also shared an image of herself in the torso-tightening device in SeptemberMailOnline has contacted a spokesperson for both Kylie and Tyga for comment.Despite the couple appearing to be getting a little more space between them, Kylie still appears very loved up with her man. While leaving the AMA afterparty at The Nice Guy in West Hollywood, Kylie was asked if she was going to marry the 26-year-old, and in a video shared by the X17, she could be heard quickly answering: 'Yes.'          Joining in: In September, Khloe Instagrammed a picture of herself in a black corset waist trainer         Girls only: The 18-year-old puckered up her lips as she posed with gal pals Jordyn Woods and Heather Sanders, which she captioned on Friday, 'my lady friends'          Nice wheels: Jenner Instagrammed a snap of herself in the driver's seat of her Rolls Royce on Friday, which she captioned, 'alone time w bae'   

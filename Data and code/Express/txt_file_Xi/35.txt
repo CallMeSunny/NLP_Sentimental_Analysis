@@ -1,0 +1,21 @@
+Dow Jones stocks rise ahead of Trump's meeting with China's Xi Jinping
+https://www.express.co.uk//finance/city/788257/Dow-Jones-stocks-rise-Trump-Xi-Jinping-meeting-China
+ 14:53, Wed, Apr 5, 2017 
+  GETTYThe Dow Jones jumped ahead of a meeting between Mr Trump and Mr XiThe Dow Jones reached highs of 20,873 on Wednesday, as investors eyed the meeting between the heads of the world's largest two economies.Stocks were also boosted by jobs numbers released today.Last month America's top index hit its highest ever close of 21,155, but has cooled in recent weeks amid fears that Mr Trump's promised policies may not become a reality. Relations between China and US are a key influence on the global economy.And Mr Trump has signalled in the past that he would take action against Chinese imports into the US in order to protect American jobs and industries.  Related articles   Scotland's economy DIVES in final months of 2016   Pound JUMPS as Britain's service sector proves economy strength   BloombergThe Dow Jones jumped on Thursday after falling in recent weeks   It comes after North Korea tested another missile night, increasing tensions in Asia and throwing extra pressure on Mr Trump's policy on the region. The US Secretary of State, Rex Tillerson, said the US will not tolerate such activities.Naeem Aslam, chief market analyst at Think Markets, said: "The primary focus for the markets today is the meeting between President Trump and China's President Xi."Investors are interested to see if both leaders are capable of creating a plan which could be mutually beneficial for both countries."We all know that Trump has called China a currency manipulator and he does not believe that the US has a fair deal with China." Related articles   ‘BE PREPARED’ ECB fires warning to Europe's most debt-ridden states   IMF warns: Low productivity could spark fresh economy CRISIS  The Trump women: Ivanka, Tiffany & Melania Tue, November 21, 2017Donald Trump's leading ladies: Ivanka, Tiffany and Melania Trump in pictures. Play slideshow  Getty1 of 42The Trump women: Ivanka, Tiffany & Melania in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Mr Aslam added: "China has certainly been the net beneficiary of cheap labour which caused massive changes for industry in the US."Keeping the peace in Asia is just another item on the agenda which will be important for both leaders to talk about."Connor Campbell, financial analyst at Spreadex.com, added: "Mixed signals from the US economy couldn’t prevent the Dow Jones from finally bursting back into life this afternoon."The thrust of the Dow’s gains seemed to stem from the ADP non-farm reading, which vastly outperformed expectations at 263k against the 184k, February’s figure, on the other hand, was revised from an extraordinary 298k to a more reasonable 245k."

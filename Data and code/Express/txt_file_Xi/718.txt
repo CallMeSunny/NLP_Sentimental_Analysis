@@ -1,0 +1,21 @@
+'No one else could have done it!' Donald Trump BOASTS over stopping NUCLEAR WAR
+https://www.express.co.uk//news/world/930036/Donald-Trump-speech-rally-Pennsylvania-Rick-Saccone-North-Korea-USA-news-latest
+ 01:21, Sun, Mar 11, 2018 
+   Donald Trump said: “I don’t think they’re going to send any more missiles up” after boasting about stopping the threat of nuclear war on the Korean Peninsula."This should have been handled 30 years ago,” he said after criticising all the Presidents before him.“A lot of people thought we were going to war."Now, North Korea is saying they want to denuclearise.“That’s what we do we handle things.  GETTY-NBCDonald Trump said no other President could have achieved what he has Related articles   North Korea promises to halt ALL missile tests as Kim meets Trump   'A deal is in the making' Trump reveals arrangements with North Korea “Obama would not have done it, neither would Bush, neither would Clinton”The US President added: "Who knows what's going to happen? It could happen, it couldn’t happen," when talking about his upcoming meeting with Kim Jong-un.”I may leave fast, or we may sit down and make the greatest deal for the world and for all of these countries, including, frankly, North Korea, and that's what I hope happens."Mr Trump also touched on his role in the recent Winter Olympic Games.He said: "It's little hard to sell tickets when you think you're going to be nuked. Brutal magazine cover designs of Donald Trump Fri, February 2, 2018Over the past year magazines have sparked controversy with their covers depicting Donald Trump in a negative light Play slideshow  Time1 of 7American weekly magazine Time uses an illustration depicting Donald Trump having a 'meltdown'  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “But it’s good to see North Korea participate.”The billionaire also praised Chinese Xi Jinping, saying: “President Xi of China has helped us out a lot.“China has done more for us than they have ever done for any other President for this country.”His comments come at a campaign rally in Pennsylvania, where Republican candidate Rick Saccone is facing a tough race in a House special election.  GETTYDonald Trump said: “I don’t think they’re going to send any more missiles up” Mr Saccone is currently in a tight race with Democrat Conor Lamb, in a place where the race should not be as competitive as it currently is.Trump won the district by 20 points in 2016.

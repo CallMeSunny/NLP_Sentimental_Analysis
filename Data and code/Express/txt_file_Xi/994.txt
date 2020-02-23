@@ -1,0 +1,21 @@
+Tory MP hails ‘TERRIER’ Boris Johnson for tough talk against Vladimir Putin and Syria
+https://www.express.co.uk//news/uk/791334/Dominic-Raab-hails-terrier-Boris-Johnson-tough-talk-against-Putin-Assad-Syria-Trump
+ 04:34, Thu, Apr 13, 2017 
+   Dominic Raab, MP for Esher and Walton who previously served under the Ministry of Justice, said Theresa May and her sidekick Boris Johnson are “demonstrating courage” and that the only way to tame Vladimir Putin's “Russian bear” is to hit it with “stubborn internationalism”.Mrs May was also commended for her initial press conference in the White House, which is when she first told the newly-inaugurated US President: “Beware of Putin”.  GETTYDominic Raab has praised Theresa May and Boris Johnson's diplomatic efforts Related articles   Donald Trump HAILS China's 'gentleman' Xi Jinping amid new alliance   Johnson SCOLDS Putin for ‘acting as a lifeline to murderous Assad’  Theresa May's political career in pictures Tue, April 18, 2017Prime Minister Theresa May has promised to 'build a greater Britain' Play slideshow  EPA1 of 116Saudi Arabia's King Salman bin Abdulaziz al-Saud (R) meeting with British Prime Minister Theresa May in the capital Riyadh, Saudi Arabia, 05 April 2017. May is visiting Saudi Arabia as part of her Middle East trip to boost diplomatic ties in the region  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Backing Britain’s diplomatic efforts against Syria and Russia, Mr Raab said: “Britain was right to support US air strikes as morally just, and legally warranted under the right of humanitarian intervention – not least given the narrow military targets and proportionate response.“More importantly, President Trump’s decisive action will make Syrian President Bashar al-Assad think twice in future before resorting to the barbarism of chemical attacks on innocent civilians.”Slamming rumours of Mrs May’s poor relationship with Mr Johsnon, Mr Raab added: “There is nothing wrong with the Prime Minister unleashing her terrier-like Foreign Secretary to make energetic and creative diplomatic forays, and then tethering him when necessary.“Deployed with discipline, their temperaments complement rather than conflict."Unbowed from the G7, Mr Johnson has set his sights on strong arming the UN to back sanctions if an investigation verifies Assad’s responsibility. More hard diplomatic graft. More power to his elbow.”  GETTYRaab said Theresa May first warned Trump about Russian aggression     GETTYBoris Johnson and his American counterpart TillersonThe former Foreign Affairs minister urged Boris Johnson to develop relations with Rex Tillerson in a bid to push his proposed sanctions against Russia.His comments follow Boris Johnson's tirade, attacking Putin for his support of Bashar al-Assad’s tyrannical regime.Mr Johnson said: "So I am dismayed that Russia has once again blocked the UN Security Council and in so doing refused to condemn the use of chemical weapons or support a full UN investigation into the attack.This puts Russia on the wrong side of the argument."

@@ -1,0 +1,224 @@
+That touch of gold! Chrissy Teigen adds a shiny chain belt complete with locket as she dresses up for meetings in NYC 
+https://www.dailymail.co.uk/tvshowbiz/article-4010174/Chrissy-Teigen-adds-shiny-chain-belt-complete-locket-dresses-meetings-NYC.html
+ 17:51 BST, 7 December 2016 
+She always dresses impeccably, no matter the occasion.And Chrissy Teigen did not disappoint when she stepped out on Wednesday in New York City.The 31-year-old model cut a stylish figure in black trousers with a matching coat and patterned blouse, adding a chunky gold belt that stood out.Scroll down for video          What an elegant look: Chrissy Teigen did not disappoint when she stepped out on Wednesday in New York City
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Chrissy_Teigen'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pick up a paisley print blouse by Philosophy Di Lorenzo Serafini  like Chrissy
+
+
+
+
+Philosophy Di Lorenzo Serafini paisley-printed silk blouse
+Shop it here at MyTheresa
+
+
+
+Visit site
+
+
+
+Chrissy Teigen was spotted leaving The Today Show studios in New York City this week dressed as impeccably as always.
+Chrissy's stylist Monica Rose also dresses the likes of Gigi Hadid, Kendall Jenner and Kourtney Kardashian, so she's got a seriously hefty CV. And she proved once again here that she knows just what suits Chrissy in this printed paisley blouse and chic black trousers.
+The cowl neck gives this piece a slightly more laid back vibe, while the paisley print adds a retro edge that really sets this piece apart by Philosophy Di Lorenzo Serafini. And if you're keen to copy Chrissy, click right to snap it up.
+Keep the rest of your separates simple like the star to ensure there's not too much clash with this already busy piece.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Tommy Hilfiger Ruth paisley blouse at John Lewis
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Etro paisley draped front silk blouse at Harrods
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Goldie Olivia blouse in paisley print at Asos (now £25)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Fay paisley print blouse at Farfetch (now £180.45)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Chrissy_Teigen', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The mother of one was seen heading out of the Today Show studios in her winter chic look. Chrissy styled the thick cover up with matching hued trousers, looping a large gold belt for a bold touch.   RELATED ARTICLES  Previous 1 Next       New couple? Minka Kelly 'is dating Josh Radnor' after being...    Click your heels three times: Lady Gaga dazzles in metallic...    Is it all over? Kim Kardashian 'wants divorce from Kanye...    'Everything happens for a reason': Bella Hadid reveals she...    
+
+Share this article
+Share
+141 shares
+
+ The best selling author complemented the chic pieces with a gold and white patterned top that featured a high neckline.The former Sports Illustrated Swimsuit Issue cover girl braved the damp pavement in lace up black heels.                Star power: The 31-year-old model cut a stylish figure in black trousers with a matching coat and patterned blouse, adding a chunky gold belt         She glows! Chrissy looped a large gold belt for a bold touchHer gold hoop earrings added a subtle sparkling touch to the elegant ensemble.The Lip Sync Battle co-host, who carried a velvet clutch, styled her caramel highlighted tresses loose with a slight wave. Chrissy finished off her mid-week look with brown shadowed lids, rosy blush and nude lip gloss.         Utter perfection: The Lip Sync Battle co-host, who carried a velvet clutch, styled her caramel highlighted tresses loose with a slight wave         What a showstopper! The former Sports Illustrated Swimsuit Issue cover girl braved the damp pavement in lace up black heelsOne day earlier, Chrissy was joined by husband John Legend, 37, for exclusive boutique Material Good's one year anniversary party in the Big Apple.The cookbook author showed off major leg in the strappy black dress, which featured a thigh-high slit.She posed with her Grammy Award winning musician husband, who looked handsome in all black.                 Strike a pose: One day earlier, Chrissy was joined by husband John Legend for exclusive boutique Material Good's one year anniversary party in the Big Apple          Power couple: The cookbook author showed off major leg in the strappy black dress, which featured a thigh-high slit; pictured with husband John Legend on Tuesday

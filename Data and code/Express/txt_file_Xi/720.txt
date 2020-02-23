@@ -1,0 +1,21 @@
+North Korea tension rises as Trump declares China ‘caught RED-HANDED’
+https://www.express.co.uk//news/world/897609/north-korea-news-donald-trump-usa-china-oil-photos
+ 22:39, Thu, Dec 28, 2017 
+  GETTYDonald Trump has hit out at China over dealings with North KoreaNorth Korea and China’s deals were allegedly captured on satellite footage earlier this week - something Donald Trump said he was “very disappointed with”. Beijing has denied there was any UN sanction-breaking oil sales, which were first reported by South Korean media. But today Mr Trump took to Twitter to blast: “Caught RED HANDED - very disappointed that China is allowing oil to go into North Korea. “There will never be a friendly solution to the North Korea problem if this continues to happen!”  US TREASURYNorth Korea have been buying oil from China, America claimThe Trump administration has led a drive to step up global sanctions on North Korea in response to Pyongyang's efforts to develop nuclear-tipped missiles capable of hitting the United States.Washington says the full cooperation of China, North Korea's neighbour and main trading partner, is vital to the success of this effort, while warning that all options are on the table, including military ones, in dealing with North Korea.The UN Security Council last week unanimously imposed new sanctions on North Korea for a recent intercontinental ballistic missile (ICBM) test, seeking to further limit its access to refined petroleum products and crude oil. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The UN resolution seeks to ban nearly 90 percent of refined petroleum exports to North Korea by capping them at 500,000 barrels a year.The US-drafted resolution also caps crude oil supplies to North Korea at 4 million barrels a year and commits the Council to further reductions if North Korea were to conduct another nuclear test or launch another ICBM.Documents revealed this month showed Washington called on the Security Council to blacklist 10 ships for circumventing sanctions by conducting ship-to-ship transfers of refined petroleum products to North Korean vessels or transporting North Korean coal.  US TREASURYImages appear to show China and North Korea exchanging oilChina and Russia subsequently asked for more time to consider the proposal.Harry Kazianis, director of defence studies at the conservative Center for the National Interest, said China would "never, ever, enforce the sanctions to the satisfaction of President Trump," in spite of the effort the U.S. president had invested in developing a personal relationship with China's Xi Jinping."With President Trump's latest Tweet it seems the 'Bromance' between him and President Xi is finally over."This was always bound to happen. China is actually more afraid of North Korea than America.”

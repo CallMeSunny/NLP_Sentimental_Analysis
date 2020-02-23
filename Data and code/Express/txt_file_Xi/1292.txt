@@ -1,0 +1,55 @@
+USA ambassador tells China: Cut off oil to North Korea or we'll take control of situation
+https://www.express.co.uk//news/world/886089/North-Korea-Kim-Jong-un-Pyongyang-closer-war-WW3-Nikki-Haley-Donald-Trump-ICBM-missile
+ 08:52, Thu, Nov 30, 2017 
+   The US ambassador to the UN said that China must stop selling oil to North Korea and issued a warning to Beijing that if action wasn't taken - then the USA would have to step in.Ms Haley’s comments follow North Korea’s latest rocket test, which Kim Jong-un later boasted was its nuclear-capable Hwasong-15 intercontinental ballistic missile (ICBM) that could hit “all the US mainland”.The despot also claimed that North Korea was now “a responsible nuclear power”.Speaking to the UN Security Council, Ms Haley hit back warning that North Korea’s aggression “brings the world war closer to war”.She added: “We have never sought war with North Korea, and still today we do not seek it. If war does come, it will be because of continued acts of aggression like we witnessed yesterday.”  GETTY/REUTERSNorth Korea’s 'continued acts of aggression' are bringing 'the world closer to war' Nikki Haley saysThe US ambassador called on China to cut off oil supplies to North Korea in a bid to strongarm Kim Jong-un into halting his nuclear weapons programme.China is North Korea's sole major ally and they share a long border and significant trade.China's refusal to completely cut off energy exports to North Korea has been a sticking point between Beijing and the US.Haley confirmed during a speech to the UN that Donald Trump had called Chinese President Xi Jinping to tell him the time had come to cut off crude oil supplies to North Korea."We now turn to President Xi to also take that stand. We believe he has an opportunity to do the right thing for the benefit of all countries. China must show leadership and follow through. China can do this on its own, or we can take the oil situation into our own hands," she said.North Korea launched its third ICBM on Tuesday which according to Seoul’s military flew some 596 miles (960km) to an altitude of around 2,796 miles (4,500km).In a rare address, Kim Jong-un declared "with pride that now we have finally realised the great historic cause of completing the state nuclear force”.  GETTYNorth Korea missile launch: South Koreans watch the path of the test North Korea has shown us its new missile Thu, November 30, 2017The missile dubbed the Hwasong-15 was shot into the sky before plunging down into the Sea of Japan Play slideshow  REUTERS1 of 16North Korea's leader Kim Jong Un is seen as the newly developed intercontinental ballistic rocket Hwasong-15Ã•s test was successfully launche  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The dictator personally authorised the test launch which the rogue state claimed soared to an altitude of about 4,475 km (2,780 miles) - more than 10 times the height of the International Space Station - and flew 950 km (590 miles) during its 53-minute flight.It flew higher and longer than any North Korean missile before, landing in the sea, near Japan.Experts said the new "Hwasong-15" missile theoretically gave North Korea the ability to hit the United States, including the East Coast, although it was not clear whether it could carry a nuclear weapon.Kim Jong-un’s mouthpiece Korean Central News Agency (KCNA) said: “The ICBM Hwasong-15 type weaponry system is an intercontinental ballistic rocket tipped with a super-large heavy warhead which is capable of striking the whole mainland of the US.  GETTYKim Jong-un boasted his nuclear-capable Hwasong-15 ICBM could hit ‘all the US mainland’  GETTYNorth Korea latest test was its third ICBM launch this year -– the first was on July 4 If war does come, it will be because of continued acts of aggression like we witnessed yesterdayNikki Haley“This system has much greater advantages in its tactical and technological specifications and technical characteristics than Hwasong-14 whose test-fire was conducted in July last, and it is the most powerful ICBM which meets the goal of the completion of the rocket weaponry system development set by the DPRK.It added: ““The test-fire was conducted in the highest angle launch system and it had no adverse effect on the security of neighbouring countries.“The development and advance of the strategic weapons of the DPRK are to defend the sovereignty and territorial integrity of the country from the US imperialists’ nuclear blackmail policy and nuclear threat and to ensure the peaceful life of the people.“They would not pose any threat to any country and region as long as the interests of the DPRK are not infringed upon. Inside North Korea: The pictures Kim Jong-un doesn't want you to see Thu, March 8, 2018Photographer Eric Lafforgue ventured to North Korea six times. Thanks to digital memory cards, he was able to save photos that was forbidden to take inside the segregated state Play slideshow  Eric Lafforgue/Exclusivepix Medi1 of 69Taking pictures in the DMZ is easy, but if you come too close to the soldiers, they stop you  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    “This is our solemn declaration.“As a responsible nuclear power and a peace-loving state, the DPRK will make every possible effort to serve the noble purpose of defending peace and stability of the world.”Earlier this month Donald Trump declared North Korea is back on the US’ watch list for state sponsored terrorism amid rising tensions over Kim Jong-un’s nuclear weapons programme.The US President made the announcement on Monday as he blasted North Korea for repeatedly supporting “acts of international terrorism, including assassinations on foreign soil” – believed be a reference to the murder of Kim Jong-un’s half-brother Kim Jong-nam earlier this year. 'Donald Trump' and 'Kim Jong-un' face-off amid North Korea nuclear threat Sun, November 19, 2017About 700 demonstrators protested in Berlin, Germany against the current escalation of threat of nuclear attack between the United States of America and North Korea Play slideshow  Getty Images1 of 10An activist pretends to punch another wearing a mask of U.S. President Donald Trump next to a model of a nuclear rocket  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    President Trump said: “In addition to threatening the world by nuclear devastation, North Korea has repeatedly supported acts of international terrorism, including assassinations on foreign soil.“This designation will impose further sanctions and penalties on North Korea and related persons and supports our maximum pressure campaign to isolate the murderous regime.”He added that North Korea, who was removed from the list in 2008 under then-President George W Bush, should have been re-listed "a long time ago”.Meanwhile, some experts, including a former chief US negotiator during the 1994 North Korean nuclear crisis, have warned it could be a “miscalculation” by Trump and “just further cements a dangerous game of escalatory brinkmanship” amid World War 3 fears.

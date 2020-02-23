@@ -1,0 +1,21 @@
+Role models recognised in most diverse New Year's Honours List in history
+https://www.express.co.uk//news/uk/748681/Diversity-New-Year-Honour-List-2017-Marcia-Shakespeare
+ 22:23, Fri, Dec 30, 2016 
+  GETTY/PAMarcia Shakespeare and Mo Farah both received honours in the 2017 listAwards include a damehood for Professor Elizabeth Anionwu, 69, for services to nursing and a knighthood for Professor Shankar Balasubramanian, who is the Herchel Smith Professor of Medicinal Chemistry at the University of Cambridge. The pioneering scientist Guang-Zhong Yang has been made a CBE. An engineer and computer scientist by training, Professor Yang is cofounder of the Hamlyn Centre for Robotic Surgery. Related articles   Toast to Tom, honoured as master glassblower   Alzheimer’s champion Angela is made a CBE Also among this year’s honours was 17-year-old Jeremiah Emmanuel. He is a role model Army cadet who founded his own charity – One Big Community – after a teenage friend was stabbed to death in south London back in 2013. Mr Emmanuel has been awarded the British Empire Medal.   GETTYProfessor Guang-Zhong Yang, right, shows Chinese President Xi Jinping medical equiptmentAnti-gun campaigner Marcia Shakespeare, whose daughter was killed in a drive-by shooting, is made an MBE.  I couldn’t stop cryingAnti-gun campaigner Marcia ShakespeareMs Shakespeare, 49, still has nightmares of seeing her 17-year-old daughter Letisha lying dead in hospital – nearly 14 years after she was gunned down in a Birmingham shooting following a New Year’s Day party. Today she told how when she opened the letter with news of the MBE, her thoughts immediately turned to her teenage girl whose life was cut short. She said she “couldn’t stop crying”.  Sporting Knights Fri, December 30, 2016With the news that Andy Murray and Mo Farah have both become Sir, we look at some sporting knights. Play slideshow  Getty Images1 of 14Sir Mohamed Farah - The man who had the world doing the Mobot now has his own gong.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Teacher Ms Shakespeare explained: “I know that if Letisha wasn’t murdered I wouldn’t have taken the path I have taken. Everything I have done and will continuously do is for the kids. “I don’t do it for medals – my reward is when I can see that a child has turned their life around.” Ms Shakespeare went on to describe her work through charity Precious Lives as “a drop in the ocean” in what was the continuing problem of gun and knife crime. Letisha died alongside her cousin Charlene Ellis, 18.   GETTYA 17-year-old Army cadet,Jeremiah Emmanuel, was amongst those honouredThey were killed by a hail of machine gun bullets in the horrific incident in the early hours of January 2, 2003. Charlene’s twin sister Sophie and her cousin Cheryl Shaw were also hit, but they survived. All four were innocent victims caught in the cross-fire of a Birmingham gang feud. Four men were later jailed over the killings.

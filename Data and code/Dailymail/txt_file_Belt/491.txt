@@ -1,0 +1,231 @@
+Fancy pants! Rapper Iggy Azalea flaunts her fabulous curves in a bright tangerine ensemble as she celebrates her life-changing summer anthem
+https://www.dailymail.co.uk/tvshowbiz/article-2720082/Rapper-Iggy-Azalea-flaunts-fabulous-curves-bright-tangerine-ensemble-celebrates-life-changing-summer-anthem.html
+ 16:56 BST, 8 August 2014 
+
+
+
+ Fancy pants! Rapper Iggy Azalea flaunts her fabulous curves in a bright tangerine ensemble as she celebrates her life-changing summer anthem By Penelope Kilby for Daily Mail Australia  and Maria Lewis for Daily Mail Australia   Published: 16:56 BST, 8 August 2014  |  Updated: 11:44 BST, 9 August 2014    
+
+
+         e-mail          205 View  comments    It's the song that catapulted her to stardom, and now rapper Iggy Azalea has taken to the TV stage to belt it out again for the umpteenth time. The Australian-born superstar took her tangerine trousers and matching top to NBC's Today Show Toyota Concert Series on Friday, telling the show's hosts that her number one hit Fancy had 'changed my life'.The summer anthem is sitting a number one for it's seventh consecutive week in the US.Scroll down for video        What a classic! Iggy Azalea took her tangerine trousers and matching top to NBC's Today Show Toyota Concert Series on Friday, telling the show's hosts that her number one hit Fancy had 'changed my life'        Belly baring! The smile couldn't be wiped off the country girl's face and she performed Fancy to a packed crowd at the show's New York location    And the smile couldn't be wiped off the country girl's face and she performed to a packed crowd at the show's New York location.Supported by checkered-patterned backup dancers, Iggy looked ready to race a fast car in a form-fitting twin set.The curvy singer's bright yellow leggings with hot pink side paneling accentuated her every curve while the matching crop top held her tight in all the right places.The outfit's pink detailing was adorned with The New Classic in a tribute to her debut album.Adding to her fruity colour scheme, the 24-year-old upped the ante a pop of pink on her lips and a sleek pony-tail with side part.                                Stunner! The curvy singer's bright yellow leggings with hot pink side paneling accentuated her every curve while the matching crop top held her tight in all the right places   
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Iggy_Azalea'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Look incredible in a sports luxe bralet like Iggy
+
+
+
+The New Classic Neon Orange Sports Bra
+Made especially for Iggy!
+
+
+
+She may have become a global superstar in the past year, but rapper Iggy Azalea still isn’t into Fancy stage outfits if her sporty ensemble for NBC’s Today Show was anything to go by.
+The flaxen-haired songstress showcased her famous voluptuous physique in an eye-popping orange neon and pink sports outfit emblazoned with her titled album ‘The New Classic.’ It’s so bright it’s making us Bounce off the walls!
+Iggy kept the rest of her outfit simple with black ankle boots, although we reckon trainers would have sufficed (she didn’t want to be too casual, you know) and finished off the stage look with a slick of bright pink matte lippy. 
+Unfortunately, Iggy’s vivacious sports luxe inspired outfit is unable to buy since it was custom made for her, but we’ve had a gander at the best orange crop tops on the market to steal her style. We’re particularly loving Fashion Union’s £14.99 top which ticks two trends in one with its grid print and cropped design, as well as New Look’s rather sexy £6.99 cross over alternative.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Fashion Union Orange Strappy Grid Print Bralet At New Look
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Nike Crop Top At Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+New Look Coral Cross Over Bralet
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Nike Pro Hypercool Kaleidoscope Print Bra At Urban Outfitters
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Iggy_Azalea', FFFtype: 'inline', fff: true}});
+        }
+    
+
+        Coordinating shades: Adding to her fruity colour scheme, the 24-year-old upped the ante a pop of pink on her lips and a sleek pony-tail with side part    It's been a good week for Iggy she revealed on Instagram her single Fancy has gone three times platinum and posed up with a giant illustration for her social media fans on Friday.She captioned the picture: 'Thankyou guys so much.'It was also revealed the singer is performing at the MTV Video Music Awards - which are being held in California on August 24th.Iggy will take to the stage with Rita Ora and the pair will perform Black Widow.        Delighted: Iggy was thrilled to announce her single Fancy had gone three times platinum on Friday          Acheievement: She told her Instagram followers: 'Thankyou guys so much'                      Covered up: Iggy wears a plaid shirt and tracksuit bottoms at LAX airport         Shady: The rapper wore black and white-lined sunglasses to match her joggers She has also been showered with praise from one of her Australian peers.DJ Izm, one third of the ARIA Award-winning trio Bliss N Eso told Daily Mail Australia that the femcee 'deserves' her success after hailing from one of Australia's smallest towns.The blonde hit-maker has had breakthroughs in the US with her No.1 track Fancy, but has had plenty of high profile naysayers in the form of Nicki Minaj and Azealia Banks.'She's not claiming to be some Aussie rapper: she went to Miami and the States and worked her a** off,' he said.                    Baby got back! The outfit's pink detailing was adorned with The New Classic in a tribute to her debut album          Dance girl! The blonde hit-maker has had breakthroughs in the US with her No.1 track Fancy, but has had plenty of high profile naysayers in the form of Nicki Minaj and Azealia Banks    VIDEO  Watch the latest Iggy Azalea videos    1   2   3   4   5   6                  Watch video   Iggy Azalea performs at the Wireless Festival in London       Watch video   Aussie model Shanina Shaik posts video of Iggy Azalea       Watch video   Iggy Azalea performs in figure hugging black dress at Bellagio Hotel       Watch video   Iggy Azalea performs fancy for The New Classic Canada Tour       Watch video   Iggy Azalea arrives at the Billboard Music Awards 2014       Watch video   Iggy Azalea messes up during live DWTS performance       Watch video   Iggy Azalea performs Fancy on Jimmy Kimmel Live       Watch video   Iggy Azalea performs her hit Fancy on GMA       Watch video   Iggy Azalea's excited about the release of her debut album       Watch video   Iggy Azalea flashes her fishnet-clad pins in racy performance       Watch video   Iggy Azalea changes out of Grammys gown to leather pants       Watch video   Iggy Azalea flashes her pert bum in revealing outfit       Watch video   Iggy Azalea on her 'wardrobe malfunction' at the MTV EMAs       Watch video   Iggy Azalea shows off her curves in white jumpsuit at G-A-Y       Watch video   Iggy Azalea keeps twerking family friendly as she covers up       Watch video   Iggy Azalea shines in metallic corset for iTunes festival performance       Watch video   Iggy Azalea and Rita Ora twerk on stage for DKNY       Watch video   Iggy Azalea goes topless in new video Change Your Life             
+    DM.later('bundle', function(){
+      DM.molFeCarousel.init('#p-46', 'channelCarousel', {
+        
+        
+        "pageCount" : "6",
+        "pageSize" : 3,
+        "onPos": 0,
+        "nested": true,
+        "updateStyleOnHover": true
+      });
+    });
+    'She's from Mullumbimby, which is one of the Aussiest places you could live - you can't get away from that accent - but she broke the game and came from nothing. 'Now she's on Forbes richest women list, she's made millions and bought her mum a house. F**k it, she deserves it.'Bliss N Eso have been on the Australian hip hop scene - Oz Hop - for over 14 years and are featured in Rise, a new book from photographer Michelle Grace Hunder which chronicles the local genre.        Bliss N Eso: The ARIA Award winners have praised Iggy's success       

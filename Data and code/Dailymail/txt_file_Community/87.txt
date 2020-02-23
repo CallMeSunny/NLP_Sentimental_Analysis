@@ -1,0 +1,223 @@
+Simon Cowell admits he won't have anymore kids... as he reveals he has discussed 'parenthood destiny' with Cheryl in the wake of her split from Liam Payne
+https://www.dailymail.co.uk/tvshowbiz/article-5952799/Simon-Cowell-reveals-wont-anymore-kids-talks-parenthood-Cheryl.html
+ 01:26 BST, 14 July 2018 
+He couldn't have looked happier when he was given a sweet kiss by his four-year-old son Eric during the latest round of America's Got Talent auditions earlier this week.And Simon Cowell has spoken out about his love of being a father as he admitted he has no plans to have anymore the children. The music mogul, 58, also revealed how he has provided support to close pal Cheryl in the wake of her split from Liam Payne, describing parenthood as the singer's 'destiny'.          Doting dad: Simon Cowell has spoken out about his love of being a father to his four-year-old son Eric  as he admitted he has no plans to have anymore the childrenHe told The Mirror: 'I don’t think I will have more kids, I’m 58 and Eric is amazing.   RELATED ARTICLES  Previous 1 Next       Saying goodbye: Simon hugged Mustafa from Rak-Su and spoke...    Simon Cowell looks every inch the doting dad as he kisses...    Rochelle Humes turns heads in vibrant hot pink trouser suit...    Liam Payne PICTURE EXCLUSIVE: Carefree 1D star beams as he...    
+
+Share this article
+Share
+
+ 'I was talking to Cheryl about this, it’s destiny, you look at the kids and why would you want to change anything else.  Speaking of his close bond with his son, and the tot's developing cognitive abilities, he added: 'I spoke to Eric a week ago on the ­anniversary of my mum dying, and he knew without me saying anything, my life now, I see it through his eyes and the funny thing is it is so uncomplicated.'         The music mogul also said how he has provided support to close pal Cheryl in the wake of her split from Liam Payne, describing parenthood as the singer's 'destiny
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Cheryl'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wow the crowd like Cheryl in a Cushnie et Ochs cold-shoulder dress
+
+
+
+
+Cushnie et Ochs cold-shoulder ruffled silk midi dress
+Now reduced to £380 at NET-A-PORTER.COM
+
+
+
+Visit site
+
+
+
+Cheryl made our jaws drop and our heads turn when she stepped out for the Syco bash at the Victoria & Albert Museum last week. Making an entrance the only way she knows how, the singer opted for bright and bold styles for the event.
+Ditching the traditional little black dress, Cheryl stunned in this orange cold-shoulder number by Cushnie et Ochs that we seriously need in our lives! With the front-slit, cascading ruffles and tailored fit this dress means business when it comes to making statements.
+The good news is if you're ready to ditch the dull and work some colour at your next event then this dress is on sale for you to snap up. Click (right) to buy it now at NET-A-PORTER.COM for £506! 
+Alternatively, steal Cheryl's style on a budget and ooze in orange options by Boohoo, Coast or Nasty Gal. Just make sure to keep your look minimal like Cheryl so the dress does all the talking.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Boohoo cold-shoulder frill hem shift dress (now reduced to £13)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+True Violet bow detail midi dress with pep hem at Asos (now reduced to £26.50)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Coast 'Claire' cold-shoulder dress (now reduced to £59)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Nasty Gal 'Get into the Swing of Things' tassel dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Cheryl', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Cute!  He revealed: 'I don’t think I will have more kids, I’m 58 and Eric is amazing'Simon has been dating his beau Lauren Silverman, 40, for five years, and the pair had quite a tumultuous start to their romance.In 2013, it was revealed the television honcho had been in a relationship with his then-best friend Andrew Silverman's wife, after pictures emerged of them kissing on a yacht.The pair then welcomed their son Eric in February 2014. They named him after Simon's late father, who died in 1999.           Happy family: Simon has been dating his beau Lauren Silverman, 40, for five years, and the pair had quite a tumultuous start to their romanceMeanwhile, his close friend Cheryl, 35, is mum to one-year-old Bear, who she shares with her ex-beau Liam Payne, 24.  Simon's discussion with the Geordie star comes after Liam and Cheryl announced they had split by posting identical messages on Twitter, following a two-and-a-half year relationship.The parents said separating had been 'a tough decision for us to make'.        The statement added: 'We still have so much love for each other as a family. Bear is our world and we ask that you respect his privacy as we navigate our way through this together.'Cheryl and Payne first met on The X Factor in 2008, when she was a judge and he auditioned as a solo contestant, then 14 years old.  Her Girls Aloud band member Kimberley Walsh too touched upon Cheryl's natural parenting abilities on Loose Women earlier this month.  She said: 'Cheryl was destined to be a great mum, and our friendship became even stronger when she had Bear, because were both going through the same thing. We grew up together in the band, and now we're watching our boys grow up together.'         Happier times: Simon's discussion with the Geordie star comes after Liam and Cheryl announced they had split by posting identical messages on Twitter earlier this month (Pictured in 2016)

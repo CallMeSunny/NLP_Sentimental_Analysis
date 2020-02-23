@@ -1,0 +1,39 @@
+EasyJet powers ahead with £10m Brexit plan to set up a base on the European mainland
+https://www.dailymail.co.uk/money/markets/article-3939266/EasyJet-powers-ahead-10m-Brexit-plan-set-base-European-mainland.html
+ 23:32 BST, 15 November 2016 
+EasyJet is powering ahead with a £10million Brexit plan to set up a base on the European mainland.The budget airline is establishing an operating company overseas to 'take control of its own destiny' and guarantee its flying rights when Britain leaves the European Union.The firm, which released its full-year results yesterday, has set aside £10million over the next two years to go towards setting up the base and re-registering aircraft in the region.         Tough year: Budget airline easyJet has suffered a 27.9 per cent drop in annual pretax profitsIt has been forced to take this action in order to get a European air operators' certificate that allows it to fly internal flights in Europe after Brexit.The move will secure the rights of the 30 per cent of its network that remains wholly within, and between, EU states, excluding the UK.   RELATED ARTICLES  Previous 1 Next       EasyJet to see sharp fall in profits after terror attacks...    BA owner IAG reins in long-term spending plans and profits...    Ryanair's latest wheeze: Now passengers must pay £6 to...    Ryanair cuts its profits forecast by 5% as it becomes the...      Share this article Share      HOW THIS IS MONEY CAN HELP     EASYJET SHARES: Latest price and charts      It is rumoured the new company will be based in Frankfurt in Germany though the exact location is expected to be unveiled in the next few weeks.Dame Carolyn McCall, chief executive of EasyJet, said that the airline would remain listed on the London stock exchange and continue to be headquartered in Luton. She said: 'We believe that the Government will strike an agreement with the EU for aviation but we don't know what form and content that will have. It is much better for EasyJet to control its own destiny.'   EasyJet posted a mixed set of results in the year ended September 30, saying it had remained 'resilient' despite terrorism and industrial action.Passenger numbers rose to record numbers, up 6.6 per cent from last year to 73.1million but profits in the period came in at £495million, down 27.8 per cent from the £686million it had posted the year before because of currency fluctuations.Sales also fell 0.4 per cent to £4.7billion as the airline cut fares.Severe disruption due to strikes, poor weather and runway closures at Gatwick resulted in 8,348 flights being either cancelled, delayed or diverted.McCall said terrorism had affected the company's profits by about £150million.She said: 'I think to be making half a billion pounds profit a year demonstrates how strong the airline is.' 
+    #fiveDealsWidget .dealItemTitle#mobile {display:none}
+    #fiveDealsWidget {display:block; float:left; clear:both; max-width:636px; margin:0; padding:0; line-height:120%; font-size:12px}
+    #fiveDealsWidget div, #fiveDealsWidget a {margin:0; padding:0; line-height:120%; text-decoration: none; font-family:Arial, Helvetica ,sans-serif}
+    #fiveDealsWidget .widgetTitleBox {display:block; float:left; width:100%; background-color:#B11B16; }
+    #fiveDealsWidget .widgetTitle {color:#fff; text-transform: uppercase; font-size:18px; font-weight:bold; margin:6px 10px 4px 10px; }
+    #fiveDealsWidget a.dealItem {float:left; display:block; width:124px; margin-right:4px; margin-top:5px; background-color: #e3e3e3; min-height:200px;}
+    #fiveDealsWidget a.dealItem#last {margin-right:0}
+    #fiveDealsWidget .dealItemTitle {display:block;  margin:10px 5px; color:#000; font-weight:bold}
+    #fiveDealsWidget .dealItemImage, #fiveDealsWidget .dealItemImage img {float:left; display:block; margin:0; padding:0}
+    #fiveDealsWidget .dealItemImage {border:1px solid #ccc}
+    #fiveDealsWidget .dealItemImage img {width:100%; height:auto}
+    #fiveDealsWidget .dealItemdesc {float:left; display:block; color:#e22953; font-weight:bold; margin:5px;}
+    #fiveDealsWidget .dealItemRate {float:left; display:block; color:#000; margin:5px}
+    #fiveDealsWidget .dealFooter {display:block; float:left; width:100%; margin-top:5px; background-color:#e3e3e3  }
+    #fiveDealsWidget .footerText {font-size:10px; margin:10px 10px 10px 10px;}
+    @media (max-width: 635px) {
+        #fiveDealsWidget a.dealItem  {width:19%; margin-right:1%}
+        #fiveDealsWidget a.dealItem#last {width:20%}
+    }
+    @media (max-width: 560px) {
+        #fiveDealsWidget #desktop {display:none}
+        #fiveDealsWidget .widgetTitleBox {background-color:#e3e3e3; }
+        #fiveDealsWidget .widgetTitle {color:#000}
+        #fiveDealsWidget #mobile {display:block!important}
+        #fiveDealsWidget a.dealItem {background-color: #fff; height:auto; min-height:auto}
+        #fiveDealsWidget a.dealItem {border-bottom:1px solid #ececec; margin-bottom:5px; padding-bottom:10px}
+        #fiveDealsWidget a.dealItem#last {border-bottom:0px solid #ececec; margin-bottom:5px; padding-bottom:0px}
+        #fiveDealsWidget a.dealItem, #fiveDealsWidget a.dealItem#last  {width:100%}
+        #fiveDealsWidget .dealItemContent, #fiveDealsWidget .dealItemImage {float:left; display:inline-block}
+        #fiveDealsWidget .dealItemImage {width:35%; margin-right:1%}
+        #fiveDealsWidget .dealItemContent {width:63%}
+        #fiveDealsWidget .dealItemTitle {margin: 0px 5px 5px; font-size:16px}
+        #fiveDealsWidget .dealItemContent .dealItemdesc, #fiveDealsWidget .dealItemContent .dealItemRate {clear:both}
+    }
+   EDITOR'S DEALS OF THE WEEK     Current account     Current account Best switching incentive  £175 to switch and stay      Cash Isa deal     Cash Isa deal Best buy one-year fixed rate cash Isa 1.62% AER interest      Broadband deal     Broadband deal  Low cost package broadband deal  £18 for 18 months     Credit card     Credit card Balance transfer offer 0% for up to 29 months     Stocks & shares Isa     Stocks & shares Isa 12 months no management fee ISA rules and T&Cs apply. Capital at risk.       For current account rewards and interest conditions may apply eg. using provider's full switching service, min deposits and direct debits. For savings, access maybe limited, min/max deposits may apply. See T&Cs.  Representative example:  If you spend £1,200 at a purchase interest rate of 18.95% p.a. (variable) your representative rate will be 18.9% APR (variable).       

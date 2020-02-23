@@ -1,0 +1,21 @@
+Prince Harry to welcome King and Queen of Spain to Britain next week
+https://www.express.co.uk//news/royal/824710/Prince-Harry-King-Queen-Spain-royal-visit
+ 18:47, Tue, Jul 4, 2017 
+  GETTYPrince Harry will greet King Felipe VI and Queen Letizia for their UK visitHarry, 32, has joined his brother and sister-in-law, the Duke and Duchess of Cambridge, in making himself available for such visits, the highest form of bilateral diplomacy between two nations, from now on.The Prince will accompany King Felipe VI and Queen Letizia on a visit to Westminster Abbey, where the King will lay a wreath at the Tomb of the Unknown Warrior, a traditional fixture of state visits, on July 13.  Related articles   SHOCK CLAIM: Camilla WILL become Queen reveals Royal Butler    Meghan Markle: Will Prince Harry’s girlfriend attend Wimbledon? He, William and Kate are also expected to take part in a glittering state banquet at Buckingham Palace the night before, although in keeping with tradition, palace officials have not confirmed their attendance yet. For years, all three avoided taking part in the formalities when foreign heads of state came to London, preferring instead to focus on youth issues, their charity campaigns, and a more informal style of royal engagement.Aides excused their absences by suggesting that because William and Harry also had full time or part-time careers in the military, or the Air Ambulance latterly for William, there was no expectation that they would be needed by the Queen to support her on such trips.   But William and Kate, both 35, did meet US President Barack Obama albeit briefly and informally during his state visit to Britain just after their wedding in 2011. Two years later, William represented the Queen formally at a state visit for the first time by joining South Korea’s President Park Geun-hye at a ground-breaking ceremony for a Korean War memorial in London.  GETTYPrince Harry, William and Kate will host a glittering state banquet at Buckingham Palace Prince Harry in pictures Sun, October 1, 2017Prince Harry on his royal visits around the world in pictures. Play slideshow  PA1 of 367Prince Harry shares his pop corn with Emily Henson, daughter of Hayley Henson as he attends the Sitting Volleyball Finals  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    And then in 2015 he and Kate attended their first state banquet - a much-anticipated opportunity for female fans to see her wearing a tiara - when China’s President Xi Jinping came on a state visit.Harry had been due to join William and Kate in helping to host a visit by King Felipe, 49, and his glamorous wife, Letiza, 44, in March 2016 but it was postponed because of a political crisis in Madrid. It was rescheduled for June this year but then had to be postponed again after Prime Minister Theresa May called a snap general election.

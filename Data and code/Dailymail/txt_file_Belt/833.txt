@@ -1,0 +1,438 @@
+Bella Hadid ditches her bra and slips her enviable curves into tight black dress as she struts her stuff on the runway alongside sister Gigi for Balmain at PFW
+https://www.dailymail.co.uk/tvshowbiz/article-3256499/Bella-Hadid-ditches-bra-slips-enviable-curves-tight-black-dress-struts-stuff-runway-alongside-sister-Gigi-Balmain-PFW.html
+ 17:16 BST, 1 October 2015 
+She's already walked the runway for Moschino, Topshop and Marc Jacobs. And on Thursday Bella Hadid added Balmain to her accomplished list as she strut her stuff on the star-studded runway alongside the likes of sister Gigi, Kendall Jenner and Doutzen Kroes.The 18-year-old model slipped her slim curves into a skin-tight black dress, whilst accentuating her enviably slim waist with an over-sized gold-plated belt.Scroll down for video          Fashionista: Bella Hadid added Balmain to her already accomplished list of fashion shows as she strut her stuff on the star-studded runway alongside the likes of sister Gigi, Kendall Jenner and Doutzen Kroes
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Stella_Maxwell'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go space age chic in Stella's silver bomber jacket by Gucci
+
+
+
+
+Gucci crackle leather bomber jacket
+Steal Stella's style!
+
+
+
+Visit site
+
+
+
+She strutted her stuff on the Balmain SS16 catwalk today, and somehow model Stella Maxwell manages to look just as good when she's not on duty.
+She made the streets of Paris her very own runway as she left the show with fellow beauty Bella Hadid. And whilst she kept things simple with an all-black ensemble consisting of skinny jeans and a crop top, it was her bomber jacket that really made the style statement! 
+It's by Gucci and we love the metallic crackled leather material as well as the varsity stripes on the collar and cuffs. The sports luxe look isn't go anywhere next season (check out today's Chloé show if you don't believe us!) so it's one that's definitely worth investing in. If you fancy splashing the cash then click (right) to buy Stella's exact silver jacket now. 
+But if you want a space age-inspired bomber jacket that won't cost the earth, our edit below is the place to go. Monki's version at Asos is a must have! Then mix things up and team it with an on trend midi skirt.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Monki metallic bomber jacket at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Love Moschino metallic bomber jacket at Farfetch (now reduced to £308.04)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missguided silky bomber jacket
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Muubaa metallic leather bomber jacket at Asos (now reduced to £200)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Stella_Maxwell', FFFtype: 'inline', fff: true}});
+        }
+    
+
+The long-sleeved, mid-length design flashed a mere glimpse of Bella's slender calves, though was given a risque edge as the teen looked to be walking braless.    RELATED ARTICLES  Previous 1 Next       Kendall Jenner shows off her incredible body in very sexy...    Gigi Hadid flashes her toned tum in a crop top and chain...    Kris Jenner, 59, highlights her svelte frame in skintight...    Meet Olivier Rousteing, captain of the Balmain Army... Sponsored    
+
+Share this article
+Share
+32 shares
+
+ Her raven locks were tied into a sleek high ponytail, a look that was also donned by the rest of the models striding along the runway.The look was finished with a pair of cross-over black stilettos and a high-rise metal necklace.                Stunning: The model's raven locks were tied into a sleek high ponytail, a look that was also donned by the rest of the models striding along the runway              Figure envy: The 18-year-old slipped her slim curves into a skin-tight black dress, whilst accentuating her enviably slim waist with an over-sized gold-plated belt         Sister act: Gigi Hadid stormed down the runway in an caramel-coloured crop top and chain mail skirt, showing off her toned abs and incredible figure in the processShowcasing her model looks, the star's make-up was kept minimal.The daughter of Real Housewives of Beverly Hills' Yolando Foster and real estate entrepreneur Mohamed Hadid, looked in good spirits as she left the show arm-in-arm with model pal Stella Maxwell.Dressed down but maintaining her stylish demeanor, Bella reiterated her style credentials in a patchwork leather skirt, slouched brown jumper and patent black ankle boots.          Good company: The daughter of Real Housewives of Beverly Hills' Yolando Foster and entrepreneur Mohamed Hadid, looked in good spirits as she left the show arm-in-arm with model pal Stella Maxwell
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Stella_Maxwell'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go space age chic in Stella's silver bomber jacket by Gucci
+
+
+
+
+Gucci crackle leather bomber jacket
+Steal Stella's style!
+
+
+
+Visit site
+
+
+
+She strutted her stuff on the Balmain SS16 catwalk today, and somehow model Stella Maxwell manages to look just as good when she's not on duty.
+She made the streets of Paris her very own runway as she left the show with fellow beauty Bella Hadid. And whilst she kept things simple with an all-black ensemble consisting of skinny jeans and a crop top, it was her bomber jacket that really made the style statement! 
+It's by Gucci and we love the metallic crackled leather material as well as the varsity stripes on the collar and cuffs. The sports luxe look isn't go anywhere next season (check out today's Chloé show if you don't believe us!) so it's one that's definitely worth investing in. If you fancy splashing the cash then click (right) to buy Stella's exact silver jacket now. 
+But if you want a space age-inspired bomber jacket that won't cost the earth, our edit below is the place to go. Monki's version at Asos is a must have! Then mix things up and team it with an on trend midi skirt.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Monki metallic bomber jacket at Asos
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Love Moschino metallic bomber jacket at Farfetch (now reduced to £308.04)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missguided silky bomber jacket
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Muubaa metallic leather bomber jacket at Asos (now reduced to £200)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Stella_Maxwell', FFFtype: 'inline', fff: true}});
+        }
+    
+
+         Stylish as ever: Dressed down but maintaining her stylish demeanor, Bella reiterated her style credentials in a patchwork leather skirt, slouched brown jumper and patent black ankle boots         Effortless: Stella kept her style simple in a black vest top, skinny jeans and a metallic baseball jacket       Stella, 24, also kept her style simple in a black vest top, skinny jeans and a metallic baseball jacket. Of course Bella wasn't the only Hadid to have stunned on the catwalk, as her older sister Gigi also put on an alluring display. The 20-year-old bombshell stormed down the runway in an caramel-coloured crop top and chain mail skirt, showing off her toned abs and incredible figure in the process.          Besties: The models boast an extrememly close friendship and regularly plaster their Instagram pages with photos of them hanging out together

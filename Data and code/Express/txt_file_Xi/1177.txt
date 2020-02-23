@@ -1,0 +1,38 @@
+When is Donald Trump’s UK state visit? What will he do, will he meet the Queen?
+https://www.express.co.uk//news/uk/761810/donald-trump-uk-state-visit-meet-queen-date-what-will-do-schedule
+ 03:00, Thu, Feb 2, 2017 
+   More than 1.8 million Britons have signed a petition to block Mr Trump’s visit in response to his ban on immigration from seven Muslim-majority countries.The petition argues: “Donald Trump should be allowed to enter the UK in his capacity as head of the US Government, but he should not be invited to make an official state visit because it would cause embarrassment to Her Majesty the Queen.”Theresa May has insisted that the visit will go ahead as planned, despite protests from politicians including Labour leader Jeremy Corbyn, London Mayor Sadiq Khan and Scottish Consrvative leader Ruth Davidson.Parliament will debate the original petition on February 20, and a second one in favour of Mr Trump's visit which has garnered 260,000 signatures.More than 110 MPs signed a motion to stop Mr Trump from being allowed to address parliament if the visit goes ahead, despite a YouGov poll which found that 49 per cent of Brits support the plans.WHAT ARE THE SEVEN COUNTRIES TRUMP HAS BANNED? Related articles   Trump Muslim ban: What countries is Trump banned?   Who is Neil Gorsuch, Donald Trump’s Supreme Court nominee? When is Donald Trump’s UK state visit?The President will visit the UK “later this year”, according to a Downing Street spokesman.The Foreign Office has said that dates will be announced in due course, but it is thought that the visit will take place in the second half of the year.What is a state visit?A state visit is the formal visit of a foreign world leader or monarch at the invitation of the Queen. The grand occasion strengthens diplomatic relations. Previously the Queen has welcomed politicians such as former US President Barack Obama, China’s President Xi Jinping and Mexico’s President Enrique Pena Nieto.She has also hosted divisive politicians such as Robert Mugabe in 1994 and Vladimir Putin in 2003.  GETTYDonald Trump is set to meet the Queen when he makes a state visit this year  GETTYThe Queen met Robert Mugabe in 1994 Queen Elizabeth II in pictures Tue, July 3, 2018The latest pictures of Her Majesty the Queen. Play slideshow  PA1 of 100Queen Elizabeth II attends a reception for 603 (City of Edinburgh) Squadron, Royal Auxiliary Air Force  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Will Donald Trump meet the Queen? What will Donald Trump do on his state visit?During a state visit, the Queen and other members of the Royal Family typically greet the visiting leader at the Horse Guards Parade in Whitehall.Mr Trump and his wife Melania will be invited to watch a Guard of Honour before travelling onward to Buckingham Palace by carriage procession.Later that evening, President and Mrs Trump will be treated to a State Banquet in the Palace Ballroom.Politicians, royals and diplomats will also be invited to the white tie event. Before dinner is served, the Queen typically proposes a toast to the visitor, who in turn toasts her.  GETTYThe Queen welcomed Barack Obama last year  GETTYBarack and Michelle Obama met with the Duke and Duchess of Cambridge and Prince Harry Queen Elizabeth II State Visits in history Wed, February 1, 2017Since ascending to the throne in 1952, Queen Elizabeth II has undertaken a number of state and official visits, making her the most widely travelled head of state in history. Play slideshow  1 of 23  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    For the rest of the visit, Mr Trump will likely meet with Theresa May, Jeremy Corbyn and other political leaders. There may be a second banquet held by the Lord Mayor and the City of London Corporation where he will meet business leaders.Mr Trump reportedly wants to play golf with the Queen, 90, at her Balmoral estate during the visit.Royal sources suggest that he will also be invited to meet with Prince Charles to discuss interfaith issues.

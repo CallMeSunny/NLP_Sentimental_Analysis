@@ -1,0 +1,21 @@
+Xi Jinping holds URGENT call with Donald Trump in bid to find North Korean solution
+https://www.express.co.uk//news/world/790862/xi-jinping-donald-trump-kim-jong-un-north-korea
+ 06:30, Wed, Apr 12, 2017 
+   Xi is thought to have said there must be treated communication and co-operation on major regional issues.The phone call comes just a week after the pair met face-to-face in Florida – yet tensions between Washington and Pyongyang have threatened to boil over in recent days.  GETTYDonald Trump and Xi Jinping have talked about North Korea againTrump has previously promised to take unilateral action against Kim Jong-un’s hermit kingdom if China was not willing to reign in their neighbour and ally.The US President tweeted: “North Korea is looking for trouble. If China decides to help, that would be great. If not, we will solve the problem without them! USA.”The Republican has since deployed the USS Carl Vinson strike force to the Korean peninsula earlier this week. Related articles   US & North Korean tensions BOIL OVER as Kim condemns 'RECKLESS' Trump   JAPAN and US ‘to carry out MILITARY DRILLS close to North Korea'   GETTYXi Jinping and Donald Trump met only last weekJapan now looks set to carry out joint military exercises with the US, which threatens to anger Beijing over a dispute regarding islets in Taiwan.An anonymous source told Reuters: "Japan wants to dispatch several destroyers as the Carl Vinson enters the East China Sea."The Japanese Maritime Self Defence Force (MSDF) may carry out helicopter landings on the USS Carl Vinson, which was deployed near the Korean peninsula in the wake of Kim Jong-un’s missile tests.” Trump launches military strike against Syria Fri, April 7, 2017U.S. President Donald Trump launched 59 Tomahawk missiles against Syria in response to its chemical attack on its own civilians Play slideshow  Getty/Reuters1 of 19Trump ordered a massive military strike against a Syria  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Japanese military officials refused to comment on the proposed drills.It is believed the joint military drills are to be carried out as a show of strength towards Kim Jong-un’s despotic regime.Japan’s move comes just 24 hours after North Korea promised it would retaliate and defend itself “by powerful force of arms” after the US deployed a Navy strike group in the Korean Peninsula.  GETTYKim Jong-un's sabre rattling has led to fears of World War 3Kim Jong-un’s state-owned news agency KCNA claimed Trump’s deployment showed “reckless moves for invading” that had now “reached a serious phase”.North Korean state broadcaster KCNA said: “We will hold the US wholly accountable for the catastrophic consequences to be entailed by its outrageous actions."The DPRK is ready to react to any mode of war desired by the US.

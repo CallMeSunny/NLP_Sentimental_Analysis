@@ -1,0 +1,38 @@
+North Korea's new trading ally? Mongolia and Kim hit record high as China tightens trade
+https://www.express.co.uk//news/world/900885/north-korea-kim-jong-un-world-war-3-mongolia-khaltmaagiin-battulga-tobacco-china
+ 04:11, Sat, Jan 6, 2018 
+  GETTYMongolia and North Korea hit record high as China tightens tradeFigures released by the Korea Trade-Investment Promotion Agency (KOTRA) showed that trade between the two countries has increased by 43 per cent to reach £1.69 million ($2.29 million).The increase in trade was largely because of Mongolia’s exports to North Korea, which stood at £1.4 million ($1.92 million) which was up 55 per cent from a year ago.During the same period imports increased by 2.1 per cent to £270,000 ($370,000).Tobacco was the most exported item from Mongolia to North Korea, which accounted for 92.2 per cent of the total.Mongolia has been exporting tobacco to North Korea since 2016.Related articles   World War 3: Peninsula on ‘brink of nuclear war’    China TIGHTENS trade restrictions with North Korea in SHOCK move Medicine was the most exported item from the hermit kingdom to Mongolia.It come as China's commerce ministry and customs authorities said they have tightened their trade restrictions with North Korea, in accordance with UN sanctions against Pyongyang.Beijing will limit exports of iron, steel and other metals, as well as on industrial machinery and transport vehicles to North Korea.China, who is widely regarded as the hermit kingdoms main trading partner and energy supplier, will also limit crude oil and refined petroleum supplies.According to China’s Commerce Ministry, the ban will begin on today, on January 6. The hardest countries in the world to visit Fri, December 15, 2017MAPPED: The hardest countries to travel to - and North Korea ISN'T the worst. Play slideshow  EXPRESS•Getty1 of 10The hardest countries in the world to visit  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The UN Security Council decided last month to impose new penalties on North Korea for its intercontinental ballistic missile test.This included setting tougher limits on refined petroleum products and crude oil supplies to Pyongyang.In the past, Beijing has repeatedly acted as Pyongyang’s diplomatic protector however, North Korea's recent reckless behaviour has begun to drive a wedge between the two nations.The UN measure also demands the repatriation of all North Koreans working abroad within 24 months.Chinese leaders, including President Xi Jinping, have resisted previous US pleas for an outright oil embargo but agreed to the latest limit.   GETTYMongolia has been exporting tobacco to North Korea since 2016Under the latest restrictions, Chinese companies will only be allowed to export 4 million barrels of oil and 500,000 barrels of refined petroleum products per year.They are barred from supplying the dictator run-state with military or weapons programs.Some North Korean exports to China will also be restricted, including equipment, grain, timber and other agricultural products.  GETTYThe increase in trade was largely because of Mongolia’s exports to North Korea Tanks on move near North Korea border as Kim and Trump gear up for WAR Fri, January 5, 2018North Korean leader Kim Jong Un reopened a key cross-border communication channel with South Korea for the first time in nearly two years Wednesday as the rivals explored the possibility of sitting down and talking after months of acrimony and fears of war Play slideshow  REX1 of 13South Korean army's K-55 self-propelled howitzers take positions during a military exercise  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Those goods that had been sent prior to the sanctions imposed on December 23rd must be released by customs before January 24th.In late December, Donald Trump accused China of violating the sanctions order by exporting oil to North Korea, after a media report alleged illegal supplies of oil to North Korean vessels at sea.China denied the reports but Mr Trump claimed that they had been caught “red-handed”.Related articles   World War 3: US blasts North Korea must stop 'threatening behaviour’   World War 3: Japan set for RECORD HIGH defence budget 

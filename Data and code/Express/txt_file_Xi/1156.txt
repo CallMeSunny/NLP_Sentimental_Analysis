@@ -1,0 +1,38 @@
+Not an April Fool! North Korea put forward as potential World Cup host
+https://www.express.co.uk//news/world/816286/north-korea-host-world-cup-2030-fifa-chief-infantino-football
+ 20:53, Mon, Jun 12, 2017 
+  GETTYWould you travel to North Korea to watch the World Cup? Despite repeated missile threats, UN sanctions, a horrendous human rights record and a determination to remain detached from the international community, North Korea could share hosting duties under the new proposal. In a bid to improve ties between Pyongyang and Seoul, South Korea’s new president Moon Jae-in put forward the idea during a meeting with FIFA president Gianni Infantino during the recent Under-20 World Cup. Related articles   Goalkeeper beats North Korean counterpart to score hilarious goal   Kim Jong-un vows to ‘MASS-PRODUCE missiles’ after successful test Amid suggestions that the Far East could be awarded the tournament in 2030, Mr Moon suggested the World Cup could be shared with countries in the Northeast Asian region – including North Korea.The South Korean president told Mr Infantino: "If neighbouring Northeast Asian countries, including South and North Korea, can host the World Cup, I think that would contribute to peace between South and North Korea and in the Northeast Asian region.“I would like president Infantino to have interests on this matter."Mr Infantino, who became FIFA president last year, is believed to have told Mr Moon that he will discuss the idea with Chinese president Xi Jinping as tensions escalate on the Korean peninsula.  GETTYNorth Korea in action against Portugal at the 2010 World Cup World Cup 2010 Sun, July 11, 2010South Africa Play slideshow  1 of 328Spain players celebrate with the World Cup trophy at the end of the World Cup final soccer match between the Netherlands and Spain at Soccer City in Johannesburg, South Africa  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    The extraordinary proposal is the latest effort by South Korea’s new president to improve ties between the countries, which have come under increasing strain as the North ramps up its threat of missile attacks on its southern neighbour.The two nations currently sit either side of the world’s most heavily-fortified border since the 1950-53 Korean War ended with an armistice, not a peace treaty - meaning that technically the two countries are still at war.South Korea and Japan hosted the World Cup together in 2002 and are believed to be keen to hold the tournament again.North Korean dictator Kim Jong-un has reportedly started following Italian football after he saw the country’s star striker score for Serie A side Cagliari.  GETTYFIFA chief Infantino is believed to be considering the proposalAlmost all of the hermit state’s national team play for clubs in North Korea, given the difficulties of escaping the communist kingdom.North Korea have qualified just twice for the World Cup - once in 1966 and most recently in 2010, when they travelled to South Africa to take part.The North Korean team lost all three of their group stage games in 2010 and were subjected to a six-hour verbal attack in a public dressing down for "betraying" the communist nation's ideological struggle, according to reports.How fans and participants would travel to the hermit state is just one of a number of issues that would have to be considered before North Korea has any chance of hosting the famed tournament.There are already concerns about the hosts of the next two World Cups - Russia and Qatar - over the dangers posed to travelling fans.Russian hooligans caused chaos at the Euro 2016 tournament in France as they fought with rival fans on multiple occasions. North Korea as you've never seen before through these stunning pictures Tue, June 13, 2017These incredible photographs, which offer a unique glimpse behind the veil, were taken on a trip to the country by web designer Reuben Teo Play slideshow  Reuben Teo / mediadrumworld.com1 of 10Pyongyang  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    One thug, who leads Zenit St Petersburg's Landscrona mob, warned: “You think it was bad in France - wait until Russia.”Meanwhile, the contentious decision for Qatar to hold the 2022 World Cup is still being criticised given the country’s human rights record.The sweltering heat, tough alcohol laws and a lack of footballing history are among the major reasons why Qatar’s bid to host the World Cup is mired in controversy.

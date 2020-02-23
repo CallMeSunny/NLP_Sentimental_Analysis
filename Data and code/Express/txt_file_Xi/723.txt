@@ -1,0 +1,21 @@
+FTSE 100 storms to RECORD all time high as 'Black Gold' buoys markets
+https://www.express.co.uk//finance/city/804743/FTSE-100-all-time-high-oil-price-climb
+ 07:22, Tue, May 16, 2017 
+  GETTYThe FTSE 100 is on track for a record day Oil majors BP and Royal Dutch Shell, which comprise over 13 per cent of the FTSE 100 both climbed yesterday as crude jumped nearly 3 per cent.The North Sea benchmark topped $52 a barrel.Prices rebounded after Saudi Arabia and Russia said they would extend their commitment and current deal on oil production cuts. The FTSE 100's new all-time high signals investors are showing confidence that uncertainty surrounded Brexit can be successfully navigated.The FTSE 100 fell in April when a snap general election was called by Theresa May because of the uncertainty in the market it sparked. According to Connor Campbell of SpreadEx, the UK index hit a new peak and now needs to stay there. Top 10 countries that want to trade with UK after Brexit Thu, February 16, 2017These are the top 10 trade partner prospects for the UK moving forward Play slideshow  1 of 11  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     The FTSE is barrelling towards a fresh all-time high this MondayConnor Campbell of SpreadExHe said: “The FTSE is barrelling towards a fresh all-time high this Monday, ignoring both the ‘WannaCry’ ransomware attack of last Friday, and a selection of weak Chinese data that saw industrial production drop from 7.6 per cent to 6.5 per cent month-on-month.”Following the shocking cyber attack on Friday, traders have been buying shares in cybersecurity companies. Security software firm Sophos Group was the biggest riser on the FTSE 250, up more than 7 per cent, or 24.4p, to 365.6p. Related articles   FTSE 100 RISES in early Brexit Day trading as markets poised for A50   Dow Jones stocks rise ahead of Trump's meeting with China's Xi Jinping   GETTYShares in cyber security companies have surged in popularityMike van Dulken, Head of Research at Accendo Markets, said: “Equity indices are mixed this morning but retain a bullish bias and proximity to all-time highs. "The FTSE has already posted a fresh record amid commodity strength as oil jumps on hopes of extended OPEC-led production cuts, boosting heavyweight Energy names, and metals benefit from a weaker USD and fresh China optimism.” The Chinese president Xi’s infrastructure plans are increasing share prices around the globe.    The increase in oil prices could be bad news for companies and individuals, as it means that petrol prices could increase. Germany’s stock market has also hit its own all-time high today as the DAX index has gained almost 0.5 per cent this morning. The pound, meanwhile, has climbed steadily against the euro.The exchange rate has grown from €1.17817 to the pound to €1.18172 today.

@@ -1,0 +1,227 @@
+Alessandra Ambrosio flashes her bra in revealing black mesh dress as she joins international modelling royalty for Balmain party... after announcing her Victoria's Secret retirement
+https://www.dailymail.co.uk/tvshowbiz/article-5104987/Alessandra-Ambrosio-flashes-bra-Balmain-bash.html
+ 19:56 BST, 21 November 2017 
+She recently announced she would retiring from modelling for Victoria's Secret, after walking in seventeen of the brand's fashion shows.But Alessandra Ambrosio continued to showcase her model physique on Tuesday night, as she joined an international guestlist of model royalty at the Balmain fashion bash.The 36-year-old runway superstar showed off her incredible figure in a girly goth inspired look, as she arrived at the bash in Shanghai.Scroll down for video          Incredible: Model Alessandra Ambrosio, 36, flashed her bra in a revealing all-black ensemble for a Balmain event in Shanghai on Tuesday
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Alessandra_Ambrosio'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opt for Alessandra's 80's-inspired LBD
+
+
+
+
+Balmain Spring 2018
+View more from the collection here
+
+
+
+Visit site
+
+
+
+As if we hadn't seen enough of Alessandra Ambrosio's endless legs this week, what with the wondrous display that was the Victoria's Secret Fashion Show, here, the veteran supermodel made ANOTHER dazzling appearance clad in Balmain. Hanging off the arms of fellow models as well as the brand's Creative Director Olivier Rousteing, Alessandra made quite the entrance. 
+ 
+The dress itself hails from Balmain's Spring '18 collection, which is not yet available to shop, however we've collated a selection of similar options for you to shop below. 
+ 
+We love the mesh detail of Alesandra's dress, which ha been a big hit trend-wise for the past couple of years. Looks like this is a trend that isn't going anywhere either, which bodes well seeing as we've got out eye on Missguided's premium black bandage dress for the upcoming party season. 
+ 
+Or perhaps you're after something slightly more demaure? Fear not. AX Paris have just what you're looking for. With its high neck and sheer sleeves, this one strikes a great balance: think party dress meets high fashion.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Self-Portrait bellis lace trim dress black
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+AX Paris BLACK CROCHET LONG SLEEVED DRESS
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Missguided premium black bandage lattice dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+House of CB 'MAHINA' BLACK LADDER LUXE KNIT DRESS
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Alessandra_Ambrosio', FFFtype: 'inline', fff: true}});
+        }
+    
+
+Alessandra rocked a standout dress consisting of a black rose-effect skirt and mesh top, showing her bra in the revealing ensemble.   RELATED ARTICLES  Previous 1 Next       No wonder he's ecstatic! Harry Styles cuts a dashing figure...    Bella Hadid suffers a double nip slip as she flaunts her...    Busty Lais Ribeiro steals the show in opulent $2million...    Victoria's Secret Angel Adriana Lima wows in two VERY sexy...    
+
+Share this article
+Share
+108 shares
+
+ Putting on a leggy display in the stylish ensemble, Alessandra teamed her look with a statement studded belt and matching gold boots.The Brazilian runway star styled her brunette tresses into a slicked-back low ponytail and showcased her glowing complexion in barely-there makeup.           Flawless: The runway star flashed her ample assets in a revealing black mesh top, teamed with a rose-effect skirt         Stepping back: Alessandra left fans devestated on Monday when she announced her retirement from the Victoria's Secret brand after 17 years         Send-off: Alessandra kept fans up to date on social media after attending a surprise party in her honour         Superstar: The mother-of-two was seen cutting a specially made cake for the bashAlessandra shocked fans on Monday with the shock announcement that she would be retiring from the Victoria's Secret brand, donning the wings for the final time in the Chinese city's show.The model certainly exited the brand in style, after sharing snaps on social media of a surprise party in her honour on Monday night.The party, celebrating Alessandra's appearance in 17 runway shows, was attended by a slew of celebrity stars, including singer Harry Styles.Alessandra revealed she would be leaving the brand to focus on family life and spend more time with her two children Anja, nine, and Noah, five.         Party it up: Alessandra put on a leggy display in a stylish black minidress for the bash to celebrate her appearances in 17 Victoria's Secret show         Good times: Alessandra revealed her exit from Victoria's Secret to spend more time with her family         Special guest: Singer Harry Styles was also seen at the party         Fab night: Alessandra walked her final Victoria's Secret runway show on Sunday nightAlso spotted at the bash was New Zealand model Georgia Fowler, who put on a leggy display in a black and red studded minidress in the Chinese city.The Victoria's Secret Angel tied her brunette tresses into a sleek high ponytail as she arrived at the event, giving a Alessandra a run for her money in the style stakes.Georgia rocked racy black shoe boots for the event, which showed off the model's amazing figure, especially when the star posed next to British model Alexina Graham.         Legs for days: New Zealand model Georgia Fowler put on a leggy display in a black and red studded minidress              Glamour girl: The fashion star went rock chic for the event, with her brunette tresses slicked into a high ponytail         Model pals: Georgie was seen posing with fellow fashion superstar Alexina GrahamAlexina showcased her slender shape in a black mesh jumpsuit at the event, with the star's strawberry blonde locks in a tousled wavy style.The British fashion star oozed confidence in the stylish ensemble, with her alabaster skin glowing against the gothic look.Alexina and Georgie made a perfect fashion pair as they posed at the bash together, after wowing fans on the Victoria's Secret Runway together.         Vixen: Alexina showed off her slender physique in a black mesh jumpsuit              Stunning: The British model kept her strawberry blonde tresses in loose tousled waves         Flawless: South Sudan model Grace Bol rocked a black leather dress adorned with studs and fringing         Ooh la la! French model Cindy Bruna looked effortlessly chic in a white wool-effect waistcoat dressGrace Bol of South Sudan rocked a tassel-tastic look at the event, donning a black dress adorned with various fringing and studded detailing.But brushing off her runway mishap just 24 hours later, model Ming Xi, 28, put on a brave face as she stepped out for the Balmain, after suffering an epic blunder and tripping over during the Victoria's Secret Fashion show.The beauty made for a leggy display as she slipped into a chic structured mini dress to rub shoulders with the fashion house's creative director Olivier Rousteing.           Picking herself back up: Ming Xi put on a brave face as she stepped out to attend the event- just 24 hours after taking a tumble on the Victoria's Secret catwalkFresh from her appearance on the Victoria's Secret catwalk, Ming flashed a smile as she showcased her model frame in a leather dress that sat high on her thigh and boasted lattice detailing at the top of each leg. Featuring lace-up embroidery all over and structured sleeves, the dress sheathed her lithe physique, leaving her lengthy pins firmly on view, as she stepped out for the occasion in a complementing pair of towering heels.Her dark tresses were left down in a sleek and straight style and Ming made sure to accentuate her striking beauty with a neutral make-up look.          Statement: The beauty made for a leggy display as she slipped into a chic structured mini dress that sat high on her thigh and boasted lattice detailing at the top of each leg              Stylish duo! She was seen rubbing shoulders with Balmain's creative director Olivier Rousteing         Model behaviour: Ming was joined by Alessandra Ambrosio and Grace Bol (L-R), as the fashion stars cuddled up to Rousteing at the eventMing was joined at the fashion event by a slew of other modelling stars including Alessandra Ambrosio, Cindy Bruna, Georgia Fowler and Alexina Graham. Her appearance comes after she fell while walking for Victoria's Secret during their annual showcase that had been held at the Mercedez Benz Arena in Shanghai this year. The Chinese model accidentally caught the flowing fabric of her ensemble on the heel of her thigh-high gladiator shoes, causing her to fall over her feet and tumble on the catwalk for all to see.           There she goes! Ming suffered an epic tumble at the 22nd annual Victoria's Secret Fashion Show show which was held at the Mercedes Benz Arena in Shanghai on Monday         Going, going, gone! Ming momentarily lost composure as she tripped over her ensemble and fell to the ground Ming initially appeared on the runway looking absolutely jaw-dropping in her bejewelled getup, but was soon dealt with an embarrassing moment as she fell in her vertiginous gold heels.The raven-haired beauty was seen dramatically falling to the floor, before grabbing onto her statement headgear to avoid further disaster. With the excess material of her ensemble tangling up together, getting up off the floor proved to be quite the challenge for the beauty.Taking her fall in good spirits, however, Ming was still seen sporting a huge smile as she finally made her way up from the ground. Resetting herself on her feet and adjusting her statement headgear, the starlet didn't break a sweat as she continued with her sexy strut.          Taking a tumble: The Chinese model accidentally caught the flowing fabric of her ensemble on the heel of her thigh-high gladiator shoes - sending her packing for all to see              Oops! The raven-haired beauty was seen dramatically falling to the floor, before grabbing onto her statement headgear to avoid further disaster         Laughing it off: Ming did her best to keep a smile on her face as she attempted to get up               Tangled up! With all the excess material, getting up off the floor proved to be quite the challenge for the beauty         The show must go on! Luckily Ming was able to laugh off the fall as she made her way up from the groundDespite the blunder, Ming looked sensational in her sultry metallic and royal blue hued bodysuit. The number was paired with a whimsical semi-sheer blue gown, with balloon sleeves and a soaring split down the middle. Glamorous floral wings and an incredible crown set completed the look, as did her striking coat of make-up. Ming was discovered after placing third in the Elite Model Look competition in 2010 and has since gone on to become one of China's most sought after models. She kicked off her international modelling career for Givenchy's 2011 Haute Spring Show, before wowing at the likes of Christian Dior, Vivienne Westwood and Kenzo the same year.                 Veteran: She has been strutting her stuff for the Victoria's Secret Fashion Show since 2013              Rise to fame! Ming was discovered after placing third in the Elite Model Look competition in 2010 and has since gone on to become one of China's most sought after models         Impressive: She kicked off her international modelling career for Givenchy's 2011 Haute Spring Show, before wowing at the likes of Christian Dior, Vivienne Westwood and Kenzo the same year              Like it didn't even happen! While many would have been left red-faced, Ming didn't break a sweat as she flashed a huge smile while continuing her sexy strut         Speaking of her sudden fame back in 2011, Ming told CNN: ' Even now I don’t believe I am really a model, it’s very surreal to me'       Speaking of her sudden fame back in 2011, Ming told CNN: ' Even now I don’t believe I am really a model, it’s very surreal to me.''I had no preconceptions about this career, I tend to just go with the flow. I never really gave (being a professional model) too much thought before. That said, I absolutely love what I’m doing now,' she concluded. She has walked in the Victoria's Secret annual showcase for the last five years - first making her debut for the famous lingerie brand in 2013.                Laughing it off! Ming handled the embarrassing situation like a champ         Wow: Despite the blunder, Ming looked sensational in her saucy metallic and royal blue hued bodysuit         Sexy: The number was paired with a whimsical semi-sheer blue gown, with balloon sleeves and a soaring split down the middle         Beauty: Glamorous floral wings and an incredible crown set completed the look, as did her striking coat of make-up

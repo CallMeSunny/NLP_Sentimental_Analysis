@@ -1,0 +1,21 @@
+Trade leader insists there is a market for UK goods in China
+https://www.express.co.uk//news/uk/756293/Trade-David-Martin-China-UK
+ 13:15, Thu, Jan 19, 2017 
+   A historic trade route was opened on Wednesday as the first direct freight train from China arrived in London.The 7,400-mile train route can transport huge quantities of stock quicker than ever before.Speaking to Sky News, Mr Martin, who has been director at the organisation for around four years, said a growing Chinese middle class was opening up opportunities for British products.  SKY NEWSDavid Martin says China wants UK goods We will only be happy when this train is full of UK goodsDavid MartinThe China-Britain Business Council helps UK companies develop their business in China. Mr Martin added he now wanted to see British items sent to Asia on the train.He said: “We will only be happy when this train is full of UK goods on their way back to China. There is a bit of a misconception that there isn’t a market in China for UK goods. There is. “Throughout our organisation, companies are sending bicycles, tea, chairs, shoes, as well as advanced engineering projects, tools and equipment from the UK to China. So there definitely is a market.  The Torch Festival of China Sat, July 30, 2016The Torch Festival of China is one of the main holidays of the Yi people of southwest China. People will burn torches, hold beauty contest and animal fighting competitions, play wrestling and pole climbing during the celebration of Torch Festival Play slideshow  Getty Images1 of 14The Torch Festival of China in pictures  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     Related articles   China president makes first appearance at World Economic Forum   A China and US trade war would be DISASTROUS for all, MEP warns  “Why? Because there’s an increasingly middle class in China that has disposable income, that is educated, internationalised and they’re looking for something unique and different, well designed and that happens to be where the UK fits in.”The train on Wednesday, which contained clothes, bags and suitcases, marked the relaunch of the ancient Silk Road.  Related videos   Daniel Hannan warns US against trade war with China The landmark journey takes 16 days, compared to up to six weeks if containers are sent by boat, and costs significantly less than waterborne transportation.Fang Xudong, vice general manager of Tianmeng Industrial Investment, which owns the train, said the train route between Yiwu and London took 30 days less than maritime routes, while only costing a fifth of air transportation.

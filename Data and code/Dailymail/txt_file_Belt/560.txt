@@ -1,0 +1,214 @@
+Beauty in bronze Heidi Klum is joined by guest judge Kerry Washington as they prepare to crown winner of Project Runway at Spring 2014 Fashion Show
+https://www.dailymail.co.uk/tvshowbiz/article-2414114/Beauty-bronze-Heidi-Klum-joined-guest-judge-Kerry-Washington-prepare-crown-winner-Project-Runway-Spring-2014-Fashion-Show.html
+ 18:27 BST, 6 September 2013 
+
+
+
+Beauty in bronze Heidi Klum is joined by guest judge Kerry Washington as they prepare to crown winner of Project Runway at Spring 2014 Fashion Show By Jade Watkins   Published: 18:27 BST, 6 September 2013  |  Updated: 00:25 BST, 7 September 2013    
+
+
+         e-mail          13 View  comments    Her contestant's designs were supposed to be the focus on the runway at New York Fashion Week on Friday. But once again Heidi Klum was the centre of attention at Project Runway's Spring 2014 catwalk show held at the Lincoln Centre during Mercedes-Benz Fashion Week.The German supermodel stole the show in a glittering bronze one-shouldered gown cinched in at the waist with a slimline studded belt. Scroll down for live stream of New York Fashion Week...      Show stopper: Heidi Klum stole the show at Project Runway's Spring 2014 catwalk show held at the Lincoln Centre during Mercedes-Benz Fashion Week on Friday in this bronze gown The stunning attire complemented the 40-year-old's olive complexion and she let her dress do all of the talking by wearing minimal accessories. Heidi was joined by actress Kerry Washington, who was acting as a guest judge on the show's finale. The 36-year-old Scandal star displayed plenty of her decolletage in a flirty floral dress complete with plunging neckline.                 Guest judge: Heidi was joined by guest judge, actress and TV star Kerry Washington         So stylish: The 36-year-old Scandal star displayed plenty of her decolletage in a flirty floral dress complete with plunging neckline  Kerry's dress was complemented by a pair of simple yet stylish red stilettos and she wore her hair in a loose and messy updo. Of course Heidi was also joined by regular Project Runway judges, designer Zac Posen and Creative Director at Marie Claire, Nina Garcia. Zac dressed-to-the-nines in a dapper black tuxedo, lavender shirt and purple bow tie, while Nina was elegant in a black lace top and matching black trousers.       Here comes the judges: Of course Heidi was also joined by regular Project Runway judges, including designer Zac Posen and Creative Director at Marie Claire, Nina Garcia        More star power: Alyssa Milano sat front row at the show                  Popular: The Mistresses star posed with both Heidi and Kerry backstage             Standing out: The star stood out in her neon sequin top which she bizarrely wore over the top of a blue shirt and tie combination  During the show, Heidi kept her fans up to date with the contestants' progress, along with a slew of snaps of herself.  She tweeted: 'Another Project Runway season at #NYFW! Let's get this show started! #DayInTheLife.'She also posted an image of herself arriving for the show wearing a leather jacket over her bold bronze dress.'Back again for Mercedes-Benz Fashion Week for Project Runway- one of my favorite times of year! #DayInTheLife,' she wrote. Earlier in the morning, Heidi had enlisted her glam squad to get her camera ready.       Smooch: Heidi was seen planting a big wet one on Tim Gunn on the catwalk        Fever pitch: The excitement surrounding the finale was at fever pitch as the judges watched the designs saunter down the runway                   Innovative: Two designs come down the catwalk at the Project Runway show    Sitting in a make-up chair, she was seen being fawned over by a make-up artist and hairdresser.'Rise and shine! Getting glammed up by Linda Hay and Rebekah Forecast for an action packed day! #DayInTheLife,' she tweeted. Following the catwalk show, the judges and contestants usually head back to the studio where the winner of Project Runway is subsequently announced.       Busy week: Nina was seen earlier in the day in another outfit as she headed out and about around the Lincoln Centre Heidi can also currently be seen as a judge on America's Got Talent alongside Spice Girl Mel B, Howie Mandel and Howard Stern.  With duties on both AGT and Project Runway, Heidi is dividing her time between the West and East Coasts.'I shuttle myself back and forth every week,’ she said recently.‘I'm here for two days, and the rest of the week I'm home in Los Angeles.      Cool as a cucumber: As always, all eyes were on Heidi as she arrived for the show    
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Heidi_Klum'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steal the show in a sequin number like Heidi Klum
+
+
+
+
+BCBG Max Azria Atelier Sequin Dress
+Showing them how it's done!
+
+
+
+Visit site
+
+
+
+Heidi Klum is a goddess. Fact. The German supermodel stole the Project Runway catwalk in this glittering asymmetric bronze maxi dress which she added a stylish edge to by cinching it in at the waist with a slimline studded belt, blinding all with her beauty. 
+ 
+The dress in question is a stunning BCBG Max Azria Atelier creation, a floorlength marvel that oozes timeless elegance and glamour. Yesterday Heidi sat front row at Max Azria's fashion show wearing a monochrome ensemble from the French designer, getting the first major New York Fashion Week show off to a big start.
+ 
+If you want to steal the show like Heidi and shine and sparkle in a stunning sequin dress, well as close to Heidi as a mortal could look, you have to check out our pick of dramatic numbers below.
+ 
+We love this Needle & Thread embellished midi dress so much our hearts actually hurt but if you want to work the look for less then what about an elegant cream sequin number from AX Paris which is now on sale at just £39.99. Bargain!
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET ONE LIKE IT FOR LESS
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Needle & Thread Geo Pearl Era Midi Dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Debut Natural embellished chiffon maxi dress
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+AX Paris Sequin Split Maxi Dress (now £39.99)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Heidi_Klum', FFFtype: 'inline', fff: true}});
+        }
+    
+
+        Glam squad: Earlier in the day, Heidi tweeted a snap of herself getting prepared for the show     ’    

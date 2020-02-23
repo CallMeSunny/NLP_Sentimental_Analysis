@@ -1,0 +1,21 @@
+World War 3? Russia and China heighten tensions as joint navy drills sparks NATO concern
+https://www.express.co.uk//news/world/831920/world-war-three-russia-china-tensions-baltic-sea-nato-concern
+ 02:45, Sun, Jul 23, 2017 
+  GETTYJoint Russian-Chinese military drills in the Baltic have sparked NATO concernDozens of warships from the two superpowers started a series of drills near the Russian port of Baltiysk on Friday, set to last until July 28.The exercises are expected to include anti-ship, anti-submarine and anti-aircraft defence manoeuvres. Related articles   Russia and China play WAR: Destroyers descend on Kaliningrad for games   North Korea committing ‘NAZI-era atrocities’ and public executions   GETTY FILEThe manoeuvres will last until July 28But senior Nato figures have stressed they will closely monitor the drills amid accusations that the proximity of the drills is an act of provocation.The US’s European Command said it would be "closely tracking Russian exercises with other participants, like China". Incredible images of Japan's LARGEST warship Mon, March 13, 2017Japan plans to dispatch its largest warship on a three-month tour through the South China Sea beginning in May, three sources said, in its biggest show of naval force in the region since World War Two Play slideshow  AFP/Getty Images1 of 5Japan Maritime Self Defense Forces helicopter carrier Izumo (L) anchors at its Yokosuka Base in Kanagawa prefecture  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+     The trend for the development of Chinese-Russian relations has been excellent in recent yearsYang MianIts statement continued: “While we support their rights to train in international commons, we expect all nations adhere to international norms and laws.”But experts and observers have stressed Russia and China have the right to carry out drills wherever “national interests” require it.   Yang Mian, from the Centre for International Relations at the Chinese Institute of Communications, said: “The trend for the development of Chinese-Russian relations has been excellent in recent years, and favourable progress can be noted in military cooperation as well.“Earlier, the two countries conducted drills in various areas of the Pacific Ocean.“This time, the joint exercises in the Baltic Sea reflect the close cooperation between the two countries in the military sphere – their mutual strategic support for one another.”Mr Yang stressed the drills were “not directed against any third country”.  GETTYCooperation between Russia and China has been 'excellent' in recent years, experts sayRoyal navy ships were scrambled earlier this week when the Chinese vessels passed through the English Channel on their way to the Baltic.Russian president Vladimir Putin and Chinese president Xi Jinping have further escalated pressure on Nato by deciding to go ahead with the drills.

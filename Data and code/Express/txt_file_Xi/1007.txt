@@ -1,0 +1,21 @@
+China ‘partially CENSORS’ and FORBIDS streaming of Donald Trump’s inauguration
+https://www.express.co.uk//news/world/757034/Donald-Trump-China-media-censor-inauguration-propaganda-forbids-live-streaming
+ 05:53, Sat, Jan 21, 2017 
+   As the Chinese government considers its response to a potentially hostile new US administration, officials have ordered the press only to publish reports on the ceremony written by central state media, according to Chinese journalists.According to the Financial Times, a copy of censorship instructions said: “It is forbidden for websites to carry out live streaming or picture reports of the inauguration.” Related articles    ‘I did it MY WAY’ President Trump celebrates with Melania   Winston Churchill bust RETURNS to Trump’s Oval Office The instructions also order media outlets not to make the event the top story on their homepage, and remind them to “take care” of news comments and “negative and harmful speech”.While it is common for Xi Jinping’s government to issue such orders ahead of big world news events, analysts said this case reflected particular uncertainty over how to tackle public perceptions of President Trump.The instructions apparently also apply to foreign-facing publications.  GETTYCensorship instructions were reportedly sent to Chinese media outlets.Elyse Ribbons, an American who hosts a programme on Chinese state-run radio, said on Thursday she wasn’t allowed to discuss Mr Trump on air.She wrote on Twitter: “Wasn’t allowed to discuss Trump today on my radio show, he’s now an official sensitive topic.”She added: “Chinese leadership still trying to figure him out (sigh)”.  GETTYChinese media has in the past derided Trump as "unfit" to serve as US President.  GETTYPresident Trump has clashed with China numerous times since announcing his candidacy.Mr Trump has clashed with China multiple times since running for the US presidency – with Beijing even issuing a formal complaint to Washington after he broke a decades-long democratic agreement by speaking on the phone to Taiwanese president Tsai Ing-wen.And last week, incoming secretary of state Rex Tillerson set the stage for a diplomatic crisis when he declared China should not be allowed to access artificial islands it has built in the South China Sea. Donald Trump's historic inauguration in pictures Mon, January 23, 2017The inauguration of Donald Trump as the 45th President of the United States marked commencement of the four-year term as President and Mike Pence as Vice President. Play slideshow  AP1 of 40President Donald Trump waves as he walks with first lady Melania Trump and son Barron during the inauguration parade.  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Professor of international news at Beijing Foreign Studies University said the Chinese government still did not know how to react to the new president.He said: “Trump is a very different kind of president than Obama. He has a less friendly attitude – he’s unpredictable.”

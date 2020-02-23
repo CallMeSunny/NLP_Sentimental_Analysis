@@ -1,0 +1,21 @@
+Donald Trump could stop China SPYING on the US with ultra-fast 5G network construction
+https://www.express.co.uk//news/world/911284/China-Donald-Trump-5G-network-Xi-Jinping-North-Korea-T-Mobile-AT-T-Verizon-technology
+ 03:50, Mon, Jan 29, 2018 
+  GettyUS network providers are already in the process of testing the much-improved networksThe official revealed that the idea of a government network is being discussed at a low level but could be considered by the Republican firebrand himself in as little as six months time.The official declared: "We want to build a network so the Chinese can't listen to your calls."We have to have a secure network that doesn't allow bad actors to get in. We also have to ensure the Chinese don't take over the market and put every non-5G network out of business."A decision to create a high-tech 5G network to restrict China’s US access would line up with Mr Trump’s hard-line approach to Beijing that has seen him press Xi Jinping to get results on matters surrounding North Korea. Related articles   Donald Trump is ‘RUSHING’ troops to Afghanistan to turn war around   North Korea blasts 'sinister' Trump for driving wedge with Seoul The network discussions also appear to be a way for the US to bulk up its cyber and economic security.However, the construction of a 5G network is expensive with T-Mobile Inc and Dish Network Corp spending £5.6billion ($8billion) and £4.3billion ($6.2billion) respectively to purchase broadcast airwaves spectrum in a government auction.5G is seen as the next generation to current network known as 4G - it promises to provide greater networks speeds, lower latencies and greater bandwidth.US network providers are already in the process of testing the much-improved networks. Donald Trump: Made in America Showcase, in pictures Tue, July 18, 2017Donald Trump gave a speech at the "Made in America Showcase" – an event designed to highlight products made in America – at a special event held at the White House in Washington, DC Play slideshow  REUTERS1 of 9 Vice President Mike Pence laughs as U.S. President Donald Trump holds a baseball bat as they attend a Made in America product showcase event at the White House  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    An official explained that the US could work with the “industry” to put its security idea into fruition.They said: "We want to build a secure 5G network and we have to work with industry to figure out the best way to do it.”The comments from officials appeared to add weight to an earlier report that stated the US government could rent access to the 5G network to providers such as AT&T, Verizon and T-Mobile.  GettyThe network discussions also appear to be a way for the US to bulk up cyber and economic security  Getty5G networks are considered to be a multibillion-dollar industry for US network carriers5G networks are considered to be a multibillion-dollar industry for US network carriers.Meanwhile, 5G networks in the UK could roll out as early as 2020 - however coverage may take another two years to become widespread.Network users will have to purchase a new phone capable of harnessing the power of 5G to reap its benefits.

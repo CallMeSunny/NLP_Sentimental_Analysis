@@ -1,0 +1,21 @@
+Donald Trump: The REAL reason I didn’t shake hands with Angela Merkel
+https://www.express.co.uk//news/world/879411/Donald-Trump-Angela-Merkel-handshake
+ 12:15, Tue, Nov 14, 2017 
+  GETTYDonald Trump and Angela Merkel but no handshakeThe US President explained the truth behind an apparent frosty first meeting with Mrs Merkel in the White House, when it appeared the pair refused to shake hands.The two leaders appeared before the cameras in July after holding a bilateral meeting in the Oval Office where they talked about strengthening Nato, fighting ISIS and resolving Ukraine’s conflict with Russia.At the time it was viewed as a snub but Mr Trump has now revealed it was all down to a misunderstanding. Related articles   Donald Trump's trade chief BLASTS Merkel's economic legacy    Germany set for new nuclear weapons EXPANSION: Top MP blasts Merkel   GETTYDonald Trump was accused of refusing to shake Angela Merkel's hand I’m getting along really well with AngelaDonald TrumpHe said: “I had been standing with her for quite a while and then someone started shouting: ‘shake her hand, shake her hand’ but I did not hear that. “It was then made into a big deal.“I’m getting along really well with Angela.”The non-handshake was raised during Mr Trump’s tour to Asia when he accused the media of failing to report on his good relationship with other heads of state and government.      GETTYThe US President was much more enthusiastic at the ASEAN summit in ManilaHe was asked by reporters if he had a particularly good relationship with totalitarian or authoritarian leaders after successful meetings with Chinese President Xi Jinping and Philippines hardman Rodrigo Duterte. He said: “I have a great relationship with each of the leaders who were present at the ASEAN Summit.”Handshakes also hit the headlines at the talks in Manila in the Philiipines as leaders took part in a traditional greeting to open the summit.Standing alongside other leaders – Filipino President Rodrigo Duterte and Russian Prime Minister Dmitry Medvedev, among others – Mr Trump and his counterparts crossed arms before linking hands with one another.  GETTYLeaders open the talks with the traditional Asean handshake A History of President Trump's Awkward Handshakes Fri, July 7, 2017Take a look at some of the other notable Trump handshakes that have caused a stir Play slideshow  REUTERS1 of 10Donald Trump and his wife Melania and South Korea's President Moon Jae-In  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    Photos from the meeting show Mr Trump grimacing, wrestling and laughing alongside his counterparts also taking part.The US President appeared befuddled by the master of ceremonies request to begin the “traditional” handshake.The MC said: “Give us your brightest smile. It’s the ASEAN handshake: right hand over left.”Russian Prime Minister Mr Medvedev, however, was less than convinced by the event, refusing to cross his arms when linking hands.

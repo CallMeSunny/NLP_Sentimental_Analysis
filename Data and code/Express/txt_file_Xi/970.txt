@@ -1,0 +1,21 @@
+China wants to work WITH US to ‘control disputes’ after hitting out over North Korea
+https://www.express.co.uk//news/world/871484/North-Korea-World-War-3-latest-news-China-US-USA-Military-Pyongyang
+ 14:30, Thu, Oct 26, 2017 
+  GETTYChina's defence minister says they want to work with the US against North KoreaBejing wants to “control disputes” with the United States after the nations had clashed over the rogue state. Both countries have worked hard to improve interaction between their militaries to avoid any confusion in areas such as the South China Sea, where both regularly fly military aircraft and sail warships.Beijing has been angered in recent months by what it viewed as provocative US military flights and naval patrols in the disputed East China Sea and South China Sea.It is reportedly suspicious of the close US defence ties with South Korea, Japan, Taiwan and India. Related articles   North Korea strengthens alliance with China with message of congrat...   Kim Jong-un urges Australia to turn against TRUMP in shocking letter   We are willing to work with the US side to respect each otherRen GuoqiangIt comes amid soaring tensions on the Korean Peninsula over Kim Jong-un’s missile programme, and as the United States seeks to push China into more assertively restraining North KoreaThe comments were made by China's Defence Ministry ahead of President Trump’s visit to Beijing.US Secretary of State Rex Tillerson said last week that Washington was open to the idea of inviting others, including Australia, to join a US-India-Japan security cooperation, something Beijing has blasted as an attempt by democracies to gang up on it.Speaking at a monthly news briefing, Chinese Defence Ministry spokesman Ren Guoqiang said he was happy to see positive developments in military relations with the United States.  GETTYPresident Donald Trump and President Xi Jinping could work together against North Korea    China and Russia hold first Joint Naval Drill in the Baltic Sea Wed, July 26, 2017 Play slideshow  Getty Images1 of 10A Chinese warship operates a live-fire drill during the Joint Sea 2017 in Baltic Sea  
+        {% var pictureLinkTpl = "/pictures/pics/2222/3333/1111"; %}
+        {% var oldThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/116x87/{id}.jpg"; %}
+        {% var newThumbUrlTpl = "https://cdn.images.express.co.uk/img/dynamic/galleries/64x64/{id}.jpg"; %}
+        {% for (var i in o.thumbs) { %}
+            {% if (i > 6) { break; } %}
+            {% var thumb = o.thumbs[i]; %}
+            <li class="{% if (i == 0) { %}active {% } %}jcarousel-item jcarousel-item-horizontal jcarousel-item-{%=thumb.position%} jcarousel-item-{%=thumb.position%}-horizontal">
+                <{%='a'%} href="{%=pictureLinkTpl.replace('1111', thumb.id).replace('2222', thumb.gallery_id).replace('3333', thumb.gallery_slug)%}">
+                    {% var src = newThumbUrlTpl; %}
+                    {% if (thumb.largestimage == '517x') { %}
+                        {% var src = oldThumbUrlTpl; %}
+                    {% } %}
+                    <img class="loaded" src="{%=src.replace('{id}', thumb.id)%}" alt="{%=thumb.alt%}" title="{%=thumb.title%}" width="{%=thumb.width%}" height="{%=thumb.height%}">
+                </{%='a'%}>
+            </li>
+        {% } %}
+    He said: ”Looking to the future, we are willing to work with the US side to respect each other, deepen mutual trust, focus on practical exchanges and cooperation and appropriately manage and control disputes, to continue injecting positive energy in the development of ties.”China, a strategic rival to the United States and India, is also vital to President Trump's efforts to roll back North Korea's efforts to create nuclear-armed missiles capable of reaching the United States, an issue expected to top the agenda in his Beijing visit in November.On Monday, Foreign Secretary Boris Johnson said Chinese economic pressure could be "key" in negotiating with the hermit nation.He said that economic pressure is the most important diplomatic effort at the moment as they hold North Korea’s economy in their hands; 93 per cent of exports go to China, and Beijing controls the nation’s oil flow.He commended the “willingness” of China to adjust their policies to the real uncertainties form Pyongyang but encouraged them to do more.

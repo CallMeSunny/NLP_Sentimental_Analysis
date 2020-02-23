@@ -1,0 +1,224 @@
+Jennifer Aniston sports new blonde highlights and is make up-free as she leaves Beverly Hills salon
+https://www.dailymail.co.uk/tvshowbiz/article-5584643/Jennifer-Aniston-sports-new-blonde-highlights-make-free-leaves-Beverly-Hills-salon.html
+ 05:08 BST, 6 April 2018 
+She's getting on with life as a single woman again following the break up of her marriage to Justin Theroux.And Jennifer Aniston looks to be doing just fine as she left a Beverly Hills salon with fresh highlights in her hair on Thursday.The 49-year-old appeared to be make up free and wore a pair of spectacles as she headed to her SUV accompanied by her bodyguard.          Pamper session: Jennifer Aniston looked to be doing just fine following her split from Justin Theroux as she left a Beverly Hills salon with fresh highlights in her hair on ThursdayThe Hollywood star was casually attired in a black t-shirt paired with khaki cargo trousers fastened with a brown leather belt with a gold buckle.   RELATED ARTICLES  Previous 1 Next       Justin Theroux goes solo to afterparty for A Quiet Place in...    Justin Theroux hugs Paul Rudd in NYC... as 'he has barely...    Angelina Jolie and Brad Pitt divorce: Hollywood exes...    Jennifer Aniston returns from Tahiti after spending quality...    
+
+Share this article
+Share
+3.6k shares
+
+ Jen had on a black jacket and carried two bags slung over one shoulder.She completed her ensemble with a pair of wedge brown suede ankle boots.          Natural beauty: The 49-year-old appeared to be make up free and wore a pair of spectacles as she headed to her SUV accompanied by her bodyguard
+    window.FFF = window.FFF || {};
+    window.FFF.currency = '{"gbpToAud":1.8394}';
+
+
+    window.FFF = window.FFF || {};
+    window.FFF.ad = window.FFF.ad || {inline: {adAdded: false}, overlay: {celebNames: ''}};
+    window.FFF.ad.overlay.celebNames = 'Jennifer_Aniston'; //add celebnames to be used by the overlay
+    window.FFF.ad.inline.adCallback = function (content, infix) {
+        var inline,
+                back;
+        if (!infix) {
+            inline = document.getElementById('fff-inline');
+            infix = '';
+        } else {
+            infix = '_' + infix.replace(/^_/g, '');
+            inline = document.getElementById('fff' + infix) && document.getElementById('fff' + infix).firstChild;
+        }
+        back = getBackElementById();
+        if (isAsyncMode() && inline) setAdInCompatibilityMode();
+
+        if (back && !infix) {
+            back.appendChild(inline);
+        }
+        //delay the call because AdImpression.registerThirdPartyImpression has a timeout
+        setTimeout(function () {
+            DM.onDocReady(function () {
+                AdImpression.registerImpression(document.getElementById('fff'), function () {
+                    DM.Log.log('ad impression registered');
+                });
+            });
+        }, 50);
+
+        function isAsyncMode() {
+            return content && (typeof content === 'string') && !back;
+        }
+
+        function setAdInCompatibilityMode() {
+            var container = document.createElement('div'), i = 0, element, children;
+            container.innerHTML = content;
+            children = container.childNodes;
+            // Going in reverse order as it is prepending the elements
+            for (i = children.length; i--;) {
+                element = children[i];
+                if (element && element.tagName === 'DIV') {
+                    inline.parentNode.insertBefore(element, inline.nextSibling);
+                    if (isElementIdEqualsToBackElementId(element.id)) {
+                        back = element;
+                    }
+                }
+            }
+            if (children.length && !infix) {
+                (document.getElementById('fff') || {style: {}}).style.display = 'none';
+                (document.getElementById('fff-oop') || {style: {}}).style.display = 'none';
+            }
+        }
+
+        function isElementIdEqualsToBackElementId(elementId) {
+            return elementId === 'fff' + infix + '_back' || elementId === 'fff' + infix + '_back_wide';
+        }
+
+        function getBackElementById() {
+            return document.getElementById('fff' + infix + '_back') || document.getElementById('fff' + infix + '_back_wide');
+        }
+    };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get wedged like Jennifer wearing Michael Kors
+
+
+
+
+Michael Kors 'Parker' wedge boots
+Sold out - click to shop current collection
+
+
+
+Visit site
+
+
+
+Jennifer has always been one of our favourite stars and she always looks great whenever she's out and about. She's got a pared back style mantra that takes few risks but always looks chic. 
+This daytime ensemble is a good example of her laid back approach to fashion. Khaki utility trousers, a black tee and biker jacket and practical wedged boots.
+If anything it's the boots that stand out. They're a favourite of Jen's and it's easy to see why with their luxe suede finish, pretty buckle fastenings and elongating heel that are easy to walk in. They are by Michael Kors but sadly are no longer available to buy. 
+For those of us who would like to steal her style though there are loads of great options on the high street that will give you the look while saving you money. See below for options by Kaleidoscope, UGG and more.
+
+
+
+* PRICES MAY NOT BE AS ADVERTISED
+
+
+...NOW GET SOME LIKE IT
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+Kaleidoscope suede wedge ankle boots
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+UGG 'Indra' wedge ankle boots at Daniel Footwear (now reduced to £120)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+Dune 'Ordlie' wedge boots (now reduced to £52)
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+KG by Kurt Geiger 'Rhona' wedge boots at John Lewis
+
+
+Visit site
+
+
+
+
+
+
+
+
+
+
+
+                adverts.addToArray({id: 'fff-inline-accessorise-ad', type: '632x132', pos: 'native_fff_accessorise', FFFtype: 'inline',  fff: true});
+            
+
+
+
+
+
+
+
+
+        //only pick one inline ad
+        if (!window.FFF.ad.inline.added) {
+            window.FFF.ad.inline.added = true;
+            var dfpType = '840x114';
+            if (false) dfpType = '964x85';
+            adverts.addToArray({id: 'fff', type: dfpType, pos: 'fff', extraZoneOptions: {FFFname: 'Jennifer_Aniston', FFFtype: 'inline', fff: true}});
+        }
+    
+
+              Stylish ensemble: The Hollywood star was casually attired in a black t-shirt paired with khaki trousers fastened with a brown leather belt and wore wedge brown suede ankle boots         On the go: Jen had on a black jacket and carried two bags slung over one shoulder       The actress is throwing herself back into work.She's signed up with Reese Witherspoon to produce and star in a TV drama about the goings on behind the scenes of a morning show that airs from New York.She's also going to team up again with  Adam Sandler for the Netflix comedy Murder Mystery.They will star as a honeymooning couple who find themselves in the spotlight after witnessing a deadly crime.Jennifer and Adam worked together on the 2011 film Just Go With It.         Moving on: The former Friends star is throwing herself into new projects and spending time with her close circle of friends in LA now sh'es single again       Meanwhile, a source has told People that the former Friends star is enjoying her life in LA where she's surrounded by a close circle of friends.In fact, she's just returned from an exotic vacation in Tahiti with former co-star Courteney Cox and Jimmy Kimmel and his wife Molly McNearney.Other close pals include Jason Bateman and his wife Amanda Aanka and Tobey Maguire's ex-wife Jennifer Meyer.'Her life now is not very different' than it was before the breakup, a source told People, adding: 'She loves socializing with friends.'         New project: Jennifer is teaming up with Adam Sandler for the Netflix comedy Murder Mystery. They starred together in the 2011 movie Just Go With It, pictured   
